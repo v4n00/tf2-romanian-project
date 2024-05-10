@@ -130,7 +130,7 @@
 - [x] "Outstanding!"
 - [x] "Nice work."
 
-## Responses - 30%
+## Responses - 60%
 
 ### Kill-related responses - 100%
 

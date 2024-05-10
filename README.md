@@ -1,8 +1,8 @@
 # TF2 Romanian Project
 
-This project is a **FULL** translation of the game Team Fortress 2 in Romanian language, including voice lines (made with [ElevenLabs](https://elevenlabs.io/)), localization and the main game logo.
-
 ![TF2 Romanian Project](./logo/logo.png)
+
+This project is a **FULL** translation of the game Team Fortress 2 in Romanian language, including voice lines (made with [ElevenLabs](https://elevenlabs.io/)), localization and the main game logo.
 
 ## Installation
 
@@ -12,24 +12,24 @@ Go to the [releases page](https://github.com/v4n00/tf2-romanian-project/releases
 
 ### Voice lines - 1%
 
-- [ ] Scout commands
-- [x] Soldier commands - 100%
-- [ ] Pyro commands
-- [ ] Demoman commands
-- [ ] Heavy commands
-- [ ] Engineer commands
-- [ ] Medic commands
-- [ ] Sniper commands
-- [ ] Spy commands
 - [ ] Administrator responses
+- [ ] Scout commands
 - [ ] Scout responses
-- [ ] Soldier responses - 5%
+- [x] Soldier commands - 100%
+- [ ] Soldier responses - 75%
+- [ ] Pyro commands
 - [ ] Pyro responses
+- [ ] Demoman commands
 - [ ] Demoman responses
+- [ ] Heavy commands
 - [ ] Heavy responses
+- [ ] Engineer commands
 - [ ] Engineer responses
+- [ ] Medic commands
 - [ ] Medic responses
+- [ ] Sniper commands
 - [ ] Sniper responses
+- [ ] Spy commands
 - [ ] Spy responses
 
 ### Localization - 20%

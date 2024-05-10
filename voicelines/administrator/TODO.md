@@ -1,10 +1,10 @@
 # Administrator
 
-[wiki link](https://wiki.teamfortress.com/wiki/Administrator_responses)
+[wiki responses](https://wiki.teamfortress.com/wiki/Administrator_responses)
 
-## General Responses
+## Responses
 
-### Setup time
+### General Responses
 
 - [ ] "Prepare to attack the enemy's control points!" (Gravel Pit and Steel Only)
 - [ ] "Prepare to capture all control points." (Coldfront Only)
@@ -16,7 +16,6 @@
 - [ ] "Three."
 - [ ] "Two."
 - [ ] "One."
-- [ ] Setup.png  Match ending
 - [ ] "Attention! Five minutes left in the mission, five minutes left in the mission."
 - [ ] "Attention! Two minutes left in the mission, two minutes left in the mission." (Coldfront only)
 - [ ] "Mission ends in sixty seconds."
@@ -27,114 +26,295 @@
 - [ ] "Three!"
 - [ ] "Two!"
 - [ ] "One!"
-- [ ] Setup.png  Time added
 - [ ] "Time has been added."
 - [ ] "The enemy has received additional time."
 - [ ] "Additional time has been awarded."
 - [ ] "Congratulations. We have been awarded additional time."
 - [ ] "Success. We have been awarded additional time."
-- [ ] Achieved.png  Match win
 - [ ] "Victory." (cheers)
-- [ ] Killicon skull.png  Match loss
 - [ ] "You've failed!" (boos)
-- [ ] Eyelandertransparent.png  Sudden Death
 - [ ] "You've failed. Prepare for sudden death!" (outcry of disapproval)
-- [ ] Killicon fire.png  Stalemate
 - [ ] "You've failed. Stalemate." (outcry of disapproval)
-- [ ] Timer overtime.png  Overtime
 - [ ] "Overtime."
 - [ ] "Overtime!"
 - [ ] "Overtime..."
 - [ ] "Overtime."
-- [ ] Control Point Mode responses
-- [ ] CP Captured RED.png  Control Point being captured, Player defending
+
+### Control Point Mode responses
+
 - [ ] "Alert! Our control point is being captured."
 - [ ] "Alert! The control point is being contested."
 - [ ] "Alert! The control point is being captured."
 - [ ] "Defend our control point!"
 - [ ] "Defend our control points!"
-- [ ] CP Locked RED.png  Final Control Point being captured, Player defending
 - [ ] "Alert! Our last control point is being captured."
 - [ ] "Alert! The final control point is being contested."
-- [ ] Snowplow responses
-- [ ]
-- [ ] Killicon train.png  Train timer has run out
-- [ ] Player defending
-- [ ]
-- [ ] "We are about to deploy the device!"
-- [ ] Player attacking
-- [ ]
-- [ ] "The enemy is about to deploy the device!"
-- [ ] Killicon train.png  Train is approaching Stage 2, control point 3
-- [ ] Player defending
-- [ ]
-- [ ] "They're coming into the final stretch!"
-- [ ] Player attacking
-- [ ]
-- [ ] "You're coming into the final stretch!"
-- [ ] King of the Hill Mode responses
-- [ ] CP Captured RED.png  Control point captured
+- [x] ~~"We are about to deploy the device!"~~
+- [x] ~~"The enemy is about to deploy the device!"~~
+- [x] ~~"They're coming into the final stretch!"~~
+- [x] ~~"You're coming into the final stretch!"~~
+
+### King of the Hill Mode responses
+
 - [ ] "We have captured the control point!"
 - [ ] "We have secured the control point!"
-- [ ] CP Neutral.png  Control point lost
 - [ ] "We have lost the control point!"
-- [ ] Payload Mode responses
-- [ ] BLU Bombcart.png  Match start
+
+### Payload Mode responses
+
 - [ ] "Get to the cart!"
 - [ ] "To the cart!"
 - [ ] "Defend our cart!"
-- [ ] Hoodoo Bombcart.png  Payload nearing checkpoint, Player attacking
 - [ ] "The bomb is nearing a checkpoint."
 - [ ] "The bomb is nearing a checkpoint!"
 - [ ] "The payload is nearing a checkpoint."
 - [ ] "The bomb is nearing a checkpoint!" (excitedly)
-- [ ] RED Bombcart.png  Payload nearing checkpoint, Player defending
 - [ ] "The payload is nearing a checkpoint."
 - [ ] "The payload is nearing a checkpoint!"
 - [ ] "The cart is nearing a checkpoint."
 - [ ] "The cart is nearing a checkpoint!"
 - [ ] "The bomb is nearing a checkpoint."
 - [ ] "The bomb is nearing a checkpoint!"
-- [ ] Lil-chewchew.png  Payload nearing final checkpoint, Player attacking
 - [ ] "The bomb has almost reached the final terminus!"
 - [ ] "The bomb has almost reached the final terminus!"
 - [ ] "The payload has almost reached the final terminus!"
 - [ ] "The payload has almost reached the final terminus!"
 - [ ] "The bomb has almost reached the final terminus!" (Maniacal Laughter)
-- [ ] RED Bombcart.png  Payload nearing final checkpoint, Player defending
 - [ ] "The payload has almost reached the final terminus!"
 - [ ] "The cart has almost reached the final terminus!"
 - [ ] "The cart has almost reached the final terminus!"
 - [ ] "The bomb has almost reached the final terminus!"
 - [ ] "The cart has almost reached the final terminus!"
-- [ ] Capture the Flag Mode responses
-- [ ] Intel red pickedup.png  Intelligence taken by ally/player
+
+### Capture the Flag Mode responses
+
 - [ ] "We have taken the enemy intelligence."
-- [ ] Intel blu pickedup.png  Intelligence taken by enemy
 - [ ] "Alert! The enemy has taken our intelligence!"
 - [ ] "Alert! The enemy has taken our intelligence!"
 - [ ] "Alert! The enemy has taken our intelligence!"
 - [ ] "Alert! The enemy has taken our intelligence."
-- [ ] Intel red idle.png  Intelligence captured by ally/player
 - [ ] "Success! We have secured the enemy intelligence."
-- [ ] Intel blu idle.png  Intelligence captured by enemy
 - [ ] "You've failed. The enemy has captured our intelligence."
 - [ ] "You've failed. The enemy has secured our intelligence."
-- [ ] Intel red idle.png  Intelligence dropped by ally/player
 - [ ] "We have dropped the enemy intelligence!"
 - [ ] "We have dropped the enemy intelligence."
-- [ ] Intel blu idle.png  Intelligence dropped by enemy
 - [ ] "The enemy has dropped our intelligence."
 - [ ] "The enemy has dropped our intelligence."
-- [ ] The Announcer's soundscript mentions a third line for dropping the intelligence, but none exists.
-- [ ] Intel red idle.png  Intelligence returned to allied base
 - [ ] "Our intelligence has returned to our base."
 - [ ] "Our intelligence has returned to our base."
 - [ ] "Our intelligence has returned to our base."
-- [ ] Intel blu idle.png  Intelligence returned to enemy base
 - [ ] "The enemy intelligence was returned to their base."
-- [ ]
-- [ ] Arena Mode responses
+
+### Mann vs. Machine responses
+
+- [ ] "Get to an Upgrade Station before they return."
+- [ ] "Get to an Upgrade Station."
+- [ ] "Get to an Upgrade Station and prepare for the next wave."
+- [ ] "Get to an Upgrade Station."
+- [ ] "Now find an Upgrade Station."
+- [ ] "Now get to an Upgrade Station."
+- [ ] "Now, head to an Upgrade Station."
+- [ ] "Quickly, find an Upgrade Station!"
+- [ ] "Quickly, get to an Upgrade Station."
+- [ ] "Get to an Upgrade Station. Quickly!"
+- [ ] "Hurry, get to an Upgrade Station!"
+- [ ] "Another wave of robots will attack in three, two, one."
+- [ ] "Incoming robot batallion in three, two, one."
+- [ ] "Robot attack imminent. Prepare for battle in three, two, one."
+- [ ] "The robots arrive in three, two, one."
+- [ ] "They'll be upon us in three, two, one."
+- [ ] "Wave starts in three, two, one."
+- [ ] "Begin defending in three... two... one."
+- [ ] "The robots arrive in three, two, one."
+- [ ] "The first wave of robots is upon us."
+- [ ] "The first robot battalion is here."
+- [ ] "They're here! If they get that bomb to the hatchway, we're all done for!"
+- [ ] "This is it. Do not fail me!"
+- [ ] "The first wave of robots is here."
+- [ ] "The first wave of robots is here."
+- [ ] "We're under attack!"
+- [ ] "We're under attack. Protect this facility!"
+- [ ] "We're under attack. Protect the facility!"
+- [ ] "Mann Co. is under attack."
+- [ ] "Mann Co. is under attack!"
+- [ ] "Mann Co. is under attack. You must defend it!"
+- [ ] "Defend our honor! Kill these robots!"
+- [ ] "The robots are here! Protect Mann. Co!"
+- [ ] "The attack has started!"
+- [ ] "Here they come!"
+- [ ] "Here they come!"
+- [ ] "The robots are here! Protect Mann. Co! You owe me, Hale."
+- [ ] "Another wave down. But there are more on the way."
+- [ ] "One wave down. But they'll be back."
+- [ ] "Wave completed."
+- [ ] "Wave defeated. Well done."
+- [ ] "Wave completed. Well done."
+- [ ] "You've defeated the wave. Good."
+- [ ] "Wave completed. But we're not done yet."
+- [ ] "You've beaten them back. For the moment."
+- [ ] "The last robot batallion is upon us. Fight!"
+- [ ] "Prepare yourselves! The last of the robots are here."
+- [ ] "This is it, the last wave. Defend the facility at all costs!"
+- [ ] "The final wave is upon us!"
+- [ ] "This is it! The final wave!"
+- [ ] "This is the final wave! Fight!"
+- [ ] "This is the final wave!"
+- [ ] "This is it, the last wave! Do not fail now!"
+- [ ] "This is it, the last wave! Defend Mann Co. at all costs!"
+- [ ] "This is the final wave! Do not fail me!"
+- [ ] "One more wave and we win!"
+- [ ] "This is the last wave! Fight!"
+- [ ] "That's it! That's the last of them! You've done it, gentlemen!"
+- [ ] "That's it! We win! You've done it, gentlemen."
+- [ ] "We win! We win it all!"
+- [ ] "Flawless victory, gentlemen!"
+- [ ] "You did it! You beat them!"
+- [ ] "You did it! I can't believe you actually beat them."
+- [ ] "Wave lost!"
+- [ ] "How could you let them beat us?!"
+- [ ] "Wave lost, how could you?!"
+- [ ] "They're beating us! Fight harder!"
+- [ ] "Wave lost. Get back out there and win this time!"
+- [ ] "Get back out there and fight harder!"
+- [ ] "Wave lost. I'm running out of patience!"
+- [ ] "You've lost the wave. Perhaps I should just hire them!"
+- [ ] "Wave lost."
+- [ ] "Wave lost!"
+- [ ] "They're beating us!"
+- [ ] "Wave lost! You imbeciles."
+- [ ] "You're all dead!"
+- [ ] "How could you all die at once?"
+- [ ] "Do not all die at once!"
+- [ ] "I'm giving you a bonus."
+- [ ] "Good. I'm giving you a bonus."
+- [ ] "Greed is good. Have a bonus."
+- [ ] "The robots have picked up the bomb."
+- [ ] "The robots are moving the bomb forward again!"
+- [ ] "The robots have recovered the bomb."
+- [ ] "The robots are bringing out another bomb."
+- [ ] "Another bomb is com--" [likely "coming," but the clip is cut off]
+- [ ] "Incoming! Another bomb is here!"
+- [ ] "They're bringing out another bomb!"
+- [ ] "Another bomb is in the facility."
+- [ ] "Alert! A bomb has entered the area."
+- [ ] "Alert! A bomb has entered the area."
+- [ ] "Alert! The bomb is almost to the hatch."
+- [ ] "Alert! Do not let the bomb get to the hatch!"
+- [ ] "Alert! The bomb is about to be deployed."
+- [ ] "Alert! The tank is deploying its bomb."
+- [ ] "Alert! The tank is deploying its bomb!"
+- [ ] "Alert! They're deploying the bomb!"
+- [ ] "Alert! They're deploying the bomb."
+- [ ] "Alert! They're deploying the bomb. Stop them!"
+- [ ] "Stop them from deploying the bomb. Stop them!"
+- [ ] "Alert! Stop them from deploying the bomb!"
+- [ ] "Alert! If they deploy the bomb, all is lost!"
+- [ ] "Alert! If they deploy the bomb, all is lost!"
+- [ ] "The robots have planted their bomb!"
+- [ ] "Yes! You've driven the bomb carrier back!"
+- [ ] "Yes! The bomb has been set back to the start!"
+- [ ] "You've driven the bomb carrier back."
+- [ ] "You've driven the bomb back."
+- [ ] "You've driven the bomb carrier back."
+- [ ] "Tank! Kill it!"
+- [ ] "Alert! A tank has entered the area!"
+- [ ] "Alert! Another tank has entered the area!"
+- [ ] "Alert! Another tank has entered the area!"
+- [ ] "Alert! The tank is half-way through!"
+- [ ] "Alert! The tank is almost to the hatch!"
+- [ ] "The tank is almost to the hatch! Stop it!"
+- [ ] "Stop that tank!"
+- [ ] "Multiple tanks! Stop them!"
+- [ ] "Alert! There are multiple tanks!"
+- [ ] "Alert! There are multiple tanks!"
+- [ ] "Stop those tanks!"
+- [ ] "The tank has planted its bomb!"
+- [ ] "The tank has planted its bomb!"
+- [ ] "Yes!"
+- [ ] "Excellent!"
+- [ ] "Bwahahaha, you did it! You did it!"
+- [x] ~~(triumphant laughter)~~
+- [ ] "Destroy them!"
+- [ ] "Turn them into scrap!"
+- [ ] "Yes! Destroy them, destroy all of them!"
+- [ ] "Yes, kill them all!"
+- [ ] "Destroy them!"
+- [ ] "Destroy them!"
+- [ ] "Destroy them! Turn them into scrap!"
+- [ ] "Yes, yes, kill them all!"
+- [ ] "Yes, break them! Break their metal bones!"
+- [ ] "Alert! A Sentry Buster has entered the area!"
+- [ ] "Alert! Another Sentry Buster has entered the area!"
+- [ ] "Alert! Another Sentry Buster has entered the area!"
+- [ ] "Heads up, Engineers! A Sentry Buster has entered the area!"
+- [ ] "Attention, Engineers! We've got a Sentry Buster!"
+- [ ] "Engineers, look out for that Sentry Buster!"
+- [ ] "Engineers, look out for that Sentry Buster!"
+- [ ] "Here come the Spies!"
+- [ ] "Incoming Spies."
+- [ ] "Alert! There are Spies coming."
+- [ ] "The Spies are here!"
+- [ ] "You have killed a Spy!"
+- [ ] "You have killed a Spy-bot!"
+- [ ] "Spy-bot destroyed!"
+- [ ] "All Spy-bots destroyed!"
+- [ ] "You have killed all the Spies."
+- [ ] "You have destroyed all Spy-bots!"
+- [ ] "You have destroyed all Spy-bots!"
+- [ ] "Six Spy-bots remain."
+- [ ] "Five Spy-bots remain."
+- [ ] "Four Spy-bots remain."
+- [ ] "Three Spy-bots remain."
+- [ ] "Two Spy-bots remain."
+- [ ] "Only one Spy-bot remains!"
+- [ ] "An Engineer-bot has appeared!"
+- [ ] "An Engineer-bot has teleported in!"
+- [ ] "An Engineer-bot has appeared! Destroy it before it builds a Teleporter!"
+- [ ] "Another Engineer-bot has appeared!"
+- [ ] "Another Engineer-bot has teleported in!"
+- [ ] "The Engineer-bot is dead. Excellent work."
+- [ ] "Engineer-bot terminated."
+- [ ] "Engineer-bot terminated. Good work."
+- [ ] "The Engineer-bot is dead, but there's still an active Teleporter."
+- [ ] "Engineer-bot destroyed, now take down its Teleporter!"
+- [ ] "Multiple Engineer-bots have teleported in!"
+- [ ] "Multiple Engineer-bots have appeared! Destroy them, before they build Teleporters!"
+- [ ] "Engineer-bots destroyed! Good!"
+- [ ] "Engineer-bots destroyed! Good work!"
+- [ ] "The Engineer-bots are dead, but there's still an active Teleporter!"
+- [ ] "Engineer-bots destroyed, now take down their Teleporters!"
+- [ ] "Robot Teleporter activated!"
+- [ ] "The robots have installed a Teleporter!"
+- [ ] "Enemy Teleporter activated! Destroy it!"
+- [ ] "Robot Teleporter activated! Destroy it!"
+- [ ] "Robot Teleporter activated!"
+- [ ] "Welcome, lambs, to the slaughter!"
+- [ ] "Mann Up Mode activated! I won't lie to you: you're going to die!"
+- [ ] "Mann Up Mode activated... What were you thinking?!"
+- [ ] "If you have any loved ones, say goodbye to them now."
+- [ ] "I hope your affairs are in order."
+- [ ] "Get ready to Mann Up!"
+- [ ] "Congratulations on Manning Up. Prepare to die."
+- [ ] "Mann Up Mode activated!"
+- [ ] "You have activated Mann Up Mode... You poor fools."
+- [ ] "Mann Up Mode has been activated!"
+- [ ] "Welcome to Mann Up Mode."
+- [ ] "You have just Manned Up."
+- [ ] "Brace yourselves for Mann Up Mode."
+- [ ] "Mann Up Mode activated."
+- [ ] "Mann Up Mode activated!" (diabolical laughter)
+- [ ] "Congratulations. You've certainly Manned Up for this one."
+- [ ] "Well done. You've all made Saxton proud."
+- [ ] "Well done. You've all Manned Up."
+- [ ] "That was an exceptional victory!"
+- [ ] "You win! This was truly above and beyond the call of duty!"
+- [ ] "Security alert!"
+- [ ] "Security warning!"
+
+## Not planned
+
+### Arena Mode responses
+
 - [ ] Wiki bat.png  Match start
 - [ ] "Time to fight!"
 - [ ] "Fight!"
@@ -166,7 +346,9 @@
 - [ ] "Flawless victory!"
 - [ ] "Flawless victory, you did well! Finally."
 - [ ] "Flawless victory, now do it again!"
-- [ ] WAR! Update responses
+
+### WAR! Update responses
+
 - [ ] Rocket launcher.png  Soldier/Demoman setup time
 - [ ] "Friendship ends in ten seconds."
 - [ ] "Friendship ends in thirty seconds."
@@ -202,12 +384,16 @@
 - [ ] "Yes! Good!"
 - [ ] "Yes, more!"
 - [ ] "Yes! Good!"
-- [ ] Engineer Update responses
+
+### Engineer Update responses
+
 - [ ] Golden Wrench IMG.png  Golden Wrench found
 - [ ] "Success!"
 - [ ] Backpack Golden Wrench.png  Golden Wrench destroyed
 - [ ] "Failure."
-- [ ] Special Delivery responses
+
+### Special Delivery responses
+
 - [ ] For the voice responses associated with the Carnival of Carnage and the Scream Fortress VI Halloween Event, see Halloween Boss - [ ] voice responses.
 - [ ]
 - [ ] Note: Several unused generic responses also exist
@@ -276,240 +462,9 @@
 - [ ] "Oh, no. Gentlemen, this never happened."
 - [ ] "Uh-oh."
 - [ ] "Oh no. Poopy Joe, taken too soon."
-- [ ] Mann vs. Machine responses
-- [ ] Uncharged Canteen.PNG  Upgrade reminder
-- [ ] "Get to an Upgrade Station before they return."
-- [ ] "Get to an Upgrade Station."
-- [ ] "Get to an Upgrade Station and prepare for the next wave."
-- [ ] "Get to an Upgrade Station."
-- [ ] "Now find an Upgrade Station."
-- [ ] "Now get to an Upgrade Station."
-- [ ] "Now, head to an Upgrade Station."
-- [ ] "Quickly, find an Upgrade Station!"
-- [ ] "Quickly, get to an Upgrade Station."
-- [ ] "Get to an Upgrade Station. Quickly!"
-- [ ] "Hurry, get to an Upgrade Station!"
-- [ ] Setup.png  Wave incoming
-- [ ] "Another wave of robots will attack in three, two, one."
-- [ ] "Incoming robot batallion in three, two, one."
-- [ ] "Robot attack imminent. Prepare for battle in three, two, one."
-- [ ] "The robots arrive in three, two, one."
-- [ ] "They'll be upon us in three, two, one."
-- [ ] "Wave starts in three, two, one."
-- [ ] "Begin defending in three... two... one."
-- [ ] "The robots arrive in three, two, one."
-- [ ] Gette it Onne!.png  First wave start
-- [ ] "The first wave of robots is upon us."
-- [ ] "The first robot battalion is here."
-- [ ] "They're here! If they get that bomb to the hatchway, we're all done for!"
-- [ ] "This is it. Do not fail me!"
-- [ ] "The first wave of robots is here."
-- [ ] "The first wave of robots is here."
-- [ ] Dead Heat Icon.png  Wave start
-- [ ] "We're under attack!"
-- [ ] "We're under attack. Protect this facility!"
-- [ ] "We're under attack. Protect the facility!"
-- [ ] "Mann Co. is under attack."
-- [ ] "Mann Co. is under attack!"
-- [ ] "Mann Co. is under attack. You must defend it!"
-- [ ] "Defend our honor! Kill these robots!"
-- [ ] "The robots are here! Protect Mann. Co!"
-- [ ] "The attack has started!"
-- [ ] "Here they come!"
-- [ ] "Here they come!"
-- [ ] "The robots are here! Protect Mann. Co! You owe me, Hale."
-- [ ] Achieved.png  Wave completed
-- [ ] "Another wave down. But there are more on the way."
-- [ ] "One wave down. But they'll be back."
-- [ ] "Wave completed."
-- [ ] "Wave defeated. Well done."
-- [ ] "Wave completed. Well done."
-- [ ] "You've defeated the wave. Good."
-- [ ] "Wave completed. But we're not done yet."
-- [ ] "You've beaten them back. For the moment."
-- [ ] Dead Heat Icon.png  Final wave start
-- [ ] "The last robot batallion is upon us. Fight!"
-- [ ] "Prepare yourselves! The last of the robots are here."
-- [ ] "This is it, the last wave. Defend the facility at all costs!"
-- [ ] "The final wave is upon us!"
-- [ ] "This is it! The final wave!"
-- [ ] "This is the final wave! Fight!"
-- [ ] "This is the final wave!"
-- [ ] "This is it, the last wave! Do not fail now!"
-- [ ] "This is it, the last wave! Defend Mann Co. at all costs!"
-- [ ] "This is the final wave! Do not fail me!"
-- [ ] "One more wave and we win!"
-- [ ] "This is the last wave! Fight!"
-- [ ] Achieved.png  Final wave completed
-- [ ] "That's it! That's the last of them! You've done it, gentlemen!"
-- [ ] "That's it! We win! You've done it, gentlemen."
-- [ ] "We win! We win it all!"
-- [ ] "Flawless victory, gentlemen!"
-- [ ] "You did it! You beat them!"
-- [ ] "You did it! I can't believe you actually beat them."
-- [ ] Killicon skull.png  Wave lost
-- [ ] "Wave lost!"
-- [ ] "How could you let them beat us?!"
-- [ ] "Wave lost, how could you?!"
-- [ ] "They're beating us! Fight harder!"
-- [ ] "Wave lost. Get back out there and win this time!"
-- [ ] "Get back out there and fight harder!"
-- [ ] "Wave lost. I'm running out of patience!"
-- [ ] "You've lost the wave. Perhaps I should just hire them!"
-- [ ] "Wave lost."
-- [ ] "Wave lost!"
-- [ ] "They're beating us!"
-- [ ] "Wave lost! You imbeciles."
-- [ ] Killicon skull.png  All defenders dead
-- [ ] "You're all dead!"
-- [ ] "How could you all die at once?"
-- [ ] "Do not all die at once!"
-- [ ] Smallcredits.png  Bonus acquired
-- [ ] "I'm giving you a bonus."
-- [ ] "Good. I'm giving you a bonus."
-- [ ] "Greed is good. Have a bonus."
-- [ ] Bomb carried.png  Bomb alerts
-- [ ] "The robots have picked up the bomb."
-- [ ] "The robots are moving the bomb forward again!"
-- [ ] "The robots have recovered the bomb."
-- [ ] "The robots are bringing out another bomb."
-- [ ] "Another bomb is com--" [likely "coming," but the clip is cut off]
-- [ ] "Incoming! Another bomb is here!"
-- [ ] "They're bringing out another bomb!"
-- [ ] "Another bomb is in the facility."
-- [ ] "Alert! A bomb has entered the area."
-- [ ] "Alert! A bomb has entered the area."
-- [ ] "Alert! The bomb is almost to the hatch."
-- [ ] "Alert! Do not let the bomb get to the hatch!"
-- [ ] "Alert! The bomb is about to be deployed."
-- [ ] "Alert! The tank is deploying its bomb."
-- [ ] "Alert! The tank is deploying its bomb!"
-- [ ] "Alert! They're deploying the bomb!"
-- [ ] "Alert! They're deploying the bomb."
-- [ ] "Alert! They're deploying the bomb. Stop them!"
-- [ ] "Stop them from deploying the bomb. Stop them!"
-- [ ] "Alert! Stop them from deploying the bomb!"
-- [ ] "Alert! If they deploy the bomb, all is lost!"
-- [ ] "Alert! If they deploy the bomb, all is lost!"
-- [ ] "The robots have planted their bomb!"
-- [ ] Bomb dropped.png  Bomb pushed back
-- [ ] "Yes! You've driven the bomb carrier back!"
-- [ ] "Yes! The bomb has been set back to the start!"
-- [ ] "You've driven the bomb carrier back."
-- [ ] "You've driven the bomb back."
-- [ ] "You've driven the bomb carrier back."
-- [ ] Leaderboard class tank.png  Tank Robot alerts
-- [ ] "Tank! Kill it!"
-- [ ] "Alert! A tank has entered the area!"
-- [ ] "Alert! Another tank has entered the area!"
-- [ ] "Alert! Another tank has entered the area!"
-- [ ] "Alert! The tank is half-way through!"
-- [ ] "Alert! The tank is almost to the hatch!"
-- [ ] "The tank is almost to the hatch! Stop it!"
-- [ ] "Stop that tank!"
-- [ ] "Multiple tanks! Stop them!"
-- [ ] "Alert! There are multiple tanks!"
-- [ ] "Alert! There are multiple tanks!"
-- [ ] "Stop those tanks!"
-- [ ] "The tank has planted its bomb!"
-- [ ] "The tank has planted its bomb!"
-- [ ] Leaderboard class tank.png  Tank Robot destruction
-- [ ] "Yes!"
-- [ ] "Excellent!"
-- [ ] "Bwahahaha, you did it! You did it!"
-- [ ] (triumphant laughter)
-- [ ] "Destroy them!"
-- [ ] "Turn them into scrap!"
-- [ ] "Yes! Destroy them, destroy all of them!"
-- [ ] "Yes, kill them all!"
-- [ ] "Destroy them!"
-- [ ] "Destroy them!"
-- [ ] "Destroy them! Turn them into scrap!"
-- [ ] "Yes, yes, kill them all!"
-- [ ] "Yes, break them! Break their metal bones!"
-- [ ] Leaderboard class sentry buster.png  Sentry Buster spawning
-- [ ] "Alert! A Sentry Buster has entered the area!"
-- [ ] "Alert! Another Sentry Buster has entered the area!"
-- [ ] "Alert! Another Sentry Buster has entered the area!"
-- [ ] "Heads up, Engineers! A Sentry Buster has entered the area!"
-- [ ] "Attention, Engineers! We've got a Sentry Buster!"
-- [ ] "Engineers, look out for that Sentry Buster!"
-- [ ] "Engineers, look out for that Sentry Buster!"
-- [ ] Backpack Disguise Kit.png  Spy-bots spawning
-- [ ] "Here come the Spies!"
-- [ ] "Incoming Spies."
-- [ ] "Alert! There are Spies coming."
-- [ ] "The Spies are here!"
-- [ ] Backpack Electro Sapper.png  Spy-bot destruction
-- [ ] "You have killed a Spy!"
-- [ ] "You have killed a Spy-bot!"
-- [ ] "Spy-bot destroyed!"
-- [ ] "All Spy-bots destroyed!"
-- [ ] "You have killed all the Spies."
-- [ ] "You have destroyed all Spy-bots!"
-- [ ] "You have destroyed all Spy-bots!"
-- [ ] "Six Spy-bots remain."
-- [ ] "Five Spy-bots remain."
-- [ ] "Four Spy-bots remain."
-- [ ] "Three Spy-bots remain."
-- [ ] "Two Spy-bots remain."
-- [ ] "Only one Spy-bot remains!"
-- [ ] Backpack Wrench.png  Single Engineer-bot spawning
-- [ ] "An Engineer-bot has appeared!"
-- [ ] "An Engineer-bot has teleported in!"
-- [ ] "An Engineer-bot has appeared! Destroy it before it builds a Teleporter!"
-- [ ] "Another Engineer-bot has appeared!"
-- [ ] "Another Engineer-bot has teleported in!"
-- [ ] Backpack Wrench.png  Single Engineer-bot dead, no Teleporter
-- [ ] "The Engineer-bot is dead. Excellent work."
-- [ ] "Engineer-bot terminated."
-- [ ] "Engineer-bot terminated. Good work."
-- [ ] Backpack Wrench.png  Single Engineer-bot dead, Teleporter active
-- [ ] "The Engineer-bot is dead, but there's still an active Teleporter."
-- [ ] "Engineer-bot destroyed, now take down its Teleporter!"
-- [ ] Backpack Wrench.png  Multiple Engineer-bots spawning
-- [ ] "Multiple Engineer-bots have teleported in!"
-- [ ] "Multiple Engineer-bots have appeared! Destroy them, before they build Teleporters!"
-- [ ] Backpack PDA.png  Multiple Engineer-bots dead, no Teleporters
-- [ ] "Engineer-bots destroyed! Good!"
-- [ ] "Engineer-bots destroyed! Good work!"
-- [ ] Backpack PDA.png  Multiple Engineer-bots dead, Teleporters active
-- [ ] "The Engineer-bots are dead, but there's still an active Teleporter!"
-- [ ] "Engineer-bots destroyed, now take down their Teleporters!"
-- [ ] Backpack PDA.png  Engineer-bot Teleporter activated
-- [ ] "Robot Teleporter activated!"
-- [ ] "The robots have installed a Teleporter!"
-- [ ] "Enemy Teleporter activated! Destroy it!"
-- [ ] "Robot Teleporter activated! Destroy it!"
-- [ ] "Robot Teleporter activated!"
-- [ ] Backpack Tour of Duty Ticket.png  Mann Up Mode activated
-- [ ] "Welcome, lambs, to the slaughter!"
-- [ ] "Mann Up Mode activated! I won't lie to you: you're going to die!"
-- [ ] "Mann Up Mode activated... What were you thinking?!"
-- [ ] "If you have any loved ones, say goodbye to them now."
-- [ ] "I hope your affairs are in order."
-- [ ] "Get ready to Mann Up!"
-- [ ] "Congratulations on Manning Up. Prepare to die."
-- [ ] "Mann Up Mode activated!"
-- [ ] "You have activated Mann Up Mode... You poor fools."
-- [ ] "Mann Up Mode has been activated!"
-- [ ] "Welcome to Mann Up Mode."
-- [ ] "You have just Manned Up."
-- [ ] "Brace yourselves for Mann Up Mode."
-- [ ] "Mann Up Mode activated."
-- [ ] "Mann Up Mode activated!" (diabolical laughter)
-- [ ] Backpack Tour of Duty Ticket.png  Manning Up
-- [ ] "Congratulations. You've certainly Manned Up for this one."
-- [ ] "Well done. You've all made Saxton proud."
-- [ ] "Well done. You've all Manned Up."
-- [ ] Backpack Tour of Duty Ticket.png  Mann Up Mode wave completed
-- [ ] "That was an exceptional victory!"
-- [ ] "You win! This was truly above and beyond the call of duty!"
-- [ ] Mannhattan responses
-- [ ] Forward spawn control point captured by robots
-- [ ] "Security alert!"
-- [ ] "Security warning!"
-- [ ] Robot Destruction responses
+
+### Robot Destruction responses
+
 - [ ] Note: The game mode is currently in beta, meaning the following voice lines may change in the future.
 - [ ]
 - [ ] Dead Heat Icon.png  Setup time explanation, or when player joins server mid-game.
@@ -571,7 +526,9 @@
 - [ ] "The enemy's reactor is charging! Take it!"
 - [ ] "The enemy's reactor is charging! Take it before it's too late!"
 - [ ] "We're running out of time!"
-- [ ] Competitive Mode responses
+
+### Competitive Mode responses
+
 - [ ] Setup
 - [ ] Setup.png  Setup time
 - [ ] "Competition begins in sixty seconds."
