@@ -13,7 +13,7 @@ Go to the [releases page](https://github.com/v4n00/tf2-romanian-project/releases
 ### Voice lines - 1%
 
 - [ ] Scout commands
-- [x] Soldies commands
+- [x] Soldier commands - 100%
 - [ ] Pyro commands
 - [ ] Demoman commands
 - [ ] Heavy commands
@@ -23,7 +23,7 @@ Go to the [releases page](https://github.com/v4n00/tf2-romanian-project/releases
 - [ ] Spy commands
 - [ ] Administrator responses
 - [ ] Scout responses
-- [ ] Soldies responses
+- [ ] Soldier responses - 5%
 - [ ] Pyro responses
 - [ ] Demoman responses
 - [ ] Heavy responses

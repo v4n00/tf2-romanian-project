@@ -1,0 +1,822 @@
+# Administrator
+
+[wiki link](https://wiki.teamfortress.com/wiki/Administrator_responses)
+
+## General Responses
+
+### Setup time
+
+- [ ] "Prepare to attack the enemy's control points!" (Gravel Pit and Steel Only)
+- [ ] "Prepare to capture all control points." (Coldfront Only)
+- [ ] "Mission begins in sixty seconds."
+- [ ] "Mission begins in thirty seconds."
+- [ ] "Mission begins in ten seconds."
+- [ ] "Five."
+- [ ] "Four."
+- [ ] "Three."
+- [ ] "Two."
+- [ ] "One."
+- [ ] Setup.png  Match ending
+- [ ] "Attention! Five minutes left in the mission, five minutes left in the mission."
+- [ ] "Attention! Two minutes left in the mission, two minutes left in the mission." (Coldfront only)
+- [ ] "Mission ends in sixty seconds."
+- [ ] "Mission ends in thirty seconds."
+- [ ] "Mission ends in ten seconds."
+- [ ] "Five!"
+- [ ] "Four!"
+- [ ] "Three!"
+- [ ] "Two!"
+- [ ] "One!"
+- [ ] Setup.png  Time added
+- [ ] "Time has been added."
+- [ ] "The enemy has received additional time."
+- [ ] "Additional time has been awarded."
+- [ ] "Congratulations. We have been awarded additional time."
+- [ ] "Success. We have been awarded additional time."
+- [ ] Achieved.png  Match win
+- [ ] "Victory." (cheers)
+- [ ] Killicon skull.png  Match loss
+- [ ] "You've failed!" (boos)
+- [ ] Eyelandertransparent.png  Sudden Death
+- [ ] "You've failed. Prepare for sudden death!" (outcry of disapproval)
+- [ ] Killicon fire.png  Stalemate
+- [ ] "You've failed. Stalemate." (outcry of disapproval)
+- [ ] Timer overtime.png  Overtime
+- [ ] "Overtime."
+- [ ] "Overtime!"
+- [ ] "Overtime..."
+- [ ] "Overtime."
+- [ ] Control Point Mode responses
+- [ ] CP Captured RED.png  Control Point being captured, Player defending
+- [ ] "Alert! Our control point is being captured."
+- [ ] "Alert! The control point is being contested."
+- [ ] "Alert! The control point is being captured."
+- [ ] "Defend our control point!"
+- [ ] "Defend our control points!"
+- [ ] CP Locked RED.png  Final Control Point being captured, Player defending
+- [ ] "Alert! Our last control point is being captured."
+- [ ] "Alert! The final control point is being contested."
+- [ ] Snowplow responses
+- [ ]
+- [ ] Killicon train.png  Train timer has run out
+- [ ] Player defending
+- [ ]
+- [ ] "We are about to deploy the device!"
+- [ ] Player attacking
+- [ ]
+- [ ] "The enemy is about to deploy the device!"
+- [ ] Killicon train.png  Train is approaching Stage 2, control point 3
+- [ ] Player defending
+- [ ]
+- [ ] "They're coming into the final stretch!"
+- [ ] Player attacking
+- [ ]
+- [ ] "You're coming into the final stretch!"
+- [ ] King of the Hill Mode responses
+- [ ] CP Captured RED.png  Control point captured
+- [ ] "We have captured the control point!"
+- [ ] "We have secured the control point!"
+- [ ] CP Neutral.png  Control point lost
+- [ ] "We have lost the control point!"
+- [ ] Payload Mode responses
+- [ ] BLU Bombcart.png  Match start
+- [ ] "Get to the cart!"
+- [ ] "To the cart!"
+- [ ] "Defend our cart!"
+- [ ] Hoodoo Bombcart.png  Payload nearing checkpoint, Player attacking
+- [ ] "The bomb is nearing a checkpoint."
+- [ ] "The bomb is nearing a checkpoint!"
+- [ ] "The payload is nearing a checkpoint."
+- [ ] "The bomb is nearing a checkpoint!" (excitedly)
+- [ ] RED Bombcart.png  Payload nearing checkpoint, Player defending
+- [ ] "The payload is nearing a checkpoint."
+- [ ] "The payload is nearing a checkpoint!"
+- [ ] "The cart is nearing a checkpoint."
+- [ ] "The cart is nearing a checkpoint!"
+- [ ] "The bomb is nearing a checkpoint."
+- [ ] "The bomb is nearing a checkpoint!"
+- [ ] Lil-chewchew.png  Payload nearing final checkpoint, Player attacking
+- [ ] "The bomb has almost reached the final terminus!"
+- [ ] "The bomb has almost reached the final terminus!"
+- [ ] "The payload has almost reached the final terminus!"
+- [ ] "The payload has almost reached the final terminus!"
+- [ ] "The bomb has almost reached the final terminus!" (Maniacal Laughter)
+- [ ] RED Bombcart.png  Payload nearing final checkpoint, Player defending
+- [ ] "The payload has almost reached the final terminus!"
+- [ ] "The cart has almost reached the final terminus!"
+- [ ] "The cart has almost reached the final terminus!"
+- [ ] "The bomb has almost reached the final terminus!"
+- [ ] "The cart has almost reached the final terminus!"
+- [ ] Capture the Flag Mode responses
+- [ ] Intel red pickedup.png  Intelligence taken by ally/player
+- [ ] "We have taken the enemy intelligence."
+- [ ] Intel blu pickedup.png  Intelligence taken by enemy
+- [ ] "Alert! The enemy has taken our intelligence!"
+- [ ] "Alert! The enemy has taken our intelligence!"
+- [ ] "Alert! The enemy has taken our intelligence!"
+- [ ] "Alert! The enemy has taken our intelligence."
+- [ ] Intel red idle.png  Intelligence captured by ally/player
+- [ ] "Success! We have secured the enemy intelligence."
+- [ ] Intel blu idle.png  Intelligence captured by enemy
+- [ ] "You've failed. The enemy has captured our intelligence."
+- [ ] "You've failed. The enemy has secured our intelligence."
+- [ ] Intel red idle.png  Intelligence dropped by ally/player
+- [ ] "We have dropped the enemy intelligence!"
+- [ ] "We have dropped the enemy intelligence."
+- [ ] Intel blu idle.png  Intelligence dropped by enemy
+- [ ] "The enemy has dropped our intelligence."
+- [ ] "The enemy has dropped our intelligence."
+- [ ] The Announcer's soundscript mentions a third line for dropping the intelligence, but none exists.
+- [ ] Intel red idle.png  Intelligence returned to allied base
+- [ ] "Our intelligence has returned to our base."
+- [ ] "Our intelligence has returned to our base."
+- [ ] "Our intelligence has returned to our base."
+- [ ] Intel blu idle.png  Intelligence returned to enemy base
+- [ ] "The enemy intelligence was returned to their base."
+- [ ]
+- [ ] Arena Mode responses
+- [ ] Wiki bat.png  Match start
+- [ ] "Time to fight!"
+- [ ] "Fight!"
+- [ ] "Begin!"
+- [ ] "Fight to the death!"
+- [ ] "Let the games begin!"
+- [ ] Sandman.png  Team scramble
+- [ ] "Let's even this out. Team scramble!"
+- [ ] "Commence team scramble, now."
+- [ ] "Teams are being scrambled."
+- [ ] Holy Mackerel.png  Control point available
+- [ ] "Control point enabled."
+- [ ] "The point is now available for capture."
+- [ ] "Control point enabled, get going!"
+- [ ] "Control point enabled, move!"
+- [ ] TheBostonBasher.png  First Blood
+- [ ] "First blood."
+- [ ] "First blood!"
+- [ ] "First blood!!"
+- [ ] "First blood."
+- [ ] "First Blood! That was fast!" (This occurs when First Blood occurs very quickly after the round begins.)
+- [ ] "First blood, finally!" (This occurs when there is a long period between the round start and First Blood.)
+- [ ] RED Candy Cane.png  Flawless defeat
+- [ ] "Flawless defeat!"
+- [ ] "Humiliating defeat!"
+- [ ] "You didn't kill any of them!"
+- [ ] "Next time try killing one of them."
+- [ ] RED Atomizer.png  Flawless victory
+- [ ] "Flawless victory!"
+- [ ] "Flawless victory, you did well! Finally."
+- [ ] "Flawless victory, now do it again!"
+- [ ] WAR! Update responses
+- [ ] Rocket launcher.png  Soldier/Demoman setup time
+- [ ] "Friendship ends in ten seconds."
+- [ ] "Friendship ends in thirty seconds."
+- [ ] "Betrayal will not be tolerated."
+- [ ] "You cannot hide anything from us, mercenaries. And now you will pay the price."
+- [ ] "All you ever do is disappoint and betray me. Cheating. Stealing. Friend-Making!"
+- [ ] "It's not too late to repent, kill your friend now and end this. Listen to your conscience!"
+- [ ] "It's me or him, and I pay your salary. Make your choice!"
+- [ ] "Alert! A friendship has been detected, and will be eliminated."
+- [ ] "Warning! A friendship has been detected!"
+- [ ] "How could you betray me?!"
+- [ ] "Friendships are in direct contravention of mercenary conduct as delineated in your contracts; and on a personal note: I am very, - [ ] very, disappointed with you."
+- [ ] "I won't single any one of you out. I will just say that some of you have betrayed the trust of your employers...and because of - [ ] that you must die. The rest of you are *cough* satisfactory."
+- [ ] Directhittransparent.png  Match loss
+- [ ] "You have failed me... with your friendships."
+- [ ] "You have betrayed my trust! You have betrayed everyone!"
+- [ ] Sticky IMG.png  Match win
+- [ ] "Success! Despite your friendships."
+- [ ] "Success! No thanks to the 'best friends' among you."
+- [ ] War demo kills.png  War contribution kill War soldier kills.png
+- [ ] "Yes, good."
+- [ ] "Yes, good!"
+- [ ] "Yes, yes! More!
+- [ ] "Yes, yes that's good!"
+- [ ] "Yes! Do it! Good!"
+- [ ] "Yes, that's it!"
+- [ ] "Kill him, slaughter him like a dog!"
+- [ ] "Dominate him! Crush his bones to powder!"
+- [ ] "Kill him again, and again and AGAIN!"
+- [ ] "Good, good! Never forget, you work for me."
+- [ ] "He is your enemy. Never forget that again!"
+- [ ] "You are not his friend. You are a killer!"
+- [ ] "Yes! Good!"
+- [ ] "Yes, more!"
+- [ ] "Yes! Good!"
+- [ ] Engineer Update responses
+- [ ] Golden Wrench IMG.png  Golden Wrench found
+- [ ] "Success!"
+- [ ] Backpack Golden Wrench.png  Golden Wrench destroyed
+- [ ] "Failure."
+- [ ] Special Delivery responses
+- [ ] For the voice responses associated with the Carnival of Carnage and the Scream Fortress VI Halloween Event, see Halloween Boss - [ ] voice responses.
+- [ ]
+- [ ] Note: Several unused generic responses also exist
+- [ ]
+- [ ] Dead Heat Icon.png  Match Start
+- [ ] "Gentlemen, today we launch a monkey into space."
+- [ ] "Gentlemen, let's launch that monkey."
+- [ ] "Operation Monkeynaut is go!"
+- [ ] "Gentlemen, find that Australium and today we make history!"
+- [ ] "Gentlemen, with our help, Poopy Joe will ride this rocket to the stars!"
+- [ ] "America has given us the monkey, and Mann Co. has provided the fuel. Let's put those two together and make history!"
+- [ ] Australium Container Neutral.png  Preparing to capture the Suitcase
+- [ ] "The Australium will be available for pickup in forty-five seconds."
+- [ ] "The Australium will be available for pickup in three, two, one."
+- [ ] Australium Container Neutral.png  Suitcase spawn
+- [ ] "The Australium is ready for pickup. Go!"
+- [ ] Australium Container Neutral.png  Suitcase respawn
+- [ ] "The Australium has returned to the drop site."
+- [ ] Australium Container RED.png  Suitcase taken by player/ally
+- [ ] "We have the Australium."
+- [ ] "We have the Australium."
+- [ ] "We have taken the Australium."
+- [ ] "We have taken the Australium."
+- [ ] Australium Container BLU.png  Suitcase taken by enemy
+- [ ] "They have the Australium!"
+- [ ] "Alert! The enemy has taken Australium!"
+- [ ] "They have the Australium!"
+- [ ] Australium Container RED.png  Suitcase dropped by player/ally
+- [ ] "We have dropped the Australium!"
+- [ ] "We have dropped the Australium!"
+- [ ] Australium Container BLU.png  Suitcase dropped by enemy
+- [ ] "Alert! The enemy has dropped the Australium!"
+- [ ] "Alert! The enemy has dropped the Australium."
+- [ ] Cap-ogee.png  Player/ally is riding the elevator
+- [ ] "We are about to launch the rocket!"
+- [ ] "We are on the lift!"
+- [ ] "We are opening the rocket!"
+- [ ] "We are about to launch the rocket!"
+- [ ] Cap-ogee.png  Enemy is riding the elevator
+- [ ] "The enemy is about to launch the rocket!"
+- [ ] "Hurry! The enemy is on the lift!"
+- [ ] "Hurry! The enemy is opening the rocket!"
+- [ ] "Hurry! The enemy is about to launch the rocket!"
+- [ ] Australium Container RED.png  Suitcase delivered by player/ally
+- [ ] "Success. We have delivered the Australium."
+- [ ] Australium Container BLU.png  Suitcase delivered by enemy
+- [ ] "No! The enemy has delivered the Australium."
+- [ ] Plan Nine to Outer Space.png  Rocket Launched by player/ally
+- [ ] "Excellent! We have launched the rocket! We've--"
+- [ ] "Go, Poopy Joe! Soar to the heavens, soar--"
+- [ ] "Go, Poopy Joe, soar! Kill Vladimir Bananas--"
+- [ ] "Yes, blow your little trumpet, Poopy Joe. For y--"
+- [ ] "Monkeynaut 1 is go! We've done it, we've--"
+- [ ] "Ooh, that poor monkey.."
+- [ ] "One small step for one small monkey. One giant lea--"
+- [ ] "We did it! We have launched the rocket!"
+- [ ] "Success! We have destroyed the enemy base!"
+- [ ] "Yes! Yes! We've launched the rocket!"
+- [ ] Plan Nine to Outer Space.png  Rocket Launched by enemy
+- [ ] "You failed! The enemy has launched the rocket!"
+- [ ] "You failed! The enemy has destroyed our base!"
+- [ ] "Rocket launches in: Three...Two...One..."
+- [ ] "No! They've launched the rocket!"
+- [ ] Poopyheadicon.png  Rocket Crash
+- [ ] "Oh no."
+- [ ] "Oh, no. Gentlemen, this never happened."
+- [ ] "Uh-oh."
+- [ ] "Oh no. Poopy Joe, taken too soon."
+- [ ] Mann vs. Machine responses
+- [ ] Uncharged Canteen.PNG  Upgrade reminder
+- [ ] "Get to an Upgrade Station before they return."
+- [ ] "Get to an Upgrade Station."
+- [ ] "Get to an Upgrade Station and prepare for the next wave."
+- [ ] "Get to an Upgrade Station."
+- [ ] "Now find an Upgrade Station."
+- [ ] "Now get to an Upgrade Station."
+- [ ] "Now, head to an Upgrade Station."
+- [ ] "Quickly, find an Upgrade Station!"
+- [ ] "Quickly, get to an Upgrade Station."
+- [ ] "Get to an Upgrade Station. Quickly!"
+- [ ] "Hurry, get to an Upgrade Station!"
+- [ ] Setup.png  Wave incoming
+- [ ] "Another wave of robots will attack in three, two, one."
+- [ ] "Incoming robot batallion in three, two, one."
+- [ ] "Robot attack imminent. Prepare for battle in three, two, one."
+- [ ] "The robots arrive in three, two, one."
+- [ ] "They'll be upon us in three, two, one."
+- [ ] "Wave starts in three, two, one."
+- [ ] "Begin defending in three... two... one."
+- [ ] "The robots arrive in three, two, one."
+- [ ] Gette it Onne!.png  First wave start
+- [ ] "The first wave of robots is upon us."
+- [ ] "The first robot battalion is here."
+- [ ] "They're here! If they get that bomb to the hatchway, we're all done for!"
+- [ ] "This is it. Do not fail me!"
+- [ ] "The first wave of robots is here."
+- [ ] "The first wave of robots is here."
+- [ ] Dead Heat Icon.png  Wave start
+- [ ] "We're under attack!"
+- [ ] "We're under attack. Protect this facility!"
+- [ ] "We're under attack. Protect the facility!"
+- [ ] "Mann Co. is under attack."
+- [ ] "Mann Co. is under attack!"
+- [ ] "Mann Co. is under attack. You must defend it!"
+- [ ] "Defend our honor! Kill these robots!"
+- [ ] "The robots are here! Protect Mann. Co!"
+- [ ] "The attack has started!"
+- [ ] "Here they come!"
+- [ ] "Here they come!"
+- [ ] "The robots are here! Protect Mann. Co! You owe me, Hale."
+- [ ] Achieved.png  Wave completed
+- [ ] "Another wave down. But there are more on the way."
+- [ ] "One wave down. But they'll be back."
+- [ ] "Wave completed."
+- [ ] "Wave defeated. Well done."
+- [ ] "Wave completed. Well done."
+- [ ] "You've defeated the wave. Good."
+- [ ] "Wave completed. But we're not done yet."
+- [ ] "You've beaten them back. For the moment."
+- [ ] Dead Heat Icon.png  Final wave start
+- [ ] "The last robot batallion is upon us. Fight!"
+- [ ] "Prepare yourselves! The last of the robots are here."
+- [ ] "This is it, the last wave. Defend the facility at all costs!"
+- [ ] "The final wave is upon us!"
+- [ ] "This is it! The final wave!"
+- [ ] "This is the final wave! Fight!"
+- [ ] "This is the final wave!"
+- [ ] "This is it, the last wave! Do not fail now!"
+- [ ] "This is it, the last wave! Defend Mann Co. at all costs!"
+- [ ] "This is the final wave! Do not fail me!"
+- [ ] "One more wave and we win!"
+- [ ] "This is the last wave! Fight!"
+- [ ] Achieved.png  Final wave completed
+- [ ] "That's it! That's the last of them! You've done it, gentlemen!"
+- [ ] "That's it! We win! You've done it, gentlemen."
+- [ ] "We win! We win it all!"
+- [ ] "Flawless victory, gentlemen!"
+- [ ] "You did it! You beat them!"
+- [ ] "You did it! I can't believe you actually beat them."
+- [ ] Killicon skull.png  Wave lost
+- [ ] "Wave lost!"
+- [ ] "How could you let them beat us?!"
+- [ ] "Wave lost, how could you?!"
+- [ ] "They're beating us! Fight harder!"
+- [ ] "Wave lost. Get back out there and win this time!"
+- [ ] "Get back out there and fight harder!"
+- [ ] "Wave lost. I'm running out of patience!"
+- [ ] "You've lost the wave. Perhaps I should just hire them!"
+- [ ] "Wave lost."
+- [ ] "Wave lost!"
+- [ ] "They're beating us!"
+- [ ] "Wave lost! You imbeciles."
+- [ ] Killicon skull.png  All defenders dead
+- [ ] "You're all dead!"
+- [ ] "How could you all die at once?"
+- [ ] "Do not all die at once!"
+- [ ] Smallcredits.png  Bonus acquired
+- [ ] "I'm giving you a bonus."
+- [ ] "Good. I'm giving you a bonus."
+- [ ] "Greed is good. Have a bonus."
+- [ ] Bomb carried.png  Bomb alerts
+- [ ] "The robots have picked up the bomb."
+- [ ] "The robots are moving the bomb forward again!"
+- [ ] "The robots have recovered the bomb."
+- [ ] "The robots are bringing out another bomb."
+- [ ] "Another bomb is com--" [likely "coming," but the clip is cut off]
+- [ ] "Incoming! Another bomb is here!"
+- [ ] "They're bringing out another bomb!"
+- [ ] "Another bomb is in the facility."
+- [ ] "Alert! A bomb has entered the area."
+- [ ] "Alert! A bomb has entered the area."
+- [ ] "Alert! The bomb is almost to the hatch."
+- [ ] "Alert! Do not let the bomb get to the hatch!"
+- [ ] "Alert! The bomb is about to be deployed."
+- [ ] "Alert! The tank is deploying its bomb."
+- [ ] "Alert! The tank is deploying its bomb!"
+- [ ] "Alert! They're deploying the bomb!"
+- [ ] "Alert! They're deploying the bomb."
+- [ ] "Alert! They're deploying the bomb. Stop them!"
+- [ ] "Stop them from deploying the bomb. Stop them!"
+- [ ] "Alert! Stop them from deploying the bomb!"
+- [ ] "Alert! If they deploy the bomb, all is lost!"
+- [ ] "Alert! If they deploy the bomb, all is lost!"
+- [ ] "The robots have planted their bomb!"
+- [ ] Bomb dropped.png  Bomb pushed back
+- [ ] "Yes! You've driven the bomb carrier back!"
+- [ ] "Yes! The bomb has been set back to the start!"
+- [ ] "You've driven the bomb carrier back."
+- [ ] "You've driven the bomb back."
+- [ ] "You've driven the bomb carrier back."
+- [ ] Leaderboard class tank.png  Tank Robot alerts
+- [ ] "Tank! Kill it!"
+- [ ] "Alert! A tank has entered the area!"
+- [ ] "Alert! Another tank has entered the area!"
+- [ ] "Alert! Another tank has entered the area!"
+- [ ] "Alert! The tank is half-way through!"
+- [ ] "Alert! The tank is almost to the hatch!"
+- [ ] "The tank is almost to the hatch! Stop it!"
+- [ ] "Stop that tank!"
+- [ ] "Multiple tanks! Stop them!"
+- [ ] "Alert! There are multiple tanks!"
+- [ ] "Alert! There are multiple tanks!"
+- [ ] "Stop those tanks!"
+- [ ] "The tank has planted its bomb!"
+- [ ] "The tank has planted its bomb!"
+- [ ] Leaderboard class tank.png  Tank Robot destruction
+- [ ] "Yes!"
+- [ ] "Excellent!"
+- [ ] "Bwahahaha, you did it! You did it!"
+- [ ] (triumphant laughter)
+- [ ] "Destroy them!"
+- [ ] "Turn them into scrap!"
+- [ ] "Yes! Destroy them, destroy all of them!"
+- [ ] "Yes, kill them all!"
+- [ ] "Destroy them!"
+- [ ] "Destroy them!"
+- [ ] "Destroy them! Turn them into scrap!"
+- [ ] "Yes, yes, kill them all!"
+- [ ] "Yes, break them! Break their metal bones!"
+- [ ] Leaderboard class sentry buster.png  Sentry Buster spawning
+- [ ] "Alert! A Sentry Buster has entered the area!"
+- [ ] "Alert! Another Sentry Buster has entered the area!"
+- [ ] "Alert! Another Sentry Buster has entered the area!"
+- [ ] "Heads up, Engineers! A Sentry Buster has entered the area!"
+- [ ] "Attention, Engineers! We've got a Sentry Buster!"
+- [ ] "Engineers, look out for that Sentry Buster!"
+- [ ] "Engineers, look out for that Sentry Buster!"
+- [ ] Backpack Disguise Kit.png  Spy-bots spawning
+- [ ] "Here come the Spies!"
+- [ ] "Incoming Spies."
+- [ ] "Alert! There are Spies coming."
+- [ ] "The Spies are here!"
+- [ ] Backpack Electro Sapper.png  Spy-bot destruction
+- [ ] "You have killed a Spy!"
+- [ ] "You have killed a Spy-bot!"
+- [ ] "Spy-bot destroyed!"
+- [ ] "All Spy-bots destroyed!"
+- [ ] "You have killed all the Spies."
+- [ ] "You have destroyed all Spy-bots!"
+- [ ] "You have destroyed all Spy-bots!"
+- [ ] "Six Spy-bots remain."
+- [ ] "Five Spy-bots remain."
+- [ ] "Four Spy-bots remain."
+- [ ] "Three Spy-bots remain."
+- [ ] "Two Spy-bots remain."
+- [ ] "Only one Spy-bot remains!"
+- [ ] Backpack Wrench.png  Single Engineer-bot spawning
+- [ ] "An Engineer-bot has appeared!"
+- [ ] "An Engineer-bot has teleported in!"
+- [ ] "An Engineer-bot has appeared! Destroy it before it builds a Teleporter!"
+- [ ] "Another Engineer-bot has appeared!"
+- [ ] "Another Engineer-bot has teleported in!"
+- [ ] Backpack Wrench.png  Single Engineer-bot dead, no Teleporter
+- [ ] "The Engineer-bot is dead. Excellent work."
+- [ ] "Engineer-bot terminated."
+- [ ] "Engineer-bot terminated. Good work."
+- [ ] Backpack Wrench.png  Single Engineer-bot dead, Teleporter active
+- [ ] "The Engineer-bot is dead, but there's still an active Teleporter."
+- [ ] "Engineer-bot destroyed, now take down its Teleporter!"
+- [ ] Backpack Wrench.png  Multiple Engineer-bots spawning
+- [ ] "Multiple Engineer-bots have teleported in!"
+- [ ] "Multiple Engineer-bots have appeared! Destroy them, before they build Teleporters!"
+- [ ] Backpack PDA.png  Multiple Engineer-bots dead, no Teleporters
+- [ ] "Engineer-bots destroyed! Good!"
+- [ ] "Engineer-bots destroyed! Good work!"
+- [ ] Backpack PDA.png  Multiple Engineer-bots dead, Teleporters active
+- [ ] "The Engineer-bots are dead, but there's still an active Teleporter!"
+- [ ] "Engineer-bots destroyed, now take down their Teleporters!"
+- [ ] Backpack PDA.png  Engineer-bot Teleporter activated
+- [ ] "Robot Teleporter activated!"
+- [ ] "The robots have installed a Teleporter!"
+- [ ] "Enemy Teleporter activated! Destroy it!"
+- [ ] "Robot Teleporter activated! Destroy it!"
+- [ ] "Robot Teleporter activated!"
+- [ ] Backpack Tour of Duty Ticket.png  Mann Up Mode activated
+- [ ] "Welcome, lambs, to the slaughter!"
+- [ ] "Mann Up Mode activated! I won't lie to you: you're going to die!"
+- [ ] "Mann Up Mode activated... What were you thinking?!"
+- [ ] "If you have any loved ones, say goodbye to them now."
+- [ ] "I hope your affairs are in order."
+- [ ] "Get ready to Mann Up!"
+- [ ] "Congratulations on Manning Up. Prepare to die."
+- [ ] "Mann Up Mode activated!"
+- [ ] "You have activated Mann Up Mode... You poor fools."
+- [ ] "Mann Up Mode has been activated!"
+- [ ] "Welcome to Mann Up Mode."
+- [ ] "You have just Manned Up."
+- [ ] "Brace yourselves for Mann Up Mode."
+- [ ] "Mann Up Mode activated."
+- [ ] "Mann Up Mode activated!" (diabolical laughter)
+- [ ] Backpack Tour of Duty Ticket.png  Manning Up
+- [ ] "Congratulations. You've certainly Manned Up for this one."
+- [ ] "Well done. You've all made Saxton proud."
+- [ ] "Well done. You've all Manned Up."
+- [ ] Backpack Tour of Duty Ticket.png  Mann Up Mode wave completed
+- [ ] "That was an exceptional victory!"
+- [ ] "You win! This was truly above and beyond the call of duty!"
+- [ ] Mannhattan responses
+- [ ] Forward spawn control point captured by robots
+- [ ] "Security alert!"
+- [ ] "Security warning!"
+- [ ] Robot Destruction responses
+- [ ] Note: The game mode is currently in beta, meaning the following voice lines may change in the future.
+- [ ]
+- [ ] Dead Heat Icon.png  Setup time explanation, or when player joins server mid-game.
+- [ ] "You must destroy the enemy's robots and collect their reactor cores to win. Retrieve stolen power cores by invading the Enemy - [ ] Vault."
+- [ ] Enemy steals reactor core
+- [ ] "Alert! The enemy has stolen our core!"
+- [ ] "ALERT! Our core has been taken!"
+- [ ] Teammate steals reactor core
+- [ ] "We have taken the enemy reactor core!"
+- [ ] "We have the enemy's core!"
+- [ ] "Yes! We have taken the enemy reactor core!"
+- [ ] Enemy captures reactor core
+- [ ] "The enemy has captured our reactor core!"
+- [ ] Teammate captures reactor core
+- [ ] "Excellent! We have captured the enemy reactor core!"
+- [ ] "Good! We have the core!"
+- [ ] Reactor core dropped by enemy
+- [ ] "The enemy has dropped our reactor core!"
+- [ ] "The enemy has dropped our core!"
+- [ ] Reactor core dropped by teammate
+- [ ] "Noo! We've lost the reactor core!"
+- [ ] "You imbeciles! You've dropped the enemy reactor core!"
+- [ ] "Alert! We've lost the reactor core!"
+- [ ] "Alert! We've dropped the enemy reactor core!"
+- [ ] Reactor core returns to enemy base
+- [ ] "The enemy reactor core has returned to their vault!"
+- [ ] "The enemy's core is back in their vault!"
+- [ ] Reactor core returns to allied base
+- [ ] "Our reactor core has returned to our vault!"
+- [ ] "The core has been returned to our vault!"
+- [ ] "The reactor core is back in our vault!"
+- [ ] "The reactor core has returned to our vault!"
+- [ ] Enemy almost winning
+- [ ] "The enemy team's reactor is almost online!"
+- [ ] "No! The enemy's reactor is almost up!"
+- [ ] "The enemy's reactor is almost up!"
+- [ ] "Hurry! The enemy's reactor is almost up!"
+- [ ] Teammates almost winning
+- [ ] "Our reactor is almost online!"
+- [ ] "Yes! Our reactor is almost up!"
+- [ ] "Our reactor is almost up!"
+- [ ] Miscellaneous
+- [ ] "Protect your robots!"
+- [ ] "Protect your reactor!"
+- [ ] "Destroy the enemy robots!"
+- [ ] "You must destroy the enemy robots!"
+- [ ] "Quickly! Steal the enemy's reactor!"
+- [ ] "Hurry! Steal all the enemy's reactor!"
+- [ ] "Now! Steal their reactor core!"
+- [ ] "The launch is imminent!"
+- [ ] "We must launch that shuttle!"
+- [ ] "We must launch that missile!"
+- [ ] "We must launch that transport ship!"
+- [ ] "We must stop that launch!"
+- [ ] "We need to stop their ship from launching!"
+- [ ] "We need to stop their missile from launching!"
+- [ ] "You must protect the reactor to win!"
+- [ ] "Your reactor is charging! Protect it!"
+- [ ] "The enemy's reactor is charging! Take it!"
+- [ ] "The enemy's reactor is charging! Take it before it's too late!"
+- [ ] "We're running out of time!"
+- [ ] Competitive Mode responses
+- [ ] Setup
+- [ ] Setup.png  Setup time
+- [ ] "Competition begins in sixty seconds."
+- [ ] "Prepare to compete in sixty seconds."
+- [ ] "Competition begins in thirty seconds."
+- [ ] "Prepare to compete in thirty seconds."
+- [ ] "Competition begins in ten seconds."
+- [ ] "Prepare to compete in ten seconds."
+- [ ] "Get ready."
+- [ ] "Get ready!"
+- [ ] "Are you ready?"
+- [ ] "Five"
+- [ ] "Four"
+- [ ] "Three"
+- [ ] "Two"
+- [ ] "One"
+- [ ] Final Round
+- [ ]
+- [ ] "Tiebreaker!"
+- [ ] "May the best team win!"
+- [ ] "Final round!"
+- [ ] "Final round!"
+- [ ] "This game decides everything!"
+- [ ] "Last chance to win it all!"
+- [ ] "The game is tied!"
+- [ ] "Tied game!"
+- [ ] "The game is tied!"
+- [ ] Gette it Onne!.png  Match Start
+- [ ] "Go!"
+- [ ] "Fight!"
+- [ ] "Fight!"
+- [ ] "Fight!"
+- [ ] "FIGHT!"
+- [ ] "Get fighting!"
+- [ ] "Get fighting already!"
+- [ ] "Go!"
+- [ ] "Go, go, go!"
+- [ ] "Move!"
+- [ ] "Good luck!"
+- [ ] "Get moving!"
+- [ ] "Start fighting!"
+- [ ] "Get moving!"
+- [ ] "Go!"
+- [ ] During the game
+- [ ] All members of a team have been killed
+- [ ] "Teamwipe!"
+- [ ] "Teamwipe!"
+- [ ] "Teamwipe!"
+- [ ] "Teamwipe!"
+- [ ] "You've killed them all!"
+- [ ] "Yes! You've killed all of them!"
+- [ ] "You've killed them all!"
+- [ ] "Teamwipe! You've killed them all!"
+- [ ] RED
+- [ ]
+- [ ] "RED team has been wiped out!"
+- [ ] "RED is dead!"
+- [ ] BLU
+- [ ]
+- [ ] "BLU team has been wiped out!"
+- [ ] "BLU is through!"
+- [ ] Killstreak
+- [ ] RED
+- [ ]
+- [ ] "RED's on a killing spree!"
+- [ ] "RED's on a killstreak!"
+- [ ] "RED is on a rampage!"
+- [ ] "RED cannot be stopped!"
+- [ ] "RED is unstoppable!"
+- [ ] "RED is godlike!"
+- [ ] "RED is on a killstreak!"
+- [ ] BLU
+- [ ]
+- [ ] "BLU is on a killing spree!"
+- [ ] "BLU is on a rampage!"
+- [ ] "BLU cannot be stopped!"
+- [ ] "BLU is unstoppable!"
+- [ ] "BLU is godlike!"
+- [ ] Miscellaneous
+- [ ] "Oh dear."
+- [ ] "Unfortunate."
+- [ ] "To victory!"
+- [ ] "Kill them already!"
+- [ ] "What are you doing!"
+- [ ] "I can't say I'm surprised."
+- [ ] "Oh dear."
+- [ ] Outcomes
+- [ ] Achieved.png  Win
+- [ ] RED
+- [ ]
+- [ ] "RED wins."
+- [ ] "Winner: RED!"
+- [ ] "RED wins!"
+- [ ] "Winner: RED!"
+- [ ] "RED wins!"
+- [ ] "Winner: RED team!"
+- [ ] "RED wins the round!"
+- [ ] "RED takes the round!"
+- [ ] "RED wins the round!"
+- [ ] "RED wins the round!"
+- [ ] "RED wins the round!"
+- [ ] "The round belongs to RED!"
+- [ ] "RED team is victorious!"
+- [ ] "RED team is victorious!"
+- [ ] "RED team...is victorious!"
+- [ ] "Victory! RED team wins!"
+- [ ] "Victory! For RED team!"
+- [ ] "RED wins the match!"
+- [ ] "RED wins the match!"
+- [ ] "RED wins the match."
+- [ ] BLU
+- [ ]
+- [ ] "BLU wins."
+- [ ] "Winner: BLU team!"
+- [ ] "Winner: BLU team!"
+- [ ] "Winner: BLU!"
+- [ ] "BLU wins."
+- [ ] "BLU wins!"
+- [ ] "BLU wins the round!"
+- [ ] "BLU wins the round."
+- [ ] "BLU takes the round."
+- [ ] "BLU wins the round!"
+- [ ] "The round belongs to BLUE!"
+- [ ] "BLU wins the round!"
+- [ ] "BLU team...is victorious!"
+- [ ] "BLU team is victorious!"
+- [ ] "BLU team is victorious!"
+- [ ] "Victory! BLU team wins!"
+- [ ] "Victory! For BLU team!"
+- [ ] "BLU wins the match!"
+- [ ] "BLU wins the match!"
+- [ ] "BLU wins the match."
+- [ ] Rare
+- [ ]
+- [ ] "Good game."
+- [ ] "Excellent game!"
+- [ ] "Well played!"
+- [ ] "Oh yes, uh, 'GG'."
+- [ ] Killicon skull.png  Stalemate
+- [ ] "Stalemate!"
+- [ ] Game summary
+- [ ] "Your winners!"
+- [ ] "Your victors!"
+- [ ] "Meet your betters!"
+- [ ] "Here are the winners!"
+- [ ] "Presenting the victors!"
+- [ ] "Meet your champions!"
+- [ ] "Meet your champions!"
+- [ ] "Look at them , they're all better than you!"
+- [ ] "Take note of their superiority!"
+- [ ] "Meet your winners!"
+- [ ] "Competition over! Here are your winners!"
+- [ ] "Good game!"
+- [ ] "Ah, the best team did win!"
+- [ ] Rare
+- [ ]
+- [ ] "As you idiots say, 'GG'."
+- [ ] Outliers
+- [ ] Searching
+- [ ] "Let's see if any one of you deserve some recognition."
+- [ ] "Let's see which of you deserves some recognition."
+- [ ] "Who here is better than the others?"
+- [ ] "Let's see which of you is a statistical outlier."
+- [ ] "Let's see which of you deserves some recognition."
+- [ ] "Who here is superior to everyone else?"
+- [ ] "Who here merits recognition?"
+- [ ] "Who here stands out?"
+- [ ] "Who among you is spectacular?"
+- [ ] "You're all winners! Now, let's see who's an actual winner."
+- [ ] "Let's see, who here is the least disappointing?"
+- [ ] "Let's see who's an outlier!"
+- [ ] "Did anyone here stand out?"
+- [ ] "Who here distinguished themselves?"
+- [ ] "Who here went above and beyond?"
+- [ ] "Did anyone here go above and beyond?"
+- [ ] "Who among you is a glorious aberration?"
+- [ ] "Who here is a deviant...at succeeding?"
+- [ ] "Who here is above average?"
+- [ ] "Well, you're all the best at being average. Is there anyone here above average?"
+- [ ] "Who among you is spectacular!"
+- [ ] "Who here is the least disappointing?"
+- [ ] Available
+- [ ] "Well done!"
+- [ ] "I must say, I'm impressed."
+- [ ] "Impressive."
+- [ ] "Impressive."
+- [ ] "Well done."
+- [ ] "Extraordinary."
+- [ ] "Extraordinary!"
+- [ ] "Ah! Extraordinary!"
+- [ ] "Ah! Above and beyond!"
+- [ ] "You are the best of the best!"
+- [ ] "Ah, excellent!"
+- [ ] "Well done. You are statistically superior."
+- [ ] "Well done."
+- [ ] "Exemplary!"
+- [ ] "Yes, excellent work!"
+- [ ] "Incredible!"
+- [ ] "Remarkable!"
+- [ ] "Most commendable!"
+- [ ] "You're being noticed!"
+- [ ] "I don't believe it! One of you is actually good at this!"
+- [ ] "The numbers don't lie!"
+- [ ] "An admirable performance!"
+- [ ] "You're making your teammates look bad. Good."
+- [ ] "You're making your teammates look bad. Heh heh, they're going to hate you for it! [laughter] Oh, I need a cigarette!"
+- [ ] "Hmmm, you're exceptional. I'll allow it."
+- [ ] "You are the best. Carry on."
+- [ ] "You failed me ag-...sorry, force of habit. You actually did well."
+- [ ] Rare
+- [ ]
+- [ ] "I'm not proud of you, but I'm not unproud of you."
+- [ ] "I'm slightly less disappointed in you than the others."
+- [ ] "That makes you the least worst player here."
+- [ ] "Now that is how you play 6s!"
+- [ ] "Well done. You've made me slightly less not-proud."
+- [ ] Not available
+- [ ] "Hah! No one!"
+- [ ] "None of you! What a shame!"
+- [ ] "Mmm, nobody here!"
+- [ ] "At least you didn't disappoint me more than usual!"
+- [ ] "Hah! None of you!"
+- [ ] "Nobody! What a shock."
+- [ ] "Nobody! I'm so shocked, I need to lie down."
+- [ ] "Nobody! Try to imagine my complete lack of surprise right now."
+- [ ] "You've tried and you failed! But always remember...you failed!"
+- [ ] "Well, the least important thing is that you tried."
+- [ ] "Don't let this lack of success go to your head."
+- [ ] "None of you are spectacular. I'll alert the news outlets."
+- [ ] "Being the best is difficult...evidently."
+- [ ] "Hmmm, none of you. I'm shocked."
+- [ ] "Not a single [ding]-ing one of you."
+- [ ] "Nobody! I am giddy with indifference."
+- [ ] "I am dumbstruck by your mediocrity."
+- [ ] "You are the best! That's what I just told another group of players because they were the best. Unlike you, to be clear."
+- [ ] "No! Absolutely middling! Oh, I have an idea. I'm going to stop talking to you."
+- [ ] "Well! Aren't you undistinguished."
+- [ ] "Go on! Give yourselves a hand! You're all so undistinguished."
+- [ ] "Well, you must be very proud of yourself! You shouldn't be."
+- [ ] "Just to avoid confusion, that means none of you are spectacular."
+- [ ] "Unremarkable in every conceivable way! It's...remarkable."
+- [ ] Rare
+- [ ]
+- [ ] "None of you! I'm speechless. Oh wait, here's one: 'Four score and seven years ago, you were awful. Leading up to just now, when - [ ] nothing at all has changed. God bless the Badlands. Thank you and good night.'"
+- [ ] "In all my years of administrating, I have never seen a group of people so exceptional at being undistinguished; unremarkable in - [ ] every conceivable way. It's...remarkable."
+- [ ] "Remarkable! You are like Icarus, if he never flew too close to the sun. Or flew at all. And nobody remembered him. Or cared. - [ ] That's you. You don't even know what I'm talking about, do you?"
+- [ ] "Yes, that's right! Reach for that brass ring! Here, let me lower it. [cranking sound] Oh, I guess it doesn't go that low. Oh - [ ] well."
+- [ ] "Congratulations! [clapping sound] That was a stunning display of mediocrity! You can stop clapping now Miss Pauling, I've made - [ ] my point."

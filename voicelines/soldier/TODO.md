@@ -1,6 +1,9 @@
-# Soldier
+# Soldier -75%
 
-## Commands
+[wiki commands](https://wiki.teamfortress.com/wiki/Soldier_voice_commands)
+[wiki responses](https://wiki.teamfortress.com/wiki/Soldier_responses)
+
+## Commands - 100%
 
 - [x] "Medic!" - "Doctor!"
 - [x] "Medic!” - "Doctor!"
@@ -15,7 +18,7 @@
 - [x] "Thanks, soldier." - "Mulțumesc, soldatule."
 - [x] "Go go go! Charge!"
 - [x] "Move out!"
-- [x] "Let's go!"
+- [x] "Let's go!" - "Hai, să mergem!"
 - [x] "Move up!"
 - [x] "Gear forward!"
 - [x] "Move up, move up, move up!"
@@ -49,9 +52,9 @@
 - [x] "Sentry forward!"
 - [x] "Alert! Sentry ahead!"
 - [x] "Sentry ahead!"
-- [x] "Deploy a Teleporter here!"
-- [x] "Deploy a Dispenser here!"
-- [x] "Deploy a Sentry here!"
+- [x] "Deploy a Teleporter here!" - "Instalează un teleportator aici!"
+- [x] "Deploy a Dispenser here!" - "Instalează un dozator aici!"
+- [x] "Deploy a Sentry here!" - "Instalează o santinelă aici!"
 - [x] "Hit it, Doc!"
 - [x] "Let's go, Doc!"
 - [x] "Ready for that charge, Doc!"
@@ -70,44 +73,44 @@
 - [x] "Stand, on, the, point! Numbnuts!"
 - [x] "Stand, on, the, point! Maggot!"
 - [x] "Stand, on, the, point! Maggots!"
-- [x] "Charge!"
-- [x] "Forward!"
-- [x] "Give 'em hell boys!"
-- [x] "Last one alive, lock the door!"
-- [x] "Attaaack!"
+- [x] "Charge!" - "Haideți!"
+- [x] "Forward!" - "Înainte!"
+- [x] "Give 'em hell boys!" - "Luați de aici, așa le trebuie!"
+- [x] "Last one alive, lock the door!" - "Ultimul în viața trage ușa după el!"
+- [x] "Attaaack!" - "Atacați!"
 - [x] [loud manical laughter] "Heh heh heeeh!"
 - [x] If The Tin Soldier set is equipped only the responses below are used:
 - [x] "I am a robot! I am here to take American jobs!"
 - [x] "I am a ro-bot from the fu-ture!"
 - [x] While aiming at an enemy, melee weapon equipped:
-- [x] "If you know what's good for ya, you will run!"
-- [x] "I am going to claw my way down your throat and tear out your very soul!"
+- [x] "If you know what's good for ya, you will run!" - "Dacă ții la viața ta, o s-o iei la goană!"
+- [x] "I am going to claw my way down your throat and tear out your very soul!" - "Am de gând să-mi croiesc drumul pe gâtul tău, și sa-ți smulg chiar sufletul!"
 - [x] "Do not look at me, I did not ask you a question!"
 - [x] "The last word out of your sorry mouth will be Sir, and it will be loud!"
 - [x] "You are a maggot hatched from a mutant maggot egg!"
-- [x] "I am going to strangle you with your own frilly training bra!"
+- [x] "I am going to strangle you with your own frilly training bra!" - "O sa te strangulez cu proria ta bustiera cu volane!"
 - [x] "Today is a good day!"
 - [x] "You've done me proud, boys!"
 - [x] "Everyone of you deserves a medal!"
 - [x] "The worm has turned, gentlemen!"
-- [x] "Booyah!"
+- [x] "Booyah!" - "Booiaa!"
 - [x] "Hooah!"
 - [x] ~~"Boooooo..."~~
-- [x] "Each and every one of you has failed."
-- [x] "Are you all trying for a Section 8?"
-- [x] "Which of you numbnuts let us down?"
-- [x] "You have dishonored this entire unit."
-- [x] "You are the sorriest excuses for soldiers I have ever seen!"
-- [x] "Pain is weakness leaving the body."
-- [x] "Down and give me 20!"
-- [x] "Get with the program!"
-- [x] "If I have to crack some skulls, I will."
-- [x] "That was an amazing killing spree... by the other team!"
-- [x] "You are all dishonorably discharged."
+- [x] "Each and every one of you has failed." - "Fiecare dintre voi a dat greș!"
+- [x] "Are you all trying for a Section 8?" - "Încercați toți să ajungeți în secțiunea opt?"
+- [x] "Which of you numbnuts let us down?" - "Care dintre voi capete pătrate ne-a dezamăgit?"
+- [x] "You have dishonored this entire unit." - "Ne-ai dezonorat toată unitatea!"
+- [x] "You are the sorriest excuses for soldiers I have ever seen!" - "Sunteți cei mai penibili soldați pe care i-am văzut vreodată!"
+- [x] "Pain is weakness leaving the body." - "Durerea e slăbiciunea ce-ți parăsește corpul!"
+- [x] "Down and give me 20!" - "Sunteți de râsul curcii."
+- [x] "Get with the program!" - "Treziți-vă!"
+- [x] "If I have to crack some skulls, I will." - "Dacă trebuie să vă sparg capul, o să o fac!"
+- [x] "That was an amazing killing spree... by the other team!" - "Aia a fost o serie de ucideri uimitoare... Din parte celailaltei echipe!"
+- [x] "You are all dishonorably discharged." - "Sunteți toți lasați la vatră!"
 - [x] "Hoo.. ah!"
-- [x] "Oh yeah."
-- [x] "Okay!"
-- [x] "Roger that!"
+- [x] "Oh yeah." - "Oh, da!"
+- [x] "Okay!" - "Ok!"
+- [x] "Roger that!" - "Să trăiți!"
 - [x] "Yeah."
 - [x] ~~Long laughing~~
 - [x] ~~Short laugh~~
@@ -127,4 +130,730 @@
 - [x] "Outstanding!"
 - [x] "Nice work."
 
-## Responses
+## Responses - 30%
+
+### Kill-related responses - 100%
+
+- [x] "Ka-boom!" - "KA BOOM!"
+- [x] "Maggots!" - "Viermilor!"
+- [x] "Take your lumps like a man, Private Twinkletoes." - "Ia-ți bătaia ca un bărbat, soldatule Degete Sclipitoare."
+- [x] "You are all weak. You are all bleeders." - "Sunteți toți slabi. Sunteți toți sângerători."
+- [x] "Time to inform your next of kin!" - "E timpul să-ți anunți următorul grad de rudenie!"
+- [x] "This is my world. You are not welcome in my world." - "Asta este lumea mea. Nu ești binevenit în lumea mea."
+- [x] "You will not be missed." - "Nu vei fi regretat."
+- [x] "I never liked you." - "Nu mi-ai plăcut niciodată."
+- [x] "You were loud and ugly, and now you're DEAD! Amen." - "Ai fost zgomotos și urât, și acum ești MORT! Amin."
+- [x] "You're dead, that's good, amen." - "Ești mort, asta e bine, amin."
+- [x] "Godspeed, you magnificent bastard." - "Drum bun, mărețule ticălos."
+- [x] "You were good son, real good; maybe even the best." - "Ai fost bun, fiule, foarte bun; poate chiar cel mai bun."
+- [x] ~~"Blammo!"~~
+- [x] ~~"Boom!"~~
+- [x] ~~"Pa-POW!"~~
+- [x] "Charge!" - "Haideți!"
+- [x] "Forward!" - "Înainte!"
+- [x] "Screamin' Eagles!" - "Vulturii țipă!"
+- [x] "Oh yeah!" - "Oh, da!"
+- [x] ~~"Hooah!"~~
+- [x] "Thanks, soldier." - "Mulțumesc, soldatule."
+- [x] ~~"Yaaaaagh!"~~
+- [x] ~~"Aaaagh!"~~
+- [x] ~~"Yaaaaarrrrrgggh!"~~
+- [x] ~~"Raagh!"~~
+- [x] ~~"Aaaah!!"~~
+
+### Domination-related responses - 0%
+
+- [x] ~~(Evil laughter 1)~~
+- [x] ~~(Evil laughter 2)~~
+- [x] ~~(Evil laughter 3)~~
+- [x] ~~(Happy laughter 1)~~
+- [x] ~~(Happy laughter 2)~~
+- [x] ~~(Happy laughter 3)~~
+- [x] ~~(Long laughter)~~
+- [x] ~~(Long, wheezing laughter)~~
+- [x] "If God had wanted you to live, He would not have created me!" - "Dacă Dumnezeu ar fi vrut să trăiești, nu m-ar fi creat pe mine!"
+- [x] "I joined this team just to kill maggots like you." - "M-am alăturat acestei echipe doar ca să omor viermi ca tine."
+- [ ] Leaderboard class scout.png  Dominating a Scout
+- [ ] "Dominated, short pants!"
+- [ ] "How's that domination feel, city boy?"
+- [ ] "You kids today don't know how to dominate."
+- [ ] "Less talk, more fight."
+- [ ] "You cannot run from me, my gun is faster."
+- [ ] "You run fast, my bullets run faster."
+- [ ] "Never bring a bat to a battlefield, war is not a game."
+- [ ] "Your mouth wrote checks, my gun has cashed them."
+- [ ] "Got anything funny to say about that, funny man?"
+- [ ] "Never send a boy to fight a man's war."
+- [ ] "You were in a big fat hurry to die, son."
+- [ ] Leaderboard class soldier.png  Dominating a Soldier
+- [ ] "Dominated, hippie, get a job!"
+- [ ] "You better hope there's hacky-sack in Hell, hippie!"
+- [ ] "You are now a conscientious objector to being dead, hippie!"
+- [ ] "What's the matter, hippie? Hair get in your eyes?"
+- [ ] "Get a haircut, hippie."
+- [ ] "You're a disgrace to the uniform."
+- [ ] Leaderboard class pyro.png  Dominating a Pyro
+- [ ] "I just tore you a new chimney, Smokey Joe!"
+- [ ] "You cannot burn me, I'm already on fire!"
+- [ ] "You cannot burn me! I'm already ablaze with passion, for war!"
+- [ ] "You cannot burn me! I do not have time to combust!"
+- [ ] "Fire is for cookin' s'mores, son. Get a real gun."
+- [ ] "Your fire-retardant ass just got dominated."
+- [ ] "Ha! Ya fight like a girl!"
+- [ ] "How do you like that, All Quiet on the Western Front?"
+- [ ] "Get a haircut, hippie! [whispered] Just in case."
+- [ ] Leaderboard class demoman.png  Dominating a Demoman
+- [ ] "Dominated, you one-eyed cross-dresser."
+- [ ] "Consider yourself dominated, you Scotch son of a bitch!"
+- [ ] "Dominated, you skirt-twirling drunk."
+- [ ] "I love your death, cyclops; your death is sweet to me like love is sweet."
+- [ ] "Scotland is not a real country; you are an Englishman with a dress."
+- [ ] "You're like the Cyclops of Greek myth; except you are Scottish, and I hate you!"
+- [ ] Leaderboard class heavy.png  Dominating a Heavy
+- [ ] "You just got dominated, Sputnik."
+- [ ] "Stars and Stripes beats Hammer and Sickle. Look it up!"
+- [ ] "You just got dominated, Comrade."
+- [ ] "Dominated, ya red menace!"
+- [ ] "Go play your pinko chess game with the Devil, Commie!"
+- [ ] "This American boot just kicked your ass back to Russia!"
+- [ ] "Checkmate, Stalingrad!"
+- [ ] "Dominated, grease monkey."
+- [ ] "You just got dominated, toymaker."
+- [ ] "Stop hiding behind your little toys and fight like a man!"
+- [ ] "I will eat your ribs, I will eat them up!"
+- [ ] "That's where books get you, professor!"
+- [ ] "Go back to Calgary, ya cow-herdin' Canadian!"
+- [ ] "You just got dominated, Oktoberfest!"
+- [ ] "You just got dominated, Fritz!"
+- [ ] "America wins again!"
+- [ ] "Ich bin I just kicked your ass! " ("Ich bin" is German for "I am".)
+- [ ] "Welcome to the United States of YOU JUST GOT DOMINATED!"
+- [ ] "I'm gonna mail my boot to the Kaiser with your ass around it!"
+- [ ] "Gotcha, Herr Doktor!"
+- [ ] "This is not a camping trip, Sheila; this is war and I love it!"
+- [ ] "You will not turn my battlefield into a campground."
+- [ ] "Now hear this, camper, you are not wanted on my beloved battlefield!"
+- [ ] "I will send my condolences to your kangaroo wife."
+- [ ] "You are a coward, and you died like one."
+- [ ] "The next time you want to kill a man, look him in the eyes!"
+- [ ] "You just got dominated, Bilbo Baggins!"
+- [ ] "You just got dominated, Balbo Biggins!"
+- [ ] "You just got dominated, Bablo Bravins!"
+- [ ] "You just got dominated, Barble Bapkins!"
+- [ ] "You just got dominated, Bazbo Bibbons!"
+- [ ] "You just got dominated, Bulbo Buttons!"
+- [ ] "Aww, am I too violent for you, cupcake?"
+- [ ] "Your country did not prepare you for the level of violence you will meet on my battlefield!"
+- [ ] "Gotcha, crouton."
+- [ ] "You just got your Frenchie ass dominated."
+- [ ] "Ohh-honh-honh-honh-You're dominated." (The sound Soldier makes imitates stereotypical French laughter.)
+- [ ] "Dominated, ya rifle-droppin' coward!"
+- [ ] "Hit the showers, Frenchie."
+- [ ] "Your white flag does not stop American bullets."
+- [ ] "Words cannot express how much I hate France right now!"
+- [ ] "Bon voyage, crouton!"
+- [ ] "Hehehyaaa!"
+- [ ] "Today is a good day."
+- [ ] "Outstanding!"
+
+### Event-related responses - 100%
+
+- [x] "Charge!" - "Haideți!"
+- [x] "Forward!" - "Înainte!"
+- [x] "Give 'em hell, boys!" - "Luați de aici, așa le trebuie!"
+- [x] "Last one alive, lock the door!" - "Ultimul în viața trage ușa după el!"
+- [x] "Attack!" - "Atacați!"
+- [x] "Hehehyaaa!" - "Hehehiaaaaa!"
+- [x] ~~"Boooooo..."~~
+- [x] "Each and every one of you has failed." - "Fiecare dintre voi a dat greș!"
+- [x] "Are you all trying for a Section Eight?" - "Încercați toți să ajungeți în secțiunea opt?"
+- [x] "Which of you numbnuts let us down?" - "Care dintre voi capete pătrate ne-a dezamăgit?"
+- [x] "You have dishonored this entire unit!" - "Ne-ai dezonorat toată unitatea!"
+- [x] "You are the sorriest excuses for soldiers I have ever seen!" - "Sunteți cei mai penibili soldați pe care i-am văzut vreodată!"
+- [x] "Pain is weakness leaving the body." - "Durerea e slăbiciunea ce-ți parăsește corpul!"
+- [x] "Down and give me twenty!" - "Sunteți de râsul curcii."
+- [x] "Get with the program!" - "Treziți-vă!"
+- [x] "If I have to crack some skulls, I will." - "Dacă trebuie să vă sparg capul, o să o fac!"
+- [x] "That was an amazing killing spree... By the other team!" - "Aia a fost o serie de ucideri uimitoare... Din parte celailaltei echipe!"
+- [x] "You are all dishonorably discharged." - "Sunteți toți lasați la vatră!"
+- [x] "We failed, men." - "Am dat greș, băieți."
+- [x] "I will not tolerate failure on my team." - "Nu o să tolerez eșecuri în echipa mea!"
+- [x] ~~(Grumble)~~
+- [x] "Fire, fire, fire!" - "Foc, foc, foc!"
+- [x] "I am on fire!" - "Am luat foooc!"
+- [x] "The burning, the burning!" - "Ard, ard!"
+- [x] ~~(Dying scream)~~
+- [x] ~~(Dying scream)~~
+- [x] ~~(Dying scream)~~
+- [x] ~~(Dying scream)~~
+- [x] ~~"Oooooohhhh!"~~
+- [x] ~~"Owww!"~~
+- [x] ~~"Augghhh!"~~
+- [x] ~~"Dah!"~~
+- [x] ~~"Yaaah!"~~
+- [x] ~~"Daawww!"~~
+- [x] ~~"Oof!"~~
+- [x] ~~"Urg!"~~
+- [x] ~~"Unf!"~~
+- [x] ~~(Grumble)~~
+- [x] "No!"
+- [x] "Dammit!"
+- [x] ~~(groans)~~
+- [x] "Thanks." - "Mulțumesc"
+- [x] "Thanks for the Teleporter." - "Mulțumesc pentru teleportator!"
+- [x] "Thanks, Engie." - "Mulțumesc, inginerule!"
+- [x] "You deserve a medal, Doc." - "Meriți o medalie, doctore."
+- [x] "Thanks for the aid." - "Mulțumesc pentru ajutor!"
+- [x] "Thanks, Doc." - "Mulțumesc, doctore."
+- [x] "I am going to enjoy killing each and every one of you sorry sacks of scum!" - "O să mă bucur să vă omor pe fiecare dintre voi, gunoaie scârboase!"
+- [x] "Each and every one of you will be sent home to your momma' in a box!" - "Fiecare dintre voi va fi trimis acasă la mama voastră într-o cutie!"
+- [x] "You are all maggots, you scum sucking fruit baskets!" - "Sunteți toți viermi, coșuri de gunoi care sugeți fructe!"
+- [x] "You sissified maggot scum have just signed your death warrants!" - "VOI! Viermi fricoși! Ați semnat doar ordinele voastre de moarte!"
+- [x] "Surrender now, maggots, and you will not be harmed!" - "Predați-vă acum, viermilor, și nu veți fi răniți!"
+- [x] "You are scum! You are nothin' but a buncha' cowards!" - "Sunteți gunoaie! Nu sunteți decât o grămadă de lași!"
+- [x] "We have you surrounded, at least from this side!" - "Vă avem înconjurați, cel puțin de pe această parte!"
+- [x] "Now that is what I wanna see!" - "Asta vreau să văd!"
+- [x] "And that is how you do it, men!" - "Și așa se face, băieți!"
+- [x] ~~(Long laughter)~~
+- [x] ~~(Happy laughter)~~
+- [x] "Screamin' Eagles!" - "Vulturii țipă!"
+
+### Weapon-related responses - 100%
+
+- [x] ~~BLU Bugle Call (Buff Banner)~~
+- [x] ~~RED Bugle Call (Buff Banner)~~
+- [x] ~~BLU Bugle Call (Battalion's Backup)~~
+- [x] ~~RED Bugle Call (Battalion's Backup)~~
+- [x] "Charge!"
+- [x] "Give 'em hell, boys!" - "Luați de aici, așa le trebuie!"
+- [x] "Last one alive, lock the door!" - "Ultimul în viața trage ușa după el!"
+- [x] "Forward!" - "Înainte!"
+- [x] "Attack!" - "Atacați!"
+- [x] ~~"Hehehyaaa!"~~
+
+### Objective-related responses - 3%
+
+- [ ] "This is my Intelligence." - "Asta este inteligența mea!"
+- [x] "And that is how you do it, men!" - "Și așa se face, băieți!"
+- [ ] "I have rescued my Intelligence." - "Am salvat inteligența mea!"
+- [x] "Now that is what I wanna see!" - "Asta vreau să văd!"
+- [ ] "This point is mine! Do you understand that?" - "Acest punct este al meu! Înțelegeți asta?"
+- [ ] "We have commandeered my point!" - "Am preluat controlul asupra punctului meu!"
+- [ ] "Stand... on... the... point, numbnuts!" - "Stați... pe... punct, proștilor!"
+- [ ] "Stand... on... the... point, maggot!" - "Stai... pe... punct, vierme!"
+- [ ] "Stand... on... the... point, maggots!" - "Stați... pe... punct, viermilor!"
+- [ ] "Boo-yah!"
+- [ ] "The worm has turned, gentlemen."
+- [ ] "Hoo-ah!"
+- [ ] "Move, move, move!"
+- [ ] "Push!"
+- [ ] "I do not see enough pushing!"
+- [ ] "Push, that is an order!"
+- [ ] "Push that cart!"
+- [ ] "Push that cart forward!"
+- [ ] "Push, cream-puffs!"
+- [ ] "Push, you apple-blossoms!"
+- [ ] "Push, you butter muffins!"
+- [ ] "Ladies, let's get this cart moving!"
+- [ ] "You will push this cart or I will push you into a grave!"
+- [ ] "We will push until there is nothing left to push!"
+- [ ] "Push!"
+- [ ] "Keep pushing!"
+- [ ] "Push like you mean it!"
+- [ ] "Do not let that cart roll back!"
+- [ ] "The cart needs to go forward!"
+- [ ] "Do not let that cart go forward!"
+- [ ] "Hold the line, men! Stop that cart!"
+- [ ] "Stop that cart!"
+- [ ] "The cart's falling back!"
+- [ ] "That's it, men, move that cart back!"
+- [ ] "Get to the cart!"
+- [ ] "Get to the cart, ladies!"
+- [ ] "Everyone, get to the cart!"
+- [ ] "Get to the cart, maggots!"
+- [ ] "Stick to that cart like glue, that is an order!"
+- [ ] "Get to the cart! Hup, hup, hup!"
+- [ ] "Why is that cart stopped, maggots?!"
+- [ ] "I do not see a cart moving, ladies!"
+- [ ] "Why is that cart not moving?!"
+- [ ] "Stand next to the cart, damn you!"
+- [ ] "Get to the cart!"
+- [ ] "You will stand next to that cart or I will stand you next to that cart!"
+
+### Duel-related responses - 100%
+
+- [x] "Let's go!" - "Hai, să mergem!"
+- [x] "Time to inform your next of kin!" - "E timpul să-ți anunți următorul grad de rudenie!"
+- [x] "If God had wanted you to live, He would not have created me!"
+- [x] "I am going to claw my way down your throat and tear out your very soul!" - "Am de gând să-mi croiesc drumul pe gâtul tău, și sa-ți smulg chiar sufletul!"
+- [x] "I joined this team just to kill maggots like you." - "M-am alăturat acestei echipe doar ca să omor viermi ca tine."
+- [x] "I am going to strangle you with your own frilly training bra!" - "O sa te strangulez cu proria ta bustiera cu volane!"
+- [x] "Booyah!" - "Booiaa!"
+- [x] "Oh yeah." - "Oh, da!"
+- [x] "Okay!" - "Ok!"
+- [x] "Roger that!" - "Să trăiți!"
+- [x] "If you know what's good for ya, you will run!" - "Dacă ții la viața ta, o s-o iei la goană!"
+- [x] "Affirmative!" - "Afirmativ!"
+- [x] "I never liked you." - "Nu mi-ai plăcut niciodată."
+- [x] ~~"Boooooo..."~~
+- [x] "You are a spineless worm! You are a mistake of nature! You are walking vomit!" - "Ești un vierme fără coloană! Ești o greșeală a naturii! Ești voma în mișcare!"
+
+### Mann vs. Machine responses - 100%
+
+- [x] "Ready." - "Pregătit."
+- [x] "I am ready." - "Sunt pregătit."
+- [x] "Fall in, men." - "La rând, băieți."
+- [x] "Sound off if you're ready." - "Strigați dacă sunteți pregătiți."
+- [x] "Man up, ladies." - "Fiți bărbați, doamnelor."
+- [x] "Men, get to the Upgrade Stations." - "Băieți, mergeți la stațiile de îmbunătățire."
+- [x] "Ahhh... Much better." - "Ahhh... Mult mai bine."
+- [x] "Well, back to the front." - "Ei bine, înapoi la front."
+- [x] ~~"Bwahah!"~~
+- [x] "Grab that cash, boys, we earned it." - "Luați banii, băieți, i-am câștigat."
+- [x] "Mwaha! The spoils of war." - "Mwaha! Pradă!"
+- [x] "Sapping a robot." - "Slăbesc un robot."
+- [x] "That is a sapped robot." - "Acela este un robot slăbit!"
+- [x] "Sniper!" - "Lunetist!"
+- [x] "Sentry Buster!" - "Distrugător de santinele!"
+- [x] "Sentry Buster eliminated." - "Distrugătorul de santinele a fost eliminat."
+- [x] "Bomb bot has been eliminated." - "Robotul cu bombă a fost eliminat."
+- [x] "Ten-hut! Bomb is clear." - "Atenție! Bomba este eliminată."
+- [x] "Now that was close." - "A fost pe aproape."
+- [x] "Bomb!" - "Bombă!"
+- [x] "They got a bomb!" - "Au o bombă!"
+- [x] "Another bomb." - "O altă bombă."
+- [x] "That bomb bot's getting angry." - "Robotul cu bombă se enervează."
+- [x] "That bomb bot's getting angrier." - "Robotul cu bombă se enervează și mai tare."
+- [x] "That bomb bot's on a rampage." - "Robotul cu bombă e într-o frenezie."
+- [x] "Big robot!" - "Robot mare!"
+- [x] "Let's give this soup can hell!" - "Să-i dăm foc la conservă!"
+- [x] "That big one's got the bomb!" - "Cel mare are bomba!"
+- [x] "Big robot's got the bomb, boys!" - "Robotul mare are bomba, băieți!"
+- [x] "Tank!" - "Tanc!"
+- [x] "Taaaaaaaank!" - "Taaaaaaaanc!"
+- [x] "That Tank is dropping a bomb!" - "Tancul aruncă o bombă!"
+- [x] "Shoot that Tank!" - "Trageți în tanc!"
+- [x] "We need to kill the Tank!" - "Trebuie să omorâm tancul!"
+- [x] "Let's kick this robot's ass back to the Bronze Age!" - "Să-i tăbăcim curul acestui robot înapoi în epoca bronzului!"
+- [x] "Tank is down, men!" - "Tancul este mort, băieți"
+- [x] "Tank has been neutralized!" - "Tancul a fost neutralizat!"
+- [x] "Scout down." - "Cercetaș mort."
+- [x] "Soldier down." - "Soldat mort."
+- [x] "Pyro down." - "Piroman mort."
+- [x] "Demo down." - "Demolițian mort."
+- [x] "Heavy down." - "Greu mort."
+- [x] "Engineer down." - "Inginer mort."
+- [x] "Medic down." - "Doctor mort."
+- [x] "Sniper down." - "Lunetist mort."
+- [x] "Spy down." - "Spion mort."
+- [x] "Just me and you, lady-bots!" - "Doar eu și voi, roboți muiști!"
+- [x] "I am not trapped in a facility full of robots. You are all trapped in here with me!" - "Nu sunt blocat într-o facilitate de roboți. Voi sunteți blocați aicia cu mine!"
+- [x] "TEN HUT!" - "ATEENȚIE!"
+- [x] "AT-TEEENNN-TION!" - "A-TEEEEN-ȚIUUU-NE!"
+- [x] "Back from Hell!" - "Înapoi din iad!"
+- [x] "Hello again!" - "Bună, din iad!"
+- [x] "Back from the dead and reporting for duty!" - "Înapoi din morți și raportând pentru datorie!"
+- [x] "I did not have permission to die!" - "Nu am avut permisiunea să mor!"
+- [x] "You worthless lady-bots get back here and fight!" - "Voi, roboți muiști, veniți înapoi și luptați!"
+- [x] "Reboot in robot hell, you tin savages!" - "Reporniți-vă în iadul roboților, sălbaticilor de tablă!"
+- [x] "This is not a robot tea party, sparkbags, this is robot war!" - "Asta nu e o petrecere a roboților, scânteietorilor! Asta e războiul roboților!"
+- [x] "Get a haircut, trashcans." - "Tundeți-vă, coșuri de gunoi."
+- [x] "The best part of you ran down your motherboard." - "Cel mai bun lucru din tine a curs pe placa de bază."
+- [x] "You're not a real robot, are you, comrade?" - "Nu ești un robot adevărat, nu-i așa, tovarăș?"
+- [x] "The robots are attacking the gate! - "Roboții atacă poarta!"
+- [x] "The robots took the gate! - "Roboții au luat poarta!"
+- [x] "U! S! A!" - "S! U! A!"
+- [x] "No guts, no glory, robots!" - "Fără curaj, fără coaie, roboților!"
+- [x] "I will open up your chassis and use you all as a latrine!" - "Vă voi deschide carcasele și vă voi folosi pe toți ca latrină!"
+- [x] "Human grit always beats robot magic." - "Voința umană întrece întotdeauna magia robotului."
+- [x] "I have uploaded a boot up your metal asses!" - "Am încărcat o bocancă în cururile voastre de metal!"
+- [x] "Never forget; always remember. Pepper fie." - "Nu uitați niciodată; amintiți-vă întotdeauna. Piperat."
+- [x] "All men gave some. Some men gave more than some." - "Toți bărbații au dat ceva. Unii bărbați au dat mai mult decât unii."
+- [x] "You call that a loss? I've crapped bigger losses than that." - "Asta numești o pierdere? M-am căcat pierderi mai mari decât asta."
+- [x] "Let's see them try that twice!" - "Să-i vedem încercând asta de două ori!"
+- [x] "Well that went pear-shaped fast!" - "Ei bine, asta a mers repede în formă de pulă!"
+- [x] "Mine!" - "Al meu!"
+- [x] "This is mine now!" - "Ăsta este al meu acum!"
+- [x] "There are many like it, but this one is mine!" - "Sunt multe ca el, dar acesta este al meu!"
+- [x] "Holy Mary, mother of Joseph!" - "Sfânta Maria, mama lui Iosif!"
+- [x] "I will kill any man who tries to take this from me." - "Voi ucide orice om care încearcă să-mi ia asta."
+- [x] "Sweet Land of Liberty!" - "O ceașcă de liber-ceai!"
+- [x] "You can have this when you pry it from my cold, dead hands. And even then, good luck! Because I will have glued it to my cold, dead hands!" - "Poți avea asta când mi-o vei smulge din mâinile reci și moarte. Și chiar și atunci, baftă! Pentru că o voi fi lipit-o de mâinile mele reci și moarte!"
+- [x] [Whispered] "This is what the President must feel like all the time!" - "Așa se simte președintele tot timpul!"
+- [x] [Whispered] "It's perfect!" - "E perfect!"
+- [x] "This is what God would use to shoot somebody." - "Asta este ceva cu ce ar trage Dumnezeu în cineva."
+
+---
+
+## Not planned
+
+### Contract-related responses
+
+- [ ] ~~"Drop and give me victory!"~~
+- [ ] ~~"Mission complete!"~~
+- [ ] ~~"I crap harder missions than this!"~~
+- [ ] ~~"I got three words for you: U, S, A!"~~
+- [ ] ~~"This mission never even saw us coming!"~~
+- [ ] ~~"Too easy!"~~
+- [ ] ~~"Ha, we did it!"~~
+- [ ] ~~"That took some doing."~~
+- [ ] ~~"That was a hell of a campaign, son!"~~
+- [ ] ~~"All gave some, some gave all! But nobody got a prize but us!"~~
+- [ ] ~~"We almost died on that hill! But dammit, we took it, didn't we?"~~
+
+### Competitive Mode responses
+
+- [ ] "Fall in, men!"
+- [ ] "Boots on the ground, boys!"
+- [ ] "Let's show these muffin-tops what the wrong end of a rocket launcher looks like!"
+- [ ] "Men, you are about to become someone's new worst nightmare!"
+- [ ] "Any man comes at me airborne, I am turning into a meat cloud!"
+- [ ] "Let's make some pain, boys!"
+- [ ] "Someone jumps at me, they're hitting the ground in pieces!"
+- [ ] "Ready for active duty!"
+- [ ] "War is hell! My kind of hell!"
+- [ ] "Present and accounted for!"
+- [ ] "Locked and loaded!"
+- [ ] "Come and get it, maggots!"
+- [ ] "We have the eye of a tiger, the heart of a lion, the wings of an eagle, the big muscular arms of a panther-man, and the silent - [ ] majesty of a kraken!"
+- [ ] "Everyone, please stand! [singing] God bless America, land of... America... And so forth and so on...Move out!" (Sung to the tune - [ ] of "God Bless America")
+- [ ] "War is like a game of chess: with guts on top of it! And instead of chess pieces, there's just brave blood-hungry - [ ] sons-of-bitches who love war!"
+- [ ] "Drop your socks and grab your socks, boys! Now put down those socks and let's get to work!" (Reference to a line spoken by - [ ] Gunnery Sergeant Hartman in the film Full Metal Jacket)
+- [ ] "You are all daisies and I will plant your sorry asses in my war garden!"
+- [ ] "War: what is it good for? Everything!" (Parody of Edwin Starr's "War")
+- [ ] "Drop your bibs and make some gibs, maggots!"
+- [ ] "Which one of us is Pocket?"
+- [ ] "Which one of us is Roamer?"
+- [ ] "Who's playing Pocket?"
+- [ ] "Mess with the Pocket, get a rocket!"
+- [ ] "Dibs on their Medic!"
+- [ ] Setup.png  Previous round was a win
+- [ ] "We won the battle, now let's win the war!"
+- [ ] "I don't want to jinx this, men, but we are guaranteed to win!"
+- [ ] "Do! Not! Get! Cocky!"
+- [ ] "Do not get cocky, men, even though we have every reason to be! We are the best!"
+- [ ] "Permission to get cocky, men! It is impossible for us to lose!"
+- [ ] Rare
+- [ ]
+- [ ] "Just because you won does not make you a winner! Winners keep winning! I will never stop winning until I have won!"
+- [ ] "Men, George Washington never lost! Jesus never lost! Patton never lost! If winning's good enough for those war heroes, it's damn - [ ] well good enough for us!"
+- [ ] "[Singing] I love to win, by the dawn's early light!" (Sung to the tune of "The Star-Spangled Banner")
+- [ ] "[Singing] I love to win, so I guess we should win!" (Sung to the tune of "The Star-Spangled Banner")
+- [ ] Setup.png  Previous round was a loss
+- [ ] "Stop lagging and start tagging, men!"
+- [ ] "We will not lose again!"
+- [ ] "I will not stand for losing!"
+- [ ] "We cannot let these maggots beat us again!"
+- [ ] "Remember, boys, it is always darkest before we win!"
+- [ ] "This losing streak ends here, ladies!"
+- [ ] "I'm going to tell you ladies a secret: I hate losing!"
+- [ ] "My shoulders are broad, men, but I can't fit all of you on them!"
+- [ ] Rare
+- [ ]
+- [ ] "Remember, men, there is no 'I' in 'team'! And I am going to win, with or without you!"
+- [ ] "Everyone, please stand! [Singing] Oh, say, can you see, that we lost the first game! [Speaking normally] You do see that, right?- [ ] " (Sung to the tune of "The Star-Spangled Banner")
+- [ ] "Remember, men, 'the flag was still there'! And if a piece of fabric can do it, you daisies can do it! Hang in there!"
+- [ ] "Everyone, take a knee! Dear God, we are sorry we angered you, please stop helping the other team! Over and out!"
+- [ ] "A winner knows when to fight and when not to fight! Answer: Never! Stop! Fighting!"
+- [ ] Setup.png  Previous round was a tie
+- [ ] "Let's break this tie!"
+- [ ] "I'm gonna break this tie over my knee!"
+- [ ] "Tie-breaking time!"
+- [ ] "I'm gonna break my foot off in this tie's ass!"
+- [ ] "If there is one thing I hate more than losing, it is tying! That just means everybody loses!"
+- [ ] "Men, we are tied, and that is just another word for losing!"
+- [ ] Outcomes
+- [ ] Match win
+- [ ] "That is how you win!"
+- [ ] "We won!"
+- [ ] "We win! We win!"
+- [ ] "We win!"
+- [ ] "U! S! A!"
+- [ ] "Drop and give me victory!"
+- [ ] "Mwah ha ha ha ha!"
+- [ ] "Good enough for this Marine!"
+- [ ] Game win
+- [ ] "All gave some! They gave a lot! We didn't give an inch!"
+- [ ] "Sun Tzu's got nothing on us!"
+- [ ] "Sun Tzu might have invented the War, but we invented winning them!"
+- [ ] "I am a courage-filled machine of war!"
+- [ ] "Hah, we did it!"
+- [ ] "Oorah!"
+- [ ] "I've got three words for you: U! S! A!"
+- [ ] Rare
+- [ ]
+- [ ] "Of course we won! We are Americans! If you didn't win, I would need to see your birth certificate!"
+- [ ] "If you do not like losing to an enlisted man, do not pick a fight with one!"
+- [ ] "Dear other team: please reach into your ass and give me my foot back! You can have it back next game!"
+- [ ] "They said we couldn't do it! They said we shouldn't do it! They begged us not to do it! And we did it anyway!"
+- [ ] "All gave some! Some gave more! But only one gave nothing, the winner!"
+- [ ] "Pick up their asses gently, men. Put them in a tub with scented candles. Tuck them into bed and kiss their asses on the - [ ] forehead. Because we have kicked them all over this map and they are devastated!"
+- [ ] "Sun Tzu said 'Winning a hundred wars is not the best thing. The best thing is to win without fighting at all.' Men, Sun Tzu is - [ ] an idiot! And if I ever see him, I will punch him in his mouth!"
+- [ ] "This is my rifle, this is my gun! You maggots stink and that's why we won!" (Reference to the Rifleman's Creed)
+- [ ] "We almost died on that hill! But dammit, we took it, didn't we?"
+- [ ] Rank up
+- [ ] "Rank up!"
+- [ ] "Rank up, maggot!"
+- [ ] "We have ranked up!"
+- [ ] "Sound off like you've got a rank!"
+- [ ] "You got the stripe, son! You can't see it, but I'm saluting you right now!"
+- [ ] "You ranked up, son! You can't see it, but I'm dropping and giving you twenty! [Sotto voce] One, two, three, four, five, six, - [ ] seven, eight, nine..."
+- [ ] "I love the smell of a rank up in the morning!" (Reference to a line spoken by Lieutenant Colonel Bill Kilgore in Apocalypse Now)
+- [ ] "This is my rank up, there are many like it, but this one is mine!" (Reference to the Rifleman's Creed)
+- [ ] "Well done, sir!"
+- [ ] "That took some doing!"
+- [ ] "Looks like we ranked up!"
+- [ ] "We have been promoted, maggot!"
+- [ ] "Looks like we moved up in rank!"
+- [ ] Top scoring
+- [ ]
+- [ ] "We've hit the top of the mountain, son! Now let's defend this pile of rocks!"
+- [ ] Game summary
+- [ ] "Son, I am proud of you!"
+- [ ] "Ten-Hut!"
+- [ ] "I am proud of you, you sack of garbage! Now eat the floor and give me twenty!"
+- [ ] "You have grit, you have valor, and now you have proof!"
+- [ ] "Son, whatever third-world stink pile you actually live in, today you are an American!"
+- [ ] "All gave some, some gave all, but nobody got a prize but us!"
+- [ ] "Well done, maggot!"
+- [ ] "We did it, son!"
+- [ ] Rare
+- [ ]
+- [ ] "One time I killed a man in Germany! After the war! He was asking for directions! I am more proud of this!"
+- [ ] "I have been awarded the Purple Heart, the Orange Star, the Green Clover, the Blue Diamond, and the Big Golden Army Ball of - [ ] Bravery! And I am most proud of this!"
+
+### Versus Saxton Hale responses
+
+- [ ] "They say I should not dig my own grave! Fine! Then I will dig your own grave!"
+- [ ] "Saxton, I don't need a gun to take you down!"
+- [ ] "Saxton! I don't need a gun to take you down!"
+- [ ] (inflected) "ABOOOOVE-YOU!"
+- [ ] "Above you, maggot!"
+- [ ] (inflected) "LOOOOK-UP!"
+- [ ] "Look to the skies, maggots!"
+- [ ] (inflected) "AIRBORNE-ENEMY-DETECTED!"
+- [ ] "Airborne enemy detected!"
+- [ ] (inflected) "BEHIIIIND-YOU!"
+- [ ] "Behind you!"
+- [ ] "Behind you, maggot!"
+- [ ] "Contact!"
+- [ ] "CON-TACT!"
+- [ ] "Contact, directly in front of me!"
+- [ ] Backpack Market Gardener.png  Successful critical hit with Market Gardener
+- [ ] "YOU! HAVE! BEEN! GARDENED!"
+- [ ] "YOU! HAVE! BEEN! GARDENED!"
+- [ ] "You have been Gardened, maggot!"
+- [ ] "Gardened!"
+- [ ] "GOTTIM!"
+- [ ] Leaderboard class medic.png  Medic status
+- [ ] "MEDIC! Dammit, we have none, ladies!"
+- [ ] "I do not see any doctors amongst you, maggots!"
+- [ ] "I do not see any doctors amongst you, maggots!"
+- [ ] "WE HAVE NO MEDIC, LADIES!"
+- [ ] "Be careful, ladies, we don't have any Medics! Heh, heh, heh, heh, heh. Yeah, right."
+- [ ] "Looks like our Medic got cold feet!"
+- [ ] "Looks like our battlefield nurse decided to stay at the campground!"
+- [ ] "We have no Medic, ladies!"
+- [ ] Wall climb
+- [ ] "Wall climbing is like rocket jumping, but you keep the rocket!"
+- [ ] "Wall climb now! That is an order!"
+- [ ] Achieved.png  Match win
+- [ ] "Put on some clothes, ya hippie!"
+
+### Halloween / Full Moon responses
+
+- [ ] ~~"Here we go."~~
+- [ ] ~~"Spinning. Spinning!"~~
+- [ ] ~~"I got a good feeling about this!"~~
+- [ ] ~~"Come on! Seven!"~~
+- [ ] Fate card dance.png  Dance Off fate
+- [ ] ~~"Must... Stop... Dancing."~~
+- [ ] ~~"Must... Think... About... Sensible haircuts!"~~
+- [ ] Fate card lowgravity.png  No Gravity fate
+- [ ] ~~"Don't you die on me, gravity."~~
+- [ ] ~~"Gravity! Noooo!"~~
+- [ ] ~~"Oh, my big head!"~~
+- [ ] ~~"Ahhrrr!"~~
+- [ ] ~~"Nooo!"~~
+- [ ] ~~"Oh, my tiny head!~~
+- [ ] ~~"Oh, my head!"~~
+- [ ] ~~"So tiny!"~~
+- [ ] ~~"My blood! No!"~~
+- [ ] ~~"Merasmus! I need that blood!"~~
+- [ ] ~~"Yaaay!"~~
+- [x] ~~(Happy laughter)~~
+- [ ] ~~"You are the worst roommate!"~~
+- [ ] ~~"Look out! It's the bas-bo bibby bomb!"~~
+- [ ] ~~"Look out! It's the bas-bo bombbibomb!"~~
+- [ ] ~~"Look out! It's the bomb-bo basmatron!"~~
+- [ ] ~~"Everyone down! He's got a book!"~~
+- [ ] ~~"It's a book! He's going to read!"~~
+- [ ] ~~"Oh, my big bomb head!"~~
+- [ ] ~~"Bomb head! I got a good feeling about this."~~
+- [ ] ~~"Hah! You screwed up now, Merasmus!"~~
+- [ ] ~~"Hah! I'm coming for you, wizard!"~~
+- [ ] ~~"You can't hide from me forever, Merasmus!"~~
+- [ ] ~~"You better hide, Merasmus!"~~
+- [ ] ~~"Come on out, Merasmus. I've got your rent."~~
+- [ ] ~~"Come on out, Merasmus! I've got your body! It's not burned! Looks pretty good! I might crawl in there myself!"~~
+- [ ] ~~"Everybody's dead now, Merasmus! From being scared! You win! Come out!"~~
+- [ ] ~~"Merasmus!"~~
+- [ ] ~~"Get out here so I can kick you right in your frilly wizard dress!"~~
+- [ ] ~~"Come get me, wizard coward!"~~
+- [ ] ~~"Wizard! You shall not hide!"~~
+- [ ] ~~"I'm tired of looking."~~
+- [ ] ~~"Merasmus, get your spectral ass out here!"~~
+- [ ] ~~"Come on out here, enchantress!"~~
+- [ ] ~~(apostrophe) "Oh, hello, Merlin, the famous magician! Nooo, I have not seen Merasmus. What's that? Nooo, I can't think of anyone - [ ] who'd want an autograph." (Reference to the wizard Merlin from Arthurian legend)~~
+- [ ] ~~(apostrophe) "Oh hello Gundorf! Where's Blasbo Babbins? Oh there he is! Everyone's here! Labalos, Gimpy, Dumpy, Snoopy...umm... - [ ] Man, I wish Merasmus was around to see this magical turn of events!" (Mispronunciation of the characters Gandalf, Bilbo Baggins, - [ ] Legolas, and Gimli from The Lord of the Rings)~~
+- [ ] ~~(apostrophe) "Oh look it's Houdini. What's that, Hougenie? You looking for a new best friend? Too bad there's no wizards - [ ] around... get out here Merasmus!" (Reference to escape artist Harry Houdini)~~
+- [ ] ~~(apostrophe) "What's that, Merasmus's favorite actor, Burt Lancaster? You think people who hide are cowards? Wise words, Burt - [ ] Lancaster. You've convinced all of us... Damn it, Merasmus, get out here!" (Reference to actor Burt Lancaster.)~~
+- [ ] ~~[Sing-song] "Merasmus!"~~
+- [ ] ~~"We give up, Merasmus! You're too scary for us! Now come on out so we can kick your ass!"~~
+- [ ] ~~"Oh no, I hope this scary wizard doesn't guess my card.~~
+- [ ] ~~"Merasmus! Stop taking jobs from American ghosts!"~~
+- [ ] ~~"Merasmus! I am going to pull a rabbit out of your ass!"~~
+- [ ] ~~"Merasmus! I will slap the magic out of your mouth!"~~
+- [ ] ~~"Merasmus! Take your voodoo back to Canada! Where it belongs!"~~
+- [ ] ~~"You wizard-ghost maggot!"~~
+- [ ] ~~"I will rip off your ghost head and crap in your stupid hat!"~~
+- [ ] ~~"I am going to kill you, Merasmus! Again!"~~
+- [ ] ~~"You are going down, you spell-casting maggot!"~~
+- [ ] ~~"Your magic is weak, wizard!"~~
+- [ ] ~~"Do not make me kill you again, Merasmus!"~~
+- [ ] ~~"I am going to haunt your ass with my foot!"~~
+- [ ] ~~"Tonight, your ass will be visited by three ghosts: my foot, my other foot, and a ghost!"~~
+- [ ] ~~"Let me give you some advice, son: Do not be a ghost!"~~
+- [ ] ~~"You are ten pounds of ghost crap in a five-pound dress!"~~
+- [ ] ~~"Son, you are a disgrace to the afterlife. You do not deserve to wear that magic dress."~~
+- [ ] ~~"I am not afraid of no ghosts! I refuse to be afraid of no ghosts!" (Reference to the Ghostbusters' theme.)~~
+- [ ] ~~"This corpse has got to move, ladies!"~~
+- [ ] ~~"Let's move some roadkill!"~~
+- [ ] ~~"This bag of bones has a date with the devil, men! Our job is to arrange the meeting!"~~
+- [ ] ~~"Keep this dead man moving, maggots!"~~
+- [ ] ~~"This old man will not push himself to Hell, ladies!"~~
+- [ ] ~~"It's the Witching Hour!"~~
+- [ ] ~~"Get to the island!!"~~
+- [ ] ~~"Let's get to the island!"~~
+- [ ] ~~"Reporting for duty!"~~
+- [ ] ~~"I am having a heart attack!"~~
+- [ ] ~~"God Bless America!"~~
+- [ ] ~~"We are in a world of magic!" (Screams)~~
+- [ ] ~~"Son of a cussing cuss word!"~~
+- [ ] ~~"Caputus crepitus!"~~
+- [ ] ~~"Pactum diabolus!"~~
+- [ ] ~~"Seismela tremoro!"~~
+- [ ] ~~"Barpo kabalto!"~~
+- [ ] ~~"Barpo invisium!"~~
+- [ ] ~~"Imputum fulmenus!"~~
+- [ ] ~~"Invokum Monoculus!"~~
+- [ ] ~~"Amplus tripudio!"~~
+- [ ] ~~"Paidum celeris!"~~
+- [ ] ~~"Ipsum instantarium!"~~
+- [ ] ~~"Deus invictus!"~~
+- [ ] ~~"Mortis animataris!"~~
+- [ ] ~~"Damn you, Merasmuuuuus! You are the worst roommaaaaaaaaate!" [Fades]~~
+- [ ] ~~"I am scared, you maggots!"~~
+
+### Item-related responses
+
+- [ ] Freedom Feathers With Freedom Feathers equipped
+- [ ] These responses override the default responses for that category.
+- [ ] Gette it Onne!.png  Round start
+- [ ] "Screaming eagle!" (Long scream)
+- [ ] "The eagle has landed! On my head!" (Reference to a line spoken by Neil Armstrong)
+- [ ] "I am the perfect avian killing machine!"
+- [ ] "Eagle head charge!"
+- [ ] "Merasmus, I hate you!"
+- [ ] Dominating.png  Domination
+- [ ] "Dominated, candy pants! This is Soldier, by the way. I have an eagle head right now."
+- [ ] "Dominated! By the official bird of Libby, Montana! Eagle fact, maggot!"
+- [ ] "Dominated! By the great seal of the United States of My Head!"
+- [ ] Killicon fire.png  Set on fire
+- [ ] (Scream) "My head smells delicious!"
+- [ ] "Ow, ow! Brawk! Fire!"
+- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
+- [ ] "Brark! Brark, brark, brark, braaaaarrrrk!"
+- [ ] "The Great Eagle Scourge returns, hippies!"
+- [ ] Larval Lid With Larval Lid equipped
+- [ ] These responses override the default responses for that category.
+- [ ] Idle
+- [ ] "Pay no attention to the top of this man's head!"
+- [ ] "Do not look at this man's head! Go about your business!"
+- [ ] "There is nothing unusual about this man's head!"
+- [ ] "You are all maggots!" [Quietly] "Oop, sorry, brain maggot. I forgot you were there."
+- [ ] "We're a good team, maggot! Yes we are, Soldier!"
+- [ ] "I love you brain maggot, never leave!"
+- [ ] "Surrender now maggots and you will not be harmed!" [Quietly] "It's just a metaphor, brain maggot."
+- [ ] "You are a true American, brain maggot!"
+- [ ] "Mwahaha! You said it, brain maggot!"
+- [ ] "What's that, brain maggot? You're starving? Yeah, I'm hungry too."
+- [ ] Healthico.png  Healed by Medic
+- [ ] "Ahh, my brain maggot's good as new!"
+- [ ] "That was close. Don't you die on me, brain maggot!"
+- [ ] Dominating.png  Domination
+- [ ] "If God had wanted you to live, He would not have made me a mindless puppet of this brain maggot!"
+- [ ] "I joined this team just to kill maggots like you. Uh, not you, brain maggot."
+- [ ] Killicon fire.png  Set on fire
+- [ ] "Save yourself, brain maggot!"
+- [ ] "Abandon head, brain maggot!"
+- [ ] Gette it Onne!.png  Round start
+- [ ] "Let's give 'em hell, brain maggot!"
+- [ ] "Tennnnnn-hut!" You too, brain maggot!
+- [ ] "AHHHHHHHHHHHHH THERE'S A MAGGOT EATING MY BRAIN!"
+- [ ] "Can one of you look at the top of my head? It feels- Do not look at this man's head. Go about your business!"
+- [ ] "Must find damp pile of leaves for brain maggot!"
+- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
+- [ ] "You're all maggots, you scum sucking fruit baskets!" [Quietly] "No offense, brain maggot."
+- [ ] "You sissified maggot scum have just signed your death warrants!" [Quietly] No offense, brain maggot."
+- [ ] ~~"In this man's unicorn army, you clomp your hooves when a superior officer addresses you!"~~
+- [ ] ~~"I am a pretty unicorn! I'm going to trot into the forest and pick each and every one of you maggots an arrangement of flowers! - [ ] They will be lovely! Am I making myself clear?!"~~
+- [ ] ~~"Men, these are the facts as I understand them: One! I am the prettiest unicorn! Two! My mane is lustrous and fragrant, and it - [ ] catches the wind perfectly! Dismissed!"~~
+- [ ] ~~"Let's get one thing straight: you are all pretty unicorns, but I am the prettiest unicorn! Did I stutter?!"~~
+- [ ] ~~"I am a unicorn! There are many unicorns like me, but I am the prettiest! Sound off like you've got a horn!"~~
+- [ ] ~~"I am the prettiest unicorn! My mane smells like lavender, and my horn grants wishes! Is that understood, maggots?!"~~
+- [ ] ~~[Singing] "I don't know, but I been told: I'm a pretty unicorn!"~~
+- [ ] ~~"I am the prettiest unicorn!"~~
+- [ ] ~~"I am a unicorn, maggots!"~~
+- [ ] ~~"Sound off like you've got a horn!"~~
+- [ ] ~~"Friendship is magic, creampuff."~~
+- [ ] ~~"This pretty pony just kicked a shiny, pink hoof up your ass!"~~
+- [ ] ~~"Salute the horn, not the man, son."~~
+- [ ] ~~"Abra Kadabra! I just made all my bullets disappear into your chest cavity."~~
+- [ ] ~~"Wanna see a magic trick? Presto, you're dead!~~
+- [ ] ~~"Beep beep!"~~
+- [ ] ~~"Beep boop!"~~
+- [ ] ~~"Bleep bloop!"~~
+- [ ] ~~"Beep-bop-boop!"~~
+- [ ] ~~"Blarp-a-barp!"~~
+- [ ] ~~"Beep beep boop!"~~
+- [ ] ~~"Robot noises!"~~
+- [ ] ~~"Bleep, bloop. Maggot!"~~
+- [ ] ~~"Beep-bop-boop. Maggot!"~~
+- [ ] ~~"Beep beep boop. Maggot!"~~
+- [ ] ~~"I am a robot! I run on American jobs!"~~
+- [ ] ~~"The natural enemy of the robot is hippies!"~~
+- [ ] ~~"I am programmed to be scary."~~
+- [ ] ~~"Hasta la vista! Feliz Navidad! Hasta gazpacho!" (Spanish for "Goodbye! Merry Christmas! Until gazpacho!")~~
+- [ ] ~~"I run on blood! I take jobs from American vampires!"~~
+- [ ] ~~"I am a robot! Bloop! What is love?"~~
+- [ ] ~~"Crush! Kill! Bleep!"~~
+- [ ] ~~"I am a robot! I am here to take American jobs!"~~
+- [ ] ~~"I am a robot from the future!"~~
+- [ ] ~~"I am a robot! I am here to take American jobs!"~~
+- [ ] ~~"I am a robot from the future!"~~
+- [ ] ~~"I am a robot! I was built to scare you!"~~
+- [ ] ~~"I am a robot! I am programmed to give you a sensible haircut!"~~
+- [ ] ~~"My foot will transform into a foot - with your ass wrapped around it!"~~
+- [ ] ~~"Scientists in the future have studied your ass for centuries - and sent me back in time to kick it!"~~
+- [ ] ~~"Come with me if you want to live. With me. In my apartment. I need a roommate." (Reference to a recurring line spoken in the - [ ] Terminator franchise)~~
+- [ ] ~~"I will find you. That's what I do. That's all I do. There you are! Shutting down."~~
+- [ ] ~~"I cannot be bargained with! I cannot be reasoned with! I do not know where I am! I am a robot, I don't understand anything!"~~
+- [ ] ~~"I will never feel pity, or remorse, or fear, or comfortable - in this costume."~~
+- [ ] ~~"Beep boop, son. Beep boop."~~
+- [ ] ~~"Today is a good day."~~
+- [ ] ~~"Hehehyaaa!"~~
+- [ ] ~~"I have returned from the grave to give the living haircuts."~~
+- [ ] ~~"BRAAAINS!"~~
+- [ ] ~~"Brains. Haircuts. Hippies. BRAAAAAINS!"~~
+- [ ] ~~"Brains!"~~
