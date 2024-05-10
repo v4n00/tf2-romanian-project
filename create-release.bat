@@ -1,9 +1,9 @@
-@REM @echo off
+@echo off
 setlocal
 
 set "OUTPUT_DEST=.\output\tf\custom\tf2-ro-pack"
-if exist "%OUTPUT_DEST%" (
-    rmdir /s /q "%OUTPUT_DEST%"
+if exist ".\output\tf" (
+    rmdir /s /q ".\output\tf"
 )
 mkdir "%OUTPUT_DEST%"
 
