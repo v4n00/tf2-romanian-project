@@ -26,7 +26,6 @@ set "LOCALIZATION_DEST=.\output\tf\resource"
 mkdir "%LOCALIZATION_DEST%"
 copy "%LOCALIZATION_SOURCE%" "%LOCALIZATION_DEST%"
 
-echo Created release.
 pause
 
 endlocal
