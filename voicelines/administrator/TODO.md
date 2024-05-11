@@ -1,8 +1,8 @@
-# Administrator
+# Administrator - 80%
 
 [wiki responses](https://wiki.teamfortress.com/wiki/Administrator_responses)
 
-## Responses
+## Responses - 80%
 
 ### General Responses - 100%
 
@@ -105,96 +105,310 @@
 - [x] "Our intelligence has returned to our base." - "Inteligența noastră a revenit la baza noastră."
 - [x] "The enemy intelligence was returned to their base." - "Inteligența inamiciilor a revenit la baza lor."
 
-### Mann vs. Machine responses
+### Competitive Mode responses - 100%
 
-- [ ] "Get to an Upgrade Station before they return."
-- [ ] "Get to an Upgrade Station."
-- [ ] "Get to an Upgrade Station and prepare for the next wave."
-- [ ] "Get to an Upgrade Station."
-- [ ] "Now find an Upgrade Station."
-- [ ] "Now get to an Upgrade Station."
-- [ ] "Now, head to an Upgrade Station."
-- [ ] "Quickly, find an Upgrade Station!"
-- [ ] "Quickly, get to an Upgrade Station."
-- [ ] "Get to an Upgrade Station. Quickly!"
-- [ ] "Hurry, get to an Upgrade Station!"
-- [ ] "Another wave of robots will attack in three, two, one."
-- [ ] "Incoming robot batallion in three, two, one."
-- [ ] "Robot attack imminent. Prepare for battle in three, two, one."
-- [ ] "The robots arrive in three, two, one."
-- [ ] "They'll be upon us in three, two, one."
-- [ ] "Wave starts in three, two, one."
-- [ ] "Begin defending in three... two... one."
-- [ ] "The robots arrive in three, two, one."
-- [ ] "The first wave of robots is upon us."
-- [ ] "The first robot battalion is here."
-- [ ] "They're here! If they get that bomb to the hatchway, we're all done for!"
-- [ ] "This is it. Do not fail me!"
-- [ ] "The first wave of robots is here."
-- [ ] "The first wave of robots is here."
-- [ ] "We're under attack!"
-- [ ] "We're under attack. Protect this facility!"
-- [ ] "We're under attack. Protect the facility!"
-- [ ] "Mann Co. is under attack."
-- [ ] "Mann Co. is under attack!"
-- [ ] "Mann Co. is under attack. You must defend it!"
-- [ ] "Defend our honor! Kill these robots!"
-- [ ] "The robots are here! Protect Mann. Co!"
-- [ ] "The attack has started!"
-- [ ] "Here they come!"
-- [ ] "Here they come!"
-- [ ] "The robots are here! Protect Mann. Co! You owe me, Hale."
-- [ ] "Another wave down. But there are more on the way."
-- [ ] "One wave down. But they'll be back."
-- [ ] "Wave completed."
-- [ ] "Wave defeated. Well done."
-- [ ] "Wave completed. Well done."
-- [ ] "You've defeated the wave. Good."
-- [ ] "Wave completed. But we're not done yet."
-- [ ] "You've beaten them back. For the moment."
-- [ ] "The last robot batallion is upon us. Fight!"
-- [ ] "Prepare yourselves! The last of the robots are here."
-- [ ] "This is it, the last wave. Defend the facility at all costs!"
-- [ ] "The final wave is upon us!"
-- [ ] "This is it! The final wave!"
-- [ ] "This is the final wave! Fight!"
-- [ ] "This is the final wave!"
-- [ ] "This is it, the last wave! Do not fail now!"
-- [ ] "This is it, the last wave! Defend Mann Co. at all costs!"
-- [ ] "This is the final wave! Do not fail me!"
-- [ ] "One more wave and we win!"
-- [ ] "This is the last wave! Fight!"
-- [ ] "That's it! That's the last of them! You've done it, gentlemen!"
-- [ ] "That's it! We win! You've done it, gentlemen."
-- [ ] "We win! We win it all!"
-- [ ] "Flawless victory, gentlemen!"
-- [ ] "You did it! You beat them!"
-- [ ] "You did it! I can't believe you actually beat them."
-- [ ] "Wave lost!"
-- [ ] "How could you let them beat us?!"
-- [ ] "Wave lost, how could you?!"
-- [ ] "They're beating us! Fight harder!"
-- [ ] "Wave lost. Get back out there and win this time!"
-- [ ] "Get back out there and fight harder!"
-- [ ] "Wave lost. I'm running out of patience!"
-- [ ] "You've lost the wave. Perhaps I should just hire them!"
-- [ ] "Wave lost."
-- [ ] "Wave lost!"
-- [ ] "They're beating us!"
-- [ ] "Wave lost! You imbeciles."
-- [ ] "You're all dead!"
-- [ ] "How could you all die at once?"
-- [ ] "Do not all die at once!"
-- [ ] "I'm giving you a bonus."
-- [ ] "Good. I'm giving you a bonus."
-- [ ] "Greed is good. Have a bonus."
-- [ ] "The robots have picked up the bomb."
-- [ ] "The robots are moving the bomb forward again!"
-- [ ] "The robots have recovered the bomb."
-- [ ] "The robots are bringing out another bomb."
-- [ ] "Another bomb is com--" [likely "coming," but the clip is cut off]
-- [ ] "Incoming! Another bomb is here!"
-- [ ] "They're bringing out another bomb!"
+- [x] "Competition begins in sixty seconds." - "Competiția începe în șaizeci de secunde!"
+- [x] "Prepare to compete in sixty seconds." - "Pregătiți-vă să concurați în șaizeci de secunde!"
+- [x] "Competition begins in thirty seconds." - "Competiția începe în treizeci de secunde!"
+- [x] "Prepare to compete in thirty seconds." - "Pregătiți-vă să concurați în treizeci de secunde!"
+- [x] "Competition begins in ten seconds." - "Competiția începe în zece secunde!"
+- [x] "Prepare to compete in ten seconds." - "Pregătiți-vă să concurați în zece secunde!"
+- [x] "Get ready." - "Pregătiți-vă."
+- [x] "Get ready!" - "Pregătiți-vă!"
+- [x] "Are you ready?" - "Sunteți pregătiți?"
+- [x] "Five" - "Cinci"
+- [x] "Four" - "Patru"
+- [x] "Three" - "Trei"
+- [x] "Two" - "Doi"
+- [x] "One" - "Unu"
+- [x] "Tiebreaker!" - "Rundă decisivă!"
+- [x] "May the best team win!" - "Fie ca cea mai bună echipă să câștige!"
+- [x] "Final round!" - "Ultima rundă!"
+- [x] "Final round!" - "Ultima rundă!"
+- [x] "This game decides everything!" - "Acest joc decide totul!"
+- [x] "Last chance to win it all!" - "Ultima șansă de a câștiga totul!"
+- [x] "The game is tied!" - "Jocul este egal!"
+- [x] "Tied game!" - "Joc egal!"
+- [x] "The game is tied!" - "Jocul este egal!"
+- [x] "Go!" - "Start!"
+- [x] "Fight!" - "Luptați!"
+- [x] "Fight!" - "Luptați-vă!"
+- [x] "Fight!" - "La bătaie!"
+- [x] "FIGHT!" - "LUPTAȚI!"
+- [x] "Get fighting!" - "Începeți lupta!"
+- [x] "Get fighting already!" - "Începeți lupta odată!"
+- [x] "Go!" - "Start!"
+- [x] "Go, go, go!" - "Hai odată, hai!"
+- [x] "Move!" - "Mișcați-vă!"
+- [x] "Good luck!" - "Baftă!"
+- [x] "Get moving!" - "Mișcați-vă!"
+- [x] "Start fighting!" - "Începeți lupta!"
+- [x] "Get moving!" - "Mișcați-vă!"
+- [x] "Go!" - "Start!"
+- [x] "Teamwipe!" - "Echipa a fost ștearsă!"
+- [x] "Teamwipe!" - "Echipa a fost ștearsă!"
+- [x] "Teamwipe!" - "Echipa a fost ștearsă!"
+- [x] "Teamwipe!" - "Echipa a fost ștearsă!"
+- [x] "You've killed them all!" - "I-ați ucis pe toți!"
+- [x] "Yes! You've killed all of them!" - "Da! I-ați ucis pe toți!"
+- [x] "You've killed them all!" - "I-ați ucis pe toți!"
+- [x] "Teamwipe! You've killed them all!" - "Echipa a fost ștearsă! I-ați ucis pe toți!"
+- [ ] ~~"RED team has been wiped out!"~~
+- [ ] ~~"RED is dead!"~~
+- [ ] ~~"BLU team has been wiped out!"~~
+- [ ] ~~"BLU is through!"~~
+- [ ] ~~"RED's on a killing spree!"~~
+- [ ] ~~"RED's on a killstreak!"~~
+- [ ] ~~"RED is on a rampage!"~~
+- [ ] ~~"RED cannot be stopped!"~~
+- [ ] ~~"RED is unstoppable!"~~
+- [ ] ~~"RED is godlike!"~~
+- [ ] ~~"RED is on a killstreak!"~~
+- [ ] ~~"BLU is on a killing spree!"~~
+- [ ] ~~"BLU is on a rampage!"~~
+- [ ] ~~"BLU cannot be stopped!"~~
+- [ ] ~~"BLU is unstoppable!"~~
+- [ ] ~~"BLU is godlike!"~~
+- [x] "Oh dear." - "Oh, Doamne."
+- [x] "Unfortunate." - "Din păcate."
+- [x] "To victory!" - "Înspre victorie!"
+- [x] "Kill them already!" - "Ucideții odată!"
+- [x] "What are you doing!" - "Ce faceți?"
+- [x] "I can't say I'm surprised." - "Nu pot spune că sunt surprinsă."
+- [x] "Oh dear." - "Oh, Doamne."
+- [ ] ~~"RED wins."~~
+- [ ] ~~"Winner: RED!"~~
+- [ ] ~~"RED wins!"~~
+- [ ] ~~"Winner: RED!"~~
+- [ ] ~~"RED wins!"~~
+- [ ] ~~"Winner: RED team!"~~
+- [ ] ~~"RED wins the round!"~~
+- [ ] ~~"RED takes the round!"~~
+- [ ] ~~"RED wins the round!"~~
+- [ ] ~~"RED wins the round!"~~
+- [ ] ~~"RED wins the round!"~~
+- [ ] ~~"The round belongs to RED!"~~
+- [ ] ~~"RED team is victorious!"~~
+- [ ] ~~"RED team is victorious!"~~
+- [ ] ~~"RED team...is victorious!"~~
+- [ ] ~~"Victory! RED team wins!"~~
+- [ ] ~~"Victory! For RED team!"~~
+- [ ] ~~"RED wins the match!"~~
+- [ ] ~~"RED wins the match!"~~
+- [ ] ~~"RED wins the match."~~
+- [ ] ~~"BLU wins."~~
+- [ ] ~~"Winner: BLU team!"~~
+- [ ] ~~"Winner: BLU team!"~~
+- [ ] ~~"Winner: BLU!"~~
+- [ ] ~~"BLU wins."~~
+- [ ] ~~"BLU wins!"~~
+- [ ] ~~"BLU wins the round!"~~
+- [ ] ~~"BLU wins the round."~~
+- [ ] ~~"BLU takes the round."~~
+- [ ] ~~"BLU wins the round!"~~
+- [ ] ~~"The round belongs to BLUE!"~~
+- [ ] ~~"BLU wins the round!"~~
+- [ ] ~~"BLU team...is victorious!"~~
+- [ ] ~~"BLU team is victorious!"~~
+- [ ] ~~"BLU team is victorious!"~~
+- [ ] ~~"Victory! BLU team wins!"~~
+- [ ] ~~"Victory! For BLU team!"~~
+- [ ] ~~"BLU wins the match!"~~
+- [ ] ~~"BLU wins the match!"~~
+- [ ] ~~"BLU wins the match."~~
+- [ ] ~~"Good game."~~
+- [ ] ~~"Excellent game!"~~
+- [ ] ~~"Well played!"~~
+- [ ] ~~"Oh yes, uh, 'GG'."~~
+- [x] "Stalemate!" - "Situație de impas!"
+- [ ] ~~"Your winners!"~~
+- [ ] ~~"Your victors!"~~
+- [ ] ~~"Meet your betters!"~~
+- [ ] ~~"Here are the winners!"~~
+- [ ] ~~"Presenting the victors!"~~
+- [ ] ~~"Meet your champions!"~~
+- [ ] ~~"Meet your champions!"~~
+- [ ] ~~"Look at them , they're all better than you!"~~
+- [ ] ~~"Take note of their superiority!"~~
+- [ ] ~~"Meet your winners!"~~
+- [ ] ~~"Competition over! Here are your winners!"~~
+- [ ] ~~"Good game!"~~
+- [ ] ~~"Ah, the best team did win!"~~
+- [ ] ~~"As you idiots say, 'GG'."~~
+- [ ] ~~"Let's see if any one of you deserve some recognition."~~
+- [ ] ~~"Who here is better than the others?"~~
+- [ ] ~~"Let's see which of you deserves some recognition."~~
+- [ ] ~~"Let's see which of you is a statistical outlier."~~
+- [ ] ~~"Let's see which of you deserves some recognition."~~
+- [ ] ~~"Who here is superior to everyone else?"~~
+- [ ] ~~"Who here merits recognition?"~~
+- [ ] ~~"Who here stands out?"~~
+- [ ] ~~"Who among you is spectacular?"~~
+- [ ] ~~"You're all winners! Now, let's see who's an actual winner."~~
+- [ ] ~~"Let's see, who here is the least disappointing?"~~
+- [ ] ~~"Let's see who's an outlier!"~~
+- [ ] ~~"Did anyone here stand out?"~~
+- [ ] ~~"Who here distinguished themselves?"~~
+- [ ] ~~"Who here went above and beyond?"~~
+- [ ] ~~"Did anyone here go above and beyond?"~~
+- [ ] ~~"Who among you is a glorious aberration?"~~
+- [ ] ~~"Who here is a deviant...at succeeding?"~~
+- [ ] ~~"Who here is above average?"~~
+- [ ] ~~"Well, you're all the best at being average. Is there anyone here above average?"~~
+- [ ] ~~"Who among you is spectacular!"~~
+- [ ] ~~"Who here is the least disappointing?"~~
+- [ ] ~~"Well done!"~~
+- [ ] ~~"I must say, I'm impressed."~~
+- [ ] ~~"Impressive."~~
+- [ ] ~~"Impressive."~~
+- [ ] ~~"Well done."~~
+- [ ] ~~"Extraordinary."~~
+- [ ] ~~"Extraordinary!"~~
+- [ ] ~~"Ah! Extraordinary!"~~
+- [ ] ~~"Ah! Above and beyond!"~~
+- [ ] ~~"You are the best of the best!"~~
+- [ ] ~~"Ah, excellent!"~~
+- [ ] ~~"Well done. You are statistically superior."~~
+- [ ] ~~"Well done."~~
+- [ ] ~~"Exemplary!"~~
+- [ ] ~~"Yes, excellent swork!"~~
+- [ ] ~~"Incredible!"~~
+- [ ] ~~"Remarkable!"~~
+- [ ] ~~"Most commendable!"~~
+- [ ] ~~"You're being noticed!"~~
+- [ ] ~~"I don't believe it! One of you is actually good at this!"~~
+- [ ] ~~"The numbers don't lie!"~~
+- [ ] ~~"An admirable performance!"~~
+- [ ] ~~"You're making your teammates look bad. Good."~~
+- [ ] ~~"You're making your teammates look bad. Heh heh, they're going to hate you for it! [laughter] Oh, I need a cigarette!"~~
+- [ ] ~~"Hmmm, you're exceptional. I'll allow it."~~
+- [ ] ~~"You are the best. Carry on."~~
+- [ ] ~~"You failed me ag-...sorry, force of habit. You actually did well."~~
+- [ ] ~~"I'm not proud of you, but I'm not unproud of you."~~
+- [ ] ~~"I'm slightly less disappointed in you than the others."~~
+- [ ] ~~"That makes you the least worst player here."~~
+- [ ] ~~"Now that is how you play 6s!"~~
+- [ ] ~~"Well done. You've made me slightly less not-proud."~~
+- [ ] ~~"Hah! No one!"~~
+- [ ] ~~"None of you! What a shame!"~~
+- [ ] ~~"Mmm, nobody here!"~~
+- [ ] ~~"At least you didn't disappoint me more than usual!"~~
+- [ ] ~~"Hah! None of you!"~~
+- [ ] ~~"Nobody! What a shock."~~
+- [ ] ~~"Nobody! I'm so shocked, I need to lie down."~~
+- [ ] ~~"Nobody! Try to imagine my complete lack of surprise right now."~~
+- [ ] ~~"You've tried and you failed! But always remember...you failed!"~~
+- [ ] ~~"Well, the least important thing is that you tried."~~
+- [ ] ~~"Don't let this lack of success go to your head."~~
+- [ ] ~~"None of you are spectacular. I'll alert the news outlets."~~
+- [ ] ~~"Being the best is difficult...evidently."~~
+- [ ] ~~"Hmmm, none of you. I'm shocked."~~
+- [ ] ~~"Not a single [ding]-ing one of you."~~
+- [ ] ~~"Nobody! I am giddy with indifference."~~
+- [ ] ~~"I am dumbstruck by your mediocrity."~~
+- [ ] ~~"You are the best! That's what I just told another group of players because they were the best. Unlike you, to be clear."~~
+- [ ] ~~"No! Absolutely middling! Oh, I have an idea. I'm going to stop talking to you."~~
+- [ ] ~~"Well! Aren't you undistinguished."~~
+- [ ] ~~"Go on! Give yourselves a hand! You're all so undistinguished."~~
+- [ ] ~~"Well, you must be very proud of yourself! You shouldn't be."~~
+- [ ] ~~"Just to avoid confusion, that means none of you are spectacular."~~
+- [ ] ~~"Unremarkable in every conceivable way! It's...remarkable."~~
+- [ ] ~~"None of you! I'm speechless. Oh wait, here's one: 'Four score and seven years ago, you were awful. Leading up to just now, when nothing at all has changed. God bless the Badlands. Thank you and good night.'"~~
+- [ ] ~~"In all my years of administrating, I have never seen a group of people so exceptional at being undistinguished; unremarkable in every conceivable way. It's...remarkable."~~
+- [ ] ~~"Remarkable! You are like Icarus, if he never flew too close to the sun. Or flew at all. And nobody remembered him. Or cared. That's you. You don't even know what I'm talking about, do you?"~~
+- [ ] ~~"Yes, that's right! Reach for that brass ring! Here, let me lower it. [cranking sound] Oh, I guess it doesn't go that low. Oh well."~~
+- [ ] ~~"Congratulations! [clapping sound] That was a stunning display of mediocrity! You can stop clapping now Miss Pauling, I've made my point."~~
+
+### Mann vs. Machine responses - 0%
+
+- [ ] "Get to an Upgrade Station before they return." - "Ajungeți la o stație de îmbunătățire înainte să se întoarcă."
+- [ ] "Get to an Upgrade Station." - "Ajungeți la o stație de îmbunătățire."
+- [ ] "Get to an Upgrade Station and prepare for the next wave." - "Ajungeți la o stație de îmbunătățire și pregătiți-vă pentru următoarul val."
+- [ ] "Get to an Upgrade Station." - "Ajungeți la o stație de îmbunătățire."
+- [ ] "Now find an Upgrade Station." - "Acum găsiți o stație de îmbunătățire."
+- [ ] "Now get to an Upgrade Station." - "Acum duceți-vă la o stație de îmbunătățire."
+- [ ] "Now, head to an Upgrade Station."- "Acum, mergeți la o stație de îmbunătățire."
+- [ ] "Quickly, find an Upgrade Station!" - "Rapid, găsiți o stație de îmbunătățire!"
+- [ ] "Quickly, get to an Upgrade Station." - "Rapid, mergeți la o stație de îmbunătățire."
+- [ ] "Get to an Upgrade Station. Quickly!" - "Duceți-vă la o stație de îmbunătățire. Rapid!"
+- [ ] "Hurry, get to an Upgrade Station!" - "Grăbiți-vă, mergeți la o stație de îmbunătățire!"
+- [ ] "Another wave of robots will attack in three, two, one." - "Un alt val de roboți va ataca în trei, doi, unu."
+- [ ] "Incoming robot batallion in three, two, one." - "Batalion de roboți în trei, doi, unu."
+- [ ] "Robot attack imminent. Prepare for battle in three, two, one." - "Atac de roboți iminent. Pregătiți-vă pentru luptă în trei, doi, unu."
+- [ ] "The robots arrive in three, two, one." - "Roboții ajung în trei, doi, unu."
+- [ ] "They'll be upon us in three, two, one." - "O să vină pe noi în trei, doi, unu."
+- [ ] "Wave starts in three, two, one." - "Valul începe în trei, doi, unu."
+- [ ] "Begin defending in three... two... one." - "Începeți apărarea în trei... doi... unu."
+- [ ] "The robots arrive in three, two, one." - "Roboții ajung în trei, doi, unu."
+- [ ] "The first wave of robots is upon us." - "Primul val de roboți este pe noi."
+- [ ] "The first robot battalion is here." - "Primul batalion de roboți este aici."
+- [ ] "They're here! If they get that bomb to the hatchway, we're all done for!" - "Sunt aici! Dacă ajung bomba la ușa de acces, suntem cu toții terminați!"
+- [ ] "This is it. Do not fail me!" - "Mă bazez pe asta. Nu dați greș!"
+- [ ] "The first wave of robots is here." - "Primul val de roboți este aici."
+- [ ] "The first wave of robots is here." - "Primul val de roboți este aici."
+- [ ] "We're under attack!" - "Suntem sub atac!"
+- [ ] "We're under attack. Protect this facility!" - "Suntem sub atac. Protejați această facilitate!"
+- [ ] "We're under attack. Protect the facility!" - "Suntem sub atac. Protejați facilitatea!"
+- [ ] "Mann Co. is under attack." - "Mann Co. este sub atac."
+- [ ] "Mann Co. is under attack!" - "Mann Co. este sub atac!"
+- [ ] "Mann Co. is under attack. You must defend it!" - "Mann Co. este sub atac. Trebuie să o apărați!"
+- [ ] "Defend our honor! Kill these robots!" - "Apărați onoarea noastră! Ucideți acești roboți!"
+- [ ] "The robots are here! Protect Mann. Co!" - "Roboții sunt aici! Protejați Mann. Co!"
+- [ ] "The attack has started!" - "Atacul a început!"
+- [ ] "Here they come!" - "Iată-i venind!"
+- [ ] "Here they come!" - "Iată-i cum vin!"
+- [ ] "The robots are here! Protect Mann. Co! You owe me, Hale." - "Roboții sunt aici! Protejați Mann. Co! Mi-ești datoar, Hale."
+- [ ] "Another wave down. But there are more on the way." - "Un alt val a fost învins. Dar mai sunt pe drum."
+- [ ] "One wave down. But they'll be back." - "Un val a fost învins. Dar se vor întoarce."
+- [ ] "Wave completed." - "Valul a fost învins."
+- [ ] "Wave defeated. Well done." - "Valul a fost învins. Bună treabă!"
+- [ ] "Wave completed. Well done." - "Valul s-a terminat. Bună treabă!"
+- [ ] "You've defeated the wave. Good." - "Ați învins valul. Bine."
+- [ ] "Wave completed. But we're not done yet." - "Valul a fost învins. Dar nu am terminat încă."
+- [ ] "You've beaten them back. For the moment." - "I-ați respins. Pentru moment."
+- [ ] "The last robot batallion is upon us. Fight!" - "Ultimul batalion de roboți este pe noi. Luptați!"
+- [ ] "Prepare yourselves! The last of the robots are here." - "Pregătiți-vă! Ultimii roboți sunt aici."
+- [ ] "This is it, the last wave. Defend the facility at all costs!" - "Asta e, ultimul val. Apărați facilitatea cu orice preț!"
+- [ ] "The final wave is upon us!" - "Ultimul val este pe noi!"
+- [ ] "This is it! The final wave!" - "Asta e! Ultimul val!"
+- [ ] "This is the final wave! Fight!" - "Asta e ultimul val! Luptați!"
+- [ ] "This is the final wave!" - "Asta e ultimul val!"
+- [ ] "This is it, the last wave! Do not fail now!" - "Asta e, ultimul val! Nu dați greș acum!"
+- [ ] "This is it, the last wave! Defend Mann Co. at all costs!" - "Asta e, ultimul val! Apărați Mann Co. până la moarte!"
+- [ ] "This is the final wave! Do not fail me!" -  "Asta e ultimul val! Nu dați greș!"
+- [ ] "One more wave and we win!" - "Înca un val și câștigăm!"
+- [ ] "This is the last wave! Fight!" - "Asta e ultimul val! Luptați!"
+- [ ] "That's it! That's the last of them! You've done it, gentlemen!" - "Asta e! Ați terminat cu ei! Ați reușit, domnilor!"
+- [ ] "That's it! We win! You've done it, gentlemen." - "Așa se face! Am câștigat! Ați reușit, domnilor."
+- [ ] "We win! We win it all!" - "Am câștigat! Am câștigat totul!"
+- [ ] "Flawless victory, gentlemen!" - "Victorie fără probleme, domnilor!"
+- [ ] "You did it! You beat them!" - "Ați reușit! I-ați învins!"
+- [ ] "You did it! I can't believe you actually beat them." - "Ați reușit! Nu pot să cred că i-ați învins."
+- [ ] "Wave lost!" - "Valul a fost pierdut!"
+- [ ] "How could you let them beat us?!" - "Cum ați putut să-i lasați să ne învingă?!"
+- [ ] "Wave lost, how could you?!" - "Valul a fost pierdut, cum ați putut?!"
+- [ ] "They're beating us! Fight harder!" - "Ne înving! Luptați mai bine!"
+- [ ] "Wave lost. Get back out there and win this time!" - "Valul a fost pierdut. Întoarceți-vă și câștigați de data asta!"
+- [ ] "Get back out there and fight harder!" - "Întoarceți-vă și luptați mai bine!"
+- [ ] "Wave lost. I'm running out of patience!" - "Valul a fost pierdut. Nu mai am răbdare!"
+- [ ] "You've lost the wave. Perhaps I should just hire them!" - "Ați pierdut valul. Poate ar trebui să-i angajez pe roboți!"
+- [ ] "Wave lost." - "Valul a fost pierdut."
+- [ ] "Wave lost!" - "Valul a fost pierdut!"
+- [ ] "They're beating us!" - "Ne distrug!"
+- [ ] "Wave lost! You imbeciles." - "Valul a fost pierdut! Handicapaților."
+- [ ] "You're all dead!" - "Sunteți toți morți!"
+- [ ] "How could you all die at once?" - "Cum ați putut să muriți toți odată?"
+- [ ] "Do not all die at once!" - "Nu muriți toți odată!"
+- [ ] "I'm giving you a bonus." - "Vă dau un bonus."
+- [ ] "Good. I'm giving you a bonus." - "Foarte bine. Vă dau un bonus."
+- [ ] "Greed is good. Have a bonus." - "Lăcomia e bună. Aveți un bonus."
+- [ ] "The robots have picked up the bomb." - "Roboții au luat bomba."
+- [ ] "The robots are moving the bomb forward again!" - "Roboții mută bomba înainte din nou!"
+- [ ] "The robots have recovered the bomb." - "Roboții au recuperat bomba."
+- [ ] "The robots are bringing out another bomb." - "Roboții aduc o altă bombă."
+- [ ] "Another bomb is com--" - "O altă bombă este pe dru--"
+- [ ] "Incoming! Another bomb is here!" - "Fiți pe fază! O altă bombă este aici!"
+- [ ] "They're bringing out another bomb!" - "Aduc o altă bombă!"
 - [ ] "Another bomb is in the facility."
 - [ ] "Alert! A bomb has entered the area."
 - [ ] "Alert! A bomb has entered the area."
