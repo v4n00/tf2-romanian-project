@@ -10,13 +10,13 @@ Go to the [releases page](https://github.com/v4n00/tf2-romanian-project/releases
 
 ## Progress
 
-### Voice lines - 1%
+### Voice lines - 5%
 
-- [ ] Administrator responses
+- [ ] Administrator responses - 80%
 - [ ] Scout commands
 - [ ] Scout responses
 - [x] Soldier commands - 100%
-- [ ] Soldier responses - 75%
+- [x] Soldier responses - 100%
 - [ ] Pyro commands
 - [ ] Pyro responses
 - [ ] Demoman commands
