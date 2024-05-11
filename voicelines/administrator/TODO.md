@@ -6,39 +6,39 @@
 
 ### General Responses
 
-- [ ] "Prepare to attack the enemy's control points!" (Gravel Pit and Steel Only)
-- [ ] "Prepare to capture all control points." (Coldfront Only)
-- [ ] "Mission begins in sixty seconds."
-- [ ] "Mission begins in thirty seconds."
-- [ ] "Mission begins in ten seconds."
-- [ ] "Five."
-- [ ] "Four."
-- [ ] "Three."
-- [ ] "Two."
-- [ ] "One."
-- [ ] "Attention! Five minutes left in the mission, five minutes left in the mission."
-- [ ] "Attention! Two minutes left in the mission, two minutes left in the mission." (Coldfront only)
-- [ ] "Mission ends in sixty seconds."
-- [ ] "Mission ends in thirty seconds."
-- [ ] "Mission ends in ten seconds."
-- [ ] "Five!"
+- [ ] "Prepare to attack the enemy's control points!" - "Pregătiți-vă să atacați punctele de control ale inamicilor."
+- [ ] "Prepare to capture all control points." - "Pregatiți-vă să capturați toate punctele de control."
+- [ ] "Mission begins in sixty seconds." - "Misiunea începe în șaizeci de secunde."
+- [ ] "Mission begins in thirty seconds." - "Misiunea începe în treizeci de secunde."
+- [ ] "Mission begins in ten seconds." - "Misiunea începe în zece secunde."
+- [ ] "Five." - "Cinci."
+- [ ] "Four." - "Patru."
+- [ ] "Three." - "Trei."
+- [ ] "Two." - "Doi."
+- [ ] "One." - "Unu."
+- [ ] "Attention! Five minutes left in the mission, five minutes left in the mission." - "Atențiune! Cinci minute rămase în misiune. Cinci minute rămase în misiune."
+- [ ] "Attention! Two minutes left in the mission, two minutes left in the mission." - "Atențiune! Doua minute rămase în misiune. Două minute rămase în misiune."
+- [ ] "Mission ends in sixty seconds." - "Misiunea se termină în șaizeci de secunde"
+- [ ] "Mission ends in thirty seconds." - "Misiunea se termină în treizeci de secunde."
+- [ ] "Mission ends in ten seconds." - "Misiunea se termină în zece secunde!
+- [ ] "Five!" - "Cinci!"
 - [ ] "Four!"
 - [ ] "Three!"
 - [ ] "Two!"
 - [ ] "One!"
-- [ ] "Time has been added."
-- [ ] "The enemy has received additional time."
-- [ ] "Additional time has been awarded."
-- [ ] "Congratulations. We have been awarded additional time."
-- [ ] "Success. We have been awarded additional time."
-- [ ] "Victory." (cheers)
-- [ ] "You've failed!" (boos)
-- [ ] "You've failed. Prepare for sudden death!" (outcry of disapproval)
-- [ ] "You've failed. Stalemate." (outcry of disapproval)
-- [ ] "Overtime."
-- [ ] "Overtime!"
-- [ ] "Overtime..."
-- [ ] "Overtime."
+- [ ] "Time has been added." - "Mai mult timp a fost adăugat."
+- [ ] "The enemy has received additional time." - "Inamicii au primit mai mult timp."
+- [ ] "Additional time has been awarded." - "Timp în plus v-a fost acordat."
+- [ ] "Congratulations. We have been awarded additional time." - "Felicitări. Ne-a fost acordat timp în plus."
+- [ ] "Success. We have been awarded additional time." - "Succes. Ne-a fost acordat timp în plus."
+- [ ] "Victory." (cheers) - "Victorie."
+- [ ] "You've failed!" (boos) - "Ați dat greș!"
+- [ ] "You've failed. Prepare for sudden death!" (outcry of disapproval) - "Ați dat greș. Pregătiți-vă pentru moarte subită."
+- [ ] "You've failed. Stalemate." (outcry of disapproval) - "Ați dat greș. Avem o situație de impas."
+- [ ] "Overtime." - "Supratimp."
+- [ ] "Overtime!" - "Supratimp!"
+- [ ] "Overtime..." - "Supratimp..."
+- [ ] "Overtime." - "Supratimp."
 
 ### Control Point Mode responses
 
