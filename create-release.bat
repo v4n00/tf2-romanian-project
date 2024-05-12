@@ -15,10 +15,8 @@ copy "%LOGO_SOURCE%" "%LOGO_DEST%"
 set "SOUND_SOURCE=.\voicelines"
 set "SOUND_DEST=%OUTPUT_DEST%\sound\vo"
 mkdir "%SOUND_DEST%"
-for /R "%SOUND_SOURCE%" %%F in (*.*) do (
-    if /I not "%%~xF"==".md" (
-        copy "%%F" "%SOUND_DEST%"
-    )
+for /R "%SOUND_SOURCE%" %%F in (*.mp3) do (
+    ffmpeg -y -i "%%F" -af "volume=3dB" "%SOUND_DEST%\%%~nxF"
 )
 
 set "LOCALIZATION_SOURCE=.\localization"
