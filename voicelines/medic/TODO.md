@@ -1,0 +1,131 @@
+# Medic - 0%
+
+[wiki commands](https://wiki.teamfortress.com/wiki/Medic_voice_commands)
+[wiki responses](https://wiki.teamfortress.com/wiki/Medic_responses)
+
+# Commands - 0%
+
+- [ ] "Doktor!" - "Doctor!"
+- [ ] "Medic!" - "Doctore!"
+- [ ] "MEEEDIIIC!" - "DOCTOREE!"
+- [ ] "Zank you." - "Mulzumesc."
+- [ ] "Danke!" - "Mersi!"
+- [ ] "Danke, Kamerad!" - "Mulțumesc, șefule!"
+- [ ] "Ve did it, Kamerad!" - "Am reușit, șefule!"
+- [ ] "Eins, zwei, drei ... Ugh, I do not think we brought enough body bags." - "Unu, doi, trei ... Ugh, nu cred că am destui saci de cadavre."
+- [ ] "Mach schnell!" - "Grăbește-te!"
+- [ ] "Schnell! Raus, RAUS!" - "Repede! Mergi odată!"
+- [ ] "Move! Schnell!" - "Mișcă! Dă-i pe turbo!"
+- [ ] "Los, Weiter!" - "Hai, bagă-i viteză!"
+- [ ] "Los los!" - "Hai, hai!"
+- [ ] "Move ze gear up, SCHNELL!" - "Mutăți echipamentul, repede!"
+- [ ] "Move zis gear up!" - "Mutăți echipamentul!"
+- [ ] "Left!" - "Stânga!"
+- [ ] "Go left!" - "La stânga!"
+- [ ] "Left, left!" - "În stânga!"
+- [ ] "Right!" - "Dreapta!"
+- [ ] "Go right!" - "La dreapta!"
+- [ ] "Right, right!" - "În dreapta!"
+- [ ] "Ja." - "Da."
+- [ ] "Jawohl." - "Da, domnule!"
+- [ ] "Yes." - "Oke."
+- [ ] "Nein!" - "Nain!"
+- [ ] "No!" - "Nu."
+- [ ] "Nichts da!" - "Nimic aici!"
+- [ ] "Incoming." - "Vine!"
+- [ ] "Incoming!" - "Se apropie!"
+- [ ] "Incoming." - "Sunt pe cale să ne atace!"
+- [ ] "Spy!" - "Spion!"
+- [ ] "Achtung! Spy!" - "Aoleo! Spion!"
+- [ ] "Ze Scout is a Spy!" - "Acel cercetaș e un spion!"
+- [ ] "Ze Soldier is a Spy!" - "Acel soldat e un spion!"
+- [ ] "Ze Pyro is a Spy!" - "Acel piroman e un spion!"
+- [ ] "Ze Demoman is a Spy!" - "Acel demolițian e un spion!"
+- [ ] "Ze Heavy is a Spy!" - "Acel greu e un spion!"
+- [ ] "Ze Engineer is a Spy!" - "Acel inginer e un spion!"
+- [ ] "Ze Medic is a Spy!" - "Acel doctor e un spion!"
+- [ ] "Ze Sniper is a Spy!" - "Acel lunetist e un spion!"
+- [ ] "Ze Spy is a double agent!" - "Acel spion e un dublu agent!"
+- [ ] "Sentry ahead!" - "Santinelă în față!"
+- [ ] "Zere is a Sentry ahead!" - "Avem o santinelă în față!"
+- [ ] "Ze Teleporter goes here!" - "Teleportatorul merge aici!"
+- [ ] "Ze Dispenser goes here!" - "Dozatorul merge aici!"
+- [ ] "Ze Sentry goes here!" - "Santinela merge aici!"
+- [ ] "Charge me, Herr doctor." - "Încarcă-mă, doctore."
+- [ ] "Ready for ze charge, Herr doctor." - "Sunt pregătit pentru încărcare, doctore."
+- [ ] "Now is ze time Herr doctor." - "Dă-i pe turbo, doctore."
+- [ ] "Ready to charge!" - "Sunt pregătit pentru încărcare!"
+- [ ] "I am fully charged!" - "Am încărcătura!"
+- [ ] "I am charged!" - "Sunt încărcat!"
+- [ ] "Help!" - "Ajutor!"
+- [ ] "I require assistance!" - "Am nevoie de ajutor!"
+- [ ] "Ve must defend zis point!" - "Trebuie să apărăm punctul!"
+- [ ] "Must I defend zis point myself?!" - "Trebuie să apăr punctul singur?!"
+- [ ] "Defend ze point!" - "Apărați punctul!"
+- [ ] "Help me secure this point!" - "Ajutați-mă să securizez punctul!"
+- [ ] "Get on ze point, dummkopf!" - "Stai pe punct, retardatule!"
+- [ ] "Stand on ze point, schweinhund!" - "Stai pe punct, neandertalule!"
+- [ ] "Idiot! Get on ze point!" - "Idiotule! Treci pe punct!"
+- [ ] "Idiot! Stand on ze point!" - "Handicapatule! Stai pe punct!"
+- [ ] "Standing near ze point does nussing, get on ze point, dummkopf!" - "Dacă te masturbezi pe lângă punct, nu faci nimic, stai pe punct, lăbarule!"
+- [ ] "Raus, Raus!" - "Șa pe ei câinilor!"
+- [ ] "Forward!" - "Atacați!"
+- [ ] "Heil, us!" - "Hai, băieți!"
+- [ ] "Hyaaaa!" - "Hyaaaa!"
+- [ ] "Horrido!" - "PE EII!"
+- [ ] "Gesundheit!" - "Sănătate!"
+- [ ] "Hold still, Schweinhund, zis vill only sting for a moment." - "Stai pe loc, neandertalule, o să doară doar un moment."
+- [ ] "Turn your head and cough." - "Întoarce-te și mori."
+- [ ] "I'm going to saw zrough your bones!"
+- [ ] "I healed zuh man who vill kill you!" (Dark, low voice)
+- [ ] "Prepare for your examination... (laughs)"
+- [ ] "Come over here. I promise I vill heal you!"
+- [ ] "All I can tell you about zis next procedure is zat it vill be... excruciating!"
+- [ ] "You have 30 seconds to live!"
+- [ ] Cheers - Default key: C → 3
+- [ ] "Excellent!"
+- [ ] "Vell done!"
+- [ ] "Keep it up!"
+- [ ] "Sturm und Drang!" (Lit. Translation: "Storm and Drive", see [1])
+- [ ] "I am ze Übermensch!" (Translation: "I am the Overlord/Superman!", most likely an allusion to Nietzsche's Übermensch)
+- [ ] "Oktoberfest!"
+- [ ] Jeers - Default key: C → 4
+- [ ] "Fess..." (Translation: "So tired...")
+- [ ] "Iz zere a point to your lives?"
+- [ ] "My skill is VASTED on zis team!"
+- [ ] "DUMMKOPFS!" (Translation: "Idiots!")
+- [ ] "Booo!"
+- [ ] "You are trying my patience!"
+- [ ] "Teeeeeeam!"
+- [ ] "Velcome to the 've lose vonce again'-fest."
+- [ ] "Ach, was ist los?" (Translation: "Oh, what's going on?")
+- [ ] "Danke, dummkopfs!" (Translation: "Thanks, you fools!")
+- [ ] "From now on, losing is verboten!" (Translation: "Forbidden")
+- [ ] "Schweinhunds!" (Translation: "Bastards!")
+- [ ] Positive - Default key: C → 5
+- [ ] "Vondaful."
+- [ ] "Wunderbar!" (Translation: "Wonderful!")
+- [ ] "Ha!"
+- [ ] "Dankeschön, na na, Dankeschön." (Translation: "Thank you very much". This is the refrain from the 1963 song of the same name popularized by Wayne Newton.)
+- [ ] "Dankeschön, dankeschön..." (quietly to self) (Translation: "Thank you, thank you...")
+- [ ] Evil laugh
+- [ ] Evil laugh 2
+- [ ] Evil laugh 3
+- [ ] Short laugh
+- [ ] Short laugh 2
+- [ ] Negative - Default key: C → 6
+- [ ] "Gah!"
+- [ ] "Schweinhunds!" (in a low, grim voice)
+- [ ] "Dummkopfs!"
+- [ ] "Raaah..."
+- [ ] "MNAAH!"
+- [ ] "Schweinhunds!"
+- [ ] "Dummkopfs!"
+- [ ] Nice Shot! - Default key: C → 7
+- [ ] "Nice shot, kamerad!"
+- [ ] "Good shooting!"
+- [ ] Good Job! - Default key: C → 8
+- [ ] "Good verk!"
+- [ ] "Stupendous!"
+- [ ] "Amazing, kamerad!"
+- [ ] "Keep it up!"
