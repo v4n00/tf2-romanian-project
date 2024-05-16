@@ -18,6 +18,10 @@ mkdir "%SOUND_DEST%"
 for /R "%SOUND_SOURCE%" %%F in (*.mp3) do (
     ffmpeg -y -i "%%F" -af "volume=3dB" "%SOUND_DEST%\%%~nxF"
 )
+mkdir "%SOUND_DEST%\compmode"
+for /R "%SOUND_SOURCE%\administrator\responses\compmode" %%F in (*.mp3) do (
+    ffmpeg -y -i "%%F" -af "volume=3dB" "%SOUND_DEST%\compmode\%%~nxF"
+)
 
 set "LOCALIZATION_SOURCE=.\localization"
 set "LOCALIZATION_DEST=.\output\tf\resource"

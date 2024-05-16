@@ -114,3 +114,662 @@
 - [x] "Nice shot, man!" - "Tragi prea bine, coaie!"
 - [x] "Cheers, mate!" - "Noroc, șefule!"
 - [x] "You're doing good, lad!" - "Te descurci bine, coaie!"
+
+## Responses - 0%
+
+### Kill-related responses - 100%
+
+- [ ] "How's that feel, ya blockhead?"
+- [ ] "Ya great lactating wet nurse!"
+- [ ] "Don't fret, boyo. I'll be gentle!"
+- [ ] "Oh, they're goin' ta have to glue you back together... IN HELL!"
+- [ ] Item icon Scottish Resistance.png  After killing more than 3 enemies in 20 seconds with a secondary weapon
+- [ ] "And that's what yeh get for touching that!"
+- [ ] "You appear to have trodden on a mine!"
+- [ ] "Bloody hell, those ones were me favorites!"
+- [ ] "Let that be a bloody lesson to yeh!"
+- [ ] "Couldn't ya see the bloody bombs?"
+- [ ] "You're all bloody dead!"
+- [ ] Item icon Medi Gun.png  Kill assist
+- [ ] "We did it, mate!"
+- [ ] "I didn't need your help, y'know." (except for Medic assist)
+- [ ] "That'll teach 'em!"
+- [ ] Item icon Bottle.png  Melee, Chargin' Targe or Splendid Screen kill (Shield bash kills use the currently equipped melee lines)
+- [ ] Shared by Bottle, Frying Pan, and Pain Train
+- [ ] [Slurred] "And then I'll grow yer arse's arse and I'm the grass man, punk yeah heaven's heathen..."
+- [ ] "Any one of you, I... (belch)"
+- [ ] [Slurred] "Any of you that think ye're better 'n me you're gon' have another thing c-..."
+- [ ] [Slurred] "...the BOTH of yeh on you..."
+- [ ] [Weeping, slurred] "...Everyone thinks I'm just a one-eyed bloody monster, god damnit... (sobbing)"
+- [ ] ..."Everyone thinks I'm... God damn it... (weeping)"
+- [ ] (Unintelligible gibberish)
+- [ ] "Any one of you (belches) Everyone, damn it... (sobs)"
+- [ ] Bottle and Frying Pan specific
+- [ ] "Aye, me bottle o' scrumpy!"
+- [ ] Pain Train specific
+- [ ] [Slurred] "...Gonna take down to the pain train station in train town..."
+- [ ] Ullapool Caber specific (Used only when scoring an explosive kill. Once detonated, no melee kill line is spoken)
+- [ ] "And that's what ya' get for touching that!"
+- [ ] "Ka-boooom!"
+- [ ] "Kablooie!"
+- [ ] Kill by sharp weapon (enemy is beheaded)
+- [ ] "There can be only one... Eye!" (When killing a Demoman)
+- [ ] "There can be only one!" (Reference to the same line spoken in the film Highlander)
+- [ ] (Evil laugh 1)
+- [ ] (Evil laugh 2)
+- [ ] (Evil laugh 3)
+- [ ] War soldier kills.png  Killing a Soldier
+- [ ] [Slurred] "(Unintelligible Muttering) ...I love you, man..."
+- [ ] [Slurred] "Gonna kill you and I'll keep killin' you and I'll never, cause you're 'onna be dead and I don't gotta kill you."
+- [ ] [Slurred] "Just bought two tickets to the gunshow, and I'm not givin' 'em to ya; I'm goin' with your tickets! (laughs, falls asleep) - [ ] Wha--?"
+- [ ] Killicon tool chest.png  Destructions
+- [ ] "Ka-boooom!"
+- [ ] "Kablooie!"
+
+### Domination-related responses - 0%
+
+- [ ] Dominating.png  Domination
+- [ ] (Short laugh 1)
+- [ ] (Short laugh 2)
+- [ ] (Evil laugh 1)
+- [ ] (Evil laugh 2)
+- [ ] (Evil laugh 3)
+- [ ] (Evil laugh 4)
+- [ ] (Evil laugh 5)
+- [ ] "See? I told ya they were a bunch o' wee lasses!"
+- [ ] (Long laugh 1)
+- [ ] (Long laugh 2)
+- [ ] (Happy laugh)
+- [ ] Leaderboard class scout.png  Dominating a Scout
+- [ ] "DOMINATED, twinkle-toes!"
+- [ ] "Dominated, ya wee scamperin' windbag!"
+- [ ] "Dominated, tiny man!"
+- [ ] "Don't come wide with me, ye pint-sized mutt!"
+- [ ] "Yer like a little bunny... Scurryin' around, eatin' up yer lettuce and berries!"
+- [ ] "Yer so bloody TINY! Yer like a toy-sized version of a man!"
+- [ ] "Grow some hair on yer face, and come and try me again, lad."
+- [ ] "Oh, you're a wee little miss, you are!"
+- [ ] Leaderboard class soldier.png  Dominating a Soldier
+- [ ] "DOMINATED! Ha ha ha ha ha ha!"
+- [ ] "I'll notify yer next o' kin... That ya sucked!"
+- [ ] "Hey, Private Haircut, I might've taken a bit too much off... Yer head!"
+- [ ] "Mother o' mercy! Now that is a bloody domination!"
+- [ ] "Lot o' good that Soldier trainin' did ya! I'm drunk!"
+- [ ] Leaderboard class pyro.png  Dominating a Pyro
+- [ ] "You've brought shame on yer people, ya mumblin' devil."
+- [ ] "Go home, lassie; men are fightin' here!"
+- [ ] "Go to hell, and tell the devil I'm comin' for him next!"
+- [ ] "Burn! In! HELL!'"
+- [ ] Leaderboard class demoman.png  Dominating a Demoman
+- [ ] "Thus begins my thousand year reign of blood!"
+- [ ] "DOMINATED! I feel everything! I know everything!"
+- [ ] "It is the Dominatening!"
+- [ ] "Welcome to the Dominatening!"
+- [ ] Leaderboard class heavy.png  Dominating a Heavy
+- [ ] "Dominated, ya grease-drippin' pork pie!"
+- [ ] "Ohhh... There's a new gravy-filled angel in heaven."
+- [ ] "Dominated, ya blubbery Bolshevik!"
+- [ ] "Awww.... There's a new angel in heaven... IN HELL!"
+- [ ] "Little too much caber-tossin' pie down yer own throat, eh, chubby?"
+- [ ] Leaderboard class engineer.png  Dominating an Engineer
+- [ ] "Don't hide behind yer toys, lad!"
+- [ ] "You're weak. I'm strong. And I win, toymaker!"
+- [ ] "That's a right pretty bra-washer ya built, ya big ugly girl!"
+- [ ] "You come wide at me again, boy, I'll stick that wrench right up yer arse!"
+- [ ] "Go on and build more o' yer little guns. I'll shove every one of them up yer arse!"
+- [ ] "If you were huntin' trouble, lad, ya found it."
+- [ ] Leaderboard class medic.png  Dominating a Medic
+- [ ] "Dominated, ya Teutonic nursemai-(belches) Ahh... Hah."
+- [ ] "How's that doin' no harm workin' out for ya, then?"
+- [ ] "Dominated! ...And I've been shaggin' yer wife! Hahah!"
+- [ ] "I dominate ya, Sawbones!"
+- [ ] Leaderboard class sniper.png  Dominating a Sniper
+- [ ] "Perfect bloody domination, ya campy weasel!"
+- [ ] "Dominated, ya headshottin' Judas!"
+- [ ] "I hate you campers; everybody bloody hates you!"
+- [ ] "It's lads like you that give war a bad name!"
+- [ ] Leaderboard class spy.png  Dominating a Spy
+- [ ] "Dominated, ya alley-skulkin' backstabber!"
+- [ ] "Yer a back-pokin' snake, and by God you'll die like one!"
+- [ ] "I hope I didn't scare you with my face-to-face man fightin!"
+- [ ] Nemesis RED.png  Revenge kill
+- [ ] "Cheers, mate!"
+- [ ] "They're goin' ta bury what's left of ye in a soup can!"
+- [ ] "I had me good eye on you the whole time!"
+- [ ] "Well, alright!"
+
+### Event-related responses
+
+- [ ] Gette it Onne!.png  Round start
+- [ ] "Freeeedooooom!"
+- [ ] "Hae at 'em, lads!"
+- [ ] "Get 'am, boyos!"
+- [ ] "Kill 'em aall!"
+- [ ] "Leeeeet's do iiiiit!"
+- [ ] "Aigheaght's the way to do it!"
+- [ ] "Come on!"
+- [ ] Item icon Eyelander.png  Sudden Death
+- [ ] "Boooooooo!"
+- [ ] "Hsssssss!"
+- [ ] [Slurred] "I'm drunk- you don't have an excuse!"
+- [ ] "I feel like every bone in me body's broke!"
+- [ ] "I did what I could!"
+- [ ] [Slurred] "Ooooh, I've reeallly hit rock bottom."
+- [ ] [Slurred] "Thankfully I already don't remember this."
+- [ ] "Bloody Hell!"
+- [ ] "Buck up, lads! We'll get 'em next time."
+- [ ] "I almost joined their bloody team!"
+- [ ] "We're a sorry buncha' losers!"
+- [ ] Killicon skull.png  Stalemate
+- [ ] "That wasn't supposed ta' happen!"
+- [ ] "Aye, what just happened?"
+- [ ] "Ugggghhh..."
+- [ ] "Ya' bleedin' idiots!"
+- [ ] Killicon fire.png  Set on fire
+- [ ] "Fire, fire, fire!"
+- [ ] "I'm burnin'!"
+- [ ] "FIIIIREEEEEEEEE!"
+- [ ] Health dead.png  On death by melee weapon and/or critical hit
+- [ ] (Dying scream 1)
+- [ ] (Dying scream 2)
+- [ ] (Dying scream 3)
+- [ ] (Dying scream 4)
+- [ ] (Dying scream 5)
+- [ ] Bleed drop.png  Severe pain
+- [ ] (Yell 1)
+- [ ] (Yell 2)
+- [ ] (Yell 3)
+- [ ] (Yell 4)
+- [ ] Bleed drop.png  Sharp pain
+- [ ] (Grunt 1)
+- [ ] (Grunt 2)
+- [ ] (Grunt3 )
+- [ ] (Grunt 4)
+- [ ] (Grunt 5)
+- [ ] (Grunt 6)
+- [ ] "Oh, that smarts!"
+- [ ] Item icon Jarate.png  Hit by Gas Passer, Jarate, Mad Milk, Mutated Milk, or Self-Aware Beauty Mark
+- [ ] "Ugggghhh..."
+- [ ] "Bloody Hell!"
+- [ ] "ACH!"
+- [ ] "AW, CRIPE!"
+- [ ] Telespin.png  Teleportation
+- [ ] "Thanks fer the ride!"
+- [ ] "Thanks, lad!"
+- [ ] Healthico.png  Healed by Medic
+- [ ] "Aye, thanks doc!"
+- [ ] "Thank ye, doctor!"
+- [ ] "Thanks, doc!"
+- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
+- [ ] If using the Grenade Launcher
+- [ ] "All yah dandies prancin' aboot with ya heads full of eyeballs!"
+- [ ] "You're makin' me very cross!"
+- [ ] "I'm goin' ta blast ya into thin gruel!"
+- [ ] "In your language; 'Eat lead, laddies!'"
+- [ ] If using the Stickybomb Launcher
+- [ ] "I'm gonna be all over ya like shingles!"
+- [ ] "Oh, they're gonna find ya all dead in the alley, with cats lickin' at ya!"
+- [ ] "Not one of ya's going to survive this!"
+- [ ] Healthico.png  Taking damage
+- [ ] "Oh, that smarts."
+- [ ] Item icon Chargin' Targe.png  Charging
+- [ ] (Loud scream 1)
+- [ ] (Loud scream 2)
+- [ ] (Loud scream 3)
+- [ ] Item icon Chargin' Targe.png  Shield bash
+- [ ] Impact on world 1
+- [ ] Impact on world 2
+- [ ] Impact on world 3
+- [ ] Impact on player 1
+- [ ] Impact on player 2
+- [ ] Impact on player 3
+- [ ] Impact on player at range with fanfare 1
+- [ ] Impact on player at range with fanfare 2
+- [ ] Impact on player at range with fanfare 3
+- [ ] Item icon Eyelander.png  Eyelander / Horseless Headless Horsemann's Headtaker / Nessie's Nine Iron whispers
+- [ ] On hit
+- [ ] "Head!"
+- [ ] "Head."
+- [ ] "Head!"
+- [ ] "Head!"
+- [ ] "Head..."
+- [ ] "Head..."
+- [ ] "Head!"
+- [ ] "HEAD."
+- [ ] "Head!"
+- [ ] "Head!"
+- [ ] When idle
+- [ ] "Heads heads heads..."
+- [ ] "Heaaaaaads...heads heads heads heads"
+- [ ] "Heads...heads heads heads..."
+- [ ] "Heaaaaaaaaads..."
+- [ ] "Heads...heads heads heads..."
+- [ ] "Heads heads heads heads!"
+- [ ] "Heaaaads."
+- [ ] "Heads heads heads heaaaaaads..."
+- [ ] "Heaaaaaaaaaaaads..."
+- [ ] "Heads. Heads. HEADS. Heaaaaaaaads..."
+- [ ] "Heads heads heads."
+- [ ] "Heads heads heads..."
+- [ ] "Heads heads heads..."
+- [ ] "HEADS heads heads..."
+- [ ] "Heads heads heads heads heads heads..."
+- [ ] Achieved.png  Achievement unlocked
+- [ ] "Aye, that's the way ye do it! Hehah!"
+- [ ] "Time to get bluttered!"
+- [ ] "Guts and glory, lads!"
+
+### Weapon-related responses
+
+- [ ] Standard icon RED Bottle.png  If the Demoman drinks from his Bottle (or any reskin besides the Frying Pan) and then swings it
+- [ ] [Slurred] "...Yer arses arse and I'm the grass man, punk yeah ya havin' heathen."
+- [ ] "Any one of you, I..." (belch)
+- [ ] [Slurred] "Any of you that think ye're better 'n me you're gon' have another thing c-..."
+- [ ] [Slurred] "...The BOTH of yeh on you..."
+- [ ] [Weeping, slurred] "...Everyone thinks I'm just a one-eyed bloody monster, God damn it... (sobbing)"
+- [ ] ..."Everyone thinks I'm...God damn it...(weeping)"
+- [ ] (Unintelligible gibberish)
+- [ ] "Any one of you (belches) Everyone, damn it... (sobs)"
+
+### Objective-related responses
+
+- [ ] Intel red idle.png  After capturing Intelligence
+- [ ] "Aye, that's the way ye do it! Hehah!"
+- [ ] "Time to get bluttered!" (Left unused for an unknown reason)
+- [ ] "That'll teach 'em!"
+- [ ] CP Captured RED.png  After capturing control point
+- [ ] "Keep it up, lads!"
+- [ ] "Guts and glory, lads!"
+- [ ] "Now it's our flippin' point, hehah!"
+- [ ] CP Locked RED.png  Standing on captured control point, firing weapon
+- [ ] "Stand on the bloody point, ya half-wit!"
+- [ ] "Stand on the point, ya git!"
+- [ ] Cross RED.png  Defense
+- [ ] "That'll teach 'em!"
+- [ ] "I don't think they saw that one comin'!"
+- [ ] "Imagine if I hadn't been drunk!"
+- [ ] (Happy laugh)
+- [ ] "That was my point you were standin' on!"
+- [ ] "Bloody brilliant!"
+- [ ] "That's the spirit!"
+- [ ] "Ah, that's the stuff!"
+- [ ] (Short laugh)
+- [ ] "That's the way ya' do it!"
+- [ ] "Next time you'll bloody ask before you stand on my point."
+- [ ] Payload-related responses
+- [ ] BLU Bombcart.png  Attacking: Cart goes forward
+- [ ] "Go! Push!"
+- [ ] "Put yer backs into it, lads!"
+- [ ] "Push!"
+- [ ] "Push, lads!"
+- [ ] "Mush, lads!"
+- [ ] BLU Bombcart.png  Attacking: Cart goes back
+- [ ] "The cart's moving back!"
+- [ ] "It's rolling bloody back!"
+- [ ] "Mind the cart, lads!"
+- [ ] "The cart's moving back, lads!"
+- [ ] RED Bombcart.png  Defending: Cart goes forward
+- [ ] "Stop that bloody cart!"
+- [ ] "Stop that cart, lads!"
+- [ ] RED Bombcart.png  Defending: Cart goes back
+- [ ] "Roll back to Hell, ya bloody cart!"
+- [ ] "Back ya bloody go!"
+- [ ] "It's rolling back!"
+- [ ] Hoodoo Bombcart.png  Attacking: Stay close to cart
+- [ ] "Get to the cart!"
+- [ ] "Stay close to that bloody cart!"
+- [ ] "Lads! Get to the cart!"
+- [ ] Hoodoo Bombcart.png  Attacking: Cart has stopped
+- [ ] "The bloody cart's not moving!"
+- [ ] "The cart is bloody stopped!"
+- [ ] "The cart's not moving, lads!"
+
+### Duel-related responses
+
+- [ ] Backpack Dueling Mini-Game.png  Starting a duel
+- [ ] "Time to get bluttered!"
+- [ ] "Leeeeet's do iiiiit!"
+- [ ] "Come on!"
+- [ ] [Silently] "Oooohhh, I'm goin' ta liquefy ya!"
+- [ ] "I'm goin' ta strangle you with me bare hands!"
+- [ ] [Slurred] "...Yer arses ass and I'm the grass man, punk yeah ya havin' heathen."
+- [ ] [Slurred] "Any of you think yer better 'n me, you're gon' have another thing..."
+- [ ] [Slurred] "Gonna kill you and I'm keep killin' you and I never, cause you're be dead and then I'm gonna kill you."
+- [ ] [Slurred] "It's on! It's on like (falls asleep, then wakes up) Wha--?"
+- [ ] [Slurred] "...Gonna take down to the pain train station in train town..."
+- [ ] Duel RED.png  Duel accepted
+- [ ] "I'm gonna stick me thumbs in yer eyes and hang on 'till yer deid!"
+- [ ] "Ohh, I'm gonna beat ya so hard, you'll have a twitch!"
+- [ ] "Yah!"
+- [ ] Duel BLU.png  Duel rejected
+- [ ] "Boooooooo!"
+- [ ] "Hsssssss!"
+- [ ] "Oh, you're a wee little miss, you are!"
+
+## Not planned
+
+### Contract-related responses
+
+- [ ] Contract complete
+- [ ] "Ach, well done, lad!"
+- [ ] "Ho, hoh! Was that it, then?"
+- [ ] "Are we done? I was just getting warmed up!"
+- [ ] "Oh, too bloody easy!"
+- [ ] "Hah! Barely broke a sweat!"
+- [ ] "Done and done!"
+- [ ] "Hah! Nicely done!"
+- [ ] Difficult contract
+- [ ]
+- [ ] "I won't lie, lad, that was a tough one!"
+- [ ] "We only went an' bloody did it, didn't we? Ah ha ha ha!"
+- [ ] "As long as I've got bombs and there's men need killing, I'm your man!"
+
+### Competitive Mode responses
+
+- [ ] Setup
+- [ ] Setup.png  First round
+- [ ] Casual Mode
+- [ ]
+- [ ] "Push 'em back, lads!"
+- [ ] "Stand back and watch how it's done, lads!"
+- [ ] "They haven't got a chance!"
+- [ ] "If you're ready, I'm ready!"
+- [ ] Rare
+- [ ]
+- [ ] "Lads, I don't mean to worry you, but I saw their scrim earlier and they're real bloody good! Hah hah ha! Nah, they're terrible!"
+- [ ] "I got a good feeling about this match, lads! Dinnae tell anyone... [sotto voce] I brought a lot of bloody bombs!"
+- [ ] "I came here to kick arse and have two eyes! And I'm all out of eyes! Well, half out."
+- [ ] Competitive Mode
+- [ ]
+- [ ] "Let's push 'em back to spawn, lads!"
+- [ ] "Not a single one of 'em can lay a proper sticky!"
+- [ ] "Lads, I watched their scrim! I think this might be a mercy killing!"
+- [ ] "I've been saving the good scrumpy for Competitive Mode!"
+- [ ] "This team needs all Demomen!"
+- [ ] 6s Only
+- [ ]
+- [ ] "I killed the bloody Loch Ness Monster! I ain't afraid of six wee men!"
+- [ ] "Who's ready for a wee game of 6s?"
+- [ ] "Aww, six wee baby lambs come to slaughter!"
+- [ ] Setup.png  Previous round was a win
+- [ ] "Keep it up, lads!"
+- [ ] "Ha ha ha! We've got 'em on the run!"
+- [ ] "Bear down, lads! Let's finish it!"
+- [ ] "Oh, I'm ready, lad! Let's go cause some more trouble!"
+- [ ] Rare
+- [ ]
+- [ ] "Let's give 'em a sportin' chance! Someone, take out me other eye!"
+- [ ] Setup.png  Previous round was a loss
+- [ ] "The losing ends here, people!"
+- [ ] "Dinnae worry, lads, we're turning this tide now!"
+- [ ] "Alright, no more foolin' around! Let's win this one!"
+- [ ] "I've a bomb with each and every one of their names on it!"
+- [ ] Rare
+- [ ]
+- [ ] "Did we win or lose that last one? Eh, either way, it deserves a drink!"
+- [ ] Setup.png  Previous round was a tie
+- [ ] "Let's finish this, lads!"
+- [ ] "Time to pull ahead, boys!"
+- [ ] "Oh, it's a tie, is it? We'll see about that!"
+- [ ] "Time to break the tie, lads!"
+- [ ] Outcomes
+- [ ] Match win
+- [ ] "'Course we won! You got a bloody Demo, don't ya?"
+- [ ] "'Course we won!"
+- [ ] "Hoh hor! Was that it, then?"
+- [ ] "Are we done? I was just gettin' warmed up!"
+- [ ] Game win
+- [ ] "Oh, we won? Heh heh, I dinnae know we were playing anybody!"
+- [ ] "We won? Ha ha ha!"
+- [ ] "Bottoms up, lads!"
+- [ ] "Oh, too bloody easy!"
+- [ ] "Hah, barely broke a sweat!"
+- [ ] "Done and done!"
+- [ ] Rare
+- [ ]
+- [ ] "Ah hah! They came to a sticky end, dinnae they? That's a bomb joke."
+- [ ] "Where was the other team during that last round? Oh, that's right, they were in bits all over the point!"
+- [ ] "I dinnae even know we were fightin' another team! I just thought we were just testing our weapons!"
+- [ ] "Ha ha ha! I'm a drunk and glorious man!"
+- [ ] Rank up
+- [ ] "Rank up!"
+- [ ] "Aye, we've ranked up!"
+- [ ] "Well done, lad!"
+- [ ] "Oh, a wee promotion? Don't mind if I do!"
+- [ ] "Ha ha ha! Rank up!"
+- [ ] "Ha ha! I love ranking up!"
+- [ ] "Ho hah! Oh, I could rank up all day!"
+- [ ] "Ho! A wee rank up!"
+- [ ] "Oh! Now we're getting noticed!"
+- [ ] "What rank up gets me eye back, do you think?"
+- [ ] Top scoring
+- [ ]
+- [ ] "Remember, lad, it wasn't the easy matches that got you here, it was the bloody impossible ones!"
+- [ ] Game summary
+- [ ] "You did good!"
+- [ ] "Nice work, lad!"
+- [ ] "I'm bloody proud of ya!"
+- [ ] "Well done, boyo!"
+- [ ] "Ack, I knew you could do it!"
+- [ ] "Ha ha ha! We did it, lads!"
+- [ ] "We did it, lad! Ha ha ha ha ha!"
+
+### Mann vs. Machine responses
+
+- [ ] During a Wave
+- [ ] Upon being revived with a Reanimator
+- [ ] "I'm back!"
+- [ ] "What did I miss?"
+- [ ] "Back from the bloody grave!"
+- [ ] "Good on ya, Medic!"
+- [ ] "I'll rest when I'm dead!"
+- [ ] "FREEDOM!"
+- [ ] "HA HA!"
+- [ ] "Oh, I need a drink!"
+- [ ] "Wuhbluhbluhbluh!"
+- [ ] "Ha! I'm back!"
+- [ ] "I'm back, lads!"
+- [ ] Mannhattan specific
+- [ ] Gate responses
+- [ ] Robots attacking
+- [ ]
+- [ ] "Clankers at the gate, lads!
+- [ ] "Robots at the gate!
+- [ ] "Robots are taking the gate, lads!
+- [ ] Robots take gate
+- [ ]
+- [ ] "Argh! The robots took the gate!
+- [ ] "The tin cans have the gate, lads!
+- [ ] After a wave
+- [ ] Receiving a Killstreak Kit
+- [ ] Common Loot
+- [ ]
+- [ ] "Oh, brilliant!"
+- [ ] "Oh, now would ya look at that!"
+- [ ] "Aye! T'is nice!"
+- [ ] "Aye! That'll do!"
+- [ ] Rare Loot
+- [ ]
+- [ ] "Pure dead brilliant!"
+- [ ] "Oh, what's your name, ya pretty lit'le thing?"
+- [ ] Godlike Loot
+- [ ]
+- [ ] "(laughs) Ab-so-bloody-lootly!"
+
+### Versus Saxton Hale responses
+
+- [ ] Note: Voicelines for this mode were provided by James McGuinn.
+- [ ]
+- [ ] VSH Saxton Hale Model.png  Saxton location
+- [ ] Above
+- [ ]
+- [ ] "Above ya!"
+- [ ] "Above you, lad!"
+- [ ] "Look up, ya dummy!"
+- [ ] "Look up! It's a bird, um, it's a plane? Oh, that's Saxton."
+- [ ] "Aye, look up, ya dummy!"
+- [ ] Behind
+- [ ]
+- [ ] "Look out behind ya, lad!"
+- [ ] "If you don't turn around, ya gonna be mincemeat!"
+- [ ] Contact
+- [ ]
+- [ ] "He's over there!"
+- [ ] Backpack Chargin' Targe.png  Shield cooldown
+- [ ] "Ach! Me shield!"
+- [ ] "He broke me shield!"
+- [ ] "He broke me shield!"
+- [ ] "HE BROKE ME SHIELD! KILL HIM!"
+- [ ] While at low health
+- [ ]
+- [ ] "Ach, almost got me!"
+- [ ] "Whoa, almost got me!"
+- [ ] Sticky proj red.png  Stickybombs
+- [ ] "Oh, Saxton's gonna like this!"
+- [ ] "I hope Mr. Hale loves explosives!"
+- [ ] "Nehehe, Hale's gonna love this!"
+- [ ] "Ah hahahaha! Hale's gonna like this!"
+- [ ] Leaderboard class medic.png  Medic status
+- [ ] "We have nooo Medic, lads!"
+- [ ] "Aye! Did we misplace our Medic or something?"
+- [ ] "We have no Medic, lads!"
+- [ ] "We have no Medic, lads!"
+- [ ] "Uhh, did we forget to bring Medic?"
+- [ ] Medic is dead
+- [ ]
+- [ ] "Bloody Hell! He killed our Medic!"
+- [ ] "MEDIC! Ach, he's gone!"
+- [ ] "The bloody Medic is dead!"
+- [ ] Wall climb
+- [ ] "Wall climbing!"
+- [ ] "Wall climbing, is the bloody best!"
+- [ ] "Wait, will I wall climb higher with my Caber?"
+- [ ] "I can climb this wall with both of me eyes gone!"
+- [ ] Item icon Eyelander.png  Successful Eyelander, Horseless Headless Horsemann's Headtaker, or Nessie's Nine Iron hit
+- [ ] "Where are these bloody heads coming from?"
+
+### Halloween / Full Moon responses
+
+- [ ] Wheel of Fate outcomes
+- [ ] Fate card bighead.png  Big Head fate
+- [ ] "Ahhh! Me head!"
+- [ ] "Ach! Me noggin is huge!"
+- [ ] Fate card shrunkenhead.png  Small Head fate
+- [ ] "Ohhh! Me wee head!"
+- [ ] "Ahhh! Me head! It's wee. It's a wee head..." [fades]
+- [ ] Backpack Skull Island Topper.png  Positive fate
+- [ ] "What manner of witchcraft is this?"
+- [ ] Backpack Skull Island Topper.png  Negative fate
+- [ ] "Yer a devil! A devil!"
+- [ ] "Yer wicked! And you'll burn fer it, Merasmus!"
+- [ ] "Oh, this is not good."
+- [ ] "Wot is happenin'?"
+- [ ] "Wot's this now?"
+- [ ] "Wot the bloody hell?"
+- [ ] "Wot magic is this?"
+- [ ] During battle with Merasmus
+- [ ] RED Bombinomicon.png  Merasmus brings out Bombinomicon
+- [ ] "He's got that book that stole me eye!"
+- [ ] "That dark book is full of magic bombs!"
+- [ ] "That Bombinomicon is about to blow!"
+- [ ] "Ya call those bombs, ya wee little romance novel? I'll show you bombs!"
+- [ ] "Watch out, lads! That book's the Bombinomicon!"
+- [ ] "The student has become the one-eyed master, ya fancy perfume catalog!"
+- [ ] RED Bombinomicon.png  Successfully stun Merasmus
+- [ ] "Wuh huh ho! Who's laughing now, wizard?"
+- [ ] "Yah should not have done that, wizard!"
+- [ ] "Yer magic is 'weak,' old man!"
+- [ ] Backpack Skull Island Topper.png  Merasmus attempts to heal himself
+- [ ] "The wizard's healin' himself!"
+- [ ] "Kill him. Kill him, he's healin' himself!"
+- [ ] Backpack Skull Island Topper.png  Looking for Merasmus
+- [ ] "You better hide, wizard! I'll kick you back to whatever hell you crawled out of!"
+- [ ] "Wizard! Show yerself!"
+- [ ] "Merasmus! We've got unfinished business, you and I! And by God, I'll see it settled!"
+- [ ] "Merasmus! I'll have me eye back, you shifty dog!"
+- [ ] "Merasmus! Give me my eye back, you wizard!
+- [ ] "Merasmus! I've got yer nickel! Give me back me eye!" (A reference to how Demoman sweeped Merasmus's castle for a nickel in the - [ ] Bombinomicon comic)
+- [ ] "Wizard! You turned me own eye against me! And by God, I'll kill you for it!"
+- [ ] "Eye for an eye, wizard-man! I'll chew the eyeballs right out of your skull!"
+- [ ] "This Demoman needs an eye, wizard! Hah! Yours will do just fine."
+- [ ] "Merasmus!"
+- [ ] Helltower responses
+- [ ] Gette it Onne!.png  Round start
+- [ ] "Freedom! To roll a wheelchair to Hell!"
+- [ ] "Let's send that old man to Hell!!"
+- [ ] BLU Bombcart.png  Witching Hour: The bridge appears
+- [ ] "The bridge! The bridge!"
+- [ ] "We can get to the island! Go, go!"
+- [ ] "It's the Witching Hour!"
+- [ ] "It's midnight, lads!"
+- [ ] Miscellaneous
+- [ ] Backpack Fancy Spellbook.png  Collected normal spell
+- [ ] "Oh, that's nice."
+- [ ] "Oh, that's magic."
+- [ ] "Now that's quality."
+- [ ] Backpack Fancy Spellbook.png  Collected rare spell
+- [ ] "Oh, bloody epic!"
+- [ ] "Ha-ha-ha-ha!"
+- [ ] "Guts and glory!"
+- [ ] "Oh, I'm full of bombs and magic!"
+- [ ] "Magic and mayhem!"
+- [ ] Backpack Fancy Spellbook.png  Reacting to rare spell
+- [ ] "Too much magic! (screams)"
+- [ ] "It's the devil's work!"
+- [ ] Backpack Spellbook Magazine.png  Casting spells
+- [ ] "Caputus crepitus!"
+- [ ] "Pactum diabolus!"
+- [ ] "Seismela tremoro!"
+- [ ] "Barpo kabalto!"
+- [ ] "Barpo invisium!"
+- [ ] "Imputum fulmenus!"
+- [ ] "Invokum MONOCULUS!"
+- [ ] "Invokum MONOCULUS! Oh, me eye!"
+- [ ] "Amplus tripudio!"
+- [ ] "Paidum celeris!"
+- [ ] "Ipsum instantarium!"
+- [ ] "Deus invictus!"
+- [ ] "Mortis animataris!"
+- [ ] Killicon skull.png  Attacked by skeletons
+- [ ] "Hell zombies!"
+- [ ] "Run!"
+- [ ] (Scream 1)
+- [ ] (Scream 2)
+- [ ] (Scream 3)
+- [ ] (Long scream)
+- [ ] Backpack Skull Island Topper.png  Falling in bottomless pit
+- [ ] (Long scream)
+
+### Item-related responses
+
+- [ ] Magical Mercenary With Magical Mercenary equipped
+- [ ] These responses override the default responses for that category.
+- [ ] Gette it Onne!.png  Round start
+- [ ] "Freedom! For unicorns!"
+- [ ] "I've got pink hair!
+- [ ] "Unicorn brothers! Tonight, we pony prance in HELL!"
+- [ ] Dominating.png  Domination
+- [ ] "Who's laughin' at me pink wig now?!"
+- [ ] "That's unicorn bloody justice!"
+- [ ] "Domination is bloody magic!"
+- [ ] "Dominated! Ya wee unicorn-hatin' piece o' crap!"
+- [ ] "Dominated! Accordin' to unicorn law, yer me bloody wife now."
+- [ ] Killicon fire.png  Set on fire
+- [ ] "(Screams) Me beautiful horn!"
+- [ ] "The pink hair, it burns!"
+- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
+- [ ] "I'm a unicorn from Hell, and I'm comin' for ya!"
+- [ ] "You cannot stop the magic!"
+- [ ] "I'm bearin' a message of peace!"
+
+### Unused responses
+
+- [ ] War soldier kills.png  Dominating a Soldier
+- [ ] Note: These lines possibly hint at the Demoman's and the Soldier's friendship from the War! Update.
+- [ ]
+- [ ] "DOMINATED! [sotto voce] But you're a good man and I love you."
+- [ ] "EVERYBODY! I DON'T LIKE THIS MAN. HE IS A SOULLESS MONSTER!" [sotto voce] I do like you, it's just for show."
+- [ ] "DOMINATED! [sotto voce] But you're still me best mate, heh."
+- [ ] "DOMINATED! [sotto voce] "But I treasure your friendship."
+- [ ] "DOMINATED! [sotto voce] You are okay though, right, lad?"
+- [ ] "MY GREATEST ENEMY IS DEAD! [sotto voce] We should be friends forever, eh?"

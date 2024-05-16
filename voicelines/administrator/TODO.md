@@ -1,8 +1,8 @@
-# Administrator - 80%
+# Administrator - 100%
 
 [wiki responses](https://wiki.teamfortress.com/wiki/Administrator_responses)
 
-## Responses - 80%
+## Responses - 100%
 
 ### General Responses - 100%
 

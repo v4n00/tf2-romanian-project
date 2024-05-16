@@ -12,7 +12,7 @@ Go to the [releases page](https://github.com/v4n00/tf2-romanian-project/releases
 
 ### Voice lines - 8%
 
-- [ ] Administrator responses - 80%
+- [x] Administrator responses - 100%
 - [ ] Scout commands
 - [ ] Scout responses
 - [x] Soldier commands - 100%
