@@ -1,4 +1,4 @@
-# Demo - 20%
+# Demo - 50%
 
 [wiki commands](https://wiki.teamfortress.com/wiki/Demoman_voice_commands)
 [wiki responses](https://wiki.teamfortress.com/wiki/Demoman_responses)
@@ -115,7 +115,7 @@
 - [x] "Cheers, mate!" - "Noroc, șefule!"
 - [x] "You're doing good, lad!" - "Te descurci bine, coaie!"
 
-## Responses - 0%
+## Responses - 30%
 
 ### Kill-related responses - 100%
 
@@ -156,49 +156,43 @@
 - [x] "Ka-boooom!" - "Ka-boooom!"
 - [x] "Kablooie!" - "Kablooie!"
 
-### Domination-related responses - 0%
+### Domination-related responses - 50%
 
-- [ ] Dominating.png  Domination
-- [ ] (Short laugh 1)
-- [ ] (Short laugh 2)
-- [ ] (Evil laugh 1)
-- [ ] (Evil laugh 2)
-- [ ] (Evil laugh 3)
-- [ ] (Evil laugh 4)
-- [ ] (Evil laugh 5)
-- [ ] "See? I told ya they were a bunch o' wee lasses!"
-- [ ] (Long laugh 1)
-- [ ] (Long laugh 2)
-- [ ] (Happy laugh)
-- [ ] Leaderboard class scout.png  Dominating a Scout
-- [ ] "DOMINATED, twinkle-toes!"
-- [ ] "Dominated, ya wee scamperin' windbag!"
-- [ ] "Dominated, tiny man!"
-- [ ] "Don't come wide with me, ye pint-sized mutt!"
-- [ ] "Yer like a little bunny... Scurryin' around, eatin' up yer lettuce and berries!"
-- [ ] "Yer so bloody TINY! Yer like a toy-sized version of a man!"
-- [ ] "Grow some hair on yer face, and come and try me again, lad."
-- [ ] "Oh, you're a wee little miss, you are!"
-- [ ] Leaderboard class soldier.png  Dominating a Soldier
-- [ ] "DOMINATED! Ha ha ha ha ha ha!"
-- [ ] "I'll notify yer next o' kin... That ya sucked!"
-- [ ] "Hey, Private Haircut, I might've taken a bit too much off... Yer head!"
-- [ ] "Mother o' mercy! Now that is a bloody domination!"
-- [ ] "Lot o' good that Soldier trainin' did ya! I'm drunk!"
-- [ ] Leaderboard class pyro.png  Dominating a Pyro
-- [ ] "You've brought shame on yer people, ya mumblin' devil."
-- [ ] "Go home, lassie; men are fightin' here!"
-- [ ] "Go to hell, and tell the devil I'm comin' for him next!"
-- [ ] "Burn! In! HELL!'"
-- [ ] Leaderboard class demoman.png  Dominating a Demoman
-- [ ] "Thus begins my thousand year reign of blood!"
-- [ ] "DOMINATED! I feel everything! I know everything!"
-- [ ] "It is the Dominatening!"
-- [ ] "Welcome to the Dominatening!"
-- [ ] Leaderboard class heavy.png  Dominating a Heavy
-- [ ] "Dominated, ya grease-drippin' pork pie!"
-- [ ] "Ohhh... There's a new gravy-filled angel in heaven."
-- [ ] "Dominated, ya blubbery Bolshevik!"
+- [x] ~~(Short laugh 1)~~
+- [x] ~~(Short laugh 2)~~
+- [x] ~~(Evil laugh 1)~~
+- [x] ~~(Evil laugh 2)~~
+- [x] ~~(Evil laugh 3)~~
+- [x] ~~(Evil laugh 4)~~
+- [x] ~~(Evil laugh 5)~~
+- [x] "See? I told ya they were a bunch o' wee lasses!"
+- [x] ~~(Long laugh 1)~~
+- [x] ~~(Long laugh 2)~~
+- [x] ~~(Happy laugh)~~
+- [x] "DOMINATED, twinkle-toes!" - "Dominat, băi muie!"
+- [x] "Dominated, ya wee scamperin' windbag!" - "Dominat, puță bleagă!"
+- [x] "Dominated, tiny man!" - "Dominat, căcat cu ochi!"
+- [x] "Don't come wide with me, ye pint-sized mutt!" - "Nu te apropria de mine că puți ca dracu!"
+- [x] "Yer like a little bunny... Scurryin' around, eatin' up yer lettuce and berries!" - "Ești ca un iepuraș... te plimbi prin pădure și mănânci frunze și fructe!"
+- [x] "Yer so bloody TINY! Yer like a toy-sized version of a man!" - "Ești atât de mic! Ești ca o jucărie!"
+- [x] "Grow some hair on yer face, and come and try me again, lad." - "Crește-ți niște păr pe pulă și vino să mă încerci din nou, băiete."
+- [x] "Oh, you're a wee little miss, you are!" - "Ești o mică domnișoară!"
+- [x] "DOMINATED! Ha ha ha ha ha ha!" - "Dominat! AHA!"
+- [x] "I'll notify yer next o' kin... That ya sucked!" - "O să-i anunț pe ai tăi... că ești un gheioman!"
+- [x] "Hey, Private Haircut, I might've taken a bit too much off... Yer head!" - "Băi americanule, cred că ți-am frezat prea mult pe... pulă!"
+- [x] "Mother o' mercy! Now that is a bloody domination!" - "Aleluia, asta-i o dominare!"
+- [x] "Lot o' good that Soldier trainin' did ya! I'm drunk!" - "Ce bine te-a pregătit armata! Eu sunt beat!"
+- [x] "You've brought shame on yer people, ya mumblin' devil." - "Ai adus rușine pe neamul tău, al dracu' de prost."
+- [x] "Go home, lassie; men are fightin' here!" - "Du-te acasă, muiere; bărbații se bat aici!"
+- [x] "Go to hell, and tell the devil I'm comin' for him next!" - "Du-te-n pizda mă-tii și spune-i că vin după ea!"
+- [x] "Burn! In! HELL!'" - "Sper să arzi! În! IAD!"
+- [x] "Thus begins my thousand year reign of blood!" - "Așa începe domnia mea de o mie de ani!"
+- [x] "DOMINATED! I feel everything! I know everything!" - "Dominat! Simt totul! Știu totul!"
+- [x] "It is the Dominatening!" - "Dominarea e ca alcoolul, iar femeile sunt la fel ca berea!"
+- [x] "Welcome to the Dominatening!" - "Când sunt beat și conduc mașina, mă simt ca Dumnezeu!"
+- [x] "Dominated, ya grease-drippin' pork pie!" - "Dominat, grăsanule!"
+- [x] "Ohhh... There's a new gravy-filled angel in heaven." - "Mai slăbește și tu coaie, că nu-ți vezi puța!"
+- [x] "Dominated, ya blubbery Bolshevik!" - "Dominat, comunistule!"
 - [ ] "Awww.... There's a new angel in heaven... IN HELL!"
 - [ ] "Little too much caber-tossin' pie down yer own throat, eh, chubby?"
 - [ ] Leaderboard class engineer.png  Dominating an Engineer
@@ -235,31 +229,27 @@
 - [ ] "Hae at 'em, lads!"
 - [ ] "Get 'am, boyos!"
 - [ ] "Kill 'em aall!"
-- [ ] "Leeeeet's do iiiiit!"
-- [ ] "Aigheaght's the way to do it!"
-- [ ] "Come on!"
-- [ ] Item icon Eyelander.png  Sudden Death
-- [ ] "Boooooooo!"
-- [ ] "Hsssssss!"
+- [x] "Leeeeet's do iiiiit!"
+- [x] "Aigheaght's the way to do it!"
+- [x] "Come on!"
+- [x] "Boooooooo!"
+- [x] "Hsssssss!"
 - [ ] [Slurred] "I'm drunk- you don't have an excuse!"
 - [ ] "I feel like every bone in me body's broke!"
 - [ ] "I did what I could!"
 - [ ] [Slurred] "Ooooh, I've reeallly hit rock bottom."
 - [ ] [Slurred] "Thankfully I already don't remember this."
-- [ ] "Bloody Hell!"
-- [ ] "Buck up, lads! We'll get 'em next time."
-- [ ] "I almost joined their bloody team!"
-- [ ] "We're a sorry buncha' losers!"
-- [ ] Killicon skull.png  Stalemate
+- [x] "Bloody Hell!"
+- [x] "Buck up, lads! We'll get 'em next time."
+- [x] "I almost joined their bloody team!"
+- [x] "We're a sorry buncha' losers!"
 - [ ] "That wasn't supposed ta' happen!"
 - [ ] "Aye, what just happened?"
 - [ ] "Ugggghhh..."
 - [ ] "Ya' bleedin' idiots!"
-- [ ] Killicon fire.png  Set on fire
 - [ ] "Fire, fire, fire!"
 - [ ] "I'm burnin'!"
 - [ ] "FIIIIREEEEEEEEE!"
-- [ ] Health dead.png  On death by melee weapon and/or critical hit
 - [ ] (Dying scream 1)
 - [ ] (Dying scream 2)
 - [ ] (Dying scream 3)
@@ -273,12 +263,11 @@
 - [ ] Bleed drop.png  Sharp pain
 - [ ] (Grunt 1)
 - [ ] (Grunt 2)
-- [ ] (Grunt3 )
+- [ ] (Grunt 3)
 - [ ] (Grunt 4)
 - [ ] (Grunt 5)
 - [ ] (Grunt 6)
 - [ ] "Oh, that smarts!"
-- [ ] Item icon Jarate.png  Hit by Gas Passer, Jarate, Mad Milk, Mutated Milk, or Self-Aware Beauty Mark
 - [ ] "Ugggghhh..."
 - [ ] "Bloody Hell!"
 - [ ] "ACH!"
@@ -286,27 +275,20 @@
 - [ ] Telespin.png  Teleportation
 - [ ] "Thanks fer the ride!"
 - [ ] "Thanks, lad!"
-- [ ] Healthico.png  Healed by Medic
 - [ ] "Aye, thanks doc!"
 - [ ] "Thank ye, doctor!"
 - [ ] "Thanks, doc!"
-- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
-- [ ] If using the Grenade Launcher
 - [ ] "All yah dandies prancin' aboot with ya heads full of eyeballs!"
 - [ ] "You're makin' me very cross!"
 - [ ] "I'm goin' ta blast ya into thin gruel!"
 - [ ] "In your language; 'Eat lead, laddies!'"
-- [ ] If using the Stickybomb Launcher
 - [ ] "I'm gonna be all over ya like shingles!"
 - [ ] "Oh, they're gonna find ya all dead in the alley, with cats lickin' at ya!"
 - [ ] "Not one of ya's going to survive this!"
-- [ ] Healthico.png  Taking damage
 - [ ] "Oh, that smarts."
-- [ ] Item icon Chargin' Targe.png  Charging
 - [ ] (Loud scream 1)
 - [ ] (Loud scream 2)
 - [ ] (Loud scream 3)
-- [ ] Item icon Chargin' Targe.png  Shield bash
 - [ ] Impact on world 1
 - [ ] Impact on world 2
 - [ ] Impact on world 3
@@ -316,8 +298,6 @@
 - [ ] Impact on player at range with fanfare 1
 - [ ] Impact on player at range with fanfare 2
 - [ ] Impact on player at range with fanfare 3
-- [ ] Item icon Eyelander.png  Eyelander / Horseless Headless Horsemann's Headtaker / Nessie's Nine Iron whispers
-- [ ] On hit
 - [ ] "Head!"
 - [ ] "Head."
 - [ ] "Head!"
@@ -328,7 +308,6 @@
 - [ ] "HEAD."
 - [ ] "Head!"
 - [ ] "Head!"
-- [ ] When idle
 - [ ] "Heads heads heads..."
 - [ ] "Heaaaaaads...heads heads heads heads"
 - [ ] "Heads...heads heads heads..."
@@ -344,37 +323,31 @@
 - [ ] "Heads heads heads..."
 - [ ] "HEADS heads heads..."
 - [ ] "Heads heads heads heads heads heads..."
-- [ ] Achieved.png  Achievement unlocked
 - [ ] "Aye, that's the way ye do it! Hehah!"
-- [ ] "Time to get bluttered!"
+- [x] "Time to get bluttered!"
 - [ ] "Guts and glory, lads!"
 
-### Weapon-related responses
+### Weapon-related responses - 100%
 
-- [ ] Standard icon RED Bottle.png  If the Demoman drinks from his Bottle (or any reskin besides the Frying Pan) and then swings it
-- [ ] [Slurred] "...Yer arses arse and I'm the grass man, punk yeah ya havin' heathen."
-- [ ] "Any one of you, I..." (belch)
-- [ ] [Slurred] "Any of you that think ye're better 'n me you're gon' have another thing c-..."
-- [ ] [Slurred] "...The BOTH of yeh on you..."
-- [ ] [Weeping, slurred] "...Everyone thinks I'm just a one-eyed bloody monster, God damn it... (sobbing)"
-- [ ] ..."Everyone thinks I'm...God damn it...(weeping)"
-- [ ] (Unintelligible gibberish)
-- [ ] "Any one of you (belches) Everyone, damn it... (sobs)"
+- [x] [Slurred] "...Yer arses arse and I'm the grass man, punk yeah ya havin' heathen."
+- [x] "Any one of you, I..." (belch)
+- [x] [Slurred] "Any of you that think ye're better 'n me you're gon' have another thing c-..."
+- [x] [Slurred] "...The BOTH of yeh on you..."
+- [x] [Weeping, slurred] "...Everyone thinks I'm just a one-eyed bloody monster, God damn it... (sobbing)"
+- [x] ..."Everyone thinks I'm...God damn it...(weeping)"
+- [x] (Unintelligible gibberish)
+- [x] "Any one of you (belches) Everyone, damn it... (sobs)"
 
 ### Objective-related responses
 
-- [ ] Intel red idle.png  After capturing Intelligence
 - [ ] "Aye, that's the way ye do it! Hehah!"
-- [ ] "Time to get bluttered!" (Left unused for an unknown reason)
+- [x] "Time to get bluttered!"
 - [ ] "That'll teach 'em!"
-- [ ] CP Captured RED.png  After capturing control point
 - [ ] "Keep it up, lads!"
 - [ ] "Guts and glory, lads!"
 - [ ] "Now it's our flippin' point, hehah!"
-- [ ] CP Locked RED.png  Standing on captured control point, firing weapon
 - [ ] "Stand on the bloody point, ya half-wit!"
 - [ ] "Stand on the point, ya git!"
-- [ ] Cross RED.png  Defense
 - [ ] "That'll teach 'em!"
 - [ ] "I don't think they saw that one comin'!"
 - [ ] "Imagine if I hadn't been drunk!"
@@ -386,55 +359,45 @@
 - [ ] (Short laugh)
 - [ ] "That's the way ya' do it!"
 - [ ] "Next time you'll bloody ask before you stand on my point."
-- [ ] Payload-related responses
-- [ ] BLU Bombcart.png  Attacking: Cart goes forward
 - [ ] "Go! Push!"
 - [ ] "Put yer backs into it, lads!"
 - [ ] "Push!"
 - [ ] "Push, lads!"
 - [ ] "Mush, lads!"
-- [ ] BLU Bombcart.png  Attacking: Cart goes back
 - [ ] "The cart's moving back!"
 - [ ] "It's rolling bloody back!"
 - [ ] "Mind the cart, lads!"
 - [ ] "The cart's moving back, lads!"
-- [ ] RED Bombcart.png  Defending: Cart goes forward
 - [ ] "Stop that bloody cart!"
 - [ ] "Stop that cart, lads!"
-- [ ] RED Bombcart.png  Defending: Cart goes back
 - [ ] "Roll back to Hell, ya bloody cart!"
 - [ ] "Back ya bloody go!"
 - [ ] "It's rolling back!"
-- [ ] Hoodoo Bombcart.png  Attacking: Stay close to cart
 - [ ] "Get to the cart!"
 - [ ] "Stay close to that bloody cart!"
 - [ ] "Lads! Get to the cart!"
-- [ ] Hoodoo Bombcart.png  Attacking: Cart has stopped
 - [ ] "The bloody cart's not moving!"
 - [ ] "The cart is bloody stopped!"
 - [ ] "The cart's not moving, lads!"
 
-### Duel-related responses
+### Duel-related responses - 100%
 
-- [ ] Backpack Dueling Mini-Game.png  Starting a duel
-- [ ] "Time to get bluttered!"
-- [ ] "Leeeeet's do iiiiit!"
-- [ ] "Come on!"
-- [ ] [Silently] "Oooohhh, I'm goin' ta liquefy ya!"
-- [ ] "I'm goin' ta strangle you with me bare hands!"
-- [ ] [Slurred] "...Yer arses ass and I'm the grass man, punk yeah ya havin' heathen."
-- [ ] [Slurred] "Any of you think yer better 'n me, you're gon' have another thing..."
-- [ ] [Slurred] "Gonna kill you and I'm keep killin' you and I never, cause you're be dead and then I'm gonna kill you."
-- [ ] [Slurred] "It's on! It's on like (falls asleep, then wakes up) Wha--?"
-- [ ] [Slurred] "...Gonna take down to the pain train station in train town..."
-- [ ] Duel RED.png  Duel accepted
-- [ ] "I'm gonna stick me thumbs in yer eyes and hang on 'till yer deid!"
-- [ ] "Ohh, I'm gonna beat ya so hard, you'll have a twitch!"
-- [ ] "Yah!"
-- [ ] Duel BLU.png  Duel rejected
-- [ ] "Boooooooo!"
-- [ ] "Hsssssss!"
-- [ ] "Oh, you're a wee little miss, you are!"
+- [x] "Time to get bluttered!" - "Timpul să mă sparg!"
+- [x] "Leeeeet's do iiiiit!"
+- [x] "Come on!" - "Hai!"
+- [x] [Silently] "Oooohhh, I'm goin' ta liquefy ya!" - "Oooohhh, o să te fac piure!"
+- [x] "I'm goin' ta strangle you with me bare hands!"
+- [x] [Slurred] "...Yer arses ass and I'm the grass man, punk yeah ya havin' heathen."
+- [x] [Slurred] "Any of you think yer better 'n me, you're gon' have another thing..."
+- [x] [Slurred] "Gonna kill you and I'm keep killin' you and I never, cause you're be dead and then I'm gonna kill you."
+- [x] [Slurred] "It's on! It's on like (falls asleep, then wakes up) Wha--?" - "Timpul să va fut mamele!"
+- [x] [Slurred] "...Gonna take down to the pain train station in train town..."
+- [x] "I'm gonna stick me thumbs in yer eyes and hang on 'till yer deid!"
+- [x] "Ohh, I'm gonna beat ya so hard, you'll have a twitch!"
+- [x] "Yah!"
+- [x] "Boooooooo!"
+- [x] "Hsssssss!"
+- [x] "Oh, you're a wee little miss, you are!"
 
 ## Not planned
 
