@@ -119,52 +119,42 @@
 
 ### Kill-related responses - 100%
 
-- [ ] "How's that feel, ya blockhead?"
-- [ ] "Ya great lactating wet nurse!"
-- [ ] "Don't fret, boyo. I'll be gentle!"
-- [ ] "Oh, they're goin' ta have to glue you back together... IN HELL!"
-- [ ] Item icon Scottish Resistance.png  After killing more than 3 enemies in 20 seconds with a secondary weapon
-- [ ] "And that's what yeh get for touching that!"
-- [ ] "You appear to have trodden on a mine!"
-- [ ] "Bloody hell, those ones were me favorites!"
-- [ ] "Let that be a bloody lesson to yeh!"
-- [ ] "Couldn't ya see the bloody bombs?"
-- [ ] "You're all bloody dead!"
-- [ ] Item icon Medi Gun.png  Kill assist
-- [ ] "We did it, mate!"
-- [ ] "I didn't need your help, y'know." (except for Medic assist)
-- [ ] "That'll teach 'em!"
-- [ ] Item icon Bottle.png  Melee, Chargin' Targe or Splendid Screen kill (Shield bash kills use the currently equipped melee lines)
-- [ ] Shared by Bottle, Frying Pan, and Pain Train
-- [ ] [Slurred] "And then I'll grow yer arse's arse and I'm the grass man, punk yeah heaven's heathen..."
-- [ ] "Any one of you, I... (belch)"
-- [ ] [Slurred] "Any of you that think ye're better 'n me you're gon' have another thing c-..."
-- [ ] [Slurred] "...the BOTH of yeh on you..."
-- [ ] [Weeping, slurred] "...Everyone thinks I'm just a one-eyed bloody monster, god damnit... (sobbing)"
-- [ ] ..."Everyone thinks I'm... God damn it... (weeping)"
-- [ ] (Unintelligible gibberish)
-- [ ] "Any one of you (belches) Everyone, damn it... (sobs)"
-- [ ] Bottle and Frying Pan specific
-- [ ] "Aye, me bottle o' scrumpy!"
-- [ ] Pain Train specific
-- [ ] [Slurred] "...Gonna take down to the pain train station in train town..."
-- [ ] Ullapool Caber specific (Used only when scoring an explosive kill. Once detonated, no melee kill line is spoken)
-- [ ] "And that's what ya' get for touching that!"
-- [ ] "Ka-boooom!"
-- [ ] "Kablooie!"
-- [ ] Kill by sharp weapon (enemy is beheaded)
-- [ ] "There can be only one... Eye!" (When killing a Demoman)
-- [ ] "There can be only one!" (Reference to the same line spoken in the film Highlander)
-- [ ] (Evil laugh 1)
-- [ ] (Evil laugh 2)
-- [ ] (Evil laugh 3)
-- [ ] War soldier kills.png  Killing a Soldier
-- [ ] [Slurred] "(Unintelligible Muttering) ...I love you, man..."
-- [ ] [Slurred] "Gonna kill you and I'll keep killin' you and I'll never, cause you're 'onna be dead and I don't gotta kill you."
-- [ ] [Slurred] "Just bought two tickets to the gunshow, and I'm not givin' 'em to ya; I'm goin' with your tickets! (laughs, falls asleep) - [ ] Wha--?"
-- [ ] Killicon tool chest.png  Destructions
-- [ ] "Ka-boooom!"
-- [ ] "Kablooie!"
+- [x] "How's that feel, ya blockhead?" - "Cum se simte, cap de pulă?"
+- [x] "Ya great lactating wet nurse!" - "Mă-ta e o curvă!"
+- [x] "Don't fret, boyo. I'll be gentle!" - "Nu te stresa, băiete. O să fiu blând!"
+- [x] "Oh, they're goin' ta have to glue you back together... IN HELL!" - "O să te lipească înapoi... ÎN IAD!"
+- [x] "And that's what yeh get for touching that!" - "Și asta e ce primești pentru că te tot atingi!"
+- [x] "You appear to have trodden on a mine!" - "Se pare că... ai călcat pe o mină!"
+- [x] "Bloody hell, those ones were me favorites!" - "Băgami-aș, alea erau preferatele mele!"
+- [x] "Let that be a bloody lesson to yeh!" - "Să-ți fie învățătură de minte!"
+- [x] "Couldn't ya see the bloody bombs?" - "Ești daltonit de n-ai văzut bombele?"
+- [x] "You're all bloody dead!" - "Sunteți cu toții dați dracu!"
+- [x] "We did it, mate!" - "Am reușit, șefule!"
+- [x] "I didn't need your help, y'know." - "N-aveam nevoie de ajutorul tău!"
+- [x] "That'll teach 'em!" - "Asta o să-i învețe!"
+- [x] [Slurred] "And then I'll grow yer arse's arse and I'm the grass man, punk yeah heaven's heathen..." - "Băgami-aș pula... ce dracu' zicea?"
+- [x] "Any one of you, I... (belch)" - "Ce pula mea faceți, mă?"
+- [x] [Slurred] "Any of you that think ye're better 'n me you're gon' have another thing c-..." - "Mă ăsta-i fortnait?"
+- [x] [Slurred] "...the BOTH of yeh on you..." - "Ce zi frumoasă să nu-mi iau mog."
+- [x] [Weeping, slurred] "...Everyone thinks I'm just a one-eyed bloody monster, god damnit... (sobbing)" - "De când mă piș în chiuvetă, nu mă mai fute nimeni la cap..."
+- [x] ..."Everyone thinks I'm... God damn it... (weeping)" - "Aoleo... toată lumea crede că sunt... homosexual... Doamne..."
+- [x] (Unintelligible gibberish) - "Mă-ta e o curvă!"
+- [x] "Any one of you (belches) Everyone, damn it... (sobs)" - "Unde dracu mi-am băgat pula?"
+- [x] "Aye, me bottle o' scrumpy!" - "Da, sticla mea de alcool!"
+- [x] [Slurred] "...Gonna take down to the pain train station in train town..." - "O să te duc la gara de nord în orașul bucurești..."
+- [x] "And that's what ya' get for touching that!" - "Și asta e ce primești pentru că te-ai atins de pula mea!"
+- [x] "Ka-boooom!" - "Ka-boooom!"
+- [x] "Kablooie!" - "Kablooie!"
+- [x] "There can be only one... Eye!" - " - "Poate fi doar un singur... ochi!"
+- [x] "There can be only one!" - "Poate fi doar unul!"
+- [x] (Evil laugh 1) - "Ha hahahahaha haha!"
+- [x] (Evil laugh 2) - "HO HO HAHA AHAHA!"
+- [x] (Evil laugh 3) - "AHAHAHA!"
+- [x] [Slurred] "(Unintelligible Muttering) ...I love you, man..." - "...Te iubesc coaie...!"
+- [x] [Slurred] "Gonna kill you and I'll keep killin' you and I'll never, cause you're 'onna be dead and I don't gotta kill you." - "Am s-o fut pe mă-ta până îi lărgesc găozul!"
+- [x] [Slurred] "Just bought two tickets to the gunshow, and I'm not givin' 'em to ya; I'm goin' with your tickets! (laughs, falls asleep) Wha--?" - "Am cumparat tichete s-o văd pe mă-ta scuipată între ochi."
+- [x] "Ka-boooom!" - "Ka-boooom!"
+- [x] "Kablooie!" - "Kablooie!"
 
 ### Domination-related responses - 0%
 
