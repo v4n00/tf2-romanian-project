@@ -1,4 +1,4 @@
-# Demo - 50%
+# Demo - 70%
 
 [wiki commands](https://wiki.teamfortress.com/wiki/Demoman_voice_commands)
 [wiki responses](https://wiki.teamfortress.com/wiki/Demoman_responses)
@@ -156,7 +156,7 @@
 - [x] "Ka-boooom!" - "Ka-boooom!"
 - [x] "Kablooie!" - "Kablooie!"
 
-### Domination-related responses - 50%
+### Domination-related responses - 100%
 
 - [x] ~~(Short laugh 1)~~
 - [x] ~~(Short laugh 2)~~
@@ -193,38 +193,32 @@
 - [x] "Dominated, ya grease-drippin' pork pie!" - "Dominat, grăsanule!"
 - [x] "Ohhh... There's a new gravy-filled angel in heaven." - "Mai slăbește și tu coaie, că nu-ți vezi puța!"
 - [x] "Dominated, ya blubbery Bolshevik!" - "Dominat, comunistule!"
-- [ ] "Awww.... There's a new angel in heaven... IN HELL!"
-- [ ] "Little too much caber-tossin' pie down yer own throat, eh, chubby?"
-- [ ] Leaderboard class engineer.png  Dominating an Engineer
-- [ ] "Don't hide behind yer toys, lad!"
-- [ ] "You're weak. I'm strong. And I win, toymaker!"
-- [ ] "That's a right pretty bra-washer ya built, ya big ugly girl!"
-- [ ] "You come wide at me again, boy, I'll stick that wrench right up yer arse!"
-- [ ] "Go on and build more o' yer little guns. I'll shove every one of them up yer arse!"
-- [ ] "If you were huntin' trouble, lad, ya found it."
-- [ ] Leaderboard class medic.png  Dominating a Medic
-- [ ] "Dominated, ya Teutonic nursemai-(belches) Ahh... Hah."
-- [ ] "How's that doin' no harm workin' out for ya, then?"
-- [ ] "Dominated! ...And I've been shaggin' yer wife! Hahah!"
-- [ ] "I dominate ya, Sawbones!"
-- [ ] Leaderboard class sniper.png  Dominating a Sniper
-- [ ] "Perfect bloody domination, ya campy weasel!"
-- [ ] "Dominated, ya headshottin' Judas!"
-- [ ] "I hate you campers; everybody bloody hates you!"
-- [ ] "It's lads like you that give war a bad name!"
-- [ ] Leaderboard class spy.png  Dominating a Spy
-- [ ] "Dominated, ya alley-skulkin' backstabber!"
-- [ ] "Yer a back-pokin' snake, and by God you'll die like one!"
-- [ ] "I hope I didn't scare you with my face-to-face man fightin!"
-- [ ] Nemesis RED.png  Revenge kill
-- [ ] "Cheers, mate!"
-- [ ] "They're goin' ta bury what's left of ye in a soup can!"
-- [ ] "I had me good eye on you the whole time!"
-- [ ] "Well, alright!"
+- [x] "Awww.... There's a new angel in heaven... IN HELL!" - "Auu... S-a născut un nou înger... ÎN IAD!"
+- [x] "Little too much caber-tossin' pie down yer own throat, eh, chubby?" - "Ai mâncat prea multă plăcintă, grăsanule?"
+- [x] "Don't hide behind yer toys, lad!" - "Nu te ascunde după jucării, băiete!"
+- [x] "You're weak. I'm strong. And I win, toymaker!" - "Ești gras și slab, eu sunt puternic și câștig!"
+- [x] "That's a right pretty bra-washer ya built, ya big ugly girl!" - "Ce mașinărie frumoasă ai construit. Aia-i mă-ta?"
+- [x] "You come wide at me again, boy, I'll stick that wrench right up yer arse!" - "Mai te apropii de mine o dată, băiete, și-ți bag cheia în cur!"
+- [x] "Go on and build more o' yer little guns. I'll shove every one of them up yer arse!" - "Du-te și construiește-ți mai multe arme. O să ți le bag pe toate în cur!"
+- [x] "If you were huntin' trouble, lad, ya found it." - "Dacă căutai belea, băiete, ai găsit-o."
+- [x] "Dominated, ya Teutonic nursemai-(belches) Ahh... Hah." - "Dominat, cap de pulă!"
+- [x] "How's that doin' no harm workin' out for ya, then?" - "Cum te simți când nu sugi pula, băiete?"
+- [x] "Dominated! ...And I've been shaggin' yer wife! Hahah!" - "Dominat, asta în timp ce eu îi dădeam la găoz soției tale!"
+- [x] "I dominate ya, Sawbones!" - "Futu-ți lumina și închinarea mă-tii!"
+- [x] "Perfect bloody domination, ya campy weasel!" - "Când ne luptăm, nu te mai uita cu luneta la cum o fut pe nevastă-ta!"
+- [x] "Dominated, ya headshottin' Judas!" - "Dominat! Când îmi iei capu pulii în gura?"
+- [x] "I hate you campers; everybody bloody hates you!" - "Sinucide-te și du-te fute-ți nevasta cangur!"
+- [x] "It's lads like you that give war a bad name!" - "Numai lunetiștii pot să facă un război așa de plictisitor!"
+- [x] "Dominated, ya alley-skulkin' backstabber!" - "Vezi ca eu știu să ma uit în spate, francezule!"
+- [x] "Yer a back-pokin' snake, and by God you'll die like one!" - "Acuma eu îți bag cuțitul în cur, francezule!"
+- [x] "I hope I didn't scare you with my face-to-face man fightin!" - "Nu mai înjunghiat în față de 3 vieți!"
+- [x] "Cheers, mate!" - "Noroc, coaie!"
+- [x] "They're goin' ta bury what's left of ye in a soup can!" - "O să te cremeze și o să-ți pună cenușa într-o cutie de supă!"
+- [x] "I had me good eye on you the whole time!" - "Te-am urmărit cu propriul meu ochi!"
+- [x] "Well, alright!" - "Este efectiv ca mine!"
 
 ### Event-related responses
 
-- [ ] Gette it Onne!.png  Round start
 - [ ] "Freeeedooooom!"
 - [ ] "Hae at 'em, lads!"
 - [ ] "Get 'am, boyos!"
