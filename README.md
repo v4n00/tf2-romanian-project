@@ -10,7 +10,7 @@ Go to the [releases page](https://github.com/v4n00/tf2-romanian-project/releases
 
 ## Progress
 
-### Voice lines - 10%
+### Voice lines - 20%
 
 - [x] Administrator responses - 100%
 - [ ] Scout commands
@@ -20,7 +20,7 @@ Go to the [releases page](https://github.com/v4n00/tf2-romanian-project/releases
 - [ ] Pyro commands
 - [ ] Pyro responses
 - [x] Demoman commands - 100%
-- [ ] Demoman responses - 50%
+- [x] Demoman responses - 100%
 - [ ] Heavy commands
 - [ ] Heavy responses
 - [ ] Engineer commands

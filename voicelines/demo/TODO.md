@@ -1,4 +1,4 @@
-# Demo - 70%
+# Demo - 100%
 
 [wiki commands](https://wiki.teamfortress.com/wiki/Demoman_voice_commands)
 [wiki responses](https://wiki.teamfortress.com/wiki/Demoman_responses)
@@ -217,109 +217,106 @@
 - [x] "I had me good eye on you the whole time!" - "Te-am urmărit cu propriul meu ochi!"
 - [x] "Well, alright!" - "Este efectiv ca mine!"
 
-### Event-related responses
+### Event-related responses - 100%
 
-- [ ] "Freeeedooooom!"
-- [ ] "Hae at 'em, lads!"
-- [ ] "Get 'am, boyos!"
-- [ ] "Kill 'em aall!"
+- [x] "Freeeedooooom!"
+- [x] "Hae at 'em, lads!"
+- [x] "Get 'am, boyos!"
+- [x] "Kill 'em aall!"
 - [x] "Leeeeet's do iiiiit!"
 - [x] "Aigheaght's the way to do it!"
 - [x] "Come on!"
 - [x] "Boooooooo!"
 - [x] "Hsssssss!"
-- [ ] [Slurred] "I'm drunk- you don't have an excuse!"
-- [ ] "I feel like every bone in me body's broke!"
-- [ ] "I did what I could!"
-- [ ] [Slurred] "Ooooh, I've reeallly hit rock bottom."
-- [ ] [Slurred] "Thankfully I already don't remember this."
+- [x] [Slurred] "I'm drunk- you don't have an excuse!"
+- [x] "I feel like every bone in me body's broke!"
+- [x] "I did what I could!"
+- [x] [Slurred] "Ooooh, I've reeallly hit rock bottom."
+- [x] [Slurred] "Thankfully I already don't remember this."
 - [x] "Bloody Hell!"
 - [x] "Buck up, lads! We'll get 'em next time."
 - [x] "I almost joined their bloody team!"
 - [x] "We're a sorry buncha' losers!"
-- [ ] "That wasn't supposed ta' happen!"
-- [ ] "Aye, what just happened?"
-- [ ] "Ugggghhh..."
-- [ ] "Ya' bleedin' idiots!"
-- [ ] "Fire, fire, fire!"
-- [ ] "I'm burnin'!"
-- [ ] "FIIIIREEEEEEEEE!"
-- [ ] (Dying scream 1)
-- [ ] (Dying scream 2)
-- [ ] (Dying scream 3)
-- [ ] (Dying scream 4)
-- [ ] (Dying scream 5)
-- [ ] Bleed drop.png  Severe pain
-- [ ] (Yell 1)
-- [ ] (Yell 2)
-- [ ] (Yell 3)
-- [ ] (Yell 4)
-- [ ] Bleed drop.png  Sharp pain
-- [ ] (Grunt 1)
-- [ ] (Grunt 2)
-- [ ] (Grunt 3)
-- [ ] (Grunt 4)
-- [ ] (Grunt 5)
-- [ ] (Grunt 6)
-- [ ] "Oh, that smarts!"
-- [ ] "Ugggghhh..."
-- [ ] "Bloody Hell!"
-- [ ] "ACH!"
-- [ ] "AW, CRIPE!"
-- [ ] Telespin.png  Teleportation
-- [ ] "Thanks fer the ride!"
-- [ ] "Thanks, lad!"
-- [ ] "Aye, thanks doc!"
-- [ ] "Thank ye, doctor!"
-- [ ] "Thanks, doc!"
-- [ ] "All yah dandies prancin' aboot with ya heads full of eyeballs!"
-- [ ] "You're makin' me very cross!"
-- [ ] "I'm goin' ta blast ya into thin gruel!"
-- [ ] "In your language; 'Eat lead, laddies!'"
-- [ ] "I'm gonna be all over ya like shingles!"
-- [ ] "Oh, they're gonna find ya all dead in the alley, with cats lickin' at ya!"
-- [ ] "Not one of ya's going to survive this!"
-- [ ] "Oh, that smarts."
-- [ ] (Loud scream 1)
-- [ ] (Loud scream 2)
-- [ ] (Loud scream 3)
-- [ ] Impact on world 1
-- [ ] Impact on world 2
-- [ ] Impact on world 3
-- [ ] Impact on player 1
-- [ ] Impact on player 2
-- [ ] Impact on player 3
-- [ ] Impact on player at range with fanfare 1
-- [ ] Impact on player at range with fanfare 2
-- [ ] Impact on player at range with fanfare 3
-- [ ] "Head!"
-- [ ] "Head."
-- [ ] "Head!"
-- [ ] "Head!"
-- [ ] "Head..."
-- [ ] "Head..."
-- [ ] "Head!"
-- [ ] "HEAD."
-- [ ] "Head!"
-- [ ] "Head!"
-- [ ] "Heads heads heads..."
-- [ ] "Heaaaaaads...heads heads heads heads"
-- [ ] "Heads...heads heads heads..."
-- [ ] "Heaaaaaaaaads..."
-- [ ] "Heads...heads heads heads..."
-- [ ] "Heads heads heads heads!"
-- [ ] "Heaaaads."
-- [ ] "Heads heads heads heaaaaaads..."
-- [ ] "Heaaaaaaaaaaaads..."
-- [ ] "Heads. Heads. HEADS. Heaaaaaaaads..."
-- [ ] "Heads heads heads."
-- [ ] "Heads heads heads..."
-- [ ] "Heads heads heads..."
-- [ ] "HEADS heads heads..."
-- [ ] "Heads heads heads heads heads heads..."
-- [ ] "Aye, that's the way ye do it! Hehah!"
+- [x] "That wasn't supposed ta' happen!" - "Asta nu trebuia să se întâmple!"
+- [x] "Aye, what just happened?" - "Ce s-a întâmplat?"
+- [x] "Ugggghhh..." - "Ahh..."
+- [x] "Ya' bleedin' idiots!" - "Proștii dracului!"
+- [x] "Fire, fire, fire!" - "Foc, foc, foc!"
+- [x] "I'm burnin'!" - "Mă arde!"
+- [x] "FIIIIREEEEEEEEE!" - "FOOOOOOOOC!"
+- [x] (Dying scream 1)
+- [x] (Dying scream 2)
+- [x] (Dying scream 3)
+- [x] (Dying scream 4)
+- [x] (Dying scream 5)
+- [x] (Yell 1)
+- [x] (Yell 2)
+- [x] (Yell 3)
+- [x] (Yell 4)
+- [x] (Grunt 1)
+- [x] (Grunt 2)
+- [x] (Grunt 3)
+- [x] (Grunt 4)
+- [x] (Grunt 5)
+- [x] (Grunt 6)
+- [x] "Oh, that smarts!" - "Aoleo, ce bombeu!"
+- [x] "Ugggghhh..." - "Ahh..."
+- [x] "Bloody Hell!"
+- [x] "ACH!"
+- [x] "AW, CRIPE!"
+- [x] "Thanks fer the ride!" - "Mulțumesc pentru teleportator!"
+- [x] "Thanks, lad!" - "Mersi, șefule!"
+- [x] "Aye, thanks doc!" - "Mersi, doctore!"
+- [x] "Thank ye, doctor!" - "Te pup pe pulă, doctore!"
+- [x] "Thanks, doc!" - "Să-ți dea dumnezeu sănătate, doctore!"
+- [x] "All yah dandies prancin' aboot with ya heads full of eyeballs!" - "O să vă prostituați la bară!"
+- [x] "You're makin' me very cross!" - "Mă enervezi ca nevastă-mea!"
+- [x] "I'm goin' ta blast ya into thin gruel!" - "O să vă fac particule fine!"
+- [x] "In your language; 'Eat lead, laddies!'" - "În limba voastră; 'Mâncați căcat, băieți!'"
+- [x] "I'm gonna be all over ya like shingles!" - "O să fiu peste tine ca o pulă!"
+- [x] "Oh, they're gonna find ya all dead in the alley, with cats lickin' at ya!" - "O să vă găsească morți într-un șanț, cu boschetari care se pișă pe voi!"
+- [x] "Not one of ya's going to survive this!" - "Niciunul dintre voi nu o să supraviețuiască!"
+- [x] "Oh, that smarts." - "Aoleo, ce bombeu!"
+- [x] ~~(Loud scream 1)~~
+- [x] ~~(Loud scream 2)~~
+- [x] ~~(Loud scream 3)~~
+- [x] ~~Impact on world 1~~
+- [x] ~~Impact on world 2~~
+- [x] ~~Impact on world 3~~
+- [x] ~~Impact on player 1~~
+- [x] ~~Impact on player 2~~
+- [x] ~~Impact on player 3~~
+- [x] ~~Impact on player at range with fanfare 1~~
+- [x] ~~Impact on player at range with fanfare 2~~
+- [x] ~~Impact on player at range with fanfare 3~~
+- [x] ~~"Head!"~~
+- [x] ~~"Head."~~
+- [x] ~~"Head!"~~
+- [x] ~~"Head!"~~
+- [x] ~~"Head..."~~
+- [x] ~~"Head..."~~
+- [x] ~~"Head!"~~
+- [x] ~~"HEAD."~~
+- [x] ~~"Head!"~~
+- [x] ~~"Head!"~~
+- [x] ~~"Heads heads heads..."~~
+- [x] ~~"Heaaaaaads...heads heads heads heads"~~
+- [x] ~~"Heads...heads heads heads..."~~
+- [x] ~~"Heaaaaaaaaads..."~~
+- [x] ~~"Heads...heads heads heads..."~~
+- [x] ~~"Heads heads heads heads!"~~
+- [x] ~~"Heaaaads."~~
+- [x] ~~"Heads heads heads heaaaaaads..."~~
+- [x] ~~"Heaaaaaaaaaaaads..."~~
+- [x] ~~"Heads. Heads. HEADS. Heaaaaaaaads..."~~
+- [x] ~~"Heads heads heads."~~
+- [x] ~~"Heads heads heads..."~~
+- [x] ~~"Heads heads heads..."~~
+- [x] ~~"HEADS heads heads..."~~
+- [x] ~~"Heads heads heads heads heads heads..."~~
+- [x] "Aye, that's the way ye do it! Hehah!"
 - [x] "Time to get bluttered!"
-- [ ] "Guts and glory, lads!"
+- [x] "Guts and glory, lads!"
 
 ### Weapon-related responses - 100%
 
@@ -332,47 +329,47 @@
 - [x] (Unintelligible gibberish)
 - [x] "Any one of you (belches) Everyone, damn it... (sobs)"
 
-### Objective-related responses
+### Objective-related responses - 100%
 
-- [ ] "Aye, that's the way ye do it! Hehah!"
+- [x] "Aye, that's the way ye do it! Hehah!" - "Da, așa se face!"
 - [x] "Time to get bluttered!"
-- [ ] "That'll teach 'em!"
-- [ ] "Keep it up, lads!"
-- [ ] "Guts and glory, lads!"
-- [ ] "Now it's our flippin' point, hehah!"
-- [ ] "Stand on the bloody point, ya half-wit!"
-- [ ] "Stand on the point, ya git!"
-- [ ] "That'll teach 'em!"
-- [ ] "I don't think they saw that one comin'!"
-- [ ] "Imagine if I hadn't been drunk!"
-- [ ] (Happy laugh)
-- [ ] "That was my point you were standin' on!"
-- [ ] "Bloody brilliant!"
-- [ ] "That's the spirit!"
-- [ ] "Ah, that's the stuff!"
-- [ ] (Short laugh)
-- [ ] "That's the way ya' do it!"
-- [ ] "Next time you'll bloody ask before you stand on my point."
-- [ ] "Go! Push!"
-- [ ] "Put yer backs into it, lads!"
-- [ ] "Push!"
-- [ ] "Push, lads!"
-- [ ] "Mush, lads!"
-- [ ] "The cart's moving back!"
-- [ ] "It's rolling bloody back!"
-- [ ] "Mind the cart, lads!"
-- [ ] "The cart's moving back, lads!"
-- [ ] "Stop that bloody cart!"
-- [ ] "Stop that cart, lads!"
-- [ ] "Roll back to Hell, ya bloody cart!"
-- [ ] "Back ya bloody go!"
-- [ ] "It's rolling back!"
-- [ ] "Get to the cart!"
-- [ ] "Stay close to that bloody cart!"
-- [ ] "Lads! Get to the cart!"
-- [ ] "The bloody cart's not moving!"
-- [ ] "The cart is bloody stopped!"
-- [ ] "The cart's not moving, lads!"
+- [x] "That'll teach 'em!"
+- [x] "Keep it up, lads!" - "Țineți-o tot așa, șefilor!"
+- [x] "Guts and glory, lads!" - "Curaj și glorie, băieți!"
+- [x] "Now it's our flippin' point, hehah!" - "Acum e punctul nostru, hehe!"
+- [x] "Stand on the bloody point, ya half-wit!"
+- [x] "Stand on the point, ya git!"
+- [x] "That'll teach 'em!"
+- [x] "I don't think they saw that one comin'!"
+- [x] "Imagine if I hadn't been drunk!"
+- [x] ~~(Happy laugh)~~
+- [x] "That was my point you were standin' on!" - "Acela era punctul meu pe care stăteai!"
+- [x] "Bloody brilliant!"
+- [x] "That's the spirit!"
+- [x] "Ah, that's the stuff!"
+- [x] ~~(Short laugh)~~
+- [x] "That's the way ya' do it!" - "Așa se face!"
+- [x] "Next time you'll bloody ask before you stand on my point." - "Data viitoare o să mă întrebi înainte să stai pe punctul meu."
+- [x] "Go! Push!" - "Hai! Împingeți!"
+- [x] "Put yer backs into it, lads!" - "Dați-i cu spatele, băieți!"
+- [x] "Push!" - "Împingeți!"
+- [x] "Push, lads!" - "Împingeți, șefilor!"
+- [x] "Mush, lads!" - "Pingeți, băieți!"
+- [x] "The cart's moving back!" - "Căruciorul se mișcă înapoi!"
+- [x] "It's rolling bloody back!" - "Băgami-aș, se mișcă înapoi!"
+- [x] "Mind the cart, lads!" - "Aveți grijă la cărucior, șefilor!"
+- [x] "The cart's moving back, lads!" - "Căruciorul a dat pe marșarier, băieți!"
+- [x] "Stop that bloody cart!" - "Opriți căruciorul, băieți!"
+- [x] "Stop that cart, lads!" - "Opriți căruciorul, șefilor!"
+- [x] "Roll back to Hell, ya bloody cart!" - "Înapoi în iad, căruciorule!"
+- [x] "Back ya bloody go!" - "Înapoi, băgami-aș!"
+- [x] "It's rolling back!" - "Se mișcă înapoi!"
+- [x] "Get to the cart!" - "La cărucior!"
+- [x] "Stay close to that bloody cart!" - "Stați aproape de cărucior!"
+- [x] "Lads! Get to the cart!" - "Șefilor! La cărucior!"
+- [x] "The bloody cart's not moving!" - "Căruciorul nu se mișcă!"
+- [x] "The cart is bloody stopped!" - "Căruciorul s-a oprit!"
+- [x] "The cart's not moving, lads!" - "Căruciorul nu se mișcă, băieți!"
 
 ### Duel-related responses - 100%
 
