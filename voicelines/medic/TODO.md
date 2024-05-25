@@ -124,3 +124,507 @@
 - [x] "Stupendous!" - "Extraordinar, fratele meleu!"
 - [x] "Amazing, kamerad!" - "Uimitor, șefule!"
 - [x] "Keep it up!" - "Ține-o tot așa!"
+
+## Responses - 100%
+
+### Kill-related responses - 100%
+
+- [x] "Eins, zwei, drei... Ugh, I do not zhink ve brought enough body bags." - "Unu; doi; trei... Ugh, nu cred că am destui saci de cadavre."
+- [x] "Haha! Vhat a bloodbazh!" - "Haha! Ce baie de sânge!"
+- [x] "Zat vas doktor-assisted homicide!" - "Asta a fost un omor asistat de doctor!"
+- [x] "Ze healing is not as revarding as ze hurting." - "Vindecarea nu e la fel de satisfăcătoare ca rănirea."
+- [x] "Oops! Zat vas not Medizin!" - "Oops! Gaura greșită!"
+- [x] "Can you feel ze Schadenfreude?" - "Îmi simți pula?"
+- [x] "[Quietly] Did zat sting? [Loudly] SAW-ry!" - "A durut? ... Scuze!"
+- [x] "Danke, Kamerad!"
+- [x] "Ve did it, Kamerad!"
+
+### Domination-related responses - 100%
+
+- [x] "Vould you like a second opinion? You are also ugly!" - "Vrei o a doua opinie? Ești urât și prost!"
+- [x] "Come over here. I promise I vill heal you!"
+- [x] ~~(Long laugh 1)~~
+- [x] ~~(Long laugh 2)~~
+- [x] ~~(Happy laugh 1)~~
+- [x] ~~(Happy laugh 2)~~
+- [x] ~~(Happy laugh 3)~~
+- [x] ~~(Evil laugh 1)~~
+- [x] ~~(Evil laugh 2)~~
+- [x] ~~(Short laugh)~~
+- [x] "Stupendous!"
+- [x] "Schweinhunds."
+- [x] "Schweinhunds!"
+- [x] "Dummkopfs!"
+
+### Event-related responses - 100%
+
+- [x] "Raus, Raus!"
+- [x] "Forward!"
+- [x] "Heil, us!"
+- [x] "Hyaaaa!"
+- [x] "Horrido!"
+- [x] "Gesundheit!"
+- [x] "Fess..."
+- [x] "Iz zere a point to your lives?"
+- [x] "My skill is VASTED on zis team!"
+- [x] "DUMMKOPFS!"
+- [x] "Booo!"
+- [x] "You are trying my patience!"
+- [x] "Teeeeeeam!"
+- [x] "Velcome to the 've lose vonce again'-fest."
+- [x] "Ach, was ist los?"
+- [x] "From now on, losing is verboten!"
+- [x] "Schweinhunds!"
+- [x] "Zis... is unacceptable!" - "Asta... e inacceptabil!"
+- [x] "Anyvun still alive has let me down!" - "Cine mai e în viață să mă sugeți!"
+- [x] ~~"Dawww..."~~
+- [x] "Schweinhunds!"
+- [x] ~~"Awwww..."~~
+- [x] ~~"Aiii..."~~
+- [x] ~~"Hawww!"~~
+- [x] "Fire, fire, fire!" - "Foc, foc, foc!"
+- [x] "Fiiiiire!" - "Foooooc!"
+- [x] "I am on fire!" - "Mă arde!"
+- [x] "Everyone, I am on fire!" - "Mă arde, mă arde!"
+- [x] "I am melting!" - "Mă topesc!"
+- [x] ~~(Dying scream 1)~~
+- [x] ~~(Dying scream 2)~~
+- [x] ~~(Dying scream 3)~~
+- [x] ~~(Dying scream 4)~~
+- [x] ~~(Yell 1)~~
+- [x] ~~(Yell 2)~~
+- [x] ~~(Yell 3)~~
+- [x] ~~(Whimper)~~
+- [x] ~~(Grunt 1)~~
+- [x] ~~(Grunt 2)~~
+- [x] ~~(Grunt 3)~~
+- [x] ~~(Grunt 4)~~
+- [x] ~~(Grunt 5)~~
+- [x] ~~(Grunt 6)~~
+- [x] ~~(Grunt 7)~~
+- [x] ~~(Gasp)~~
+- [x] "Good to go!" - "Hai să mergem!"
+- [x] "Did ze Fräuleins have zeir Mittelschmerz?" - "Ce pula mea e cu jucăriile astea?"
+- [x] ~~"Raaah..."~~
+- [x] ~~"MNAAH!"~~
+- [x] ~~"Awwww..."~~
+- [x] ~~"Aiii..."~~
+- [x] ~~"Hawww!"~~
+- [x] "Danke, Engineer!" - "Mersi, inginerule!"
+- [x] "Danke, mein (my) hard-hatted friend!" - "Mersi, prietenul meu cu cap de pulă!"
+- [x] "Zank you, Engineer!" - "Mulțumesc, inginerule!"
+- [x] "Zank you, Herr Doktor!" - "Mulțumesc, doctore!"
+- [x] "Danke, Herr Doktor!" - "Mersi, doctore!"
+- [x] "Ze healing is not as rewarding as ze hurting."
+- [x] "Ze healing leaves little time for ze hurting." - "Vindecarea lasă puțin timp pentru rănire."
+- [x] "Good to go!" - "Hai să mergem!"
+
+### Weapon-related responses - 100%
+
+- [x] "Ready to charge!"
+- [x] "I am fully charged."
+- [x] "I am charged."
+- [x] "Now go!" - "Șa pe ei!"
+- [x] "Get zem. Raus, Raus!" - "Pișă-te pe ei!"
+- [x] "Schnell! Go get zem!" - "Repede! Treci pe ei!"
+- [x] "Auf Wiedersehen, Schweinehunds!" - "V-ați dus dracu!"
+- [x] "Auf Wiedersehen, Dummkopfs!" - "V-ați dus pe pulă!"
+
+### Objective-related responses - 100%
+
+- [ ] "How embarrassing. Zey let a man of science escape with ze papers!"
+- [ ] "Papers, please."
+- [ ] "Vere are your precious papers now, Dummkopfs?"
+- [ ] "Anuhza successful procedure!"
+- [ ] "Zey are veakened!"
+- [ ] "I am prepared to do vatever it takes!"
+- [ ] "Get on ze point, Dummkopf!"
+- [ ] "Stand on ze point, Schweinhund!"
+- [ ] "Idiot, get on ze point!"
+- [ ] "Idiot, stand on ze point!"
+- [ ] "Standing near ze point does nussing. Get on ze point, dummkopf!"
+- [ ] "Schweinhunds."
+- [ ] "Ha!"
+- [ ] "I am ze Übermensch!" (Translation: "I am the Overlord/Superman!")
+- [ ] "Oktoberfest!"
+- [ ] "Vell done!"
+- [ ] "It looks like Dummkopffest!" (Translation: "Idiot-fest!")
+- [ ] "Push!"
+- [ ] "Puuuush!"
+- [ ] "Everyvun! Push!"
+- [ ] "Push ze cart!"
+- [ ] "Everyvun, push ze cart!"
+- [ ] "Raus, Raus!" (Translation: "Go, Go!")
+- [ ] "Push! Schnell!" (Translation: "Push! Hurry!")
+- [ ] "Push damn you push!"
+- [ ] "Forvard, push ze cart forvard!"
+- [ ] "Vhy is ze cart moving backvards?"
+- [ ] "Zhat cart must be shtopped!"
+- [ ] "Shtopp zhat cart!"
+- [ ] "Everyvun, stay close to zhe cart!"
+- [ ] "Do not leave zhe cart, dummkopfs!"
+- [ ] "Stay close to zhe cart!"
+- [ ] "Zhe cart is not moving!"
+- [ ] "Who stopped pushing zhe cart?! I want names!"
+- [ ] "Vhy is no one else pushing zhis cart?!"
+- [ ] "Who stopped pushing zhe cart?!"
+- [ ] "Everyone, we must stop zhat bomb!"
+
+### Duel-related responses - 100%
+
+- [x] "I'm going to saw through your bones!" - "O să-ți tai pula!"
+- [x] "I am prepared to do vatever it takes!"
+- [x] "Prepare for your examination... (laughs)"
+- [x] "You are trying my patience!"
+- [x] "Hyaaaa!"
+- [x] "Wunderbar!" (Translation: "Wonderful!")
+- [x] "Ja." (Translation: "Yes.")
+- [x] "Jawohl." (Translation: "Yes!")
+- [x] "Zis... is unacceptable!"
+- [x] "You are... schtupid!" - "Ești atât de retardat!"
+- [x] ~~"Hawww!"~~
+- [x] ~~"Booo!"~~
+- [x] "Schweinhunds!"
+
+## Not planned
+
+### Contract-related responses
+
+- [ ] Contract complete
+- [ ] "Very nice!"
+- [ ] "Zat vas fun! Ha ha!"
+- [ ] "Vell done!"
+- [ ] (Mischievous laughter)
+- [ ] (Malevolent laughter)
+- [ ] Difficult contract
+- [ ]
+- [ ] "Oh heavens, yes!"
+- [ ] "Perfect!"
+- [ ] "Yes!"
+- [ ] "Hoo, hoo! Astounding!"
+- [ ] Mann vs. Machine responses
+- [ ] Setup/Between Waves
+- [ ] Setup.png  Ready to play
+- [ ] "Ready!"
+- [ ] "I cannot vait, hah!"
+- [ ] Other players are not ready
+- [ ]
+- [ ] "Who is not ready?"
+- [ ] Uncharged Canteen.PNG  Wave finished, near an Upgrade Station
+- [ ] "I should upgrade."
+- [ ] "Get to an Upgrade Station, schnell!"
+- [ ] "Upgrade! Uppengraden everyvun!" ("Uppengraden" is not a real German word. In a real German word, it would be "Aufrüsten".)
+- [ ] MvM Class upgraded.png  After accessing an Upgrade Station
+- [ ] "Ooh, much better."
+- [ ] "I feel like a million Deutschmarks!" (Standard German would be "Deutsche Mark".)
+- [ ] "(Laughs) I am a god."
+- [ ] "Oh, I am going to murder so many robots."
+- [ ] During a wave
+- [ ] Smallcredits.png  Collecting credits
+- [ ] "Come on! Collect zhe money!"
+- [ ] "Free money! Free money!"
+- [ ] "Everyvun! Freee money!"
+- [ ] "Ooh, money!"
+- [ ] Item icon Medi Gun.png  Deploying a Projectile Shield
+- [ ] "Everyone! Behind me!"
+- [ ] "You vill go no furzher!"
+- [ ] "No robot shall pass!"
+- [ ] "Get behind me!"
+- [ ] "(Laughter) Zhis wall is robot death!"
+- [ ] Killicon electro sapper.png  Teammate places a Sapper on a Robot
+- [ ] "Sapping a robot."
+- [ ] "Zhe robot is sapped."
+- [ ] Leaderboard class sniper.png  Enemy Sniper
+- [ ] "Sniper!"
+- [ ] Leaderboard class sentry buster.png  Sentry Buster
+- [ ] Incoming
+- [ ]
+- [ ] "Sentry Buster!"
+- [ ] Destroyed
+- [ ]
+- [ ] "Sentry Buster is destroyed!"
+- [ ] Bomb dropped.png  Bomb dropped
+- [ ] "Zhe bomb is clear."
+- [ ] "Zhe bomb carrier is down."
+- [ ] Bomb carried.png  Bomb picked up
+- [ ] "Bomb!"
+- [ ] "Zhey have a bomb!"
+- [ ] "Another bomb!"
+- [ ] Bomb carrier defense.png  Bomb carrier upgrades
+- [ ] "Zhe bomb carrier is looking angry!"
+- [ ] "Zhe bomb carrier is getting angrier!"
+- [ ] "Zhe bomb carrier is furious!"
+- [ ] Hud mvm bomb upgrade boss.png  Giant Robot
+- [ ] Deployed
+- [ ]
+- [ ] "Überbot!"
+- [ ] Picks up bomb'
+- [ ]
+- [ ] "Zhe Überbot has a bomb!"
+- [ ] Destroyed'
+- [ ]
+- [ ] "Zhe Überbot is destroyed."
+- [ ] Leaderboard class tank.png  Tank
+- [ ] Incoming
+- [ ]
+- [ ] "Taaank!"
+- [ ] In Alert Zone'
+- [ ]
+- [ ] "Zhe Tank is dropping a bomb!"
+- [ ] Attacking
+- [ ]
+- [ ] "Shoot zhe Tank!"
+- [ ] "Kill zhat Tank!"
+- [ ] "Shoot at ein Kraftmaschine!" (Translation: "Shoot at a machine!"; correct would be "eine")
+- [ ] Health dead.png  Teammate is killed
+- [ ] "Scout is dead!"
+- [ ] "Soldier is dead!"
+- [ ] "Pyro is dead!"
+- [ ] "Demo is dead!"
+- [ ] "Heavy is dead!"
+- [ ] "Engie is dead!"
+- [ ] "Medic is dead!"
+- [ ] "Sniper is dead!"
+- [ ] "Spy is dead!"
+- [ ] Health dead.png  All other teammates are dead
+- [ ] "(Laughs) It's just you and me, robots!"
+- [ ] Upon being revived with a Reanimator
+- [ ] "I'm alive! Alive!"
+- [ ] "Back from zhe dead!"
+- [ ] "I'm back!"
+- [ ] Mvm navicon.png  Miscellaneous
+- [ ] "Oh, I vill tear you apart, bolt by bolt!"
+- [ ] Mannhattan specific
+- [ ] Gate responses
+- [ ] Robots attacking
+- [ ]
+- [ ] "Zhey're attacking zhe gate!"
+- [ ] "Zhe robots are attacking zhe gate!"
+- [ ] Robots take gate
+- [ ]
+- [ ] "Zhe robots have taken zhe gate!"
+- [ ] "Zhe robots have zhe gate!"
+- [ ] After a wave
+- [ ] Achieved.png  Won
+- [ ] "Ve have done it!"
+- [ ] "Robots, haha!"
+- [ ] "(Hysterical laughter) Death to robots!"
+- [ ] Killicon skull.png  Lost
+- [ ] "Oh, zhis is not gut."
+- [ ] "Ach, ve deserve to lose."
+- [ ] "Zhe flesh is veak."
+- [ ] "Robots are our masters."
+- [ ] Receiving a Killstreak Kit
+- [ ] Common Loot
+- [ ]
+- [ ] "Ooh, zhis vill do nicely."
+- [ ] "Ooh, vunderbar!" (Translation: "Wonderful!")
+- [ ] "Hm, not bad."
+- [ ] Rare loot
+- [ ]
+- [ ] "Oh, now zhis is a rare piece!"
+- [ ] "Ooh, very nice."
+- [ ] Godlike loot
+- [ ]
+- [ ] "Vunderbar." (Translation: "Wonderful.")
+- [ ] "(Gasp) It's beautiful."
+- [ ] "Gott in Himmel, it's vunderful. It's more zhan vunderful, it's- it's Perfekt! (gleeful laughter)" (Translation: "God in Heaven," and correct would be "im Himmel, Perfect!")
+
+### Versus Saxton Hale responses
+
+- [ ] Note: Voicelines for this mode were provided by James McGuinn.
+- [ ]
+- [ ] Setup.png  Setup
+- [ ] "Mann Co. brand?! Feh, I made zis myself!"
+- [ ] "Mann Co. brand?! Dummkopfs! I made zis myself!"
+- [ ] "Remember, team, I am ze only thing standing between you and ze instant death!"
+- [ ] "You are quite bulletproof! Vhen ve kill you, can I take a skin sample, or maybe an arm?"
+- [ ] VSH Saxton Hale Model.png  Saxton location
+- [ ] Above
+- [ ]
+- [ ] "He is above you!"
+- [ ] "In zhe sky!"
+- [ ] Behind
+- [ ]
+- [ ] "Behind you!"
+- [ ] Contact
+- [ ]
+- [ ] "I see him! Protect me!"
+- [ ] "Oh, I see him! I need protection!"
+- [ ] Contact with full ÜberCharge
+- [ ]
+- [ ] "I see him! Are you ready?"
+- [ ] Wall climb
+- [ ] "Now zis is fass klettern!"(Translation: climbing)
+- [ ] "Haha! Now zis is fass klettern!"
+- [ ] "Zat is not how I imagined mein career ladder!"
+- [ ] "Woo! Vall climbing!"
+- [ ] "I don't need a license to climb valls!"
+
+### Halloween / Full Moon responses
+
+- [ ] Wheel of Fate outcomes
+- [ ] Fate card bighead.png  Big Head fate
+- [ ] "Ooh. Big head."
+- [ ] "Fascinating."
+- [ ] Fate card shrunkenhead.png  Small Head fate
+- [ ] "Ooh! Tiny little head!"
+- [ ] "Haha! Ooh! I have no head!"
+- [ ] Fate card skull.png  Whammy fate (bleeding variant)
+- [ ] "My-my blood is entirely out of my body. Vhat a curious feeling!"
+- [ ] Backpack Skull Island Topper.png  Positive fate
+- [ ] "Ooh. Interesting."
+- [ ] "Ooh. Zhis is exciting!"
+- [ ] "Oh ho hoh! I have been in zhe wrong profession. I must learn zhis magic!"
+- [ ] "Ooh. Vhat is happening now?"
+- [ ] "Vhat a strange sensation!"
+- [ ] "Wuh ho ho! Vhat a curious sensation!"
+- [ ] Backpack Skull Island Topper.png  Negative fate
+- [ ] "Uhh. Uh-oh. Alright, zhis is actually really bad."
+- [ ] During battle with Merasmus
+- [ ] Backpack Skull Island Topper.png  Merasmus appears
+- [ ] "Everybody! Attack ze vizard!"
+- [ ] "Now! NOW! Attack ze vizard!"
+- [ ] "I vill heal you! Attack ze vizard!"
+- [ ] RED Bombinomicon.png  Merasmus brings out Bombinomicon
+- [ ] "Hoh! Zhat book certainly seems angry!"
+- [ ] "Uh, hello! Magic book? Do you still have Demoman's eye? I'll trade you a heart for it!"
+- [ ] "Hoh! Zhat book is full of bombs!"
+- [ ] "So many bombs!"
+- [ ] "Woo! What is zhat book doing?"
+- [ ] "The vizard is charging!"
+- [ ] RED Bombinomicon.png  Successfully stun Merasmus
+- [ ] "I have so much power!"
+- [ ] "I am full of magic!"
+- [ ] "I am coming for you, vizard!"
+- [ ] "Ooh. I must learn how to do zhat."
+- [ ] Backpack Skull Island Topper.png  Merasmus attempts to heal himself
+- [ ] "He's healing himself!"
+- [ ] "KILL HIM! He's healing himself!"
+- [ ] Backpack Skull Island Topper.png  Looking for Merasmus
+- [ ] "Vizard! Where are you?"
+- [ ] "Vizard! Zhe sooner you come out, the sooner ve can kill you!"
+- [ ] "Come out, Merasmus! Ve have much to discuss!"
+- [ ] "Come out, Merasmus! Nothing vill happen to you. I svear!" (breathless laughter) "I can't...ve're going to kill you! (more laughter)"
+- [ ] "Zhat vizard is hiding somevhere."
+- [ ] "Merasmus?"
+- [ ] "Vhere are you, vizard?"
+- [ ] "Vizard!"
+- [ ] (Evil laughter)
+- [ ] (Happy laughter)
+- [ ] "Oh. Magic. Ghosts! Oho! Zhis is so much fun!"
+- [ ] "Oh hohoho. I love Halloveen!"
+- [ ] Helltower responses
+- [ ] BLU Bombcart.png  Pushing the cart
+- [ ] "Raus, raus! Move ze wheelchair!"
+- [ ] "Push zat old man to hell!"
+- [ ] "Push ze dead man!"
+- [ ] BLU Bombcart.png  Witching Hour: The bridge appears
+- [ ] "Ze bridge is down!"
+- [ ] "Everyone, get to ze bridge!!"
+- [ ] "Ze bridge!"
+- [ ] "Ze clock has struck! Schnell, schnell!"
+- [ ] "Ze clock has struck!"
+- [ ] Miscellaneous
+- [ ] Backpack Fancy Spellbook.png  Collected normal spell
+- [ ] "Ooh, tingly."
+- [ ] Backpack Fancy Spellbook.png  Collected rare spell
+- [ ] "Today!! I am a God!! (maniacal laughter)"
+- [ ] (Maniacal laughter)
+- [ ] Backpack Fancy Spellbook.png  Reacting to a spell
+- [ ] "Vhat is happening?!"
+- [ ] "Zhe horror! Zhe horror!"
+- [ ] "I can't take any more of zis insanity!"
+- [ ] "Ahh! Insanity!"
+- [ ] "Someone make zhe magic stop!"
+- [ ] "Too much magic!"
+- [ ] "I can't take it any more!"
+- [ ] Backpack Spellbook Magazine.png  Casting spells
+- [ ] "Caputus crepitus!"
+- [ ] "Pactum diabolus!"
+- [ ] "Seismela tremoro!"
+- [ ] "Barpo kabalto!"
+- [ ] "Barpo invisium!"
+- [ ] "Imputum fulmenus!"
+- [ ] "Invokum Monoculus!"
+- [ ] "Amplus tripudio!"
+- [ ] "Paidum celeris!"
+- [ ] "Ipsum instantarium!"
+- [ ] "Deus invictus!"
+- [ ] "Mortis animataris!"
+- [ ] Backpack Skull Island Topper.png  Falling in bottomless pit (also used when falling from the cliff in Snowplow)
+- [ ] (Long scream)
+- [ ] Backpack Skull Island Topper.png  Scared
+- [ ] "RUN!"
+- [ ] "GET AVAY!"
+- [ ] "GET AVAY FROM ZHE VIZARD!"
+
+### Item-related responses
+
+- [ ] Archimedes the Undying With Archimedes the Undying equipped
+- [ ] These responses override the default response for that category.
+- [ ] Dominating.png  Domination
+- [ ] Archimedes: "Bwarrrr, dominated! Bwaaaark!"
+- [ ] Intel red idle.png  After capturing Intelligence
+- [ ] Archimedes: "Bwarrrr, stole the briefcase! Raawk!" Medic: "Shh shh shh!"
+- [ ] Item icon Jarate.png  Hit by Gas Passer, Jarate, Mad Milk, Mutated Milk, or Self-Aware Beauty Mark
+- [ ] Archimedes: "Bwark, that's jarate!" Medic: [sad voice] "Yes, it is."
+- [ ] Uncharged Canteen.PNG  Wave finished, near an Upgrade Station
+- [ ] Archimedes: "Rrrooowl, upgrade station! Raawk!" Medic: "Ah. Yes."
+- [ ] Achieved.png  Won
+- [ ] Medic: "Ve did it! Haha!" :Archimedes: "Rraaaaa, kill your friends!" Medic: "Ah yes, I almost forgot."
+- [ ] Killicon fire.png  Set on fire
+- [ ] Archimedes: "Rraaa, we're on fire!" Medic: "Yes, I know!"
+- [ ] Gette it Onne!.png  Round start
+- [ ] Archimedes: "Bwark, kill them all!" :Medic: "Shh."
+- [ ] Archimedes: "Bwarr." Medic: "Shh." Archimedes: "Raaaarl." Medic: "Shh shh shh!" Archimedes: "Kill them all..." Medic: "That's enough!"
+- [ ] Archimedes: "Bwaaarrrl, dead by dawn!" Medic: "Shh, silence!".
+- [ ] Archimedes: "Bwaaarrrl, Archimedes wants brains!" Medic: "Thank you, Archimedes."
+- [ ] Archimedes: "Bwaaarrrl, braaaains! Bwaaark!" Medic: "Shush, Archimedes."
+- [ ] Archimedes: "Bwaaarrrl, Archimedes wants brains!" Medic: "Yes, Archimedes wants all the brains, doesn't he?"
+- [ ] BLU Bombcart.png  Pushing the cart on Helltower
+- [ ] Archimedes: "Bwark, push the dead man!" Medic: "I'm trying..."
+- [ ] Archimedes: "Bwaaarl, send him to hell!" Medic: "Ah, yes."
+- [ ] CP Locked RED.png  Standing on captured control point, firing weapon
+- [ ] Archimedes: "Bwaaaark, stand on the point!"
+- [ ] Medimedes With Medimedes equipped
+- [ ] These responses override the default response for that category.
+- [ ] Gette it Onne!.png  Round start
+- [ ] "I am Archimedes!"
+- [ ] "I experimented on my own head! (laughs maniacally)"
+- [ ] "My head! (laughs)"
+- [ ] "Zhe bird head is pure agony! (laughs manically)"
+- [ ] "It's a bird! It's a head! It's a bird head! (laughs)"
+- [ ] "Help me! (unstable laughter)"
+- [ ] "Bird head was a bad choice! (screams)"
+- [ ] "I toiled in God's domain! (screams)"
+- [ ] Dominating.png  Domination
+- [ ] "Bird head domination!"
+- [ ] "I have a bird head, you're dominated!" [sotto voce] "Ve're bozh having a bad day."
+- [ ] Item icon Kritzkrieg.png  ÜberCharge
+- [ ] "I am zhe angry bird god of zhe Badlands! Fear me!"
+- [ ] Second Opinion With Second Opinion equipped
+- [ ] These responses override the default response for that category.
+- [ ] Gette it Onne!.png  Round start
+- [ ] Normally: "Let's do zhis, my friends!" Evilly: "Kill zhem all." Normally: "Shh, it's enough!"
+- [ ] Normally: "I'm ready, my friends." Evilly: "Kill all your friends." Normally: "Ooh, good idea."
+- [ ] Normally: "I'm ready!" Evilly: "Kill zhem all." Normally: "Also, I must kill you all."
+- [ ] Normally: "I cannot vait (nervous giggle)" Evilly: "And neizher can I."
+- [ ] Evilly: "Kill zhem, kill zhem all." Normally: "Hm, zhat does sound like fun."
+- [ ] Evilly: "Kill zhem all." Normally: "Hm. Are you sure?" Evilly: "Yes." Normally: "Vell, I'm convinced."
+- [ ] Evilly: "Zhey all zhink you're crazy." Normally: "Vhat? I'll show zhem!"
+- [ ] Normally: "Ready?" Evilly: "Ve're both ready."
+- [ ] Hoodoo Bombcart.png  Cart has stopped/Pushing cart
+- [ ] Normally: "Who stopped pushing zhe cart?" Evilly: "Zhis is your fault!"
+- [ ] Evilly: "Push harder!" Normally: "Oh, shut up!"
+- [ ] Evilly: "Keep pushing." Normally: "Vhy don't you push?"
+- [ ] Dominating.png  Domination
+- [ ] "I'm of two minds about zhis. Both are-- pretty good with it."
+- [ ] Item icon Second Opinion.png  Idle
+- [ ] Evilly: "Do you ever worry you might be going mad!?" Normally: "Well, not worry. I mean, I'm not up at night about it."
+- [ ] Evilly: "Do you ever zhink zhat you might be going mad?" Normally: "Oh, all zhe time. I don't zhink it's anyzhing to worry about."
+- [ ] Evilly: "Redrum, redrum!" Normally: "Red- Oh, I just got zhat. Very clever."
+- [ ] Item icon Medi Gun.png  Kill assist
+- [ ] Normally: "Ve did it!" Evilly: "I did it." Normally: "Eh, vhatever."
+- [ ] Item icon Medi Gun.png  ÜberCharge
+- [ ] Normally: "Ve are invincible!" Evilly: "Yes, ve are."
