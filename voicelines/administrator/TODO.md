@@ -1,10 +1,10 @@
-# Administrator - 100%
+# Administrator
 
 [wiki responses](https://wiki.teamfortress.com/wiki/Administrator_responses)
 
-## Responses - 100%
+## Responses
 
-### General Responses - 100%
+### General Responses
 
 - [x] "Prepare to attack the enemy's control points!" - "Pregătiți-vă să atacați punctele de control ale inamicilor."
 - [x] "Prepare to capture all control points." - "Pregatiți-vă să capturați toate punctele de control."
@@ -40,7 +40,7 @@
 - [x] "Overtime..." - "Supratimp..."
 - [x] "Overtime." - "Supratimp."
 
-### Control Point Mode responses - 100%
+### Control Point Mode responses
 
 - [x] "Alert! Our control point is being captured." - "Alertă! Punctul nostru de control este capturat."
 - [x] "Alert! The control point is being contested." - "Alertă! Punctul de control este contestat."
@@ -54,13 +54,13 @@
 - [ ] ~~"They're coming into the final stretch!"~~
 - [ ] ~~"You're coming into the final stretch!"~~
 
-### King of the Hill Mode responses - 100%
+### King of the Hill Mode responses
 
 - [x] "We have captured the control point!" - "Am capturat punctul de control!"
 - [x] "We have secured the control point!" - "Am securizat punctul de control!"
 - [x] "We have lost the control point!" - "Am pierdut punctul de control!"
 
-### Payload Mode responses - 100%
+### Payload Mode responses
 
 - [x] "Get to the cart!" - "Treceți la cărucior!"
 - [x] "To the cart!" - "La cărucior!"
@@ -86,7 +86,7 @@
 - [x] "The bomb has almost reached the final terminus!" - "Bomba aproape a ajuns la stația finală!"
 - [x] "The cart has almost reached the final terminus!" - "Căruciorul aproape a ajuns la stația finală!"
 
-### Capture the Flag Mode responses - 100%
+### Capture the Flag Mode responses
 
 - [x] "We have taken the enemy intelligence." - "Am luat inteligența inamicilor."
 - [x] "Alert! The enemy has taken our intelligence!" - "Alertă! Inamicii au luat inteligența noastră."
@@ -105,7 +105,7 @@
 - [x] "Our intelligence has returned to our base." - "Inteligența noastră a revenit la baza noastră."
 - [x] "The enemy intelligence was returned to their base." - "Inteligența inamiciilor a revenit la baza lor."
 
-### Competitive Mode responses - 100%
+### Competitive Mode responses
 
 - [x] "Competition begins in sixty seconds." - "Competiția începe în șaizeci de secunde!"
 - [x] "Prepare to compete in sixty seconds." - "Pregătiți-vă să concurați în șaizeci de secunde!"

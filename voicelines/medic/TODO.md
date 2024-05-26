@@ -1,9 +1,9 @@
-# Medic - 100%
+# Medic
 
 [wiki commands](https://wiki.teamfortress.com/wiki/Medic_voice_commands)
 [wiki responses](https://wiki.teamfortress.com/wiki/Medic_responses)
 
-## Commands - 100%
+## Commands
 
 - [x] "Doktor!" - "Doctor!"
 - [x] "Medic!" - "Doctore!"
@@ -125,9 +125,9 @@
 - [x] "Amazing, kamerad!" - "Uimitor, șefule!"
 - [x] "Keep it up!" - "Ține-o tot așa!"
 
-## Responses - 100%
+## Responses
 
-### Kill-related responses - 100%
+### Kill-related responses
 
 - [x] "Eins, zwei, drei... Ugh, I do not zhink ve brought enough body bags." - "Unu; doi; trei... Ugh, nu cred că am destui saci de cadavre."
 - [x] "Haha! Vhat a bloodbazh!" - "Haha! Ce baie de sânge!"
@@ -139,7 +139,7 @@
 - [x] "Danke, Kamerad!"
 - [x] "Ve did it, Kamerad!"
 
-### Domination-related responses - 100%
+### Domination-related responses
 
 - [x] "Vould you like a second opinion? You are also ugly!" - "Vrei o a doua opinie? Ești urât și prost!"
 - [x] "Come over here. I promise I vill heal you!"
@@ -156,7 +156,7 @@
 - [x] "Schweinhunds!"
 - [x] "Dummkopfs!"
 
-### Event-related responses - 100%
+### Event-related responses
 
 - [x] "Raus, Raus!"
 - [x] "Forward!"
@@ -219,7 +219,7 @@
 - [x] "Ze healing leaves little time for ze hurting." - "Vindecarea lasă puțin timp pentru rănire."
 - [x] "Good to go!" - "Hai să mergem!"
 
-### Weapon-related responses - 100%
+### Weapon-related responses
 
 - [x] "Ready to charge!"
 - [x] "I am fully charged."
@@ -230,7 +230,7 @@
 - [x] "Auf Wiedersehen, Schweinehunds!" - "V-ați dus dracu!"
 - [x] "Auf Wiedersehen, Dummkopfs!" - "V-ați dus pe pulă!"
 
-### Objective-related responses - 100%
+### Objective-related responses
 
 - [x] "How embarrassing. Zey let a man of science escape with ze papers!" - "Ce penibil. Au lăsat un om de știință să se masturbeze cu hârtiile!"
 - [x] "Papers, please." - "Hârtiile, vă rog."
@@ -270,7 +270,7 @@
 - [x] "Who stopped pushing zhe cart?!" - "Cine a oprit căruciorul?!"
 - [x] "Everyone, we must stop zhat bomb!" - "Băieți, trebuie să oprim bomba!"
 
-### Duel-related responses - 100%
+### Duel-related responses
 
 - [x] "I'm going to saw through your bones!" - "O să-ți tai pula!"
 - [x] "I am prepared to do vatever it takes!"

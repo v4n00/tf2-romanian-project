@@ -1,9 +1,9 @@
-# Demo - 100%
+# Demo
 
 [wiki commands](https://wiki.teamfortress.com/wiki/Demoman_voice_commands)
 [wiki responses](https://wiki.teamfortress.com/wiki/Demoman_responses)
 
-## Commands - 100%
+## Commands
 
 - [x] "Medic!" - "Doctor!"
 - [x] "Medic!" - "Doctor!"
@@ -117,7 +117,7 @@
 
 ## Responses - 30%
 
-### Kill-related responses - 100%
+### Kill-related responses
 
 - [x] "How's that feel, ya blockhead?" - "Cum se simte, cap de pulă?"
 - [x] "Ya great lactating wet nurse!" - "Mă-ta e o curvă!"
@@ -156,7 +156,7 @@
 - [x] "Ka-boooom!" - "Ka-boooom!"
 - [x] "Kablooie!" - "Kablooie!"
 
-### Domination-related responses - 100%
+### Domination-related responses
 
 - [x] ~~(Short laugh 1)~~
 - [x] ~~(Short laugh 2)~~
@@ -217,7 +217,7 @@
 - [x] "I had me good eye on you the whole time!" - "Te-am urmărit cu propriul meu ochi!"
 - [x] "Well, alright!" - "Este efectiv ca mine!"
 
-### Event-related responses - 100%
+### Event-related responses
 
 - [x] "Freeeedooooom!"
 - [x] "Hae at 'em, lads!"
@@ -318,7 +318,7 @@
 - [x] "Time to get bluttered!"
 - [x] "Guts and glory, lads!"
 
-### Weapon-related responses - 100%
+### Weapon-related responses
 
 - [x] [Slurred] "...Yer arses arse and I'm the grass man, punk yeah ya havin' heathen."
 - [x] "Any one of you, I..." (belch)
@@ -329,7 +329,7 @@
 - [x] (Unintelligible gibberish)
 - [x] "Any one of you (belches) Everyone, damn it... (sobs)"
 
-### Objective-related responses - 100%
+### Objective-related responses
 
 - [x] "Aye, that's the way ye do it! Hehah!" - "Da, așa se face!"
 - [x] "Time to get bluttered!"
@@ -371,7 +371,7 @@
 - [x] "The cart is bloody stopped!" - "Căruciorul s-a oprit!"
 - [x] "The cart's not moving, lads!" - "Căruciorul nu se mișcă, băieți!"
 
-### Duel-related responses - 100%
+### Duel-related responses
 
 - [x] "Time to get bluttered!" - "Timpul să mă sparg!"
 - [x] "Leeeeet's do iiiiit!"
