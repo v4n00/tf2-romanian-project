@@ -1,9 +1,9 @@
-# Soldier - 100%
+# Soldier
 
 [wiki commands](https://wiki.teamfortress.com/wiki/Soldier_voice_commands)
 [wiki responses](https://wiki.teamfortress.com/wiki/Soldier_responses)
 
-## Commands - 100%
+## Commands
 
 - [x] "Medic!" - "Doctor!"
 - [x] "Medic!” - "Doctor!"
@@ -127,9 +127,9 @@
 - [x] "Outstanding!"
 - [x] "Nice work."
 
-## Responses - 100%
+## Responses
 
-### Kill-related responses - 100%
+### Kill-related responses
 
 - [x] "Ka-boom!" - "KA BOOM!"
 - [x] "Maggots!" - "Viermilor!"
@@ -158,7 +158,7 @@
 - [x] ~~"Raagh!"~~
 - [x] ~~"Aaaah!!"~~
 
-### Domination-related responses - 100%
+### Domination-related responses
 
 - [x] ~~(Evil laughter 1)~~
 - [x] ~~(Evil laughter 2)~~
@@ -248,7 +248,7 @@
 - [x] "Today is a good day." - "Astăzi este o zi bună!"
 - [x] "Outstanding!" - "Excepțional!"
 
-### Event-related responses - 100%
+### Event-related responses
 
 - [x] "Charge!" - "Haideți!"
 - [x] "Forward!" - "Înainte!"
@@ -310,7 +310,7 @@
 - [x] ~~(Happy laughter)~~
 - [x] "Screamin' Eagles!" - "Vulturii țipă!"
 
-### Weapon-related responses - 100%
+### Weapon-related responses
 
 - [x] ~~BLU Bugle Call (Buff Banner)~~
 - [x] ~~RED Bugle Call (Buff Banner)~~
@@ -323,7 +323,7 @@
 - [x] "Attack!" - "Atacați!"
 - [x] ~~"Hehehyaaa!"~~
 
-### Objective-related responses - 100%
+### Objective-related responses
 
 - [x] "This is my Intelligence." - "Asta este inteligența mea!"
 - [x] "And that is how you do it, men!" - "Și așa se face, băieți!"
@@ -372,7 +372,7 @@
 - [x] "Get to the cart!" - "Hai la cărucior!"
 - [x] "You will stand next to that cart or I will stand you next to that cart!" - "O să stați lângă cărucior sau o să vă lipesc de el!"
 
-### Duel-related responses - 100%
+### Duel-related responses
 
 - [x] "Let's go!" - "Hai, să mergem!"
 - [x] "Time to inform your next of kin!" - "E timpul să-ți anunți următorul grad de rudenie!"
@@ -390,7 +390,7 @@
 - [x] ~~"Boooooo..."~~
 - [x] "You are a spineless worm! You are a mistake of nature! You are walking vomit!" - "Ești un vierme fără coloană! Ești o greșeală a naturii! Ești voma în mișcare!"
 
-### Mann vs. Machine responses - 100%
+### Mann vs. Machine responses
 
 - [x] "Ready." - "Pregătit."
 - [x] "I am ready." - "Sunt pregătit."

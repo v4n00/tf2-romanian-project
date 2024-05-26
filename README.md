@@ -10,34 +10,34 @@ Go to the [releases page](https://github.com/v4n00/tf2-romanian-project/releases
 
 ## Progress
 
-### Voice lines - 33%
+### Voice lines
 
-- [x] Administrator responses - 100%
+- [x] Administrator responses
 - [ ] Scout commands
 - [ ] Scout responses
-- [x] Soldier commands - 100%
-- [x] Soldier responses - 100%
-- [ ] Pyro commands
-- [ ] Pyro responses
-- [x] Demoman commands - 100%
-- [x] Demoman responses - 100%
+- [x] Soldier commands
+- [x] Soldier responses
+- [x] Pyro commands
+- [x] Pyro responses
+- [x] Demoman commands
+- [x] Demoman responses
 - [ ] Heavy commands
 - [ ] Heavy responses
 - [ ] Engineer commands
 - [ ] Engineer responses
-- [x] Medic commands - 100%
-- [x] Medic responses - 100%
+- [x] Medic commands
+- [x] Medic responses
 - [ ] Sniper commands
 - [ ] Sniper responses
 - [ ] Spy commands
 - [ ] Spy responses
 
-### Localization - 20%
+### Localization
 
 - [ ] Weapons
 - [ ] Cosmetics
 
-### Logo - 100%
+### Logo
 
 - [x] Design
 - [x] VTF conversion
