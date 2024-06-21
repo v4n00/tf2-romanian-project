@@ -1,0 +1,1324 @@
+# Scout
+
+[wiki commands](https://wiki.teamfortress.com/wiki/Scout_voice_commands)
+[wiki responses](https://wiki.teamfortress.com/wiki/Scout_responses)
+
+## Commands
+
+- [ ] "Medic!" - "Doctor!"
+- [ ] "MEDIC!" - "Doctore!"
+- [ ] "Doc! Come on, man!" - "Doctore, haide-n pula mea!"
+- [ ] "C'mon Doc, follow me." - "Doctor, treci pe coaiele mele!"
+- [ ] "This way, Doc." - "Bagă-mi-o în cur doctor!"
+- [ ] "Doc, this way." - "Doctor, aici!"
+- [ ] "Follow me, Doc." - "Hai după mine, doctor!"
+- [ ] "Thanks, pally!" - "Mulțumesc, șefanule!"
+- [ ] "Yeah, yeah, thanks!" - "Da bă, mulțumesc!"
+- [ ] "Way to go, pally!" - "Așa, șefanule!"
+- [ ] "We got 'em, we got 'em!" - "Le-am dat la muie!"
+- [ ] "Let's go, let's go, let's go!" - "Hai, hai, hai!"
+- [ ] "Let's go!" - "Hai să merem!"
+- [ ] "Go go go!" - "Dă-i pe turbo sport!"
+- [ ] "Would you just let's go?" - "Hai să merem, că ma plictisesc!"
+- [ ] "Move it up, move it up!" - "Miscă-ți curu' coaie!"
+- [ ] "Come on, move it up!" - "Hai, miscă-ți curu'!"
+- [ ] "Let's move it up!" - "Dă-i înainte!"
+- [ ] "Alright, go left!" - "Treci la stânga!"
+- [ ] "To the left!" - "La stânga!"
+- [ ] "Left left left!" - "Stânga!"
+- [ ] "Go right!" - "Treci la dreapta!"
+- [ ] "Yeah, let's go to the right!" - "Hai la dreapta!"
+- [ ] "Right right right!" - "Dreapta!"
+- [ ] "Yeah!" - "Sunt grec negrule!"
+- [ ] "Yeah, gotcha!" - "Desigur bro!"
+- [ ] "Gotcha!" - "Da coaie!"
+- [ ] "Uh, no." - "Nu."
+- [ ] "No!" - "Pleacă bă d-aici!"
+- [ ] "No way!" - "Nici vorbă!"
+- [ ] "Incoming!" - "Se aproprie!"
+- [ ] "Yo, incoming!" - "Bă, se aproprie!"
+- [ ] "Incoming!" - "Vin pe noi coaie!"
+- [ ] "Yeah, there's a Spy over there!" - "E un spion acolo!"
+- [ ] "Spy!" - "Spion!"
+- [ ] "There's a Spy over here!" - "Spion vrea să ne dea la muie!"
+- [ ] "We got a Spy!" - "Avem un spion printre noi!"
+- [ ] "The freakin' Scout's a Spy!" - "Cercetașu' ăla e spion!"
+- [ ] "The freakin' Soldier's a Spy!" - "Soldatu' ăla e spion!"
+- [ ] "That freakin' Pyro's a Spy!" - "Piromanu' ăla e spion!"
+- [ ] "The freakin' Demo's a Spy!" - "Demolițianu' ăla e spion!"
+- [ ] "The freakin' Heavy's a Spy!" - "Greu' ăla e spion!"
+- [ ] "That freakin' Hard Hat's a Spy!" - "Ingineru ăla e spion!"
+- [ ] "That freakin' Medic's a Spy!" - "Doctoru' ăla e spion!"
+- [ ] "That freakin' Sniper's a Spy!" - "Lunetistu' ăla e spion!"
+- [ ] "That Spy ain't one of us!" - "Spionu' ăla nu e de-al nostru!"
+- [ ] "Sentry ahead!" - "Santinelă în față!"
+- [ ] "Sentry up there!" - "Futem-aș în santinela lor!"
+- [ ] "They got a Sentry up there!" - "Au o santinelă, să-mi bag pula!"
+- [ ] "Need a Teleporter here." - "Bagă un teleportator aici."
+- [ ] "Need a Dispenser here." - "Bagă un dispensar aici."
+- [ ] "Need a Sentry here." - "Bagă o santinelă aici."
+- [ ] "Hit it, Doc!" - "Dă-mi printre buci, doctore!"
+- [ ] "Come on, Doc, do it!" - "Dă-ți drumu' în mine, doctore!"
+- [ ] "Do it, Doc, do it!" - "Scuipă-mă-ntre ochi, doctore!"
+- [ ] "Help!" - "Ajutor!"
+- [ ] "Yo, a little help here?" - "Sculați-vă pula să mă ajutați!"
+- [ ] "Uhh... little help?" - "Mă ajutați sau vă futeți în gură?"
+- [ ] "I'm dying here!" - "Îmi dau la buci coaie, ajutați-mă!"
+- [ ] "Get over here and help me defend!" - "Treceți pe pulă și ajutați-mă să apăr!"
+- [ ] "Defend the freakin' point!" - "Apărați punctul, coaie!"
+- [ ] "What? Am I gonna hafta defend this thing by myself?" - "Ce? Tre' să apăr punctul singur?"
+- [ ] "Yo, I need help cappin'!" - "Ajutați-mă să-mi dau drumul!"
+- [ ] "I'm cappin' over here, who's with me?" - "Îmi dau duhul aici, cine e cu mine?"
+- [ ] "Am I gonna hafta capture this thing by myself?" - "Tre' să-mi dau drumul singur?"
+- [ ] "Stand on the freakin' point, you moron!" - "Stai pe punct, homosexualule!"
+- [ ] "What the hell is wrong with you? Stand on the freakin' point!" - "Ce pula mea e în neregulă cu tine? Stai pe punct, coaie!"
+- [ ] "Get on the freakin' point dumbass!" - "Treci pe punct, coaie!"
+- [ ] "Would you kindly move ya ass to the freakin' point?" - "Hai pe pulă!"
+- [ ] "How's the weather over there, dumbass? Get to the freakin' point!" - "Mașina de spălat trăiește mai mult cu Calgon!"
+- [ ] "Play ball!" - "M-am căcat pe mine!"
+- [ ] "Let's get 'em!" - "Hai să îi futem în cur!"
+- [ ] "Eat my dust!" - "O să vă bag pula pe gât!"
+- [ ] "Wohoooo!" - "M-am bășit și aștept să pută!"
+- [ ] "Let's waste 'em!" - "Haideți să le dăm la muie!"
+- [ ] "Let's go." - "Haide!"
+- [ ] "Bring it." - "Ne futem sau?"
+- [ ] "Let's do dis." - "Hai să ne futem!"
+- [ ] "You 'n me." - "Tu și eu!"
+- [ ] "C'mon, tough guy!" - "Hai, te crezi coios?"
+- [ ] "Put 'em up, pal." - "Pune-ți coaiele la vedere!"
+- [ ] "I'm gonna beat on your skull 'till I hit tonsils." - "O să te bat până îți ies mațele!"
+- [ ] "Yeah, come get some, you frickin' wuss!" - "Mi-au picat cinci șeptari azi noapte coaie!"
+- [ ] "I'm gonna headbutt cha', I'm gonna headbutt cha', I'm gonna headbutt cha'!" - "Am să te fut! Am să te fut! Am să te fut!"
+- [ ] "What are you lookin at?!" - "La ce pula mea te uiți?"
+- [ ] "YES!" - "Mamă ce mă masturbez diseară!"
+- [ ] "I did it!" - "Diseară folosesc lubrifiant!"
+- [ ] "Wohohoo!" - "M-am pișat pe mine!"
+- [ ] "Sweet!" - "Mă masturbez cu mâna stângă!"
+- [ ] "Wicked!" - "Mă masturbez cu mâna dreaptă!"
+- [ ] "Oh yeah!" - "Mă masturbez cu ambele mâini!"
+- [ ] "Booooo!" - "Mi-am pierdut toată alocația de orfan la păcănele!"
+- [x] ~~[blows a raspberry]~~
+- [ ] "Frickin' unbelievable!" - "Ieri mi-am dat drumul pe mine!"
+- [ ] "This did not just happen!" - "Odată am reușit să mă fut singur!"
+- [ ] "This sucks on ice." - "Am încercat să-mi sug pula, dar nu am reușit!"
+- [ ] "No seriously, you all suck." - "Să-mi bag pula, sunteți niște lobotomizați!"
+- [ ] "What the hell is you guys' problem?" - "Mi-am pierdut virginitatea cu o capră!"
+- [ ] "Aw, jeez!" - "M-am căcat pe mine!"
+- [ ] "This sucks!" - "Mă doare-n pula!"
+- [ ] "What the hell was that crap?" - "Ce pula mea a fost aia?"
+- [ ] "This is a real frickin' embarrassment!" - "Mă simt skibidi fortnite fanum rizzler!"
+- [ ] [quiet snortish laughter] "Ha ha ha... yeah..." - "Aha! Așa se simte să fii prost!"
+- [ ] "Alright!" - "Am băgat la păcănele și am câștigat!"
+- [ ] "Yo, we're on fire!" - "Coaie, i-am scuipat între ochi!"
+- [ ] "Woo!" - "Ce e chestia asta albă pe pula mea?"
+- [ ] "That's what I'm talking about!" - "Ce pizda mă-sii e chestia asta?"
+- [x] ~~Evil laugh~~
+- [x] ~~Short laugh~~
+- [x] ~~Short laugh 2~~
+- [x] ~~Short laugh 3~~
+- [x] ~~Short laugh 4~~
+- [x] ~~Short laugh 5~~
+- [ ] "Ugh!" - "Ne-au futut de ne-au rupt!"
+- [ ] "We are screwed!" - "Nu-mi mai simt găozul..."
+- [ ] "Stupid, stupid, stupid!" - "Sunt prost, handicapat și troglodit!"
+- [ ] "Augh..!" - "M-am pișat cu sânge..."
+- [ ] "'Kay, this does not look good here.. um.." - "M-au prins cu pula-n mână..."
+- [ ] "Nice shot!" - "Așa i-am tras și eu lu' mă-ta între buci!"
+- [ ] "Hey, nice shootin' there!" - "Cum tragi tu, așa trag si eu de pulă!"
+- [ ] "Way ta go, slugger!" - "Dacă mai tragi mult o să-mi dau drumu!"
+- [ ] "'Atta boy!" - "Așa, băiatu' mamei!"
+- [ ] "That's what I'm talking about!" - "Mă simt norocos, timpul să mergem la păcănele!"
+- [ ] "Dat was all you!" - "M-am udat la cum ai tras!"
+- [ ] "Alright, yeah, that's- naw, that's a pretty good job." - "Mă simt ca un boșorog care a fost la păcănele!"
+
+## Responses
+
+### Kill-related responses
+
+- [ ] Item icon Scattergun.png  After killing more than 1 enemy in 20 seconds with a primary weapon
+- [ ]
+- [ ] "That's what I'm talking about!"
+- [ ] (Evil laughter)
+- [ ] (Happy laughter 1)
+- [ ] (Happy laughter 2) "You got owned!"
+- [ ] (Happy laughter 3)
+- [ ] (Happy laughter 4)
+- [ ] (Long laughter) "Yeah...yeah!"
+- [ ] (Long laughter 2)
+- [ ] "Not so tough now, are ya? Are ya?!"
+- [ ] "You knuckleheads ain't even worth the effort."
+- [ ]
+- [ ] Killicon tool chest.png  Destroying a building
+- [ ]
+- [ ] "I broke your stupid crap, moron!"
+- [ ]
+- [ ] Item icon Medi Gun.png  Kill assist
+- [ ]
+- [ ] "Way to go, pally!"
+- [ ] "We got 'em, we got 'em!"
+- [ ]
+- [ ] Item icon Bat.png  Melee kill
+- [ ]
+- [ ] Shared with all melee weapons
+- [ ] "Bonk!"
+- [ ] "Boink!"
+- [ ] "Say goodbye to ya kneecaps, chucklehead!"
+- [ ] "How's that feel, wimp?"
+- [ ]
+- [ ] Melee killing a Heavy
+- [ ] "Eat it, fatty!"
+- [ ]
+- [ ] Bat / Sandman / Atomizer kill
+- [ ] "Yo, batter up!"
+- [ ] "Yo, I oughta' be on a baseball card!"
+- [ ] "I'm battin' a thousand!"
+- [ ] "Ya head's a freakin' bat magnet!"
+- [ ] "'Ey, is somebody keepin' track of my heads batted in?"
+- [ ]
+- [ ] Holy Mackerel / Fan O'War kill
+- [ ] "Yeah, I dare ya, rage quit. C'mon, make us both happy."
+- [ ] "Oh hey! You suck."
+- [ ] (Happy laughter) "You got owned!"
+- [ ]
+- [ ] Candy Cane kill
+- [ ] "Sweet!"
+- [ ] "You're all losers!"
+- [ ] "You wimps suck!"
+- [ ]
+- [ ] Boston Basher / Three-Rune Blade kill
+- [ ] "Man, your skull's so soft you're makin' this easy!"
+- [ ] "I wasted you!"
+- [ ]
+- [ ] Sun-on-a-Stick kill
+- [ ] "Hey, who's on fire now?"
+- [ ] "Is-is anybody even payin' attention ta me?"
+- [ ] "What's the matter? You freaking stupid?"
+- [ ]
+
+### Domination-related responses
+
+- [ ] Dominating.png  Domination
+- [ ]
+- [ ] "Yeah, that's right!"
+- [ ] "You're gettin' dominated, chucklehead!"
+- [ ] "'Domination'. Look it up."
+- [ ] "You're like a car crash in slow motion. It's like I'm watchin' ya fly through a windshield."
+- [ ]
+- [ ] Leaderboard class scout.png  Dominating a Scout
+- [ ]
+- [ ] "Hit the bricks, pal. You're done."
+- [ ] "Ha ha! Look at you! You look like you ran through traffic!"
+- [ ] "Hey, knucklehead, you ain't gonna win."
+- [ ] "Oh, what, you gonna cry? You gonna cry now?"
+- [ ] "Yeah, I dare ya, rage quit. C'mon, make us both happy!"
+- [ ] "I will never... Stop... Killing you."
+- [ ] "You... Are... Terrible!"
+- [ ] "I am the Scout here!"
+- [ ] "This map ain't big enough for the two of us."
+- [ ] "Hit the road, bozo! Let a real Scout get to work!"
+- [ ] "You're like a car crash in slow motion. It's like I'm watchin' ya fly through a windshield."
+- [ ]
+- [ ] Leaderboard class soldier.png  Dominating a Soldier
+- [ ]
+- [ ] "Yo, I'm not even wearin' a helmet!"
+- [ ] "What is your major malfunction, brother?"
+- [ ] "Drop dead and gimme 20!"
+- [ ] "You're a disgrace to the uniform, pal!"
+- [ ] [Imitating Soldier] "Dis-missed!"
+- [ ] "There ain't enough crits in the world to kill me!"
+- [ ]
+- [ ] Leaderboard class pyro.png  Dominating a Pyro
+- [ ]
+- [ ] "It's startin' to bore me how much you suck."
+- [ ] "Hey, who's on fire now?"
+- [ ] "Yo, if you didn't want me to kill ya, ya shoulda said somethin'!"
+- [ ] "Repeat after me: mhmm-mhmm-mhmm I'm dead!"
+- [ ] "Take that, ya dumb, bib-wearin' dope!"
+- [ ] "Eat it, ya mute, frickin' moron!"
+- [ ] "Yeah, nice moves, mumbles!"
+- [ ] "Dude, you'd get a closed casket at the ugly cemetery."
+- [ ]
+- [ ] Leaderboard class demoman.png  Dominating a Demoman
+- [ ]
+- [ ] "You just got freakin' dominated, knucklehead, all right, let's do this!"
+- [ ] "I don't usually kill morons this fast."
+- [ ] "Yeah, next time, try two eyes!"
+- [ ] "Blow that up, cyclops!"
+- [ ] "The best man won, ya bomb-throwin' drunk!"
+- [ ] "Your clock just got cleaned, rummy!"
+- [ ] "Depth perception, pal. Look into it."
+- [ ]
+- [ ] Leaderboard class heavy.png  Dominating a Heavy
+- [ ]
+- [ ] "Drink it in, pal. That's how failure tastes."
+- [ ] "Would you look at you? I mean, look at you."
+- [ ] "I am owning you, you fat, bald bastard!"
+- [ ] "Today ain't yer day, pancakes!"
+- [ ] "$400,000 to fire that gun, huh? Yeah, money well spent!"
+- [ ] "Them $200 bullets ain't so hot when they don't hit nuthin', are they?"
+- [ ] "I think I'll take Sasha out for a steak dinner tonight. Whataya think about that?"
+- [ ] "Ain't so hard now, are ya, fatcakes?"
+- [ ] "I... Eat... Your... Sandwiches. I eat 'em up!"
+- [ ] "Nice hustle, 'tons-a-fun'! Next time, eat a salad!"
+- [ ] "Hey, lard-fat, those hard arteries don't stop bullets, do they?"
+- [ ] "I am owning you, you fat, bald, fatty fat... fat fat!"
+- [ ]
+- [ ] Leaderboard class engineer.png  Dominating an Engineer
+- [ ]
+- [ ] "Is that all you got, moron?"
+- [ ] "Hey, here's somethin' you can invent next time: duckin'!"
+- [ ] "Here's something you shoulda built: a not-dyin' machine!"
+- [ ] "Don't bring a wrench to a gunfight!"
+- [ ] "Here's a schematic for ya: my ass!"
+- [ ] "Hey, overalls! You suck!"
+- [ ] "Lotta good that hardhat did ya!"
+- [ ]
+- [ ] Leaderboard class medic.png  Dominating a Medic
+- [ ]
+- [ ] "If you order now, I'll throw in a second beatin', absolutely free."
+- [ ] "Diagnosis: you suck!"
+- [ ] "Ooh hoo hoo, your gun shoots medicine! It's intimidatin'!"
+- [ ] "Where's your precious Hippo-crates now?"
+- [ ] "Real nice effort, Deutsch-bag!" ("Deutsch" is German for "German")
+- [ ] "I... Hate... Doctors!"
+- [ ] "(Sigh) Doctor, doctor, doctor..."
+- [ ]
+- [ ] Leaderboard class sniper.png  Dominating a Sniper
+- [ ]
+- [ ] "Look at this: just caved in your skull, my bat's still dry. No clumps of hair - nothin'."
+- [ ] "Snipe that, ya frickin' coward!"
+- [ ] "That fancy scope of yours, betcha got a real good view of me killin' ya!"
+- [ ] "You camped the whole time for this?!"
+- [ ] "It was a mercy killin', ya live in a... Campervan!"
+- [ ] "You'll never hit me! You'll never hit my tiny head! It's so tiny, I got a frickin'... Such a tiny li'l head!"
+- [ ]
+- [ ] Leaderboard class spy.png  Dominating a Spy
+- [ ]
+- [ ] "I'll put it in my trophy room, with the othas."
+- [ ] "Disguise dat!"
+- [ ] "Dominated, ya shapeshiftin' rat!"
+- [ ] "Hard to stab a guy in the back when he's beatin' your frickin' head in, huh?"
+- [ ] "Hehey, look, you shapeshifted into a dead guy!"
+- [ ]
+- [ ] Dominating.png  Dominating an enemy with a melee kill
+- [ ]
+- [ ] "Man, your skull's so soft you're makin' this easy!"
+- [ ] "Pop quiz: How long's it take to beat a moron to death? (buzzer imitation) Sorry, time's up, you're dead."
+- [ ]
+- [ ] Nemesis RED.png  Revenge kill
+- [ ]
+- [ ] "I wasted you!"
+- [ ] "How do ya like me now, blockhead?"
+- [ ] "Ya like that, chucklenuts?"
+- [ ] "Boom! I'm back, dummy!"
+- [ ] "Remember me? Yeah, ya do!"
+- [ ] "Don't you ever cross me again!"
+- [ ] "What have we learned? I always win!"
+- [ ] "Who's the tough guy now, huh, tough guy?"
+- [ ] "Still think you're funny, funny-man?"
+- [ ] "Bang! I make it look easy!"
+- [ ] "I did it!"
+- [ ] "If you order now, I'll throw in a second beatin', absolutely free."
+- [ ] "Wassamatter, y'freakin' stupid?"
+- [ ] "Hey, nice shootin' there!"
+- [ ] "Ya got anything smart ta say now?"
+- [ ]
+
+### Event-related responses
+
+- [ ] Gette it Onne!.png  Round start
+- [ ]
+- [ ] "Play ball!"
+- [ ] "Let's get 'em!"
+- [ ] "Eat my dust!"
+- [ ] "Woohoo!"
+- [ ] "Let's waste 'em!"
+- [ ]
+- [ ] Item icon Eyelander.png  Sudden Death
+- [ ]
+- [ ] "This sucks on ice!"
+- [ ] "Boooooooo!"
+- [ ] (Blows a raspberry)
+- [ ] "Frickin' unbelievable."
+- [ ] "This did not just happen!"
+- [ ] "No, seriously, you all suck!"
+- [ ] "What the hell is your guys' problem?"
+- [ ] "Ah, jeez!"
+- [ ] "This sucks!"
+- [ ] "What the hell was that crap?"
+- [ ] "This is a real frickin' embarrassment."
+- [ ] "'Kay, this does not look good here, um..."
+- [ ]
+- [ ] Killicon skull.png  Stalemate
+- [ ]
+- [ ] "You have got to be kidding!"
+- [ ] "You gotta be kiddin' me!"
+- [ ] "I can not believe this!"
+- [ ] "Auugghh!"
+- [ ]
+- [ ] Killicon fire.png  Set on fire
+- [ ]
+- [ ] "Fire, fire, fire!"
+- [ ] "Oh, I'm burnin', I'm-I'm burnin'!"
+- [ ]
+- [ ] Item icon Jarate.png  Hit by Gas Passer, Jarate, Mad Milk, Mutated Milk, or Self-Aware Beauty Mark
+- [ ]
+- [ ] "Awwww!"
+- [ ] "Auugghh!"
+- [ ] "Ah, jeez!"
+- [ ]
+- [ ] Telespin.png  Teleportation
+- [ ]
+- [ ] "Thanks for the ride!"
+- [ ] "Hey good job there, hardhat!"
+- [ ] "Thanks for that, tough guy!"
+- [ ]
+- [ ] Healthico.png  Healed by Medic
+- [ ]
+- [ ] "All right, I feel good."
+- [ ] "(Deep exhale) Yeah, thanks, doc."
+- [ ] "Thanks, doc."
+- [ ]
+- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
+- [ ]
+- [ ] "Ya got anything smart ta say now?"
+- [ ] "Look at me!"
+- [ ] "Ooooh yeah, you're real scary!"
+- [ ] "Hey, lotta' good that gun didya!"
+- [ ]
+- [ ] Sandman Baseball.png  Upon picking up a baseball
+- [ ]
+- [ ] "Got da ball back!"
+- [ ] "Play ball!"
+- [ ] "Found my ball!"
+- [ ] "Oh dere's my ball!"
+- [ ] "I love my ball!"
+- [ ]
+- [ ] Bonk! Atomic Punch 1st person red.png  Being attacked while at low health, Bonk! Atomic Punch equipped
+- [ ]
+- [ ] "C'mon, c'mon!"
+- [ ] "Work, dammit!"
+- [ ] "Ah, crap!"
+- [ ] "What?!"
+- [ ] "Aw, crap."
+- [ ] "Ah, crap!"
+- [ ]
+- [ ] Health dead.png  On death by melee weapon and/or critical hit
+- [ ]
+- [ ] (Dying scream 1)
+- [ ] (Dying scream 2)
+- [ ] (Dying scream 3)
+- [ ]
+- [ ] Bleed drop.png  Severe pain
+- [ ]
+- [ ] "Aaaaah!"
+- [ ] "Aah!"
+- [ ] "Ah!"
+- [ ] "Nnrg!"
+- [ ] "Uh!"
+- [ ] "Ugh!"
+- [ ]
+- [ ] Bleed drop.png  Sharp pain
+- [ ]
+- [ ] "Uh!"
+- [ ] "Argh!"
+- [ ] "Aw!"
+- [ ] "Ah!"
+- [ ] "Ugh!"
+- [ ] "Uf!"
+- [ ] "Puh!"
+- [ ] "Nf!"
+- [ ]
+- [ ] Achieved.png  Achievement Unlocked
+- [ ]
+- [ ] "Hey, look at me, look at me!"
+- [ ] "Hey, look at me, Ma!"
+- [ ] "Aw, fellas!"
+- [ ] "Hi, Ma!"
+- [ ] "Look at me!"
+- [ ] "No otha' class gonna do dat!"
+- [ ] "You see dat?"
+- [ ] "You seein' dis?"
+- [ ] "I'll put it in my trophy room, with the othas."
+- [ ] "I don't know who to thank first... Oh, I know, me!'"'
+- [ ] "Bang! I make it look easy."
+- [ ]
+
+### Weapon-related responses
+
+- [ ] Item icon Bonk! Atomic Punch.png  Upon drinking Bonk! Atomic Punch
+- [ ]
+- [ ] "Un-freakin'-touchable!"
+- [ ] "Ya can't hit what ain't dere!"
+- [ ] "Wananananana..." (Sound effect from The Six Million Dollar Man)
+- [ ] "I'm a freakin' blur here!"
+- [ ] "(Demandingly) Look at me!"
+- [ ]
+- [ ] Item icon Bonk! Atomic Punch.png  Dodging shots under Bonk! Atomic Punch's influence
+- [ ]
+- [ ] "Ha."
+- [ ] "Missed me!"
+- [ ] "Dat didn't hurt."
+- [ ] "Psyche!"
+- [ ] "Nice try, pal!"
+- [ ] "Oh what's up?"
+- [ ] "Didn't hurt."
+- [ ] "Woo!"
+- [ ] "Heheh."
+- [ ] "Eyy!"
+- [ ] "Yeah!"
+- [ ] "Oop!"
+- [ ] "Wah!"
+- [ ] "Wa-ha!"
+- [ ] "Ho-wah!"
+- [ ] "Wah!"
+- [ ] "Ha!"
+- [ ] "Nope!"
+- [ ] "Sor-ry!"
+- [ ] "Nope."
+- [ ] "De-nied!"
+- [ ] "Woosh!"
+- [ ] "Ping!"
+- [ ] [Sarcastically] "What?!"
+- [ ] "Ahah!"
+- [ ] "Poing!"
+- [ ] "Eheheh."
+- [ ] (Whooshing sound)
+- [ ] "Aheheh."
+- [ ] "Weak!"
+- [ ] "Dummy!"
+- [ ] "Moron!"
+- [ ] "Dumbass!"
+- [ ] "Nice aim!"
+- [ ] "Punk!"
+- [ ] "Wuss!"
+- [ ] "Yoink!"
+- [ ] "Too slow!"
+- [ ] "Yoink!"
+- [ ] "So close!"
+- [ ]
+- [ ] Item icon Crit-a-Cola.png  Firing a weapon while under the effects of Crit-a-Cola
+- [ ]
+- [ ] Only spoken if the attack occurs about 1 second from the activation.
+- [ ]
+- [ ] "You morons are about to catch a real beatin'."
+- [ ] "You seein' dis?"
+- [ ] "That's what I'm talking about!"
+- [ ]
+- [ ] Item icon Crit-a-Cola.png  Crit-a-Cola's effects wear off
+- [ ]
+- [ ] "Ah, crap!"
+- [ ] "What?!"
+- [ ] "Aw, crap."
+- [ ] "Ah, crap!"
+- [ ]
+- [ ] Item icon Mad Milk.png  Mad Milk or Mutated Milk toss
+- [ ]
+- [ ] "Yo, heads up!"
+- [ ] "Hey, wimps!"
+- [ ] "Catch dis."
+- [ ]
+- [ ] Stunned.png  On stunning an enemy
+- [ ]
+- [ ] "Oh, I'm sorry, I didn't mean to hit ya... No, wait, yeah, I did."
+- [ ] "Oh, dat's a skull fracture for sure!"
+- [ ] "Ohh, I got alla dat one."
+- [ ] "Dere's a dingah for ya!"
+- [ ] "Downtown!"
+- [ ] "Home-frickin'-run!"
+- [ ] "Gotta nice piece a dat!"
+- [ ] "Nice catch, knucklehead!"
+- [ ] "Good 'ands, buddy!"
+- [ ] "Good catch, dummy!"
+- [ ] "Way to duck!"
+- [ ] "Nice hustle!"
+- [ ] "Yo, heads up!"
+- [ ] "Ding-dong!"
+- [ ] "Think fast, chucklenuts!"
+- [ ] "Real smooth, dummy!"
+- [ ]
+- [ ] Item icon Sandman.png  Attacking with the Sandman
+- [ ]
+- [ ] "Batter up!"
+- [ ] "Catch dis."
+- [ ] "Batta swing!"
+- [ ] "Major League!"
+- [ ]
+- [ ] Item icon Scattergun.png  Double jumping
+- [ ]
+- [ ] "Hehey, I'm flyin'!"
+- [ ] "Woo hoo hoo!"
+- [ ] "Look at you chuckleheads down there!"
+- [ ] "Hey, I can see my base from here!"
+- [ ] "Look at me, Ma!"
+- [ ]
+- [ ] Item icon Force-A-Nature.png  Apex of triple jump
+- [ ]
+- [ ] "Woohoohoohoo!"
+- [ ] "Yeaheaheah!"
+- [ ] "Woooooo!"
+- [ ] "Yeaahehehhh!"
+- [ ]
+
+### Objective-related responses
+
+- [ ] Intel red idle.png  After picking up intelligence
+- [ ]
+- [ ] "Wave goodbye to your secret crap, dumbass!"
+- [ ]
+- [ ] Intel red pickedup.png  After capturing intelligence
+- [ ]
+- [ ] "Yeah, it's ours now!"
+- [ ] "I'm not even winded."
+- [ ] "I got it, I got it, I got it!"
+- [ ] "Is-is anybody even payin' attention to me?"
+- [ ]
+- [ ] CP Captured RED.png  After capturing control point
+- [ ]
+- [ ] "Yeah, yeah, yeah!"
+- [ ] "Yeah!"
+- [ ] "I got it, I got it!"
+- [ ] "No problem!"
+- [ ]
+- [ ] CP Locked RED.png  Standing on captured control point, firing weapon
+- [ ]
+- [ ] "Stand on the freakin' point, you moron!"
+- [ ] "Get on the freakin' point, dumbass!"
+- [ ]
+- [ ] CP Neutral.png  Standing on a cappable control point, firing weapon
+- [ ]
+- [ ] "Hey, get on the cap, guys!"
+- [ ] "Stand on the freakin' cap!"
+- [ ] "Let's get on the cap, fellas!"
+- [ ] "Get on the cap, ya dopes!"
+- [ ]
+- [ ] Cross RED.png  Defense
+- [ ]
+- [ ] "Way to go, slugger!"
+- [ ] "Yes!"
+- [ ] "Oh yeah!"
+- [ ] "Ooooh yeah, you're real scary!"
+- [ ] "Hey, lotta' good that gun didya!"
+- [ ] "Oh hey! You suck."
+- [ ] "Yeah, it's ours now!"
+- [ ] "We got 'em, we got 'em!"
+- [ ]
+- [ ] Payload-related responses
+- [ ] BLU Bombcart.png  Attacking: Cart goes forward
+- [ ]
+- [ ] "Push!"
+- [ ] "Mush, you lazy bums!"
+- [ ] "Keep pushin' it!"
+- [ ] "Yeah, yeah, yeah!"
+- [ ] "Keep it movin', guys!"
+- [ ] "Go, go, go!"
+- [ ]
+- [ ] BLU Bombcart.png  Attacking: Cart goes back
+- [ ]
+- [ ] "Dat ain't da right way, guys!"
+- [ ] "What da hell's goin' on?"
+- [ ] "Aw, cripes, da cart!"
+- [ ] "Is someone gonna push da freakin' cart?"
+- [ ] "Da cart's movin' backwards!"
+- [ ] "Aw, jeez, da cart!"
+- [ ] "No, no, no! The cart!"
+- [ ] "Anyone else pushing dis thing?"
+- [ ]
+- [ ] RED Bombcart.png  Defending: Cart goes forward
+- [ ]
+- [ ] "We gotta stop dat thing!"
+- [ ] "Aw, jeez guys, we gotta stop it!"
+- [ ] "What the hell is everyone doin'?!"
+- [ ] "Push da freakin' cart!"
+- [ ] "Keep dat cart movin'!"
+- [ ] "C'mon, move da cart!"
+- [ ]
+- [ ] RED Bombcart.png  Defending: Cart goes back
+- [ ]
+- [ ] "Return to freakin' sender!"
+- [ ] "All right, all right!"
+- [ ] "Hey now we're doin' it, now we're doin' it!"
+- [ ] "Yeah, yeah, yeah!"
+- [ ] "What, ya guys give up?"
+- [ ] "Yo, it should be goin' dat way!"
+- [ ]
+- [ ] Hoodoo Bombcart.png  Attacking: Stay close to cart
+- [ ]
+- [ ] "Stay by the cart, fellas!"
+- [ ] "Get over here!"
+- [ ] "Stay close, guys!"
+- [ ] "Let's all push this thing!"
+- [ ] "We pushin' this thing or what?"
+- [ ] "Li'l help pushin' the cart?"
+- [ ]
+- [ ] Hoodoo Bombcart.png  Attacking: Cart has stopped
+- [ ]
+- [ ] "The freakin' cart stopped!"
+- [ ] "What da hell, who stopped pushin' the cart?!"
+- [ ] "Push it, push it, push it!"
+- [ ]
+- [ ] Lil-chewchew.png  Defending: Stop the bomb
+- [ ]
+- [ ] "Ey, we gotta stop it!"
+- [ ] "Gotta stop da cart!"
+- [ ] "Let's stop dat freakin' thing!"
+- [ ]
+
+### Duel-related responses
+
+- [ ] Backpack Dueling Mini-Game.png  Starting a duel
+- [ ]
+- [ ] "Let's go."
+- [ ] "Bring it."
+- [ ] "Let's do dis."
+- [ ] "You 'n me."
+- [ ] "C'mon, tough guy!"
+- [ ]
+- [ ] Duel RED.png  Duel accepted
+- [ ]
+- [ ] "Sweet!"
+- [ ] "Ooooh yeah, you're real scary!"
+- [ ] "I'm gonna headbutt cha', I'm gonna headbutt cha', I'm gonna headbutt cha'!"
+- [ ] "Yeah, come get some, you frickin' wuss!"
+- [ ] "Yeah!"
+- [ ]
+- [ ] Duel BLU.png  Duel rejected
+- [ ]
+- [ ] "You have got to be kidding!"
+- [ ] "You gotta be kiddin' me!"
+- [ ] "I can not believe this!"
+- [ ] "Auugghh!"
+- [ ] "Yeah, I dare ya, rage quit. C'mon, make us both happy."
+- [ ] "I will never... Stop... Killing you."
+- [ ] "Boooooooo!"
+- [ ] "Frickin' unbelieveable."
+- [ ] "Wassamatter, y'freakin' stupid?"
+- [ ]
+
+## Not planned
+
+### Contract-related responses
+
+- [ ] Contract complete
+- [ ]
+- [ ] "Hey, I was just gettin' started!"
+- [ ] "Oh, we done already?"
+- [ ] "Dat is how you do it!"
+- [ ] "We make it look easy!"
+- [ ] "Yeah, boom! Dat's right!"
+- [ ]
+- [ ] Difficult Contract
+- [ ]
+- [ ] "Yeah! We did it!"
+- [ ] "Man, we destroyed dat freakin' objective!"
+- [ ] "Crap, we did it!"
+- [ ] "Ho, ho, ho, nice! We finally get dat done?"
+- [ ] "Woo hoo, hoo, hoo!"
+- [ ]
+
+### Competitive Mode responses
+
+- [ ] Setup
+- [ ] Setup.png  First round
+- [ ]
+- [ ] Casual Mode
+- [ ]
+- [ ] "Come on, bat. Let's go introduce you to some skulls."
+- [ ] "Let's do dis."
+- [ ] "Let's go whack some chuckleheads."
+- [ ] "Let's win dis freakin' thing!"
+- [ ] "Let's win dis game!"
+- [ ] "I feel like winnin'!"
+- [ ] "Come on, guys! Let's win dis!"
+- [ ] "Am I the only one here who wants to win?"
+- [ ] "Yeah. Yeah, yeah, yeah! Let's go!"
+- [ ] "Boom! Let's get a win here!"
+- [ ] "Who here likes winnin'? I do!"
+- [ ] "Okay, raise your hand if you like winnin'! My hand's up."
+- [ ] "Come on, guys! This one counts. Let's win dis!"
+- [ ] "Yeah, welcome to the winnin' team!"
+- [ ] "Everybody got dere fancy hats? Let's go!"
+- [ ] "What, you forget your hat? What're we waitin' for here?"
+- [ ] "We waitin' for permission here or what? Come on, let's do dis!."
+- [ ] "Yeah, I'm ready!"
+- [ ]
+- [ ] Rare
+- [ ]
+- [ ] "I gotta bucket of chicken and I'm here to kick ass! And I'm all outta chicken...so I lied about the chicken."
+- [ ] "Raise your hand if you like winnin'! Okay, I count one, two, three... Yeah dat... Alright, good!"
+- [ ] "Yeah, I'm ready! No wait, hold on. I gotta pee."
+- [ ] "Let's win already! I don't got time for dis! I've got a date! A real one! Don't look into it."
+- [ ] "Here's the plan, bat. I'll run around fast, being da best, and you be in my hand and bash heads! Got it?"
+- [ ] "I'm so fast I got my feet insured... With a bank! Well, it's just a guy who works in a store next door to a bank. Well, let's go!"
+- [ ] "I'm so fast I got my feet bronzed! And now I'm not as fast."
+- [ ] "I'm so fast I got my feet bronzed! Never, ever do dat... So painful!"
+- [ ] "I'm so fast I got my feet bronzed! Never, ever do dat, it is so painful... Dear God!"
+- [ ] "Hey, I'll say it. Everybody else here is too scared to say it, but I'll just say what everybody's thinkin'! We're all best friends. We are all dear, dear friends! Birthday party at my place this weekend, by the way. Nobody showed up last weekend so I figured, now no big whoop, I'd just have it again."
+- [ ]
+- [ ] Competitive Mode
+- [ ]
+- [ ] "I love this game!"
+- [ ] "Let's get a win, guys! I wanna rank up here!"
+- [ ] "I am so ready for some meatshots!"
+- [ ] "Meatshots! Freakin' meatshots!"
+- [ ] "Ok, which way we flankin'?"
+- [ ] "Take da flank, get da rank!"
+- [ ] "So who's takin' flank?"
+- [ ] "Which one of us is takin' flank?"
+- [ ] "Am I flankin'?"
+- [ ] "We shoulda discussed this beforehand! Am I flankin'?"
+- [ ] "I'll see you slowpokes at Mid!"
+- [ ] "Last one to Mid is not me!"
+- [ ] "Party at Mid when we take da point!"
+- [ ] "Look up 'utility' in da dictionary. Know what it means? Means you can do freakin' everything!"
+- [ ] "We ain't scrimmin' here!"
+- [ ] "What, you think that this is a scrim? I got news for you, it's not!"
+- [ ] "Yeah! Comp stuff!"
+- [ ] "Man, I saw those guys in the way in. This does not seem competitive!"
+- [ ] "I spec'd these guys earlier. They looked terrible."
+- [ ] "I spec'd these guys earlier. They were all over the place. Frankly, I'm not impressed."
+- [ ] "Just a scrim. Just a scrim! No biggie!"
+- [ ]
+- [ ] Rare
+- [ ]
+- [ ] "I spec'd these guys earlier. They look ugly. I didn't want to say it, but they do. Their hats are terrible, their faces aren't very good or attractive..."
+- [ ] "It's just a scrim, no big deal! Nobody's countin' points. We're just, we're just foolin' around here! Gettin' a little goofy..."
+- [ ] "Are you guys ready to scrim? I'm ready to scrim! This is, this is just a scrim, right?"
+- [ ]
+- [ ] 6s only
+- [ ]
+- [ ] "Ok, bat, it's all on us now. Technically, there's five other guys, but I can't hit people on the head with them. So, it's you and me Bashy."
+- [ ] "Yeah, hah hah! 6s stuff!"
+- [ ] "Just six guys alone in the desert tryin' to kill each other. Happens all the time. I don't know where you grew up, but dis is pretty normal around here. In the desert."
+- [ ] "Dey got six of dem ding-dongs over there, huh."
+- [ ] "Looks like six more notches for my lucky skull-bat!"
+- [ ]
+- [ ] Rare
+- [ ]
+- [ ] "Go team, everybody! Six trained killers, am I right? Best of da best! And best friends. We don't say it a lot, or at all, but we're all feelin' it here. In our hearts, you know? The frien-the friendship."
+- [ ]
+- [ ] Setup.png  Previous round was a win
+- [ ]
+- [ ] Casual Mode
+- [ ]
+- [ ] "I am in da zone!"
+- [ ] "Yeah, we're doing pretty good!"
+- [ ] "I love winnin'! Love it!"
+- [ ] "Yeah, dis is how winners run!"
+- [ ] "Wanna see a winner run a circle around you!"
+- [ ] "We are gonna own this!"
+- [ ] "Man, it is unfair how good I am!"
+- [ ] "There is no way we're gonna lose now!"
+- [ ] "We're on a winnin' streak!"
+- [ ] "We're runnin' circles around those guys!"
+- [ ] "Guys, I'm right here! Of course, we're gonna win!"
+- [ ] "Watch a winner in action, pal! Wup, too fast. Just a blur. Maybe next time."
+- [ ]
+- [ ] Rare
+- [ ]
+- [ ] "Spoilers: But, uh, we're gonna win this."
+- [ ] "Hey! Other team! See dis butt! Eat it! Eat my butt! Ha ha ha! Yeah!"
+- [ ] "Hey! Other team! We all got together and we got you a little somethin'. It's an ass-beatin'! We're gonna come over there and give it to you right now!"
+- [ ] "I have this disorder that makes it physically impossible for me to lose! It also makes me irresistible to ladies. Like all ladies. Everywhere."
+- [ ]
+- [ ] Competitive Mode
+- [ ]
+- [ ] "Hey! Hey, other team! How'd that taste? Like crap? Yeah, 'cause I fed you crap!"
+- [ ] "Hey! Hey, other team! Time out! I got something real important to tell you! You suck! Ha ha ha! Yeah, yeah take that, other team!"
+- [ ]
+- [ ] 6s only
+- [ ]
+- [ ] "At this rate, they're gonna need way more than six guys!"
+- [ ] "What do they got? Six guys? Eh, that's not enough."
+- [ ]
+- [ ] Setup.png  Previous round was a loss
+- [ ]
+- [ ] "Man, losing is stupid!"
+- [ ] "Nobody saw us lose that one, right?"
+- [ ] "Last one didn't count! Just a warmup!"
+- [ ] "Alright, we tried losin', and it sucks. Let's go back to winnin'!"
+- [ ] "Come from behind victory! Cinderella story, startin' now!"
+- [ ] "Come on guys, we're the underdogs here! Let's get this done!"
+- [ ] "Ok, they got lucky once! Nobody gets lucky twice, though. It's impossible."
+- [ ]
+- [ ] Rare
+- [ ]
+- [ ] "We're turning this ship around! The SS We're Done Sucking is about to launch! Dis is your captain speaking! Buckle your seatbelts 'cause this boat is going like freakin' Mach 12!"
+- [ ] "Guys, don't make me win this myself! Let's all try this time! Do it for Scout!"
+- [ ] "Ok, guys, bad news: We lost that last one. Good news: You still got me."
+- [ ]
+- [ ] Setup.png  Previous round was a tie
+- [ ]
+- [ ] "Ties are stupid!"
+- [ ] "Ties are da worst!"
+- [ ] "Let's break this tie already"
+- [ ] "Oh I am done being tied!"
+- [ ] "Let's get to winnin' already!"
+- [ ] "Ah, I hate ties! Let's break it already!"
+- [ ] "We are gonna break this thing, now!"
+- [ ]
+- [ ] Outcomes
+- [ ] Match win
+- [ ]
+- [ ] "Yea-ah!"
+- [ ] "Aw, we done already?"
+- [ ] "Crap, we did it!"
+- [ ] "Oh man, we're da best!"
+- [ ] "And... That's a match!"
+- [ ] "We took da match, guys!"
+- [ ] "Wuh hoo hoo hoo! Dat's a match!"
+- [ ] "Just winnin' another match. No big whoop."
+- [ ] "I don't know how to lose. I tried it once. It didn't work."
+- [ ] "Dat is how you win a match!"
+- [ ]
+- [ ] Game win
+- [ ]
+- [ ] "Yeah, dat's right!"
+- [ ] "Dat is how you do it!"
+- [ ] "Not too shabby!"
+- [ ] "We make it look easy!"
+- [ ] "Yeah, boom! Dat's right!"
+- [ ] "I could get used to dis!"
+- [ ] "Hey, I was just gettin' started!"
+- [ ] "Dat is how you win a game!"
+- [ ] "Dat's how you win, pal!"
+- [ ] "Yeah, we're pretty great!"
+- [ ] "I am a winnin' machine, baby!"
+- [ ] "I'm da best at everything!"
+- [ ] "Did we win another one of these? Oh man, we are so good!"
+- [ ] "We won again? Eh, throw it on the pile."
+- [ ] "Go, Scout! Go, Scout!"
+- [ ]
+- [ ] Rare
+- [ ]
+- [ ] "That is how a team of best friends wins the game!"
+- [ ] "Hey, we are da best! We are the best first place champions of winning of all time!"
+- [ ]
+- [ ] Rank up
+- [ ]
+- [ ] "Rank up!"
+- [ ] "Yeah, there it is!"
+- [ ] "Whoop, we ranked up!"
+- [ ] "Oh, looks like we ranked up!"
+- [ ] "Holy crap, we're rankin' up!"
+- [ ] "Yeah, rank up!"
+- [ ] "Ain't nothin' better than rankin' up!"
+- [ ] "Aw, we ranked down. Oh no wait, we ranked up! Oh, that is way better."
+- [ ] "Wuh hoo hoo hoo!"
+- [ ] "We get promoted? Oh dat is sick!"
+- [ ] "Yeah, dat's right! Rankin' up!"
+- [ ] "Oh ho ho, nice! We finally get dat done?"
+- [ ]
+- [ ] Top scoring
+- [ ]
+- [ ] "Grass grows, birds fly, sun shines... And, brotha, we are da freakin' best!"
+- [ ]
+- [ ] Game summary
+- [ ]
+- [ ] "Nice work, kid!"
+- [ ] "Dat ain't just good, dat is historical good!"
+- [ ] "Holy crap, we are awesome!"
+- [ ] "Finally, somebody noticed us crushin' it!"
+- [ ] "Hey, yeah yeah! We're famous!"
+- [ ] "Not bad, pal. Not bad at all."
+- [ ] "Dat is pretty freakin' impressive!"
+- [ ] "We are officially in da record books!"
+- [ ] "Heads up, history schools! 'Cause history just happened!"
+- [ ] "Yeah no, we crushed it!"
+- [ ] "Yeah, dat's right!"
+- [ ] "'Bout time we got a little recognition around here!"
+- [ ] "I wanted to talk to you about this, because I-I've been noticin' this... And, uh, I wanted to compliment you on your work."
+- [ ] "You earned it, bucket-of-chicken pal! You earned it! Don't let nobody take it away from you!"
+- [ ] "Hey, we make a good team!"
+- [ ]
+
+### Mann vs. Machine responses
+
+- [ ] During a wave
+- [ ] Upon being revived with a Reanimator
+- [ ]
+- [ ] "Death is stoopid!"
+- [ ] "Boom! Back from da dead!"
+- [ ] "I'm back baby!"
+- [ ] "Eh, dying ain't nuthin'!"
+- [ ] "Screw you, Death!"
+- [ ] "I'm too handsome ta die!"
+- [ ] "I am back!"
+- [ ] "Reports of my death were bullcrap!"
+- [ ]
+- [ ] Mannhattan specific
+- [ ] Gate
+- [ ]
+- [ ] Robots attacking
+- [ ]
+- [ ] "Aw crap! Dere's robots at da gate!"
+- [ ] "Da robots are takin' da gate!"
+- [ ] "Robots are attackin' da gate!"
+- [ ]
+- [ ] Robots take gate
+- [ ]
+- [ ] "Robots took da gate!"
+- [ ] "Da robots have got da gate!"
+- [ ]
+- [ ] After a mission
+- [ ] Receiving a Killstreak Kit
+- [ ]
+- [ ] Common Loot
+- [ ]
+- [ ] "Yeah!"
+- [ ] "Nice!"
+- [ ] "(Laughs) Oh yeah!"
+- [ ] "Sweet."
+- [ ] "Come to daddy!"
+- [ ] "(Laughs) Oh yeah!"
+- [ ]
+- [ ] Rare Loot
+- [ ]
+- [ ] "Ooooh! Yeah!"
+- [ ] "Oh! Dat is beautiful!"
+- [ ] "Oh, absolutely! Abso-freakin-lutely!"
+- [ ] "WOW!"
+- [ ] "I don't know how it did it, but dis actually makes me more handsome!"
+- [ ] "Holy crap!"
+- [ ] "Oh, my holy freakin' stupid crap!"
+- [ ] "Oh my God! Oh my God! OH MY GOD!"
+- [ ]
+- [ ] Godlike Loot
+- [ ]
+- [ ] "For the first time in my life, I'm at a loss for words."
+- [ ] "It's... Perfect."
+- [ ]
+
+### Versus Saxton Hale responses
+
+- [ ]
+- [ ] Note: Voicelines for this mode were provided by James McGuinn.
+- [ ] Setup.png  Setup
+- [ ]
+- [ ] "Man, every new person I meet is bigger than the last! What do they have you eatin'?"
+- [ ] "Holy crap, you're even taller in person! Is it too late to back out?"
+- [ ] "Saxton, ppf, this guy's nothing! Hey, Saxton, can I get your autograph after this? As a joke, obviously."
+- [ ] "Oh my God, OH MY GOD, OHMYGOD! It's Saxton Hale!"
+- [ ]
+- [ ] VSH Saxton Hale Model.png  Saxton location
+- [ ]
+- [ ] Above
+- [ ]
+- [ ] "Ah, crap, he's above you!"
+- [ ] "Above you, dumbass!"
+- [ ] "Above you!"
+- [ ] "Look up!"
+- [ ] "Take a look to the skies, dumbass!"
+- [ ] "Look up!"
+- [ ]
+- [ ] Behind
+- [ ]
+- [ ] "Behind ya!"
+- [ ] "Behind you!"
+- [ ]
+- [ ] Contact
+- [ ]
+- [ ] "He's over there! Let's get him!"
+- [ ] "He's over there!"
+- [ ] "I see him!"
+- [ ] "I see him!"
+- [ ]
+- [ ] Marked for death Skull Hover.png  Successful Marked for Death
+- [ ]
+- [ ] "YOU! HAVE! BEEN! MARKED!"
+- [ ] "I got him!"
+- [ ] "Ooh, ya gonna die now!"
+- [ ] "You just got Marked, muscle man!"
+- [ ] "I got him!"
+- [ ]
+- [ ] Leaderboard class medic.png  Medic status
+- [ ]
+- [ ] "MEDIC! Crap, we got none!"
+- [ ] "So Medic just decided to stay behind? You guys better hope I brought Mad Milk!"
+- [ ] "Wait, we have no Medic! That can't be good."
+- [ ] "NO MEDIC!?! Pff, who needs Medics anyway, right? Heh, heh...I do."
+- [ ] "Wait, we're going in without a Medic?! Looks like it's back to the all-pills diet for me."
+- [ ]
+- [ ] Medic is dead
+- [ ]
+- [ ] "No Medics left! Gotta find pills or something."
+- [ ]
+- [ ] Wall climb
+- [ ]
+- [ ] "Wall climbing is great, guys! It's like having a triple jump, or a quadruple jump! Or a fifth-tiple? Is that even a word?"
+- [ ] "Wall climbing! Yeah!"
+- [ ]
+
+### Halloween / Full Moon responses
+
+- [ ] Wheel of Fate outcomes
+- [ ] Fate card dance.png  Dance Off fate
+- [ ]
+- [ ] "Born to dance! Born to dance, brother!"
+- [ ]
+- [ ] Fate card highjump.png  Super Jump fate
+- [ ]
+- [ ] "Hey, look at my feet!"
+- [ ]
+- [ ] Fate card lowgravity.png  No Gravity fate
+- [ ]
+- [ ] "Gravity? Who gives a crap about gravity?"
+- [ ]
+- [ ] Fate card bighead.png  Big Head fate
+- [ ]
+- [ ] "Oh, God, my head is huge!"
+- [ ] "Oh God. My head is huge!"
+- [ ] "Oh, my head is so big!"
+- [ ] "Oh, my beautiful head!"
+- [ ] "Don't look at me, I'm hideous!"
+- [ ] "Don't look at me, I'm slightly less handsome!"
+- [ ]
+- [ ] Fate card shrunkenhead.png  Small Head fate
+- [ ]
+- [ ] "Ahh, I gotta teeny tiny little head over here!"
+- [ ] "Ahh, my teeny tiny little head!"
+- [ ] "Oh, my head is so small!"
+- [ ] "Oh, my beautiful head!"
+- [ ] "Don't look at me, I'm hideous!"
+- [ ] "Don't look at me, I'm slightly less handsome!"
+- [ ] "Real small over here!"
+- [ ]
+- [ ] Fate card skull.png  Whammy fate (bleeding variant)
+- [ ]
+- [ ] "Ah, my blood! He spelled out all my blood!"
+- [ ] "My blood!"
+- [ ] "Ah, my blood!"
+- [ ]
+- [ ] Backpack Skull Island Topper.png  Positive fate
+- [ ]
+- [ ] "Yeah, lookin' good over here!"
+- [ ] "This ain't no spell, I am this good!"
+- [ ]
+- [ ] Backpack Skull Island Topper.png  Negative fate
+- [ ]
+- [ ] "Uuh!"
+- [ ] "Bluh!"
+- [ ] "Uh oh."
+- [ ] "Oh this ain't good."
+- [ ] "Aww, crap."
+- [ ] "Aw, crap."
+- [ ]
+- [ ] During battle with Merasmus
+- [ ] RED Bombinomicon.png  Head turned into bomb
+- [ ]
+- [ ] "Hehehe, you got a bomb on your head. Aw, crap, I got a bomb on my head!"
+- [ ] "Aw, crap, I got a bomb on my head!"
+- [ ] "Bomb on my head! Bomb on my head!"
+- [ ] "Head bomb, head bomb, coming through!"
+- [ ]
+- [ ] RED Bombinomicon.png  Successfully stun Merasmus
+- [ ]
+- [ ] "Oh, man! I'm gonna screw that wizard up!"
+- [ ] "Yeah! Where you at, Merasmus?"
+- [ ] "Ye-he-ha-yeah!"
+- [ ] "Oh, hell yeah!"
+- [ ] "Wuh huh huh hoo!"
+- [ ] "Where you at, Merasmus? Calling you out, ya stupid wizard!"
+- [ ] "He-hey, Siegfried and Roy! I am gonna mess... You... Up!"
+- [ ] "Wooh! Check it out, Casper!"
+- [ ] "I am gonna mess... You... Up!"
+- [ ]
+- [ ] Backpack Skull Island Topper.png  Merasmus hides
+- [ ]
+- [ ] "Yeah, you better hide, you wand-wavin' moron!"
+- [ ]
+- [ ] Backpack Skull Island Topper.png  Looking for Merasmus
+- [ ]
+- [ ] "Come on out, ya see-through marshmallow!"
+- [ ] "Get out here, spellcakes!"
+- [ ] "I hate wizards so much."
+- [ ] "Where da hell is that wizard?"
+- [ ] "Hey, Houdini, where ya hidin'?"
+- [ ] "Aw, come on out, ya stupid wizard."
+- [ ] "Nobody likes wizards, ya hear me? You're doomed to die alone."
+- [ ] "I hate ghosts so much."
+- [ ] "I hate ghosts so much. Just be solid already, stupid ghosts."
+- [ ] "Ya know what, you're not scary, you're just weird."
+- [ ] "I'm gonna cave your little ghost skull in, magic man!"
+- [ ] "We're gonna make you wish you never entered the Dark Arts!"
+- [ ] "I'll show you some eldritch horror, H.P. Dumbcraft! (laughs)"
+- [ ]
+- [ ] Helltower responses
+- [ ] Gette it Onne!.png  Round start
+- [ ]
+- [ ] "Let's get dis mummy movin', guys!"
+- [ ] "Dis ol' fossil ain't gonna move himself, guys!"
+- [ ]
+- [ ] BLU Bombcart.png  Cart stops
+- [ ]
+- [ ] "Move da mummy!"
+- [ ]
+- [ ] BLU Bombcart.png  Witching Hour: The bridge appears
+- [ ]
+- [ ] "Bridge is down!"
+- [ ] "Woo! Dere's da bridge!"
+- [ ] "Hey, get to da bridge!"
+- [ ] "Bridge time, everybody!"
+- [ ] "Get ta the island!"
+- [ ] "Woo-hoo-hoo! Let's go get some free crap!"
+- [ ] "It's da Witchin' Hour! Let's go!"
+- [ ] "Free crap!"
+- [ ]
+- [ ] Miscellaneous
+- [ ] Backpack Fancy Spellbook.png  Collected normal spell
+- [ ]
+- [ ] "Oh, it's magic time!"
+- [ ]
+- [ ] Backpack Fancy Spellbook.png  Collected rare spell
+- [ ]
+- [ ] "I am the lord of all magic!"
+- [ ] "I am a freakin' wizard!"
+- [ ] "You shall not freakin' pass!"
+- [ ] "I am full of freakin' magic!"
+- [ ] "I! Love! Magic!"
+- [ ]
+- [ ] Backpack Fancy Spellbook.png  Reacting to rare spells
+- [ ]
+- [ ] "Can't. Stop. Da magic!"
+- [ ] "So much magic!"
+- [ ] "Are you freakin' kidding me?"
+- [ ] "It's happening! Oh, God! It's happening!"
+- [ ] "It's too much magic! It's too much magic!"
+- [ ] "No! NO! It's too much magic!"
+- [ ] "We toiled in God's domain!"
+- [ ] "Oh no! I knew dis would happen! I foresaw dis!"
+- [ ]
+- [ ] Backpack Spellbook Magazine.png  Casting spells
+- [ ]
+- [ ] "Cay-pee-tus crap-itus!"
+- [ ] "Pactum diabolus!"
+- [ ] "Seismela tremoro!"
+- [ ] "Barbo kabulto!"
+- [ ] "Barpo invisium!"
+- [ ] "Imputum fulmenus!"
+- [ ] "Invokum Monoculus!"
+- [ ] "Amplus tray-pudio!"
+- [ ] "Paidum celeris!"
+- [ ] "Ipsum insantarium!"
+- [ ] "Deus invictus!"
+- [ ] "Mortis animataris!"
+- [ ]
+- [ ] Backpack Skull Island Topper.png  Falling in bottomless pit
+- [ ]
+- [ ] (Screaming)
+- [ ] (Screaming)
+- [ ] "(Screaming) Holy crap, this goes on forever."
+- [ ]
+- [ ] Ghost Yikes!.png  Scared by a ghost
+- [ ]
+- [ ] (Shrieks)
+- [ ] "So scared!"
+- [ ] "Gah! Running!"
+- [ ]
+- [ ] Backpack Skull Island Topper.png  Unknown condition
+- [ ]
+- [ ] "Next time a wizard asks you to be his roommate, you say 'No!', Soldier!"
+- [ ]
+
+### Item-related responses
+
+- [ ] Haunted Hat With Haunted Hat equipped
+- [ ] These responses override the default response for that category.
+- [ ] Gette it Onne!.png  Round start
+- [ ]
+- [ ] "Big muscles? Check. Scary hat? Check. All right, yeah! Let's do dis!"
+- [ ] "You an' me, scary ghost hat! Let's do dis!"
+- [ ] "Let's go over da plan, Scary Hat. I'll run around an' be awesome, you float over my head. Got it?"
+- [ ] "Oh, man, look at dis hat! Dis hat's so scary, my head just got scared!"
+- [ ] "You--you wanna see somethin' scary? Look slightly above my head. Yeah. Dat's right, scary ghost hat."
+- [ ] "Oh, man, look at dis scary hat, floatin' above my head like a ghost or somethin'. Oh, this hat's so great, I'm jealous of me!"
+- [ ] "Hey! Check out my scary hat! Scary expensive, dat is! Yeah, I'm rich."
+- [ ] "Wait'll these guys get a load of my hat! BAM! Yeah, it's haunted."
+- [ ] "You guys notice anything new about me? Specifically the top part of my head? Yeah, it's a -- it's a super-scary hat. No big deal."
+- [ ]
+- [ ] CP Captured RED.png  After capturing control point
+- [ ]
+- [ ] "Hey, it's okay, guys. Scary Hat and I got dis!"
+- [ ] "Scary Hat and I got point!"
+- [ ] "Stay frosty, Scary Hat!"
+- [ ]
+- [ ] BLU Bombcart.png  Attacking: Cart goes forward
+- [ ]
+- [ ] "Push, Scary Hat! Push!"
+- [ ] "Come on, Scary Hat! Push! I believe in you!"
+- [ ]
+- [ ] Intel red idle.png  After picking up intelligence
+- [ ]
+- [ ] "Nice work, Scary Hat!"
+- [ ] "We're doin' this, Scary Hat!"
+- [ ] "You an' me, Scary Hat!"
+- [ ]
+- [ ] Intel red pickedup.png  After capturing Intelligence
+- [ ]
+- [ ] "We did it, Scary Hat! We did it together."
+- [ ] "He-hey, we did it, Scary Hat! You're my best friend."
+- [ ] "We did it, Scary Hat! We did it because we're best friends."
+- [ ] "Wait'll the guys see this, Scary Hat!"
+- [ ]
+- [ ] Dominating.png  Domination
+- [ ]
+- [ ] "You just got dominated by a handsome man in a frightening hat. Deal wit' it!"
+- [ ] "I know what you're asking yourself: 'Was I scared to death by this man's ghost hat?' But nah, I just killed ya."
+- [ ]
+- [ ] Killicon fire.png  Set on fire
+- [ ]
+- [ ] "(Scream) Save yourself, Scary Hat!"
+- [ ] "(Scream) Scary Hat! This is all your fault!"
+- [ ] "(Scream) Oh, God, my ghost hat's on fire!"
+- [ ]
+- [ ] Ghost Yikes!.png  Scared by a ghost
+- [ ]
+- [ ] "Don't look, Scary Hat!"
+- [ ] "Oh--oh my god, dat is almost as scary as my hat!"
+- [ ]
+- [ ] Magical Mercenary With Magical Mercenary equipped
+- [ ] These responses override the default response for that category.
+- [ ] Gette it Onne!.png  Round start
+- [ ]
+- [ ] "Clippity-clop, over here! I'm a pretty pink horse!"
+- [ ] "Yeah, laugh it up! You know what girls love? Unicorns! Look it up!"
+- [ ] "You can't put a saddle on me, brotha! I am like pink wind."
+- [ ] "Yeah, laugh it up! I will gore your ass wit' dis thing."
+- [ ] "I am not a unicorn! I'm a pink rhinoceros!"
+- [ ] "Unicorn power!"
+- [ ]
+- [ ] Dominating.png  Domination
+- [ ]
+- [ ] "Friendship is freakin' magic, pal!"
+- [ ] "You mess with da horse? You get da horn!"
+- [ ] "Oh, I just clippy-clopped my hoof up your ass!"
+- [ ] "Dat is how a unicorn lays down the freakin' hurt!"
+- [ ] "Dat is how a unicorn gets it done, son!"
+- [ ] "Where's yer fairy tale endin', Rapunzel? Huh? Where'd it go?!"
+- [ ] "Every time a unicorn kills ya, ya get to make a wish!"
+- [ ] "Yeah, I heard ya laughin' earlier. But it's okay - 'cause ya dead!"
+- [ ]
+- [ ] BLU Bombcart.png  Attacking: Cart goes forward
+- [ ]
+- [ ] "Come on, push! Unicorn power!"
+- [ ]
+- [ ] Killicon fire.png  Set on fire
+- [ ]
+- [ ] "My pony magic does nothing!"
+- [ ] "(Short scream) Unicorn on fire! Unicorn on fire!"
+- [ ]
+- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
+- [ ]
+- [ ] "I am a horned nightmare!"
+- [ ] "I am an invincible unicorn!"
+- [ ]
+- [ ] Voodoo-Cursed Scout Soul With Voodoo-Cursed Scout Soul equipped
+- [ ] Idle
+- [ ]
+- [ ] Also plays when as a Zombie Scout and performing a Battle Cry voice command during Zombie Infection mode.
+- [ ]
+- [ ] "Grass grows, sun shines, birds fly, and brother, I come back from the dead!"
+- [ ] "Brains! Man, I would kill for some brains here!"
+- [ ] "Hey, I love brains."
+- [ ] "Aw, y-ya know what would hit the spot? Brains! They're delicious!"
+- [ ] "It's not original, but it's true, I love brains."
