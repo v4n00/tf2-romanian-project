@@ -135,110 +135,72 @@
 
 ### Kill-related responses
 
-- [ ] Item icon Scattergun.png  After killing more than 1 enemy in 20 seconds with a primary weapon
-- [ ]
-- [ ] "That's what I'm talking about!"
-- [ ] (Evil laughter)
-- [ ] (Happy laughter 1)
-- [ ] (Happy laughter 2) "You got owned!"
-- [ ] (Happy laughter 3)
-- [ ] (Happy laughter 4)
-- [ ] (Long laughter) "Yeah...yeah!"
-- [ ] (Long laughter 2)
-- [ ] "Not so tough now, are ya? Are ya?!"
-- [ ] "You knuckleheads ain't even worth the effort."
-- [ ]
-- [ ] Killicon tool chest.png  Destroying a building
-- [ ]
-- [ ] "I broke your stupid crap, moron!"
-- [ ]
-- [ ] Item icon Medi Gun.png  Kill assist
-- [ ]
-- [ ] "Way to go, pally!"
-- [ ] "We got 'em, we got 'em!"
-- [ ]
-- [ ] Item icon Bat.png  Melee kill
-- [ ]
-- [ ] Shared with all melee weapons
-- [ ] "Bonk!"
-- [ ] "Boink!"
-- [ ] "Say goodbye to ya kneecaps, chucklehead!"
-- [ ] "How's that feel, wimp?"
-- [ ]
-- [ ] Melee killing a Heavy
-- [ ] "Eat it, fatty!"
-- [ ]
-- [ ] Bat / Sandman / Atomizer kill
-- [ ] "Yo, batter up!"
-- [ ] "Yo, I oughta' be on a baseball card!"
-- [ ] "I'm battin' a thousand!"
-- [ ] "Ya head's a freakin' bat magnet!"
-- [ ] "'Ey, is somebody keepin' track of my heads batted in?"
-- [ ]
-- [ ] Holy Mackerel / Fan O'War kill
-- [ ] "Yeah, I dare ya, rage quit. C'mon, make us both happy."
-- [ ] "Oh hey! You suck."
-- [ ] (Happy laughter) "You got owned!"
-- [ ]
-- [ ] Candy Cane kill
-- [ ] "Sweet!"
-- [ ] "You're all losers!"
-- [ ] "You wimps suck!"
-- [ ]
-- [ ] Boston Basher / Three-Rune Blade kill
-- [ ] "Man, your skull's so soft you're makin' this easy!"
-- [ ] "I wasted you!"
-- [ ]
-- [ ] Sun-on-a-Stick kill
-- [ ] "Hey, who's on fire now?"
-- [ ] "Is-is anybody even payin' attention ta me?"
-- [ ] "What's the matter? You freaking stupid?"
-- [ ]
+- [ ] "That's what I'm talking about!" - "Despre asta vorbesc!"
+- [x] ~~(Evil laughter)~~
+- [x] ~~(Happy laughter 1)~~
+- [ ] (Happy laughter 2) "You got owned!" - "Ai fost deținut!"
+- [x] ~~(Happy laughter 3)~~
+- [x] ~~(Happy laughter 4)~~
+- [ ] (Long laughter) "Da da, pula mea!"
+- [x] ~~(Long laughter 2)~~
+- [ ] "Not so tough now, are ya? Are ya?!" - "Nu ești așa de dur acum, nu?"
+- [ ] "You knuckleheads ain't even worth the effort." - "Voi puțoilor nici macar nu-mi meritați efortul."
+- [ ] "I broke your stupid crap, moron!" - "Ti-am distrus cacaturile, dobitocule!"
+- [ ] "Way to go, pally!" - "Asa se face, amice!"
+- [ ] "We got 'em, we got 'em!" - "I-am prins, i-am prins!"
+- [ ] "Bonk!" - "Bong!"
+- [ ] "Boink!" - "Boing!"
+- [ ] "Say goodbye to ya kneecaps, chucklehead!" - "I-ați adio de la genunchi, pulicǎ!"
+- [ ] "How's that feel, wimp?" - "Cum se simte asta, fraiere?"
+- [ ] "Eat it, fatty!" - "Mǎnancǎ-mi-o, grǎsane!"
+- [ ] "Yo, batter up!" - "Yo, ia la bâtǎ!"
+- [ ] "Yo, I oughta' be on a baseball card!" - "Yo, ar trebui sa ma punǎ pe un cartonaș de bază mingiașǎ!"
+- [ ] "I'm battin' a thousand!" - "Sunt campion la mǎrginit!"
+- [ ] "Ya head's a freakin' bat magnet!" - "Capu' tǎu e un magnet de bâte!"
+- [ ] "'Ey, is somebody keepin' track of my heads batted in?" - "Hei, ține cineva numǎrul de capete futute?"
+- [ ] "Yeah, I dare ya, rage quit. C'mon, make us both happy." - "Ieși în pula mea. Fǎ-ne pe amândoi fericiți."
+- [ ] "Oh hey! You suck." - "Ia uite! O sugi!"
+- [ ] (Happy laughter) "You got owned!" - "Ai fost deținut!"
+- [ ] "Sweet!" - "Dulce ca pula mea!"
+- [ ] "You're all losers!" - "Sunteți toți niște terminați!"
+- [ ] "You wimps suck!" - "Fraierilor, sugeți!"
+- [ ] "Man, your skull's so soft you're makin' this easy!" - "Coaie ai capu' așa moale, că te bat cu pula!"
+- [ ] "I wasted you!" - "Te-am futut!"
+- [ ] "Hey, who's on fire now?" - "Cine arde acum?"
+- [ ] "Is-is anybody even payin' attention ta me?" - "Se uită cineva la nucile astea?"
+- [ ] "What's the matter? You freaking stupid?" - "Care-i treaba? Ești prost?"
 
 ### Domination-related responses
 
-- [ ] Dominating.png  Domination
-- [ ]
-- [ ] "Yeah, that's right!"
-- [ ] "You're gettin' dominated, chucklehead!"
-- [ ] "'Domination'. Look it up."
-- [ ] "You're like a car crash in slow motion. It's like I'm watchin' ya fly through a windshield."
-- [ ]
-- [ ] Leaderboard class scout.png  Dominating a Scout
-- [ ]
-- [ ] "Hit the bricks, pal. You're done."
-- [ ] "Ha ha! Look at you! You look like you ran through traffic!"
-- [ ] "Hey, knucklehead, you ain't gonna win."
-- [ ] "Oh, what, you gonna cry? You gonna cry now?"
-- [ ] "Yeah, I dare ya, rage quit. C'mon, make us both happy!"
-- [ ] "I will never... Stop... Killing you."
-- [ ] "You... Are... Terrible!"
-- [ ] "I am the Scout here!"
-- [ ] "This map ain't big enough for the two of us."
-- [ ] "Hit the road, bozo! Let a real Scout get to work!"
-- [ ] "You're like a car crash in slow motion. It's like I'm watchin' ya fly through a windshield."
-- [ ]
-- [ ] Leaderboard class soldier.png  Dominating a Soldier
-- [ ]
-- [ ] "Yo, I'm not even wearin' a helmet!"
-- [ ] "What is your major malfunction, brother?"
-- [ ] "Drop dead and gimme 20!"
-- [ ] "You're a disgrace to the uniform, pal!"
-- [ ] [Imitating Soldier] "Dis-missed!"
-- [ ] "There ain't enough crits in the world to kill me!"
-- [ ]
-- [ ] Leaderboard class pyro.png  Dominating a Pyro
-- [ ]
-- [ ] "It's startin' to bore me how much you suck."
-- [ ] "Hey, who's on fire now?"
-- [ ] "Yo, if you didn't want me to kill ya, ya shoulda said somethin'!"
-- [ ] "Repeat after me: mhmm-mhmm-mhmm I'm dead!"
-- [ ] "Take that, ya dumb, bib-wearin' dope!"
-- [ ] "Eat it, ya mute, frickin' moron!"
-- [ ] "Yeah, nice moves, mumbles!"
-- [ ] "Dude, you'd get a closed casket at the ugly cemetery."
-- [ ]
-- [ ] Leaderboard class demoman.png  Dominating a Demoman
+- [ ] "Yeah, that's right!" - "O da, o da!"
+- [ ] "You're gettin' dominated, chucklehead!" - "Te domin pulifrici!"
+- [ ] "'Domination'. Look it up." - "Dominatrix, caută în DOOM!"
+- [ ] "You're like a car crash in slow motion. It's like I'm watchin' ya fly through a windshield." - "Zici că mă uit pe instagram. Ești un bebeluș care zboara prin parbriz."
+- [ ] "Hit the bricks, pal. You're done." - "Pune frâne coițe. E atât de gata pentru tine!"
+- [ ] "Ha ha! Look at you! You look like you ran through traffic!" - "Haha! Arăți de parcă te-ai bășit!"
+- [ ] "Hey, knucklehead, you ain't gonna win." - "Hei puțoi, nu vei câștiga."
+- [ ] "Oh, what, you gonna cry? You gonna cry now?" - "O să plângi? O să te piși? O să te caci pe tine?"
+- [ ] "Yeah, I dare ya, rage quit. C'mon, make us both happy!" - "Ieși în pula mea. Fǎ-ne pe amândoi fericiți."
+- [ ] "I will never... Stop... Killing you." - "Mă cac... În gura... Ta!"
+- [ ] "You... Are... Terrible!" - "Ești un căcat cu ochi!"
+- [ ] "I am the Scout here!" - "Eu sunt cercetașul aici!"
+- [ ] "This map ain't big enough for the two of us." - "Planșa asta nu e destul de mare pentru pulile noastre."
+- [ ] "Hit the road, bozo! Let a real Scout get to work!" - "Bea-mi smegma fraiere! Uite așa se face!"
+- [ ] "You're like a car crash in slow motion. It's like I'm watchin' ya fly through a windshield." - "Ești ca o pulă cu disfuncție erectilă. E ca și cum te-aș vedea ca te fuți singur!"
+- [ ] "Yo, I'm not even wearin' a helmet!" - "Nici măcar nu port cotiere!"
+- [ ] "What is your major malfunction, brother?" - "Ai disfuncție erectilă, frate?"
+- [ ] "Drop dead and gimme 20!" - "În genunchi și linge-mi nucile!"
+- [ ] "You're a disgrace to the uniform, pal!" - "Ești o rușine pentru uniforma asta, coaie!"
+- [ ] [Imitating Soldier] "Dis-missed!" - "Cul-cat!"
+- [ ] "There ain't enough crits in the world to kill me!" - "Nu sunt suficiente puli în lume să ma dezvirgineze pe mine!"
+- [ ] "It's startin' to bore me how much you suck." - "Mă plictisește la cum o sugi!"
+- [ ] "Hey, who's on fire now?" - "Cine arde acum?"
+- [ ] "Yo, if you didn't want me to kill ya, ya shoulda said somethin'!" - "Dacă nu voiai să te omor, trebuia să te pui în genunchi!"
+- [ ] "Repeat after me: mhmm-mhmm-mhmm I'm dead!" - "Zi după mine: Sunt gay și mă fut de unul singur!"
+- [ ] "Take that, ya dumb, bib-wearin' dope!" - "Spălami-ai coaiele cu gura, idiot mut purtător de babețică!"
+- [ ] "Eat it, ya mute, frickin' moron!" - "Suge-mi căcatul din anus, mutulică puță mică!"
+- [ ] "Yeah, nice moves, mumbles!" - "Mișto mișcări, puță mută!"
+- [ ] "Dude, you'd get a closed casket at the ugly cemetery." - "Coaie, ăștia o să te înmormânteze la cimitirul urâților!"
 - [ ]
 - [ ] "You just got freakin' dominated, knucklehead, all right, let's do this!"
 - [ ] "I don't usually kill morons this fast."

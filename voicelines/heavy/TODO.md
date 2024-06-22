@@ -1,0 +1,1285 @@
+# Heavy
+
+[wiki commands](https://wiki.teamfortress.com/wiki/Heavy_voice_commands)
+[wiki responses](https://wiki.teamfortress.com/wiki/Heavy_responses)
+
+## Commands
+
+- [ ] Medic! - Default key: Z → 1 or E
+- [ ]
+- [ ] "Medic!"
+- [ ] "MEDIC!"
+- [ ] "Doctor!"
+- [ ] While aiming at friendly Medic:
+- [ ] "Follow me, Doctor." (1)
+- [ ] "We go together, Doctor."
+- [ ] "Doctor, this way!"
+- [ ] "Is team time, Doctor!"
+- [ ] "Follow me, Doctor." (2)
+- [ ] "Come, Doctor!"
+- [ ] "Come along now, Doctor."
+- [ ]
+- [ ] Thanks! - Default key: Z → 2
+- [ ]
+- [ ] "Thank you!"
+- [ ] "Many thanks!"
+- [ ] "Thank you!"
+- [ ] After a kill or kill assist:
+- [ ] "We make good team!"
+- [ ]
+- [ ] Go Go Go! - Default key: Z → 3
+- [ ]
+- [ ] "Go! Go! Go!"
+- [ ] "Go!"
+- [ ] "Move!"
+- [ ]
+- [ ] Move up! - Default key: Z → 4
+- [ ]
+- [ ] "Move gear up!"
+- [ ] "Move gear forward!"
+- [ ] "Move machine up!"
+- [ ]
+- [ ] Go Left! - Default key: Z → 5
+- [ ]
+- [ ] "To left!"
+- [ ] "Left!"
+- [ ] "Go left!"
+- [ ] "Left!"
+- [ ]
+- [ ] Go Right! - Default key: Z → 6
+- [ ]
+- [ ] "To right!"
+- [ ] "Right!"
+- [ ] "Go right!"
+- [ ] "Right!"
+- [ ]
+- [ ] Yes - Default key: Z → 7
+- [ ]
+- [ ] "Yes."
+- [ ] "Да." ("Da." Translation: "Yes.")
+- [ ] "Very well."
+- [ ]
+- [ ] No - Default key: Z → 8
+- [ ]
+- [ ] "No!"
+- [ ] "Нет!" ("Nyet!" Translation: "No!")
+- [ ] "Is not possible!"
+- [ ]
+- [ ] Voice Menu 2
+- [ ] Incoming! - Default key: X → 1
+- [ ]
+- [ ] "Incoming!"
+- [ ] "Incoming!"
+- [ ] "INCOMIIIIIIIING!"
+- [ ]
+- [ ] Spy! - Default key: X → 2
+- [ ]
+- [ ] "Spy!"
+- [ ] "I see Spy!"
+- [ ] "A Spy!"
+- [ ] "I Spy with my little eye!"
+- [ ] While aiming at a player:
+- [ ] "Scout is Spy!"
+- [ ] "Soldier is Spy!"
+- [ ] "Pyro is Spy!"
+- [ ] "Demoman is Spy!"
+- [ ] "Heavy is Spy!"
+- [ ] "Engineer is Spy!"
+- [ ] "Medic is Spy!"
+- [ ] "Sniper is Spy!"
+- [ ] "Spy is not our Spy!"
+- [ ]
+- [ ] Sentry Ahead! - Default key: X → 3
+- [ ]
+- [ ] "Sentry ahead! (1)"
+- [ ] "Sentry ahead! (2)"
+- [ ]
+- [ ] Teleporter Here! - Default key: X → 4
+- [ ]
+- [ ] "Put Teleport here."
+- [ ]
+- [ ] Dispenser Here! - Default key: X → 5
+- [ ]
+- [ ] "Put Dispenser here."
+- [ ]
+- [ ] Sentry Here! - Default key: X → 6
+- [ ]
+- [ ] "Put Sentry here."
+- [ ]
+- [ ] Activate ÜberCharge! - Default key: X → 7
+- [ ]
+- [ ] "Charge now, Doctor!"
+- [ ] "Hit charge!"
+- [ ] "Charge me!"
+- [ ] "Now, Doctor!"
+- [ ]
+- [ ] Voice Menu 3
+- [ ] Help! - Default key: C → 1
+- [ ]
+- [ ] "Help!"
+- [ ] "Help now!"
+- [ ] "Help me!"
+- [ ] Standing on friendly control point:
+- [ ] "Defend here!"
+- [ ] "Who's man enough to stand with me?"
+- [ ] "Help defend!"
+- [ ] While standing on a neutral or enemy control point:
+- [ ] "Capture point with me!"
+- [ ] "Help capture point!"
+- [ ] "Help capture!"
+- [ ] "You! Stupid! Come, stand on point!"
+- [ ] "Coward! Get on point!"
+- [ ] "You! Baby! Crawl to point!"
+- [ ] "Get on point, stupid!"
+- [ ]
+- [ ] Battle Cry - Default key: C → 2
+- [ ]
+- [ ] "Here I come!"
+- [ ] "Run, cowards!"
+- [ ] "Hide cowards!"
+- [ ] "Raaaaaaaaagh!"
+- [ ] "Yaaaaaaaaaaaagh!"
+- [ ] "I liiiiive!"
+- [ ] While aiming at an enemy Engineer:
+- [ ] "I hear someone building diaper changing station!"
+- [ ] "Go ahead! Build your tiny gun! Then run!"
+- [ ] While aiming at an enemy, Minigun or secondary weapon equipped, enemy is not a Heavy:
+- [ ] "[Laughs] Look at your little baby guns!"
+- [ ] "Who send all these babies to fight!?"
+- [ ] "All of you are babies!"
+- [ ] Renamed and/or described stock primary weapon, or non-stock primary weapon currently drawn.
+- [ ] "New weapon!"
+- [ ] "I have new weapon!"
+- [ ] "All will fear my giant new gun."
+- [ ] "I have new way to kill cowards."
+- [ ] "I am Heavy Weapons Guy, and this is my new weapon."
+- [ ] While aiming at an enemy, melee weapon equipped:
+- [ ] "Fight like big man!"
+- [ ] "Ahh, guns are for babies!"
+- [ ] "Fight me, coward!"
+- [ ] "Hit me. I dare you."
+- [ ] "I will kill you with bare hands!"
+- [ ] "Let us wrestle, little man!"
+- [ ] "Put up fists."
+- [ ] "Shh... Sasha is asleep."
+- [ ] "Is not fair to use gun on such a tiny man."
+- [ ] "Why waste bullet on such a teeny man?"
+- [ ] "Fight me!"
+- [ ] "Come; we fight like men."
+- [ ] "Let us fight; man versus tiny baby man."
+- [ ]
+- [ ] Cheers - Default key: C → 3
+- [ ]
+- [ ] "Yeeesss!"
+- [ ] "Ouuuuugh!"
+- [ ] "So much blood!"
+- [ ] "Ahahaha! (Laughter)"
+- [ ] "We are killers!"
+- [ ] "I am giant!"
+- [ ] "Dah da da-dah da da-da-da-da-da-dahhhh!" (Funeral March)
+- [ ] "Da da da da. Da da da da. Come sing with me! Da da da da da." (Volga Boatmen)
+- [ ]
+- [ ] Jeers - Default key: C → 4
+- [ ]
+- [ ] "Boooooooo!"
+- [ ] "Aaaaaaagh!"
+- [ ] "Stupid, stupid, stupid!"
+- [ ] "Ohhhhhhh!"
+- [ ] "Ohhhh, it is sad day!"
+- [ ] "Which one of you is crying?"
+- [ ] "Daaaagh, too many little men on this team!"
+- [ ] "Tell me, where did we go so wrong?"
+- [ ] "How could this happen?"
+- [ ]
+- [ ] Positive - Default key: C → 5
+- [ ]
+- [ ] "I am very happy!"
+- [ ] "Good times!"
+- [ ] "I feel aliiiive!"
+- [ ] "Verrry good!"
+- [ ] "Да, this will work!" ("Да" translates to "Yes")
+- [ ] Evil laugh
+- [ ] Evil laugh 2
+- [ ] Evil laugh 3
+- [ ] Short laugh
+- [ ]
+- [ ] Negative - Default key: C → 6
+- [ ]
+- [ ] "Dahhhh!"
+- [ ] "Oh nooooo!"
+- [ ] "Not good!"
+- [ ] "Very bad!"
+- [ ] "Bad!"
+- [ ] "Oh, this is bad!"
+- [ ]
+- [ ] Nice Shot! - Default key: C → 7
+- [ ]
+- [ ] "Good shot!"
+- [ ] "Pow! Haha!"
+- [ ] "Nice shot!"
+- [ ]
+- [ ] Good Job! - Default key: C → 8
+- [ ]
+- [ ] "Is good."
+- [ ] "Gooood!"
+- [ ] "You did well!"
+- [ ] "Хорошо!" ("Khorosho!", pronounced "Harasho". Translation: "Good!")
+
+## Responses
+
+### Kill-related responses
+
+- [ ] Item icon Minigun.png  After killing more than 1 enemy in 20 seconds with a primary weapon
+- [ ]
+- [ ] "Cry some more!"
+- [ ] [Mimicking a baby crying] "Weeeeeeeeh! Waaaaaaaahh!"
+- [ ] (Maniacal laugh)
+- [ ] "I'm coming for you!"
+- [ ] "Keep crying, baby!"
+- [ ] "All of you are babies!"
+- [ ]
+- [ ] Item icon Iron Curtain.png  After killing more than 3 enemies in 20 seconds with a primary weapon
+- [ ]
+- [ ] [Mimicking Minigun revving noise, then laughing] "Vzzzzzt! Rahrahrahrah! Vrrrrr! Wahahahaaaaaa!"
+- [ ] "Ooohhhh, run, run, I'm coming for you!"
+- [ ] "All of you are dead!"
+- [ ] "Who send all these babies to fight!?"
+- [ ] "Entire team is babies!"
+- [ ] "What sick man sends babies to fight me?"
+- [ ]
+- [ ] Item icon Brass Beast.png  Killing with a non-stock or renamed/described primary weapon
+- [ ]
+- [ ] "New gun is unfair to tiny baby enemies."
+- [ ] "I am Heavy Weapons Guy, and this is my new weapon."
+- [ ] "New weapon is good!"
+- [ ] "Yes. I like this new weapon."
+- [ ]
+- [ ] Item icon Tomislav.png  Spinning-up a non-stock or renamed/described primary weapon
+- [ ]
+- [ ] "New weapon!"
+- [ ] "I have new weapon!"
+- [ ] "All will fear my giant new gun."
+- [ ] "I have new way to kill cowards."
+- [ ] "I am Heavy Weapons Guy, and this is my new weapon."
+- [ ]
+- [ ] Item icon Natascha.png  Destroying a building
+- [ ]
+- [ ] "I destroy coward toys!"
+- [ ] "More rubble, less trouble!"
+- [ ] "Ya-ta-ta-ta-ta-ta-ta-ta ya-ta-ta-ta-ta-ta-ta-ta do-de-da-va-da-da-dada! Kaboom-Kaboom!" (Khachaturian's Sabre Dance)
+- [ ] (Big laugh)
+- [ ]
+- [ ] Sentry Gun specific
+- [ ]
+- [ ] "Go ahead! Build your tiny gun, then run!"
+- [ ]
+- [ ] Dispenser specific
+- [ ]
+- [ ] "I hear someone building diaper changing station!"
+- [ ]
+- [ ] Item icon Medi Gun.png  Kill assist
+- [ ]
+- [ ] "We make good team!"
+- [ ]
+- [ ] Item icon Fists.png  Melee kill
+- [ ]
+- [ ] "Haha!"
+- [ ] "Hah!"
+- [ ]
+- [ ] Fists of Steel specific
+- [ ]
+- [ ] "My fists! They are made of STEEL!"
+- [ ]
+- [ ] Class Struggle.png  Upon killing an enemy's Medic while being healed
+- [ ]
+- [ ] "You are now without doctor!"
+- [ ] "My doctor's still alive!"
+- [ ] "Your doctor is dead!"
+- [ ] "You drew first! Hahahahaha!"
+- [ ]
+
+### Domination-related responses
+
+- [ ] Dominating.png  Domination
+- [ ]
+- [ ] "I am amused by entire eety-beety-teeny team!"
+- [ ] (Big laugh 1)
+- [ ] (Big laugh 2)
+- [ ] (Big laugh 3)
+- [ ] (Happy laugh 1)
+- [ ] (Happy laugh 2)
+- [ ] (Happy laugh 3)
+- [ ] (Happy laugh 4)
+- [ ] (Happy laugh 5)
+- [ ] "Little little man."
+- [ ] "You are no match for me!"
+- [ ] "Go ahead and cry, baby."
+- [ ] "You cannot hide, coward."
+- [ ] "Run home to momma!"
+- [ ] "Hide coward! I will find you."
+- [ ] "I have squashed you like bug!"
+- [ ] "I have plan for you: more pain!"
+- [ ] (Laugh)
+- [ ] "I am coming for you, again!"
+- [ ] "I promise you pain without end."
+- [ ] "You cannot beat me!"
+- [ ] "The burning you feel? It is shame."
+- [ ] "I am going to kill you, and kill you, and kill you!"
+- [ ] "You are dead. Not big surprise."
+- [ ] "Killing you is full time job now."
+- [ ] "Good!"
+- [ ] "Which one of you is crying?"
+- [ ] (Evil laugh)
+- [ ] (Long laugh)
+- [ ] "(Laugh) Ho, hohoho, oh, that slaps me on the knee!"
+- [ ] "I am very happy!"
+- [ ] "Good times!"
+- [ ]
+- [ ] Nemesis RED.png  Revenge kill
+- [ ]
+- [ ] "You mean nothing to me now."
+- [ ] "Your luck runs out."
+- [ ] "Let this be lesson for you."
+- [ ] "Never, never, make me angry."
+- [ ] "You are not so good as you think."
+- [ ] "You feel shame, yes?"
+- [ ] "I should have done this long ago!"
+- [ ] "Did you think you could beat me?"
+- [ ] "Did you think I would forget you?!"
+- [ ] "Oh no, you I do not forget!"
+- [ ] "I think you should fight someone much, much smaller."
+- [ ] "Do you remember me now?!"
+- [ ] "Next time, pick on someone your own tiny-baby size!"
+- [ ] "I am not done with you yet!"
+- [ ] "This is just the beginning of the pain I will cause you."
+- [ ] "So much blood! Heh."
+- [ ] "I am giant!"
+- [ ] "I feel alive!"
+- [ ]
+
+### Event-related responses
+
+- [ ] Gette it Onne!.png  Round start
+- [ ]
+- [ ] "Here I come!"
+- [ ] "Run, cowards!"
+- [ ] "Raaaaah!"
+- [ ] "Hide, cowards!"
+- [ ] "Eeeyaaah!"
+- [ ] "I live!"
+- [ ]
+- [ ] Item icon Eyelander.png  Sudden Death
+- [ ]
+- [ ] "Booooooooo!"
+- [ ] "Aaagh!"
+- [ ] "Stupid! Stupid! Stupid!"
+- [ ] "Aawgh!"
+- [ ] "Ooh, it is sad day!"
+- [ ] "Which one of you is crying?"
+- [ ] "Daagh, too many little men on this team!"
+- [ ] "Tell me, where did we go so wrong?"
+- [ ] "How could this happen?"
+- [ ]
+- [ ] Killicon skull.png  Stalemate
+- [ ]
+- [ ] "We lose, but they do not win?"
+- [ ] "Everyone loses! (laughs sarcastically)"
+- [ ] "Aauugh!"
+- [ ]
+- [ ] Killicon fire.png  Set on fire.
+- [ ]
+- [ ] "Fire!"
+- [ ] "Fire, fire, fire!"
+- [ ] "I'm burn!"
+- [ ] "My flesh, it burns! "
+- [ ] "Agh, agh, fire, fire!"
+- [ ]
+- [ ] Health dead.png  On death by melee weapon and/or critical hit
+- [ ]
+- [ ] (Dying scream 1)
+- [ ] (Dying scream 2)
+- [ ] (Dying scream 3)
+- [ ]
+- [ ] Bleed drop.png  Severe pain
+- [ ]
+- [ ] (Groan 1)
+- [ ] (Groan 2)
+- [ ] (Groan 3)
+- [ ]
+- [ ] Bleed drop.png  Sharp pain
+- [ ]
+- [ ] (Grunt 1)
+- [ ] (Grunt 2)
+- [ ] (Grunt 3)
+- [ ] (Grunt 4)
+- [ ] (Grunt 5)
+- [ ]
+- [ ] Item icon Jarate.png  Hit by Gas Passer, Jarate, Mad Milk, Mutated Milk, or Self-Aware Beauty Mark
+- [ ]
+- [ ] "Dahhhh!"
+- [ ] "Aauugh!"
+- [ ] "Aaaaaaagh!"
+- [ ]
+- [ ] Telespin.png  Teleportation
+- [ ]
+- [ ] "Thanks for ride!"
+- [ ] "Was good trip!"
+- [ ] "Engineer is credit to team!"
+- [ ]
+- [ ] Healthico.png  Healed by Medic
+- [ ]
+- [ ] "Thank you, doctor!"
+- [ ] "You are great, doctor!"
+- [ ] "I love this doctor!"
+- [ ]
+- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
+- [ ]
+- [ ] "Get behind me, doctor!"
+- [ ] "Time to hide, cowards!"
+- [ ] "Now is coward killing time!"
+- [ ] "I am bulletproof!" (While firing primary weapon)
+- [ ] "Is good time to run, cowards!"
+- [ ]
+- [ ] Achieved.png  Achievement unlocked
+- [ ]
+- [ ] "Look at me! Look at me!"
+- [ ] "I am hero!"
+- [ ] "It is good day to be Giant Man!"
+- [ ] "Everyone! Look at me!"
+- [ ] "Yes!"
+- [ ] "Very good!"
+- [ ] "Very good, very VERY good!"
+- [ ] "I am most dangerous man, in history of WORLD!"
+- [ ] "Who dares stand against me NOW?"
+- [ ] "Fear me, cowards!"
+- [ ] "I am credit to team."
+- [ ] "The medal- It is so tiny!"
+- [ ] "I have many medals!"
+- [ ] "Another medal! Is good!"
+- [ ] "I am big war hero!"
+- [ ] "Now I am king of team!"
+- [ ]
+
+### Weapon-related responses
+
+- [ ] Item icon Iron Curtain.png  Upon firing Minigun for more than 4 seconds
+- [ ]
+- [ ] "Raaaargh!"
+- [ ] "Yaaaaaaaaaaaagh!"
+- [ ]
+- [ ] Item icon Brass Beast.png  Upon firing Minigun for more than 8 seconds
+- [ ]
+- [ ] (Maniacal laugh)
+- [ ] (Short laugh)
+- [ ]
+- [ ] Item icon Tomislav.png  Upon firing Minigun for more than 15 seconds
+- [ ]
+- [ ] [Mimicking Minigun revving noise, then laughing] "Vzzzzzt! Rahrahrahrah! Vrrrrr! Wahahahaaaaaa!"
+- [ ] [Mimicking a baby crying] "Weeeeeeeeh! Waaaaaaaahh!"
+- [ ]
+- [ ] Item icon Killing Gloves of Boxing.png  Melee attack
+- [ ]
+- [ ] "Take that!"
+- [ ]
+- [ ] Only plays after a "Take that!" line.
+- [ ]
+- [ ] "BOOM!"
+- [ ] "AUGHN!"
+- [ ] "-and this!"
+- [ ] "-and that!"
+- [ ] "-and this!"
+- [ ]
+- [ ] Item icon Sandvich.png  Upon eating Buffalo Steak Sandvich, Dalokohs Bar, Fishcake, Robo-Sandvich, Sandvich, or Second Banana
+- [ ]
+- [ ] Shared by all consumables
+- [ ] "Ahh, so filling! Hahaha!"
+- [ ] "Moist and delicious! Hehaha!"
+- [ ] "Kill them all! Hahaha!"
+- [ ] "That vas delicious!"
+- [ ] [Singing] "(Mily Balakirev's Song of the Volga Boatmen)"
+- [ ] [Singing] "(Mily Balakirev's Song of the Volga Boatmen)"
+- [ ]
+- [ ] Sandvich specific
+- [ ] "Sandvich make me strong!"
+- [ ] "I am full of sandvich, and I am coming for you!"
+- [ ] "Sandvich and I are coming for you!"
+- [ ] "Don't run! It's just ham!"
+- [ ] "Bologna is perfect fuel for killing tiny cowards!"
+- [ ] [Singing to Song of the Volga Boatmen] "Saww-ndvich, sandvich!"
+- [ ] [Singing] "Me and my... Sandvich."
+- [ ] "What was that, Sandvich? "Kill them all"? Good idea! Hahahahahaha!"
+- [ ] "Look at you tiny-itty-bitty men running from sandvich!"
+- [ ] "You are a loose cannon, Sandvich, but you are a damn good cop!"
+- [ ] [Singing] "Sandvich and me going to beat your ass!"
+- [ ] "Run from the Sandvich!"
+- [ ] "Bologna! Hahahaha!"
+- [ ]
+
+### Objective-related responses
+
+- [ ] Intel red idle.png  After capturing Intelligence
+- [ ]
+- [ ] "It was long trip!"
+- [ ] "I killed many cowards for that."
+- [ ] "Not usually my job, but... Eheheh."
+- [ ]
+- [ ] CP Captured RED.png  After Capturing control point
+- [ ]
+- [ ] "Come, knock me off it!"
+- [ ] "Ours now!"
+- [ ] "Come, take it back!"
+- [ ]
+- [ ] CP Locked RED.png  Standing on captured control point, firing weapon
+- [ ]
+- [ ] "Coward! Get on point!"
+- [ ] "Get on point, stupid!"
+- [ ]
+- [ ] CP Neutral.png  Standing on a cappable control point, firing weapon
+- [ ]
+- [ ] "Get on point!"
+- [ ] "Fight on the point!"
+- [ ] "Come to point!"
+- [ ] "Get on the point"
+- [ ]
+- [ ] Cross RED.png  Defense
+- [ ]
+- [ ] "You are going to need much bigger guns!"
+- [ ] "I was told we would be fighting men!"
+- [ ] "Very good!"
+- [ ] "You, yes you! You are dead!"
+- [ ] "Хорошо!" ("Horosho!", translated to "Great!" Heavy actually mispronounces this by pronouncing the first H as in "hard" instead of properly pronouncing it like the J in "jalapeño")
+- [ ] "Pow! Haha!"
+- [ ] "I think you need more men!"
+- [ ]
+- [ ] Payload-related responses
+- [ ] BLU Bombcart.png  Attacking: Cart goes forward
+- [ ]
+- [ ] "Keep pushing!"
+- [ ] "Keep pushing tiny cart!"
+- [ ] "Forward, glorious cart!"
+- [ ] "Keep going!"
+- [ ] "Everyone! Push! "
+- [ ] "Puuuuush!"
+- [ ] "Go!"
+- [ ] "Push, push the cart!"
+- [ ] ""Go, go, давай!" ("Davaj!", translated to "Come on!")
+- [ ] "Go, go, push the cart!"
+- [ ] "Everyone, push cart!"
+- [ ] "We must all push!"
+- [ ] "Push cart!"
+- [ ] "Push!"
+- [ ] "Do not fear bomb! Push!"
+- [ ] "Push bomb-cart! MOVE!"
+- [ ] "Onward, great bomb-cart!"
+- [ ] "Stay near tiny cart!"
+- [ ] "Stay close to cart!"
+- [ ] "All must come to cart!"
+- [ ] "Join me at bomb cart!"
+- [ ] "JOIN ME AT BOMB CART!"
+- [ ] "Bomb is friend! Come, visit friend!"
+- [ ] [Singing] "(Mily Balakirev's Song of the Volga Boatmen)"
+- [ ] [Singing] "(Mily Balakirev's Song of the Volga Boatmen) C'mon!"
+- [ ] [Singing] "(Mily Balakirev's Song of the Volga Boatmen) Push!"
+- [ ]
+- [ ] BLU Bombcart.png  Attacking: Cart goes back
+- [ ]
+- [ ] "Cart goes wrong way!"
+- [ ] "Nooooooooo!"
+- [ ] "Little men steal our cart!"
+- [ ] "Agh! Cart is gone!"
+- [ ] "Baby team has cart!"
+- [ ] "Other team has cart!"
+- [ ] "No! Cart moves wrong way!"
+- [ ]
+- [ ] RED Bombcart.png  Defending: Cart goes forward
+- [ ]
+- [ ] "Get to cart, men!"
+- [ ] "We must stop little cart!"
+- [ ] "We must stop little cart."
+- [ ] "Ooooh noooooo! Little cart is moving!"
+- [ ] "Argh! Where is cart going?"
+- [ ] "Aiiieeghh! Where is cart going?"
+- [ ] [Singing] "What's the matter with you?"
+- [ ]
+- [ ] RED Bombcart.png  Defending: Cart goes back
+- [ ]
+- [ ] "Mush, team, mush!"
+- [ ] "We send itsy-bitsy cart back home!"
+- [ ] "Is our cart now!"
+- [ ] "Good job, everyone!"
+- [ ] "We must return cart!"
+- [ ] "Yes! We push cart back!"
+- [ ] "We push cart back!"
+- [ ] "Good job, everyone!"
+- [ ]
+- [ ] Hoodoo Bombcart.png  Attacking: Cart has stopped
+- [ ]
+- [ ] "Bomb cart will not push self!"
+- [ ] "We must push little cart!"
+- [ ] "Argh! Cart is not moving!"
+- [ ] "Bomb has stopped!"
+- [ ]
+- [ ] Lil-chewchew.png  Defending: Stop the bomb
+- [ ]
+- [ ] "Stand next to little cart!"
+- [ ] "Stand by little wagon!"
+- [ ] "We stop little cart!"
+- [ ] "Come to bomb-wagon!"
+- [ ]
+
+### Contract-related responses
+
+- [ ] Contract complete
+- [ ]
+- [ ] "So it is done!"
+- [ ] "Aww, but Heavy was just getting started!"
+- [ ] "This is fun!"
+- [ ]
+- [ ] Difficult contract
+- [ ]
+- [ ] "Ha, ha! Yes, we have done it!"
+- [ ] "Finally, it is done!"
+- [ ] "This was not easy task, but it is done!"
+- [ ]
+
+### Duel-related responses
+
+- [ ] Backpack Dueling Mini-Game.png  Starting a duel
+- [ ]
+- [ ] "Fight like big man!"
+- [ ] "Fight me, coward!"
+- [ ] "I will kill you with bare hands!"
+- [ ] "Let us wrestle, little man!"
+- [ ] "Fight me!"
+- [ ] "Come; we fight like men."
+- [ ] "Let us fight; man versus tiny baby man."
+- [ ]
+- [ ] Duel RED.png  Duel accepted
+- [ ]
+- [ ] "Yes!"
+- [ ] "Who dares stand against me NOW?"
+- [ ] "Here I come!"
+- [ ] "You are no match for me!"
+- [ ] "I promise you pain without end."
+- [ ] "You are so small! Is funny to me!"
+- [ ] "I'm coming for you!"
+- [ ] "You, yes, you! You are dead!"
+- [ ] "Да." ("Dа", translated to "Yes")
+- [ ] "Yes."
+- [ ]
+- [ ] Duel BLU.png  Duel rejected
+- [ ]
+- [ ] "Ohhhhhhh...."
+- [ ] "Go ahead and cry, baby."
+- [ ] "You cannot hide, coward."
+- [ ] "Run home to momma!"
+- [ ] "Hide coward, I will find you!"
+- [ ] "Do I smell soiled baby diaper?"
+- [ ] "Uh oh! I think someone soiled diaper!"
+- [ ] "The burning you feel? It is shame."
+- [ ] "Boooooooo!"
+- [ ] "Keep crying, baby!"
+- [ ]
+
+## Not planned
+
+### Competitive Mode responses
+
+- [ ] Setup
+- [ ] Setup.png  First round
+- [ ]
+- [ ] Casual Mode
+- [ ]
+- [ ] "Here Heavy comes, babies!"
+- [ ] "Run and hide, babies!"
+- [ ] "Heavy is ready! Heh ha ha!"
+- [ ] "Is exciting, да?" ("Da", translated to "Yes.")
+- [ ] "да, this will be easy!"
+- [ ] "We will crush them!"
+- [ ] "Team! I believe in all of you!"
+- [ ] [Singing] "Da di da da! This is morale song!" (Sung to the tune of "The Song of the Volga Boatmen")
+- [ ]
+- [ ] Rare
+- [ ]
+- [ ] "We will crush them! And then Scout can clean up mess after."
+- [ ]
+- [ ] Competitive Mode
+- [ ]
+- [ ] "Is good day to die! For other team!"
+- [ ] "I have seen the enemy! And he is us! But itty bitty." (Reference to a quote regarding McCarthyism from the Pogo comic strip)
+- [ ]
+- [ ] 6s Only
+- [ ]
+- [ ] "Six men is not enough to defeat Heavy!"
+- [ ] "Six men is not enough to beat Heavy."
+- [ ] "Heavy is best kept secret of 6s."
+- [ ]
+- [ ] Setup.png  Previous round was a win
+- [ ]
+- [ ] "We have broken them. Now we finish it!"
+- [ ] "Be calm! We have not won yet!"
+- [ ] "We are doing good!"
+- [ ] "Now is no time to show mercy!"
+- [ ] [Singing] "Da dun dun... Ha ha ha!" (Sung to the tune of "The Song of the Volga Boatmen")
+- [ ] [Singing] "Da da da da! Everybody!" (Sung to the tune of "The Song of the Volga Boatmen")
+- [ ]
+- [ ] Setup.png  Previous round was a loss
+- [ ]
+- [ ] "We should start the winning now."
+- [ ] "All tiny teammates stay calm. This time, we win!"
+- [ ] "Here is plan: no more losing!"
+- [ ] "I would be worried, if I was not giant!"
+- [ ] "Is good day for 6s!"
+- [ ] "This is not usual job for Heavy. But I will make work!"
+- [ ] "We will not lose again!"
+- [ ] "Never give up!"
+- [ ] "Big time comeback starts NOW!"
+- [ ] "This time we will destroy them!"
+- [ ]
+- [ ] Setup.png  Previous round was a tie
+- [ ]
+- [ ] "Is tied! Not good for nobody!"
+- [ ] "Now we make them pay for tie!"
+- [ ] "Is tied? Who did this? How did this happen?"
+- [ ] "Heavy is good at breaking ties! Good at breaking everything!"
+- [ ]
+- [ ] Outcomes
+- [ ] Match win
+- [ ]
+- [ ] "Hmm."
+- [ ] "Heh he he he."
+- [ ] "So it is done."
+- [ ] "Finally, it is done!"
+- [ ] "We win! Is good!"
+- [ ] "We win! Is expected."
+- [ ] "We won!"
+- [ ] "We win match! Ha ha ha hah!"
+- [ ] "Yes!"
+- [ ] "да!"
+- [ ]
+- [ ] Game win
+- [ ]
+- [ ] Casual Mode
+- [ ]
+- [ ] "He he heh!"
+- [ ] "Yes, this is fine!"
+- [ ] "This is fine!"
+- [ ] "Aw, but Heavy was just getting started!"
+- [ ] "We are strong! We win! And that is end of that!"
+- [ ] "Ha ha ha! We are strong! You are small! And so we win!"
+- [ ]
+- [ ] Rare
+- [ ]
+- [ ] "Today we have won! There are no more babies to fight! We have fought every baby."
+- [ ] "Sandvich for everyone! We have earned it!"
+- [ ]
+- [ ] Competitive Mode
+- [ ]
+- [ ] "Is good day to die! For other team!"
+- [ ] "We win game! Hah ha ha!"
+- [ ] "Competitive? Seems like wrong word for this match."
+- [ ]
+- [ ] 6s Only
+- [ ]
+- [ ] "Heavy is credit to 6s!"
+- [ ]
+- [ ] Rank up
+- [ ]
+- [ ] "Heavy does not need rank to know he is credit to team!"
+- [ ] "Heavy likes this new rank!"
+- [ ] "This rank is better! Heh! Heavy likes this new rank!"
+- [ ] "Rank up!"
+- [ ] "Is not best, but is good!"
+- [ ] "Is good!"
+- [ ] "We have gained a rank!"
+- [ ] "We have ranked up!"
+- [ ] "New rank! Very good."
+- [ ] "Heavy could get used to ranking up!"
+- [ ] "This is fine."
+- [ ] "Yes! Is not unexpected."
+- [ ] "Yes! Heavy is stronger!"
+- [ ] "Ha ha! Yes, we have done it!"
+- [ ] "This was not easy task, but it is done!"
+- [ ]
+- [ ] Rare
+- [ ]
+- [ ] "You like this new rank? Heavy likes this new rank!"
+- [ ] "In barrel of turnips, there is always one good turnip. Today, we are this turnip!"
+- [ ]
+- [ ] Top scoring
+- [ ]
+- [ ] "In Russia, if hand is rotten, you cut off hand. If arm is rotten, you cut off arm. But if heart is rotten...you cut off leg. This is Russian love song. (sniff) Hmm. Heavy have something in eye."
+- [ ]
+- [ ] Game summary
+- [ ]
+- [ ] "да, is good!"
+- [ ] "You are best of best!"
+- [ ] "You are best of best."
+- [ ] "You make Heavy proud!"
+- [ ] "You are giant where it counts: in body size!"
+- [ ] "Ha ha hah!"
+- [ ]
+
+### Mann vs. Machine responses
+
+- [ ] Setup/Between Waves
+- [ ] Setup.png  Ready to play
+- [ ]
+- [ ] "Ready!"
+- [ ] "I am ready."
+- [ ] "I am ready to fight robots."
+- [ ] "Let us begin."
+- [ ] "Bring me metal men to fight."
+- [ ]
+- [ ] Other players are not ready'
+- [ ]
+- [ ] "Is everyone ready?"
+- [ ] "Who is not ready?"
+- [ ] "What coward is still not ready to fight?"
+- [ ] "Who is not ready to fight?"
+- [ ]
+- [ ] Uncharged Canteen.PNG  Wave finished, near an Upgrade Station
+- [ ]
+- [ ] "Everyone, get to Upgrade Station!"
+- [ ] "Upgrade, upgrade!"
+- [ ] "All tiny teammates must upgrade."
+- [ ]
+- [ ] MvM Class upgraded.png  After accessing an Upgrade Station
+- [ ]
+- [ ] "I feel good."
+- [ ] "It is good day to be Giant Man."
+- [ ] "I feel bigger." (Laughs) "Good."
+- [ ] "Да, this will help." ("Dа", translated to "Yes")
+- [ ] "Hmmm, tiny robots are in big trouble now."
+- [ ] "(Laughs) Bring me robots to fight."
+- [ ]
+- [ ] During a wave
+- [ ] Smallcredits.png  Collecting credits
+- [ ]
+- [ ] "We must collect money."
+- [ ] "Come, help me pick up money."
+- [ ] "Money will not wait forever!"
+- [ ] "We are losing money!"
+- [ ]
+- [ ] Mvm navicon.png  Rage
+- [ ]
+- [ ] "I am angry!"
+- [ ] "I hate metal!"
+- [ ] "I hate robots!"
+- [ ] "Robots! I will break you!"
+- [ ]
+- [ ] Rocket.png  Shooting down projectiles
+- [ ]
+- [ ] "Goodbye rocket, Ha!"
+- [ ] "I kill rockets!"
+- [ ] "Die, rocket!"
+- [ ]
+- [ ] Killicon electro sapper.png  Teammate places a Sapper on a robot
+- [ ]
+- [ ] "Robot has been sapped!"
+- [ ] "Sapping robot!"
+- [ ]
+- [ ] Leaderboard class sniper.png  Enemy Sniper
+- [ ]
+- [ ] "Sniper!"
+- [ ]
+- [ ] Leaderboard class sentry buster.png  Sentry Buster
+- [ ]
+- [ ] Incoming
+- [ ]
+- [ ] "Sentry Buster!"
+- [ ]
+- [ ] Destroyed'
+- [ ]
+- [ ] "I have crushed tiny Sentry Buster!"
+- [ ]
+- [ ] Bomb dropped.png  Bomb dropped
+- [ ]
+- [ ] "Bomb is dead."
+- [ ]
+- [ ] While in Alert Zone
+- [ ]
+- [ ] "Huh, that was close."
+- [ ] "Whew. I'm getting too old and giant for this."
+- [ ]
+- [ ] Bomb carried.png  Bomb picked up
+- [ ]
+- [ ] "Bomb!"
+- [ ] "Metal cowards have bomb!"
+- [ ]
+- [ ] Bomb carrier defense.png  Bomb carrier upgrades
+- [ ]
+- [ ] "The bomb carrier grows stronger!"
+- [ ] "The bomb carrier is stronger!"
+- [ ]
+- [ ] Hud mvm bomb upgrade boss.png  Giant Robot
+- [ ]
+- [ ] Deployed
+- [ ]
+- [ ] "Metal giant!"
+- [ ] "Metal giant!"
+- [ ]
+- [ ] Picks up bomb
+- [ ]
+- [ ] "Giant robot has bomb!"
+- [ ] "Giant robot has bomb!"
+- [ ]
+- [ ] Destroyed
+- [ ]
+- [ ] "Not so mighty now, tiny giant."
+- [ ] "Not so mighty now, tiny giant."
+- [ ]
+- [ ] Leaderboard class tank.png  Tank
+- [ ]
+- [ ] Incoming
+- [ ]
+- [ ] "Taaaank!"
+- [ ]
+- [ ] In Alert Zone
+- [ ]
+- [ ] "Tank is dropping bomb!"
+- [ ]
+- [ ] Attacking
+- [ ]
+- [ ] "Shoot Tank!"
+- [ ] "Everyone, shoot Tank!"
+- [ ]
+- [ ] Destroyed
+- [ ]
+- [ ] "Tank is dead!"
+- [ ]
+- [ ] Health dead.png  Teammate is killed
+- [ ]
+- [ ] "Scout is dead!"
+- [ ] "Pyro is dead!"
+- [ ] "Demo is dead!"
+- [ ] "Heavy is dead!"
+- [ ] "Engineer is dead!"
+- [ ] "Medic is dead!"
+- [ ] "Sniper is dead!"
+- [ ] "Spy is dead!"
+- [ ]
+- [ ] When a teammate is killed by a Giant Robot
+- [ ]
+- [ ] "Metal giant is killing us!"
+- [ ] "Metal giant is killing us!"
+- [ ]
+- [ ] Health dead.png  All other teammates are dead
+- [ ]
+- [ ] "I am alone."
+- [ ] "Robots! I will beat you myself!"
+- [ ]
+- [ ] Upon being revived with a Reanimator
+- [ ]
+- [ ] "Dying: just make Heavy mad!"
+- [ ] "Ha ha ha ha! Heavy is back, babies!"
+- [ ] "Thank you for life, doktor"
+- [ ] "I'm back!"
+- [ ] "Ha ha ha!"
+- [ ] "Ho ho ho ho ho!"
+- [ ] "Who killed Heavy?!"
+- [ ]
+- [ ] Mvm navicon.png  Miscellaneous
+- [ ]
+- [ ] "I am destroyer of metal men."
+- [ ] "Metal cowards, run from giant man! (Laughs)"
+- [ ]
+- [ ] Mannhattan specific
+- [ ] Gate responses
+- [ ]
+- [ ] Robots attacking
+- [ ]
+- [ ] "Robots attack gate!"
+- [ ] "Little metal men try to take gate!"
+- [ ]
+- [ ] Robots take gate
+- [ ]
+- [ ] "Robots have taken gate!"
+- [ ]
+- [ ] After a wave
+- [ ] Achieved.png  Won
+- [ ]
+- [ ] "We have beaten them back!"
+- [ ] "Run, robots! Run back to metal baby house!"
+- [ ] "Robots! You cannot win!"
+- [ ] "Man is best!"
+- [ ] "Robots! I crush you. You are itty bitty."
+- [ ]
+- [ ] Receiving a Killstreak Kit
+- [ ]
+- [ ] Common loot
+- [ ]
+- [ ] "Hmm. Is nice."
+- [ ] "Hmm! Good stuff."
+- [ ]
+- [ ] Rare loot
+- [ ]
+- [ ] "Very nice!"
+- [ ] "Ah, have not seen many of this!"
+- [ ] "I will treasure dis!"
+- [ ]
+- [ ] Godlike loot
+- [ ]
+- [ ] "This is the best thing! It is best thing!"
+- [ ] "It's perfect!"
+- [ ] [Singing] "Ya da da da! Best thing! Heavy owns best thing! It is his, do not touch, or he will kill you! Da dum da dum dum! (laughs)"
+- [ ]
+
+### Versus Saxton Hale responses
+
+- [ ]
+- [ ] Note: Voicelines for this mode were provided by James McGuinn.
+- [ ] Setup.png  Setup
+- [ ]
+- [ ] "Heavy will crush tiny Australian man!"
+- [ ] "Tiny man thinks him stronger than Heavy?"
+- [ ]
+- [ ] VSH Saxton Hale Model.png  Saxton location
+- [ ]
+- [ ] Above
+- [ ]
+- [ ] "Look up!"
+- [ ]
+- [ ] Behind
+- [ ]
+- [ ] "Behind you!"
+- [ ] "Look back!"
+- [ ] "Look back!"
+- [ ]
+- [ ] Contact
+- [ ]
+- [ ] "He's there!"
+- [ ] "He's there!"
+- [ ] "Shoot him!"
+- [ ] "I see him!"
+- [ ] (liltingly) "I see him!"
+- [ ]
+- [ ] Backpack Minigun.png  Low ammo
+- [ ]
+- [ ] "Low on ammo!"
+- [ ] "I'm low on ammo!"
+- [ ] "I'm low on ammo!"
+- [ ]
+- [ ] Backpack Holiday Punch.png  Successful Holiday Punch tickle
+- [ ]
+- [ ] "I will tickle you to death!"
+- [ ] "I will tickle you to death!"
+- [ ]
+- [ ] Leaderboard class medic.png  Medic status
+- [ ]
+- [ ] "Medic is not coming with us? Today is sad day."
+- [ ] "Was Medic not invited to ass-kicking party!?"
+- [ ] "Medic has not joined us? NO MORE TEA PARTY FOR YOU, MEDIC!"
+- [ ] "Where doctor?"
+- [ ] "Where is doctor?"
+- [ ]
+- [ ] Medic is dead
+- [ ]
+- [ ] "No Medics left!"
+- [ ] "Medic is dead! Now I am alone!"
+- [ ] "Medic's dead! Now I am alone!"
+- [ ] "Doctor is gone!"
+- [ ] "Medic dead! Now I am alone!"
+- [ ]
+- [ ] Wall climb
+- [ ]
+- [ ] "Heavy used to be rock climbing champion!"
+- [ ] "Why do we even bother walking?"
+- [ ] "Wall climbing!"
+- [ ] "Heavy climb walls!"
+- [ ] (sung to the tune of a marching song) "I am a man and I climb up the wall! Climbing up the wall!"
+- [ ] "Tiny walls can't stop Heavy!"
+- [ ]
+- [ ] Achieved.png  Match win
+- [ ]
+- [ ] "We did it! We killed former boss! Wait. Why we kill former boss?"
+- [ ] "Heavy proud of team! We killed tiny, underdressed man!"
+- [ ]
+
+### Halloween / Full Moon responses
+
+- [ ] Wheel of Fate outcomes
+- [ ] Fate card lowgravity.png  No Gravity fate
+- [ ]
+- [ ] "Hahaha! Run, gravity, run!"
+- [ ] "Heavy is flying! Is greatest moment of Heavy's life!"
+- [ ]
+- [ ] Fate card bighead.png  Big Head fate
+- [ ]
+- [ ] "Heavy's head is big!"
+- [ ]
+- [ ] Fate card shrunkenhead.png  Small Head fate
+- [ ]
+- [ ] "Heavy has little baby head!"
+- [ ]
+- [ ] Fate card skull.png  Whammy fate (bleeding variant)
+- [ ]
+- [ ] "So much blood!"
+- [ ]
+- [ ] Backpack Skull Island Topper.png  Positive fate
+- [ ]
+- [ ] "Oooooooh... No!"
+- [ ] "Huh, Heavy feel funny."
+- [ ] "Hoh, something is different."
+- [ ]
+- [ ] Backpack Skull Island Topper.png  Negative fate
+- [ ]
+- [ ] "Ohhh nooo!"
+- [ ] "Oh, Heavy does not feel right."
+- [ ] "Ugh, Heavy hate magic."
+- [ ]
+- [ ] During battle with Merasmus
+- [ ] Backpack Skull Island Topper.png  Merasmus appears
+- [ ]
+- [ ] "He is powering up!"
+- [ ] "ATTACK! NOW!"
+- [ ] "NOW! ATTACK!"
+- [ ] "Everybody! Attack wizard!"
+- [ ] "NOW! Attack the wizard"
+- [ ]
+- [ ] RED Bombinomicon.png  Merasmus brings out Bombinomicon
+- [ ]
+- [ ] "The wizard has the book-bomb!"
+- [ ] "He has got the bomb-book!"
+- [ ] "Attack book!"
+- [ ]
+- [ ] RED Bombinomicon.png  Head turned into bomb
+- [ ]
+- [ ] "Bomb for head? (chuckles) Now Heavy has seen everything!"
+- [ ]
+- [ ] RED Bombinomicon.png  Successfully stun Merasmus
+- [ ]
+- [ ] "Heavy is flying! Is greatest moment of Heavy's life!"
+- [ ] "Heavy is invincible!"
+- [ ] "Hah! Stupid wizard makes Heavy invincible!"
+- [ ]
+- [ ] Backpack Skull Island Topper.png  Merasmus attempts to heal himself
+- [ ]
+- [ ] "Wizard is healing himself!"
+- [ ] "Kill wizard! He is healing himself!"
+- [ ]
+- [ ] Backpack Skull Island Topper.png  Looking for Merasmus
+- [ ]
+- [ ] [Singing] "Yah da yalatata. Looking for wizard. Going to crush him. Yah deedamdah yamdal."
+- [ ] [Singing] "Deeyantoyah Yavozongeyalavuzhah. This is the song when looking for the wizard. Haygavlalashamo herdalachtarah!"
+- [ ] "COME OUT, WIZARD COWARD!"
+- [ ] "Show yourself, little baby wizard!"
+- [ ] "Wizard coward should stop hiding!"
+- [ ] "Little wizard baby wants Heavy to play hide-and-seek?"
+- [ ]
+- [ ] Helltower responses
+- [ ] BLU Bombcart.png  Pushing the cart
+- [ ]
+- [ ] "Push! Push the old man!"
+- [ ] "Push the dead man!"
+- [ ] "Push cart!"
+- [ ] "Keep pushing dead man!"
+- [ ]
+- [ ] BLU Bombcart.png  Witching Hour: The bridge appears
+- [ ]
+- [ ] "Bridge, comrades!"
+- [ ] "Bridge is down!"
+- [ ]
+- [ ] Miscellaneous
+- [ ] Backpack Fancy Spellbook.png  Collected normal spell
+- [ ] (Missing content)
+- [ ] Backpack Fancy Spellbook.png  Collected rare spell
+- [ ]
+- [ ] "So much magic!"
+- [ ] "Ha-ha! Run, babies!"
+- [ ] "Ha-ha! So much power!"
+- [ ] "Oh, ha-ha-ha! So much magic!"
+- [ ]
+- [ ] Backpack Fancy Spellbook.png  Reacting to rare spell
+- [ ]
+- [ ] "(screams) Heavy cannot believe eyes!"
+- [ ] "Terror magic! (long scream)"
+- [ ] "(long scream) Everything is insane!"
+- [ ]
+- [ ] Backpack Spellbook Magazine.png  Casting spells
+- [ ]
+- [ ] "Caputus crepitus!"
+- [ ] "Pactum diabolus!"
+- [ ] "Seismela tremoro!"
+- [ ] "Barpo kabalto!"
+- [ ] "Barpo invisium!"
+- [ ] "Imputum fulmenus!"
+- [ ] "Invokum MONOCULUS!"
+- [ ] "Amplus tripudio!"
+- [ ] "Paidum celeris!"
+- [ ] "Ipsum instantarium!"
+- [ ] "Deus invictus!"
+- [ ] "Mortis animataris!"
+- [ ]
+- [ ] Backpack Skull Island Topper.png  Falling in bottomless pit
+- [ ]
+- [ ] (Long scream)
+- [ ]
+
+### Item-related responses
+
+- [ ] Chicken Kiev With Chicken Kiev equipped
+- [ ] These responses override the default responses for that category.
+- [ ] Gette it Onne!.png  Round start
+- [ ]
+- [ ] "Run, cowards! Tweet tweet tweeeet!"
+- [ ] "Heavy has tiny bird head! Never speak of this."
+- [ ] "I am coming, cowards! To lay eggs in your mouth!"
+- [ ] "I live! ...With grotesque bird head. Is horrible!"
+- [ ] "Bird-Heavy lives! Hide your seeds and millet, cowards!"
+- [ ]
+- [ ] Dominating.png  Domination
+- [ ]
+- [ ] "As promised, Heavy will now lay egg in your mouth."
+- [ ] "Now Bird Heavy will vomit worms down your throat."
+- [ ]
+- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
+- [ ]
+- [ ] "Tweet-tweeeeet! Ha-ha-ha!"
+- [ ] "Hide, worms! Ha-ha-ha-ha!!"
+- [ ] "'Hide, worms!' Crawl from bulletproof Bird-Heavy!"
+- [ ]
+- [ ] Grand Duchess With Grand Duchess set equipped
+- [ ] Backpack Grand Duchess Fairy Wings.png  Grand Duchess
+- [ ]
+- [ ] "HEAVY IS PRETTY PRINCESS!"
+- [ ] "Heavy is fairy tale... Come to life!"
+- [ ] "Heavy is wish-making fairy... Make wish!"
+- [ ] "HEAVY IS MADE OF SUGAR PLUMS!"
+- [ ] "Ohh. Heavy is drunk."
+- [ ] "Bah, Heavy is regretting costume choice."
+- [ ] "Ooh. This was poor costume choice."
+- [ ] "DID YOU WISH FOR HEAVY TO KILL YOU? WISH GRANTED!"
+- [ ] "I am dressed like little girl... You are still biggest baby!"
+- [ ] "Everyone! Friendship is stupid magic!"
+- [ ] "Brush Heavy's hair! BRUSH IT!"
+- [ ] "Stop laughing at Heavy!"
+- [ ] "Come closer. Heavy is little pixie-person. He vill not crush you."
+- [ ] "Tell Heavy he is prettiest princess! NOW!!"
+- [ ] "Pretty little princess is here to KILL YOU!"
+- [ ] "Heavy... Is Anastasia, Russian princess. Is serious historical COSTUME!"
+- [ ] [Liltingly] "Russian tooth-fairy has come for all your teeth!"
+- [ ] "Give teeth to Russian tooth-fairy. Those are the People's teeth. For all to share!"
+- [ ] "Russian tooth-fairy has come for ALL YOUR TEETH! (laughs wickedly)"
+- [ ]
+- [ ] Magical Mercenary With Magical Mercenary equipped
+- [ ] These responses override the default responses for that category.
+- [ ] Dominating.png  Domination
+- [ ]
+- [ ] "Heavy is wearing pink pony costume, and you are still biggest idiot."
+- [ ] "Ha-ha-ha-ha! Yes, man in pink wig is laughing at you!"
+- [ ]
+- [ ] Gette it Onne!.png  Round start
+- [ ]
+- [ ] "You cannot hide from pink pony Heavy!"
+- [ ] "So much unicorn!"
+- [ ] "Heavy is magic pink horse!"
+- [ ] "Heavy is magic pink horse! This is the last we will mention it."
+- [ ] "Run, cowards! Run from magic pink Heavy!"
+- [ ]
+- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
+- [ ]
+- [ ] "Ha-ha-ha! I am bullet-proof pink pony!"
+- [ ] "Get behind pretty pink pony mane, Doctor!"
+- [ ] "I am magic death pony."
+- [ ]
