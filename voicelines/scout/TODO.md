@@ -201,100 +201,75 @@
 - [ ] "Eat it, ya mute, frickin' moron!" - "Suge-mi căcatul din anus, mutulică puță mică!"
 - [ ] "Yeah, nice moves, mumbles!" - "Mișto mișcări, puță mută!"
 - [ ] "Dude, you'd get a closed casket at the ugly cemetery." - "Coaie, ăștia o să te înmormânteze la cimitirul urâților!"
-- [ ]
-- [ ] "You just got freakin' dominated, knucklehead, all right, let's do this!"
-- [ ] "I don't usually kill morons this fast."
-- [ ] "Yeah, next time, try two eyes!"
-- [ ] "Blow that up, cyclops!"
-- [ ] "The best man won, ya bomb-throwin' drunk!"
-- [ ] "Your clock just got cleaned, rummy!"
-- [ ] "Depth perception, pal. Look into it."
-- [ ]
-- [ ] Leaderboard class heavy.png  Dominating a Heavy
-- [ ]
-- [ ] "Drink it in, pal. That's how failure tastes."
-- [ ] "Would you look at you? I mean, look at you."
-- [ ] "I am owning you, you fat, bald bastard!"
-- [ ] "Today ain't yer day, pancakes!"
-- [ ] "$400,000 to fire that gun, huh? Yeah, money well spent!"
-- [ ] "Them $200 bullets ain't so hot when they don't hit nuthin', are they?"
-- [ ] "I think I'll take Sasha out for a steak dinner tonight. Whataya think about that?"
-- [ ] "Ain't so hard now, are ya, fatcakes?"
-- [ ] "I... Eat... Your... Sandwiches. I eat 'em up!"
-- [ ] "Nice hustle, 'tons-a-fun'! Next time, eat a salad!"
-- [ ] "Hey, lard-fat, those hard arteries don't stop bullets, do they?"
-- [ ] "I am owning you, you fat, bald, fatty fat... fat fat!"
-- [ ]
-- [ ] Leaderboard class engineer.png  Dominating an Engineer
-- [ ]
-- [ ] "Is that all you got, moron?"
-- [ ] "Hey, here's somethin' you can invent next time: duckin'!"
-- [ ] "Here's something you shoulda built: a not-dyin' machine!"
-- [ ] "Don't bring a wrench to a gunfight!"
-- [ ] "Here's a schematic for ya: my ass!"
-- [ ] "Hey, overalls! You suck!"
-- [ ] "Lotta good that hardhat did ya!"
-- [ ]
-- [ ] Leaderboard class medic.png  Dominating a Medic
-- [ ]
-- [ ] "If you order now, I'll throw in a second beatin', absolutely free."
-- [ ] "Diagnosis: you suck!"
-- [ ] "Ooh hoo hoo, your gun shoots medicine! It's intimidatin'!"
-- [ ] "Where's your precious Hippo-crates now?"
-- [ ] "Real nice effort, Deutsch-bag!" ("Deutsch" is German for "German")
-- [ ] "I... Hate... Doctors!"
-- [ ] "(Sigh) Doctor, doctor, doctor..."
-- [ ]
-- [ ] Leaderboard class sniper.png  Dominating a Sniper
-- [ ]
-- [ ] "Look at this: just caved in your skull, my bat's still dry. No clumps of hair - nothin'."
-- [ ] "Snipe that, ya frickin' coward!"
-- [ ] "That fancy scope of yours, betcha got a real good view of me killin' ya!"
-- [ ] "You camped the whole time for this?!"
-- [ ] "It was a mercy killin', ya live in a... Campervan!"
-- [ ] "You'll never hit me! You'll never hit my tiny head! It's so tiny, I got a frickin'... Such a tiny li'l head!"
-- [ ]
-- [ ] Leaderboard class spy.png  Dominating a Spy
-- [ ]
-- [ ] "I'll put it in my trophy room, with the othas."
-- [ ] "Disguise dat!"
-- [ ] "Dominated, ya shapeshiftin' rat!"
-- [ ] "Hard to stab a guy in the back when he's beatin' your frickin' head in, huh?"
-- [ ] "Hehey, look, you shapeshifted into a dead guy!"
-- [ ]
-- [ ] Dominating.png  Dominating an enemy with a melee kill
-- [ ]
-- [ ] "Man, your skull's so soft you're makin' this easy!"
-- [ ] "Pop quiz: How long's it take to beat a moron to death? (buzzer imitation) Sorry, time's up, you're dead."
-- [ ]
-- [ ] Nemesis RED.png  Revenge kill
-- [ ]
-- [ ] "I wasted you!"
-- [ ] "How do ya like me now, blockhead?"
-- [ ] "Ya like that, chucklenuts?"
-- [ ] "Boom! I'm back, dummy!"
-- [ ] "Remember me? Yeah, ya do!"
-- [ ] "Don't you ever cross me again!"
-- [ ] "What have we learned? I always win!"
-- [ ] "Who's the tough guy now, huh, tough guy?"
-- [ ] "Still think you're funny, funny-man?"
-- [ ] "Bang! I make it look easy!"
-- [ ] "I did it!"
-- [ ] "If you order now, I'll throw in a second beatin', absolutely free."
-- [ ] "Wassamatter, y'freakin' stupid?"
-- [ ] "Hey, nice shootin' there!"
-- [ ] "Ya got anything smart ta say now?"
-- [ ]
+- [ ] "You just got freakin' dominated, knucklehead, all right, let's do this!" - "Te-am dominat, puțoiule, hai să facem asta!"
+- [ ] "I don't usually kill morons this fast." - "De obicei nu omor retardați atât de repede."
+- [ ] "Yeah, next time, try two eyes!" - "Data viitoare, încearcă două pule!"
+- [ ] "Blow that up, cyclops!" - "Suge-mi pula, ciclopule!"
+- [ ] "The best man won, ya bomb-throwin' drunk!" - "Cel mai bun a câștigat, bețivule!"
+- [ ] "Your clock just got cleaned, rummy!" - "Ceasul tău a fost curățat, bețivule!"
+- [ ] "Depth perception, pal. Look into it." - "Pula mea, uită-te la ea!"
+- [ ] "Drink it in, pal. That's how failure tastes." - "Bea-o, coaie. Așa gustă eșecul."
+- [ ] "Would you look at you? I mean, look at you." - "Uite-te la tine. Adică, uite-te la tine."
+- [ ] "I am owning you, you fat, bald bastard!" - "Te domin, grăsan coxat!"
+- [ ] "Today ain't yer day, pancakes!" - "Nu-ți mai vezi puța grăsane?"
+- [ ] "$400,000 to fire that gun, huh? Yeah, money well spent!" - "Dacă n-ai mai fi gras, ai putea să-ți vezi pula!"
+- [ ] "Them $200 bullets ain't so hot when they don't hit nuthin', are they?" - "Dacă nu-ți vezi pula, nu-ți vezi nici banii!"
+- [ ] "I think I'll take Sasha out for a steak dinner tonight. Whataya think about that?" - "Mă gândesc să-mi scot pula la cină. Ce zici de asta?"
+- [ ] "Ain't so hard now, are ya, fatcakes?" - "Spală-te la pulă jegosule!"
+- [ ] "I... Eat... Your... Sandwiches. I eat 'em up!" - "Te mănâncă coaiele?"
+- [ ] "Nice hustle, 'tons-a-fun'! Next time, eat a salad!" - "Mișcare bună, grăsane! Data viitoare mănâncă o salată!"
+- [ ] "Hey, lard-fat, those hard arteries don't stop bullets, do they?" - "Hei, grăsane, arterele alea nu opresc gloanțele, nu?"
+- [ ] "I am owning you, you fat, bald, fatty fat... fat fat!" - "Te-am spart, grăsane!"
+- [ ] "Is that all you got, moron?" - "Asta e tot ce ai, retardatule?"
+- [ ] "Hey, here's somethin' you can invent next time: duckin'!" - "Dacă îmi teleportez doar pula ce se întâmplă?"
+- [ ] "Here's something you shoulda built: a not-dyin' machine!" - "Și eu îmi bag pula în gaura santinelei."
+- [ ] "Don't bring a wrench to a gunfight!" - "Poți să-mi repari impotența?"
+- [ ] "Here's a schematic for ya: my ass!" - "Următoarea dată poate reușești să construiești un dildou de aur!"
+- [ ] "Hey, overalls! You suck!" - "Poți să-mi construiești o pizdă de buzunar?"
+- [ ] "Lotta good that hardhat did ya!" - "Ți-am dat cu pula-n cap, ai spermă pe hanorac."
+- [ ] "If you order now, I'll throw in a second beatin', absolutely free." - "De ce nu mi se mai scoală doctore?"
+- [ ] "Diagnosis: you suck!" - "Am disfuncție erectilă doctore, crezi că ma poți ajuta?"
+- [ ] "Ooh hoo hoo, your gun shoots medicine! It's intimidatin'!" - "Ce se-ntâmplă doctore?"
+- [ ] "Where's your precious Hippo-crates now?" - "Bag pula-n porumbelu' tau!"
+- [ ] "Real nice effort, Deutsch-bag!" - "Ești nazist, mâna sus, nu dezmembrată!"
+- [ ] "I... Hate... Doctors!" - "Un măr pe zi te ține la distanță de doctor!"
+- [ ] "(Sigh) Doctor, doctor, doctor..." - "Doctor, să-ti iau morții-n pulă!"
+- [ ] "Look at this: just caved in your skull, my bat's still dry. No clumps of hair - nothin'." - "Sunt prea rapid, o fut pe nevastă-ta cangur cu ochii închiși!"
+- [ ] "Snipe that, ya frickin' coward!" - "Suge-mi pula, lunetistule!"
+- [ ] "That fancy scope of yours, betcha got a real good view of me killin' ya!" - "Ai o vedere bună, dar nu vezi pula mea!"
+- [ ] "You camped the whole time for this?!" - "Nu te mai uita din colț cum o fut pe nevastă-ta cangur!"
+- [ ] "It was a mercy killin', ya live in a... Campervan!" - "
+- [ ] "You'll never hit me! You'll never hit my tiny head! It's so tiny, I got a frickin'... Such a tiny li'l head!" - "Capu' meu e la fel de mic ca pula ta!"
+- [ ] "I'll put it in my trophy room, with the othas." - "Am futut-o pe Pauling până la urmă!"
+- [ ] "Disguise dat!" - "Deghizează-te într-o pulă!"
+- [ ] "Dominated, ya shapeshiftin' rat!" - "Unde e alocația tati?"
+- [ ] "Hard to stab a guy in the back when he's beatin' your frickin' head in, huh?" - "E greu să mă fuți în cur când îți fut capu'!"
+- [ ] "Hehey, look, you shapeshifted into a dead guy!" - "Uite, te-ai metamorfozat într-un mercenar mort!"
+- [ ] "Man, your skull's so soft you're makin' this easy!" - "Capu' tǎu e un magnet de bâte!"
+- [ ] "Pop quiz: How long's it take to beat a moron to death? (buzzer imitation) Sorry, time's up, you're dead." - "Am întrebat 100 de români, cât de prost ești? Răspunsul a fost: cap de pulă!"
+- [ ] "I wasted you!" - "Te-am futut!"
+- [ ] "How do ya like me now, blockhead?" - "Cum te simți acum, cap de pulă?"
+- [ ] "Ya like that, chucklenuts?" - "Ți-a plăcut, coaie?"
+- [ ] "Boom! I'm back, dummy!" - "Azi e joi, se dă la coi!"
+- [ ] "Remember me? Yeah, ya do!" - "Mă știi? Da, mă știi!"
+- [ ] "Don't you ever cross me again!" - "Nu te mai pune cu mine!"
+- [ ] "What have we learned? I always win!" - "Ce am învățat? Eu fut întotdeauna!"
+- [ ] "Who's the tough guy now, huh, tough guy?" - "Cine e coiosul acum, coaie?"
+- [ ] "Still think you're funny, funny-man?" - "Mai crezi că ești amuzant, amuzantule?"
+- [ ] "Bang! I make it look easy!" - "Pulă pulă pulă pulă pulă pulă pulă pulă!"
+- [ ] "I did it!" - "Am făcut-o pe mă-ta!"
+- [ ] "If you order now, I'll throw in a second beatin', absolutely free." - "Dacă nu-ți vezi pula, nu-ți vezi nici banii!"
+- [ ] "Wassamatter, y'freakin' stupid?" - "Ce pula mea e în neregulă cu tine?"
+- [ ] "Hey, nice shootin' there!" - "Cum tragi tu, așa trag si eu de pulă!"
+- [ ] "Ya got anything smart ta say now?" - "Ai ceva de zis acum că am futut-o pe mă-ta?"
 
 ### Event-related responses
 
-- [ ] Gette it Onne!.png  Round start
-- [ ]
-- [ ] "Play ball!"
-- [ ] "Let's get 'em!"
-- [ ] "Eat my dust!"
-- [ ] "Woohoo!"
-- [ ] "Let's waste 'em!"
+- [ ] "Play ball!" - "M-am căcat pe mine!"
+- [ ] "Let's get 'em!" - "Hai să îi futem în cur!"
+- [ ] "Eat my dust!" - "O să vă bag pula pe gât!"
+- [ ] "Wohoooo!" - "M-am bășit și aștept să pută!"
+- [ ] "Let's waste 'em!" - "Haideți să le dăm la muie!"
 - [ ]
 - [ ] Item icon Eyelander.png  Sudden Death
 - [ ]
