@@ -265,372 +265,254 @@
 
 ### Event-related responses
 
-- [ ] "Play ball!" - "M-am căcat pe mine!"
-- [ ] "Let's get 'em!" - "Hai să îi futem în cur!"
-- [ ] "Eat my dust!" - "O să vă bag pula pe gât!"
-- [ ] "Wohoooo!" - "M-am bășit și aștept să pută!"
-- [ ] "Let's waste 'em!" - "Haideți să le dăm la muie!"
-- [ ]
-- [ ] Item icon Eyelander.png  Sudden Death
-- [ ]
-- [ ] "This sucks on ice!"
-- [ ] "Boooooooo!"
-- [ ] (Blows a raspberry)
-- [ ] "Frickin' unbelievable."
-- [ ] "This did not just happen!"
-- [ ] "No, seriously, you all suck!"
-- [ ] "What the hell is your guys' problem?"
-- [ ] "Ah, jeez!"
-- [ ] "This sucks!"
-- [ ] "What the hell was that crap?"
-- [ ] "This is a real frickin' embarrassment."
-- [ ] "'Kay, this does not look good here, um..."
-- [ ]
-- [ ] Killicon skull.png  Stalemate
-- [ ]
-- [ ] "You have got to be kidding!"
-- [ ] "You gotta be kiddin' me!"
-- [ ] "I can not believe this!"
-- [ ] "Auugghh!"
-- [ ]
-- [ ] Killicon fire.png  Set on fire
-- [ ]
-- [ ] "Fire, fire, fire!"
-- [ ] "Oh, I'm burnin', I'm-I'm burnin'!"
-- [ ]
-- [ ] Item icon Jarate.png  Hit by Gas Passer, Jarate, Mad Milk, Mutated Milk, or Self-Aware Beauty Mark
-- [ ]
-- [ ] "Awwww!"
-- [ ] "Auugghh!"
-- [ ] "Ah, jeez!"
-- [ ]
-- [ ] Telespin.png  Teleportation
-- [ ]
-- [ ] "Thanks for the ride!"
-- [ ] "Hey good job there, hardhat!"
-- [ ] "Thanks for that, tough guy!"
-- [ ]
-- [ ] Healthico.png  Healed by Medic
-- [ ]
-- [ ] "All right, I feel good."
-- [ ] "(Deep exhale) Yeah, thanks, doc."
-- [ ] "Thanks, doc."
-- [ ]
-- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
-- [ ]
-- [ ] "Ya got anything smart ta say now?"
-- [ ] "Look at me!"
-- [ ] "Ooooh yeah, you're real scary!"
-- [ ] "Hey, lotta' good that gun didya!"
-- [ ]
-- [ ] Sandman Baseball.png  Upon picking up a baseball
-- [ ]
-- [ ] "Got da ball back!"
-- [ ] "Play ball!"
-- [ ] "Found my ball!"
-- [ ] "Oh dere's my ball!"
-- [ ] "I love my ball!"
-- [ ]
-- [ ] Bonk! Atomic Punch 1st person red.png  Being attacked while at low health, Bonk! Atomic Punch equipped
-- [ ]
-- [ ] "C'mon, c'mon!"
-- [ ] "Work, dammit!"
-- [ ] "Ah, crap!"
-- [ ] "What?!"
-- [ ] "Aw, crap."
-- [ ] "Ah, crap!"
-- [ ]
-- [ ] Health dead.png  On death by melee weapon and/or critical hit
-- [ ]
-- [ ] (Dying scream 1)
-- [ ] (Dying scream 2)
-- [ ] (Dying scream 3)
-- [ ]
-- [ ] Bleed drop.png  Severe pain
-- [ ]
-- [ ] "Aaaaah!"
-- [ ] "Aah!"
-- [ ] "Ah!"
-- [ ] "Nnrg!"
-- [ ] "Uh!"
-- [ ] "Ugh!"
-- [ ]
-- [ ] Bleed drop.png  Sharp pain
-- [ ]
-- [ ] "Uh!"
-- [ ] "Argh!"
-- [ ] "Aw!"
-- [ ] "Ah!"
-- [ ] "Ugh!"
-- [ ] "Uf!"
-- [ ] "Puh!"
-- [ ] "Nf!"
-- [ ]
-- [ ] Achieved.png  Achievement Unlocked
-- [ ]
-- [ ] "Hey, look at me, look at me!"
-- [ ] "Hey, look at me, Ma!"
-- [ ] "Aw, fellas!"
-- [ ] "Hi, Ma!"
-- [ ] "Look at me!"
-- [ ] "No otha' class gonna do dat!"
-- [ ] "You see dat?"
-- [ ] "You seein' dis?"
-- [ ] "I'll put it in my trophy room, with the othas."
-- [ ] "I don't know who to thank first... Oh, I know, me!'"'
-- [ ] "Bang! I make it look easy."
-- [ ]
+- [x] "Play ball!"
+- [x] "Let's get 'em!"
+- [x] "Eat my dust!"
+- [x] "Wohoooo!"
+- [x] "Let's waste 'em!"
+- [x] "This sucks on ice!"
+- [x] "Boooooooo!"
+- [x] (Blows a raspberry)
+- [x] "Frickin' unbelievable."
+- [x] "This did not just happen!"
+- [x] "No, seriously, you all suck!"
+- [x] "What the hell is your guys' problem?"
+- [x] "Ah, jeez!"
+- [x] "This sucks!"
+- [x] "What the hell was that crap?"
+- [x] "This is a real frickin' embarrassment."
+- [x] "'Kay, this does not look good here, um..."
+- [ ] "You have got to be kidding!" - "Tu îți bați pula de mine?"
+- [ ] "You gotta be kiddin' me!" - "Nu-ți mai bate pula de mine!"
+- [ ] "I can not believe this!" - "Nu pot să cred!"
+- [ ] "Auugghh!" - "Pipi caca pârț!"
+- [ ] "Fire, fire, fire!" - "Foc, foc, foc!"
+- [ ] "Oh, I'm burnin', I'm-I'm burnin'!" - "Mă arde când mă piș, mă arde!"
+- [ ] "Awwww!" - "Pula mea..."
+- [x] "Auugghh!"
+- [x] "Ah, jeez!"
+- [ ] "Thanks for the ride!" - "Mulțumesc pentru plimbare!"
+- [ ] "Hey good job there, hardhat!" - "O să-ți sug pula pentru asta, inginerule!"
+- [ ] "Thanks for that, tough guy!" - "Mulțumesc pentru teleportator, ne vedem la păcănele!"
+- [ ] "All right, I feel good." - "Mulțumesc pentru smegmă doctore!"
+- [ ] "(Deep exhale) Yeah, thanks, doc." - "Mă simt skibidi, doctore!"
+- [ ] "Thanks, doc." - "Mulțumesc pentru verificarea de prostată, doctore!"
+- [ ] "Ya got anything smart ta say now?" - "Ai ceva de zis acum că am futut-o pe mă-ta?"
+- [ ] "Look at me!" - "Am să te fut, pentru că sunt încărcat!"
+- [ ] "Ooooh yeah, you're real scary!" - "Muie, muie și înco muie!"
+- [ ] "Hey, lotta' good that gun didya!" - "Ce bine te-a ajutat pula aia!"
+- [ ] "Got da ball back!" - "Mi-am găsit coiul!"
+- [ ] "Play ball!" - "Mă joc cu coaiele!"
+- [ ] "Found my ball!" - "Mi-am luat coiul înapoi!"
+- [ ] "Oh dere's my ball!" - "Ah, aici era coiul meu!"
+- [ ] "I love my ball!" - "Îmi plac coaiele mele!"
+- [ ] "C'mon, c'mon!" - "Hai, hai!"
+- [ ] "Work, dammit!" - "Muncește, pula mea!"
+- [ ] "Ah, crap!" - "Vai de zilele mele!"
+- [ ] "What?!" - "Vai de capu si de coaiele mele!"
+- [ ] "Aw, crap." - "Cred că m-am căcat pe mine..."
+- [ ] "Ah, crap!" - "Aoleu, ce bombeu!"
+- [x] ~~(Dying scream 1)~~
+- [x] ~~(Dying scream 2)~~
+- [x] ~~(Dying scream 3)~~
+- [ ] "Aaaaah!" - "M-au circumcizat!"
+- [ ] "Aah!" - "Evreii ăștia..."
+- [ ] "Ah!" - "Mi-au tăiat capu' pulii!"
+- [ ] "Nnrg!" - "Mi-am luat-o-n găoază!"
+- [ ] "Uh!" - "Ce pula mea?"
+- [ ] "Ugh!" - "M-au futut de m-au rupt!"
+- [ ] "Uh!" - "Pulă!"
+- [ ] "Argh!" - "Pizdă!"
+- [ ] "Aw!" - "Coaie!"
+- [ ] "Ah!" - "Caca!"
+- [ ] "Ugh!" - "Pipi!"
+- [ ] "Uf!" - "Pârț!"
+- [ ] "Puh!" - "Cinci șeptari!"
+- [ ] "Nf!" - "Mă-ta!"
+- [ ] "Hey, look at me, look at me!" - "Uită-te la pula mea, uită-te la pula mea!"
+- [ ] "Hey, look at me, Ma!" - "Uită-te la pula mea, mă!"
+- [ ] "Aw, fellas!" - "Hei coițelor!"
+- [ ] "Hi, Ma!" - "Salut coițelor!"
+- [ ] "Look at me!" - "Uită-te la pula mea!"
+- [ ] "No otha' class gonna do dat!" - "Nici o altă clasă nu poate face asta!"
+- [ ] "You see dat?" - "Ai văzut asta?"
+- [ ] "You seein' dis?" - "Vezi asta?"
+- [x] "I'll put it in my trophy room, with the othas."
+- [ ] "I don't know who to thank first... Oh, I know, me!'"' - "Nu știu pe cine să mulțumesc prima dată... Ah, știu, pe mine!"
+- [x] "Bang! I make it look easy."
 
 ### Weapon-related responses
 
-- [ ] Item icon Bonk! Atomic Punch.png  Upon drinking Bonk! Atomic Punch
-- [ ]
-- [ ] "Un-freakin'-touchable!"
-- [ ] "Ya can't hit what ain't dere!"
-- [ ] "Wananananana..." (Sound effect from The Six Million Dollar Man)
-- [ ] "I'm a freakin' blur here!"
-- [ ] "(Demandingly) Look at me!"
-- [ ]
-- [ ] Item icon Bonk! Atomic Punch.png  Dodging shots under Bonk! Atomic Punch's influence
-- [ ]
-- [ ] "Ha."
-- [ ] "Missed me!"
-- [ ] "Dat didn't hurt."
-- [ ] "Psyche!"
-- [ ] "Nice try, pal!"
-- [ ] "Oh what's up?"
-- [ ] "Didn't hurt."
-- [ ] "Woo!"
-- [ ] "Heheh."
-- [ ] "Eyy!"
-- [ ] "Yeah!"
-- [ ] "Oop!"
-- [ ] "Wah!"
-- [ ] "Wa-ha!"
-- [ ] "Ho-wah!"
-- [ ] "Wah!"
-- [ ] "Ha!"
-- [ ] "Nope!"
-- [ ] "Sor-ry!"
-- [ ] "Nope."
-- [ ] "De-nied!"
-- [ ] "Woosh!"
-- [ ] "Ping!"
-- [ ] [Sarcastically] "What?!"
-- [ ] "Ahah!"
-- [ ] "Poing!"
-- [ ] "Eheheh."
-- [ ] (Whooshing sound)
-- [ ] "Aheheh."
-- [ ] "Weak!"
-- [ ] "Dummy!"
-- [ ] "Moron!"
-- [ ] "Dumbass!"
-- [ ] "Nice aim!"
-- [ ] "Punk!"
-- [ ] "Wuss!"
-- [ ] "Yoink!"
-- [ ] "Too slow!"
-- [ ] "Yoink!"
-- [ ] "So close!"
-- [ ]
-- [ ] Item icon Crit-a-Cola.png  Firing a weapon while under the effects of Crit-a-Cola
-- [ ]
-- [ ] Only spoken if the attack occurs about 1 second from the activation.
-- [ ]
-- [ ] "You morons are about to catch a real beatin'."
-- [ ] "You seein' dis?"
-- [ ] "That's what I'm talking about!"
-- [ ]
-- [ ] Item icon Crit-a-Cola.png  Crit-a-Cola's effects wear off
-- [ ]
-- [ ] "Ah, crap!"
-- [ ] "What?!"
-- [ ] "Aw, crap."
-- [ ] "Ah, crap!"
-- [ ]
-- [ ] Item icon Mad Milk.png  Mad Milk or Mutated Milk toss
-- [ ]
-- [ ] "Yo, heads up!"
-- [ ] "Hey, wimps!"
-- [ ] "Catch dis."
-- [ ]
-- [ ] Stunned.png  On stunning an enemy
-- [ ]
-- [ ] "Oh, I'm sorry, I didn't mean to hit ya... No, wait, yeah, I did."
-- [ ] "Oh, dat's a skull fracture for sure!"
-- [ ] "Ohh, I got alla dat one."
-- [ ] "Dere's a dingah for ya!"
-- [ ] "Downtown!"
-- [ ] "Home-frickin'-run!"
-- [ ] "Gotta nice piece a dat!"
-- [ ] "Nice catch, knucklehead!"
-- [ ] "Good 'ands, buddy!"
-- [ ] "Good catch, dummy!"
-- [ ] "Way to duck!"
-- [ ] "Nice hustle!"
-- [ ] "Yo, heads up!"
-- [ ] "Ding-dong!"
-- [ ] "Think fast, chucklenuts!"
-- [ ] "Real smooth, dummy!"
-- [ ]
-- [ ] Item icon Sandman.png  Attacking with the Sandman
-- [ ]
-- [ ] "Batter up!"
-- [ ] "Catch dis."
-- [ ] "Batta swing!"
-- [ ] "Major League!"
-- [ ]
-- [ ] Item icon Scattergun.png  Double jumping
-- [ ]
-- [ ] "Hehey, I'm flyin'!"
-- [ ] "Woo hoo hoo!"
-- [ ] "Look at you chuckleheads down there!"
-- [ ] "Hey, I can see my base from here!"
-- [ ] "Look at me, Ma!"
-- [ ]
-- [ ] Item icon Force-A-Nature.png  Apex of triple jump
-- [ ]
-- [ ] "Woohoohoohoo!"
-- [ ] "Yeaheaheah!"
-- [ ] "Woooooo!"
-- [ ] "Yeaahehehhh!"
-- [ ]
+- [ ] "Un-freakin'-touchable!" - "M-am îmbătat și m-am pătat!"
+- [ ] "Ya can't hit what ain't dere!" - "M-am spart de la sucu' asta!"
+- [ ] "Wananananana..." - "Am băgat prea mult suc, trebuie să ma piș!"
+- [ ] "I'm a freakin' blur here!" - "Am băut suc cu gaura pulii!"
+- [ ] "(Demandingly) Look at me!" - "Sucu' asta are gust de spermă!"
+- [ ] "Ha." - "Muie!"
+- [ ] "Missed me!" - "Ce proști!"
+- [ ] "Dat didn't hurt." - "Mă doare-n pula!"
+- [ ] "Psyche!" - "Asta numești tu pulă?"
+- [ ] "Nice try, pal!" - "Mai încearcă, coaie!"
+- [ ] "Oh what's up?" - "Ce pula mea se întâmplă?"
+- [ ] "Didn't hurt." - "Nu mă doare nici pula!"
+- [ ] "Woo!" - "Mă masturbez!"
+- [ ] "Heheh." - "Mi-am dat drumu' pe mine!"
+- [ ] "Eyy!" - "Căcat!"
+- [ ] "Yeah!" - "Mă masturbez cu mă-ta!"
+- [ ] "Oop!" - "Coaiele astea!"
+- [ ] "Wah!" - "Azi e joi se dă la coi!"
+- [ ] "Wa-ha!" - "Azi e miercuri se dă la cercuri!"
+- [ ] "Ho-wah!" - "Gabi este gay!"
+- [x] "Wah!"
+- [ ] "Ha!" - "Muie!"
+- [ ] "Nope!" - "Pizdă pizdă pizdă pizdă!"
+- [ ] "Sor-ry!" - "Scuze coaie!"
+- [ ] "Nope." - "Na coaie, te-ai prăjit!"
+- [ ] "De-nied!" - "Bag un blan!"
+- [ ] "Woosh!" - "M-am prăjit m-am spart!"
+- [ ] "Ping!" - "Cplm faceți coaie aici?"
+- [ ] [Sarcastically] "What?!" - "De ce pula mea cercetașul are atâtea linii?"
+- [ ] "Ahah!" - "Am rămas fara idei ce pula mea să scriu!"
+- [ ] "Poing!" - "Vai de morții mei!"
+- [ ] "Eheheh." - "Băăăă, gata!"
+- [x] (Whooshing sound)
+- [ ] "Aheheh." - "Mi-am băgat casa la păcanele!"
+- [ ] "Weak!" - "Mi-am băgat pula la păcanele!"
+- [ ] "Dummy!" - "Mi-am băgat pizda la păcanele!"
+- [ ] "Moron!" - "Urăsc negrii!"
+- [ ] "Dumbass!" - "Mi-am băgat o scobitoare în pulă!"
+- [ ] "Nice aim!" - "Aaaaaaaeeeeeeeeoooooo!"
+- [ ] "Punk!" - "Aasoooooooeeeeeeeeeee!"
+- [ ] "Wuss!" - "Oooooooooooooooooooooo!"
+- [ ] "Yoink!" - "Eeeeeeeeeeeeeeeee!"
+- [ ] "Too slow!" - "Rrrrrrrrrrrrrrrrr!"
+- [ ] "Yoink!" - "Zzzzzzzzzzzzzzzz!"
+- [ ] "So close!" - "Iiiiiiiiiiiiiiiii!"
+- [ ] "You morons are about to catch a real beatin'." - "Voi proștilor sunteți proști!"
+- [x] "You seein' dis?"
+- [x] "That's what I'm talking about!"
+- [x] "Ah, crap!"
+- [x] "What?!"
+- [x] "Aw, crap."
+- [x] "Ah, crap!"
+- [ ] "Yo, heads up!" - "Capu pulii sus!"
+- [ ] "Hey, wimps!" - "Mă bășesc în direcția voastră!"
+- [ ] "Catch dis." - "Prinde-mi sperma!"
+- [ ] "Oh, I'm sorry, I didn't mean to hit ya... No, wait, yeah, I did." - "Te-am lovit coaie?"
+- [ ] "Oh, dat's a skull fracture for sure!" - "Te-am trimis la urgențe!"
+- [ ] "Ohh, I got alla dat one." - "Te-am supt!"
+- [ ] "Dere's a dingah for ya!" - "Aia o să doară!"
+- [ ] "Downtown!" - "Pug furry!"
+- [ ] "Home-frickin'-run!" - "Ai dat cu pula-n gură!"
+- [ ] "Gotta nice piece a dat!" - "Mișto!"
+- [ ] "Nice catch, knucklehead!" - "Ai prins-o, coaie!"
+- [ ] "Good 'ands, buddy!" - "Bună mână, coaie!"
+- [ ] "Good catch, dummy!" - "Bună prindere, prostule!"
+- [ ] "Way to duck!" - "Bună mișcare!"
+- [ ] "Nice hustle!" - "Mișcare bună!"
+- [x] "Yo, heads up!"
+- [ ] "Ding-dong!" - "Ding-dong!"
+- [ ] "Think fast, chucklenuts!" - "Gândește rapid, coaie!"
+- [ ] "Real smooth, dummy!" - "Foarte umed, prostule!"
+- [ ] "Batter up!" - "Sunt pe cale să te fut!"
+- [ ] "Catch dis." - "Prinde-mi pula!"
+- [ ] "Batta swing!" - "Sunt pe cale să mă fut!"
+- [ ] "Major League!" - "Liga mare!"
+- [ ] "Hehey, I'm flyin'!" - "Zbor către mă-ta!"
+- [ ] "Woo hoo hoo!" - "Când porcii zboară!"
+- [ ] "Look at you chuckleheads down there!" - "Mi-am băgat familia la păcănele!"
+- [ ] "Hey, I can see my base from here!" - "Am pierdut familia la roată!"
+- [ ] "Look at me, Ma!" - "Am pierdut-o pe mama într-un accident cu vibratorul ei!"
+- [ ] "Woohoohoohoo!" - "Woho!"
+- [ ] "Yeaheaheah!" - "O da!"
+- [ ] "Woooooo!" - "Pulaaaaaaaaa!"
+- [ ] "Yeaahehehhh!" - "Pizdăăăăăăăăă!"
 
 ### Objective-related responses
 
-- [ ] Intel red idle.png  After picking up intelligence
-- [ ]
-- [ ] "Wave goodbye to your secret crap, dumbass!"
-- [ ]
-- [ ] Intel red pickedup.png  After capturing intelligence
-- [ ]
-- [ ] "Yeah, it's ours now!"
-- [ ] "I'm not even winded."
-- [ ] "I got it, I got it, I got it!"
-- [ ] "Is-is anybody even payin' attention to me?"
-- [ ]
-- [ ] CP Captured RED.png  After capturing control point
-- [ ]
-- [ ] "Yeah, yeah, yeah!"
-- [ ] "Yeah!"
-- [ ] "I got it, I got it!"
-- [ ] "No problem!"
-- [ ]
-- [ ] CP Locked RED.png  Standing on captured control point, firing weapon
-- [ ]
-- [ ] "Stand on the freakin' point, you moron!"
-- [ ] "Get on the freakin' point, dumbass!"
-- [ ]
-- [ ] CP Neutral.png  Standing on a cappable control point, firing weapon
-- [ ]
-- [ ] "Hey, get on the cap, guys!"
-- [ ] "Stand on the freakin' cap!"
-- [ ] "Let's get on the cap, fellas!"
-- [ ] "Get on the cap, ya dopes!"
-- [ ]
-- [ ] Cross RED.png  Defense
-- [ ]
-- [ ] "Way to go, slugger!"
-- [ ] "Yes!"
-- [ ] "Oh yeah!"
-- [ ] "Ooooh yeah, you're real scary!"
-- [ ] "Hey, lotta' good that gun didya!"
-- [ ] "Oh hey! You suck."
-- [ ] "Yeah, it's ours now!"
-- [ ] "We got 'em, we got 'em!"
-- [ ]
-- [ ] Payload-related responses
-- [ ] BLU Bombcart.png  Attacking: Cart goes forward
-- [ ]
-- [ ] "Push!"
-- [ ] "Mush, you lazy bums!"
-- [ ] "Keep pushin' it!"
-- [ ] "Yeah, yeah, yeah!"
-- [ ] "Keep it movin', guys!"
-- [ ] "Go, go, go!"
-- [ ]
-- [ ] BLU Bombcart.png  Attacking: Cart goes back
-- [ ]
-- [ ] "Dat ain't da right way, guys!"
-- [ ] "What da hell's goin' on?"
-- [ ] "Aw, cripes, da cart!"
-- [ ] "Is someone gonna push da freakin' cart?"
-- [ ] "Da cart's movin' backwards!"
-- [ ] "Aw, jeez, da cart!"
-- [ ] "No, no, no! The cart!"
-- [ ] "Anyone else pushing dis thing?"
-- [ ]
-- [ ] RED Bombcart.png  Defending: Cart goes forward
-- [ ]
-- [ ] "We gotta stop dat thing!"
-- [ ] "Aw, jeez guys, we gotta stop it!"
-- [ ] "What the hell is everyone doin'?!"
-- [ ] "Push da freakin' cart!"
-- [ ] "Keep dat cart movin'!"
-- [ ] "C'mon, move da cart!"
-- [ ]
-- [ ] RED Bombcart.png  Defending: Cart goes back
-- [ ]
-- [ ] "Return to freakin' sender!"
-- [ ] "All right, all right!"
-- [ ] "Hey now we're doin' it, now we're doin' it!"
-- [ ] "Yeah, yeah, yeah!"
-- [ ] "What, ya guys give up?"
-- [ ] "Yo, it should be goin' dat way!"
-- [ ]
-- [ ] Hoodoo Bombcart.png  Attacking: Stay close to cart
-- [ ]
-- [ ] "Stay by the cart, fellas!"
-- [ ] "Get over here!"
-- [ ] "Stay close, guys!"
-- [ ] "Let's all push this thing!"
-- [ ] "We pushin' this thing or what?"
-- [ ] "Li'l help pushin' the cart?"
-- [ ]
-- [ ] Hoodoo Bombcart.png  Attacking: Cart has stopped
-- [ ]
-- [ ] "The freakin' cart stopped!"
-- [ ] "What da hell, who stopped pushin' the cart?!"
-- [ ] "Push it, push it, push it!"
-- [ ]
-- [ ] Lil-chewchew.png  Defending: Stop the bomb
-- [ ]
-- [ ] "Ey, we gotta stop it!"
-- [ ] "Gotta stop da cart!"
-- [ ] "Let's stop dat freakin' thing!"
-- [ ]
+- [ ] "Wave goodbye to your secret crap, dumbass!" - "V-am furat toată pornografia!"
+- [ ] "Yeah, it's ours now!" - "Am luat-o coițelor!"
+- [ ] "I'm not even winded." - "Sunt coxat!"
+- [ ] "I got it, I got it, I got it!" - "M-am căcat pe inteligență!"
+- [ ] "Is-is anybody even payin' attention to me?" - "Se uită cineva la pula mea?"
+- [ ] "Yeah, yeah, yeah!" - "M-am bășit sub punct!"
+- [ ] "Yeah!" - "Punctu asta este plin de smegmă acum!"
+- [ ] "I got it, I got it!" - "Este plin de lapte pe jos!"
+- [ ] "No problem!" - "Am băgat mașina la păcănele și am pierdut-o!"
+- [ ] "Stand on the freakin' point, you moron!" - "Stai pe punct sau o să mă sinucid!"
+- [ ] "Get on the freakin' point, dumbass!" - "Dacă nu stai pe punct, iți bag familia la păcănele!"
+- [ ] "Hey, get on the cap, guys!" - "Stați în pula mea pe punct!"
+- [ ] "Stand on the freakin' cap!" - "Punctu' ăsta nu se freacă singur!"
+- [ ] "Let's get on the cap, fellas!" - "Ajutați-mă să mulg punctul, băieți!"
+- [ ] "Get on the cap, ya dopes!" - "Treceți pe pula mea gigantică!"
+- [x] "Way to go, slugger!"
+- [x] "Yes!"
+- [x] "Oh yeah!"
+- [x] "Ooooh yeah, you're real scary!"
+- [x] "Hey, lotta' good that gun didya!"
+- [x] "Oh hey! You suck."
+- [x] "Yeah, it's ours now!"
+- [x] "We got 'em, we got 'em!"
+- [ ] "Push!" - "Băgați căruciorul pe steroizi anabolici!"
+- [ ] "Mush, you lazy bums!" - "Legalizați bombele nucleare!"
+- [ ] "Keep pushin' it!" - "Legalizați intercursul cu cărucioare!"
+- [ ] "Yeah, yeah, yeah!" - "Pulă pizda coaiele, au început războaiele!"
+- [ ] "Keep it movin', guys!" - "Bagați kerosen în ea, băieți!"
+- [ ] "Go, go, go!" - "Mergeți sau vă fut pe toți!"
+- [ ] "Dat ain't da right way, guys!" - "Coaie, ce pula mea ați făcut cu căruciorul?"
+- [ ] "What da hell's goin' on?" - "Ce pula mea se întâmplă?"
+- [ ] "Aw, cripes, da cart!" - "Băăăă, căruciorul, mă sinucid!"
+- [ ] "Is someone gonna push da freakin' cart?" - "Cine o să împingă căruciorul, acum că mi-am pierdut pula?"
+- [ ] "Da cart's movin' backwards!" - "Căruciorul se mișcă înapoi, ca și pula mea!"
+- [ ] "Aw, jeez, da cart!" - "Mă fut în el de cărucior!"
+- [ ] "No, no, no! The cart!" - "Nu, nu, nu! Căruciorul! Pulaaaaaaaa!"
+- [ ] "Anyone else pushing dis thing?" - "Am nevoie de 3 țigani să împingă căruciorul!"
+- [ ] "We gotta stop dat thing!" - "Trebuie să oprim căruciorul cu heroină!"
+- [ ] "Aw, jeez guys, we gotta stop it!" - "Căruciorul ăla are cox, opriți-l!"
+- [ ] "What the hell is everyone doin'?!" - "Ce pula mea faceți? Futeți căruciorul!"
+- [ ] "Push da freakin' cart!" - "O să-mi bag pula-n cărucior atât de tare că o să-l castrez!"
+- [ ] "Keep dat cart movin'!" - "Căruciorul ăla e plin de spermă, mirosiți-l!"
+- [ ] "C'mon, move da cart!" - "Bășină! Împinge-ți căruciorul!"
+- [ ] "Return to freakin' sender!" - "Am futut căruciorul așa de mult că se retrage!"
+- [ ] "All right, all right!" - "Am violat căruciorul, se mișcă înapoi!"
+- [ ] "Hey now we're doin' it, now we're doin' it!" - "Cred că sunt atras sexual de cărcucior..."
+- [ ] "Yeah, yeah, yeah!" - "Căruciorul meu, unde îmi mai bag pula?"
+- [ ] "What, ya guys give up?" - "I-am futut pe toți, inclusiv căruciorul!"
+- [ ] "Yo, it should be goin' dat way!" - "Bagă-ți pula-n cărucior, coaie!"
+- [ ] "Stay by the cart, fellas!" - "Mă masturbez pe cărucior!"
+- [ ] "Get over here!" - "Veniți lângă carucior, vă promit că nu m-am bășit!"
+- [ ] "Stay close, guys!" - "Stați aproape, coaie!"
+- [ ] "Let's all push this thing!" - "Pot să împing căruciorul cu pula!"
+- [ ] "We pushin' this thing or what?" - "E ziua de împingere!"
+- [ ] "Li'l help pushin' the cart?" - "M-am bășit pe lângă carucior!"
+- [ ] "The freakin' cart stopped!" - "Băăăă, băgați turbo pe cărucior!"
+- [ ] "What da hell, who stopped pushin' the cart?!" - "Cine a oprit căruciorul?"
+- [ ] "Push it, push it, push it!" - "Bagă-ți pula-n cărucior, de ce s-a oprit?"
+- [ ] "Ey, we gotta stop it!" - "Dacă nu oprim bomba, o să mă coxez!"
+- [ ] "Gotta stop da cart!" - "Opriți bomba cu coaiele!"
+- [ ] "Let's stop dat freakin' thing!" - "Hai să oprim bomba cu cox!"
 
 ### Duel-related responses
 
-- [ ] Backpack Dueling Mini-Game.png  Starting a duel
-- [ ]
-- [ ] "Let's go."
-- [ ] "Bring it."
-- [ ] "Let's do dis."
-- [ ] "You 'n me."
-- [ ] "C'mon, tough guy!"
-- [ ]
-- [ ] Duel RED.png  Duel accepted
-- [ ]
-- [ ] "Sweet!"
-- [ ] "Ooooh yeah, you're real scary!"
-- [ ] "I'm gonna headbutt cha', I'm gonna headbutt cha', I'm gonna headbutt cha'!"
-- [ ] "Yeah, come get some, you frickin' wuss!"
-- [ ] "Yeah!"
-- [ ]
-- [ ] Duel BLU.png  Duel rejected
-- [ ]
-- [ ] "You have got to be kidding!"
-- [ ] "You gotta be kiddin' me!"
-- [ ] "I can not believe this!"
-- [ ] "Auugghh!"
-- [ ] "Yeah, I dare ya, rage quit. C'mon, make us both happy."
-- [ ] "I will never... Stop... Killing you."
-- [ ] "Boooooooo!"
-- [ ] "Frickin' unbelieveable."
-- [ ] "Wassamatter, y'freakin' stupid?"
-- [ ]
+- [x] "Let's go."
+- [x] "Bring it."
+- [x] "Let's do dis."
+- [x] "You 'n me."
+- [x] "C'mon, tough guy!"
+- [x] "Sweet!"
+- [x] "Ooooh yeah, you're real scary!"
+- [x] "I'm gonna headbutt cha', I'm gonna headbutt cha', I'm gonna headbutt cha'!"
+- [x] "Yeah, come get some, you frickin' wuss!"
+- [x] "Yeah!"
+- [x] "You have got to be kidding!"
+- [x] "You gotta be kiddin' me!"
+- [x] "I can not believe this!"
+- [x] "Auugghh!"
+- [x] "Yeah, I dare ya, rage quit. C'mon, make us both happy."
+- [x] "I will never... Stop... Killing you."
+- [x] "Boooooooo!"
+- [x] "Frickin' unbelieveable."
+- [x] "Wassamatter, y'freakin' stupid?"
 
 ## Not planned
 
