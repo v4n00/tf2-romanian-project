@@ -1,0 +1,137 @@
+# Engi
+
+[wiki commands](https://wiki.teamfortress.com/wiki/Engineer_voice_commands)
+[wiki responses](https://wiki.teamfortress.com/wiki/Engineer_responses)
+
+## Commands
+
+- [ ] "Doc!" - "Doctor! Repară-mi boașele!"
+- [ ] "Medic!" - "Doctore! Pe pula mea!"
+- [ ] "Meeeh-dic!" - "Doctore! Fixuiește-mi pula!"
+- [ ] "Follow me, Doc!" - "Pe mine, Doctore!"
+- [ ] "Over here, sawbones." - "Treci încoa, muiere!"
+- [ ] "On me, Doc!" - "Dă-mi șurubelnița să mi-o bag pe uretră, doctore!"
+- [ ] "Much obliged." - "Mersi coiuțule!"
+- [ ] "Nice goin', pardner!" - "Bine pe bișniță, sper să-mi plătesc pensia alimentară!"
+- [ ] "Thanks, mister!" - "Mulțumesc, am cu ce să plătesc alocația acum!"
+- [ ] "Move 'em out!" - "Mișcați-vă către tribunal!"
+- [ ] "Get going!" - "Hai, că-mi pierd custodia fiului!"
+- [ ] "Go go go!" - "Hai, că mă ia amanta la bătaie!"
+- [ ] "Gotta move that gear up!" - "Mișcati mașina de spălat!"
+- [ ] "Head left." - "La stânga e băutura!"
+- [ ] "To the left!" - "Mergeți la stânga, avem curve!"
+- [ ] "Head right." - "La dreapta e băutura!"
+- [ ] "Go right." - "La dreapta!"
+- [ ] "To the right!" - "Mergeți la dreapta, avem curve!"
+- [ ] "Yeah!" - "Da!"
+- [ ] "Heck yes!" - "Efectiv, pe bune, e ca mine!"
+- [ ] "Alrighty then." - "Da, mi-am părăsit nevasta!"
+- [ ] "Nope." - "Nu, nu, nu!"
+- [ ] "Nah." - "Nu mai vreau la curve!"
+- [ ] "Heck no." - "Nu mai vreau prin tribunale!"
+- [ ] "Innn-coming!" - "Vin țiganii!"
+- [ ] "Incomin'!" - "Vin homosexualii!"
+- [ ] "Incoming!" - "Vin curvele!"
+- [ ] "Hey boys, it's a Spy!" - "Spion, îmi fute nevasta!"
+- [ ] "Spy around here." - "Avem un spion printre noi, mi-a luat nevasta!"
+- [ ] "There's a Spy creepin' around here!" - "Un spion, un spion, un spion!"
+- [ ] "That Scout's a Spy!" - "Acel cercetaș e un spion!"
+- [ ] "That Soldier's a Spy!" - "Acel soldat e un spion!"
+- [ ] "That Pyro's a Spy!" - "Acel piroman e un spion!"
+- [ ] "That Demo's a Spy!" - "Acel demolițian e un spion!"
+- [ ] "That Heavy's a Spy!" - "Acel grăsan e un spion!"
+- [ ] "That Engineer's a Spy!" - "Acel inginer e un spion!"
+- [ ] "That Medic's a Spy!" - "Acel doctor e un spion!"
+- [ ] "That Sniper's a Spy!" - "Acel lunetist e un spion!"
+- [ ] "That Spy's one of them!" - "Acel spion e unul dintre ei!"
+- [ ] "That Spy ain't on our side!" - "Acel spion nu e de partea noastră!"
+- [ ] "Sentry right up ahead!" - "Santinelă în față!"
+- [ ] "Sentry right up there!" - "Țiganii au pus santinelă în față!"
+- [ ] "Somebody wanna rustle up a Teleporter right here?" - "Un muist să pună un teleportator aici!"
+- [ ] "We need a Teleporter riiight here." - "Un teleportator aici, că mă doare pula să mai merg!"
+- [ ] "We need a Dispenser riiight here." - "Pune-n pula mea un dozator aici!"
+- [ ] "We need a Sentry riiight here." - "Băăăă, vreau o santinelă aici!"
+- [ ] "Hit it, Doc!" - "Dă-i, doctore!"
+- [ ] "Come on, hit it, Doc!" - "Pune-mi mâna pe pulă, doctore!"
+- [ ] "Charge me, Doc!" - "Încarcă-mă, doctore!"
+- [ ] "Help!"
+- [ ] "Help me!"
+- [ ] "I need some doggone help!"
+- [ ] While standing on a friendly capture point:
+- [ ] "We gotta hold this point!"
+- [ ] "I need help defending this point!"
+- [ ] "Hold this point!"
+- [ ] While standing on a neutral or enemy capture point:
+- [ ] "Help me capture this point!"
+- [ ] "This point ain't gonna cap itself! Get over here!"
+- [ ] "Need help capping this point!"
+- [ ] "Plant yerself on that darn point, mister!"
+- [ ] "Plant yerself on the point, mister!"
+- [ ]
+- [ ] Battle Cry - Default key: C → 2
+- [ ]
+- [ ] "Yaaaaaaagh!"
+- [ ] "Cowboy up!"
+- [ ] "Move 'em out!"
+- [ ] "Giddy up!"
+- [ ] "Heeeeeeyaaah!"
+- [ ] "Ehee, yeeeehaaaaw!"
+- [ ] While aiming at an enemy, melee weapon equipped:
+- [ ] "Let's do this Texas style."
+- [ ] "You and me, pardner."
+- [ ] "You and me, hoss."
+- [ ] "I'm gonna beat you like a rented mule, boy."
+- [ ] "I'm gonna tear you down, junior!"
+- [ ] "You're all about to have a real bad day!"
+- [ ] "Come here, sissy!"
+- [ ] "Start prayin', boy!"
+- [ ] "I'm gonna lay you out!"
+- [ ] "Son! I'm gonna blow that dumb look right off your stupid face!"
+- [ ]
+- [ ] Cheers - Default key: C → 3
+- [ ]
+- [ ] "Whooooeee!"
+- [ ] "Whoooohou!"
+- [ ] "Job well done!"
+- [ ] "That wasn't even close."
+- [ ] "Now that there was a fine piece of work."
+- [ ] "Cream gravy."
+- [ ] "Yippee-kiyah-yippee-i-ki-yo!"
+- [ ]
+- [ ] Jeers - Default key: C → 4
+- [ ]
+- [ ] "Boooooo!"
+- [ ] "Grrrrrrrr..."
+- [ ] "Come on, fellas!"
+- [ ] "Ah, good night, Irene!"
+- [ ]
+- [ ] Positive - Default key: C → 5
+- [ ]
+- [ ] "Well don't that beat all?"
+- [ ]
+- [ ] Negative - Default key: C → 6
+- [ ]
+- [ ] "Darn."
+- [ ] "Aw, shucks."
+- [ ] "Damnit!"
+- [ ] "Damnit, fellas!"
+- [ ] "Damnit, damnit, damnit, damnit!"
+- [ ] "Aw, hell."
+- [ ] "Grrrr...[mumbles]"
+- [ ] "Daugghh!"
+- [ ] "[Loud, angry, and frustruated sigh]"
+- [ ] "Dagnabit, damnit!"
+- [ ] "Damn, dagnabit!"
+- [ ] "Dagit nagit, nabit dagit!"
+- [ ]
+- [ ] Nice Shot! - Default key: C → 7
+- [ ]
+- [ ] "Hell of a shot, mister!"
+- [ ] "Nice shot!"
+- [ ] "Nice shooting, Tex!"
+- [ ]
+- [ ] Good Job! - Default key: C → 8
+- [ ]
+- [ ] "Nice job, pardner."
+- [ ] "Good work."
+- [ ] "Nice job."
