@@ -54,84 +54,926 @@
 - [ ] "Hit it, Doc!" - "Dă-i, doctore!"
 - [ ] "Come on, hit it, Doc!" - "Pune-mi mâna pe pulă, doctore!"
 - [ ] "Charge me, Doc!" - "Încarcă-mă, doctore!"
-- [ ] "Help!"
-- [ ] "Help me!"
-- [ ] "I need some doggone help!"
-- [ ] While standing on a friendly capture point:
-- [ ] "We gotta hold this point!"
-- [ ] "I need help defending this point!"
-- [ ] "Hold this point!"
-- [ ] While standing on a neutral or enemy capture point:
-- [ ] "Help me capture this point!"
-- [ ] "This point ain't gonna cap itself! Get over here!"
-- [ ] "Need help capping this point!"
-- [ ] "Plant yerself on that darn point, mister!"
-- [ ] "Plant yerself on the point, mister!"
+- [ ] "Help!" - "Ajutați-mă să-mi bat nevasta!"
+- [ ] "Help me!" - "Ajutor! Nevasta mi-a scăpat de sub control!"
+- [ ] "I need some doggone help!" - "Poate cineva să ma ajute să-mi bat nevasta?"
+- [ ] "We gotta hold this point!" - "Ajutați-mă să lubrichez punctul!"
+- [ ] "I need help defending this point!" - "Treceți pe punct sau vă fut!"
+- [ ] "Hold this point!" - "Stați pe punct sau vă fut!"
+- [ ] "Help me capture this point!" - "Ajutați-mă pe punct!"
+- [ ] "This point ain't gonna cap itself! Get over here!" - "Punctul nu se capsează singur, veniți aici!"
+- [ ] "Need help capping this point!" - "Ajutor, vreau să capsez punctul!"
+- [ ] "Plant yerself on that darn point, mister!" - "Stați pe punct, altfel mă bășesc!"
+- [ ] "Plant yerself on the point, mister!" - "Stați pe punct, altfel mă masturbez!"
+- [ ] "Yaaaaaaagh!" - "Pulaaaaaaaaaaa!"
+- [ ] "Cowboy up!" - "Urcați pe cal!"
+- [ ] "Move 'em out!" - "Urăsc țiganii!"
+- [ ] "Giddy up!" - "Hai, că mă ia amanta la bătaie!"
+- [ ] "Heeeeeeyaaah!" - "Mă-ta ma suge!"
+- [ ] "Ehee, yeeeehaaaaw!" - "Vreau să mă fut!"
+- [ ] "Let's do this Texas style." - "Hai să facem asta în stil texan!"
+- [ ] "You and me, pardner." - "Tu și eu, într-un pat."
+- [ ] "You and me, hoss." - "Tu și eu, pe o pulă."
+- [ ] "I'm gonna beat you like a rented mule, boy." - "Te bat ca pe o măgară închiriată, băiete!"
+- [ ] "I'm gonna tear you down, junior!" - "Îți rup pula, junior!"
+- [ ] "You're all about to have a real bad day!" - "O să vă fut pe toți!"
+- [ ] "Come here, sissy!" - "Vino aici, curvă!"
+- [ ] "Start prayin', boy!" - "Vino aici, homosexualule!"
+- [ ] "I'm gonna lay you out!" - "Am să te fut cu ochii închiși!"
+- [ ] "Son! I'm gonna blow that dumb look right off your stupid face!" - "Băiete, o să-ți fut fața de prost!"
+- [ ] "Whooooeee!" - "Ultimul care-și dă drumul pe nevasta mea câștigă!"
+- [ ] "Whoooohou!" - "Cine vreau s-o fute pe nevasta-mea?"
+- [ ] "Job well done!" - "Vă dau un bilet să o futeți pe nevasta-mea!"
+- [ ] "That wasn't even close." - "Vreau să ma uit cum o futeți pe nevasta-mea!"
+- [ ] "Now that there was a fine piece of work." - "Nevastă-mea nu vrea să se mai fute cu mine..."
+- [ ] "Cream gravy." - "Sper să-mi plătesc pensia alimentară pentru nevastă-mea!"
+- [ ] "Yippee-kiyah-yippee-i-ki-yo!" - "Nevastă-mea mi-a băgat divorț!"
+- [ ] "Boooooo!" - "Iubitul nevastei mele m-a lăsat să-mi construiesc santinela!"
+- [ ] "Grrrrrrrr..." - "Iubitul nevastei mi-a cumpărat un ics bocs!"
+- [ ] "Come on, fellas!" - "Nevastă-mea și-a tras iubit!"
+- [ ] "Ah, good night, Irene!" - "Iubitul nevastei mele o fute mai bine!"
+- [ ] "Well don't that beat all?" - "Am pula prea mică să o satisfac pe nevasta-mea!"
+- [ ] "Darn." - "Pula pizda coaiele, au început războaiele!"
+- [ ] "Aw, shucks." - "Dacă aveam puța mai mare... poate nu mă lăsa nevasta..."
+- [ ] "Damnit!" - "Îmi iubesc nevasta prea mult, mai ales de când și-a tras gagic!"
+- [ ] "Damnit, fellas!" - "Pula mea, ce să mai zic..."
+- [ ] "Damnit, damnit, damnit, damnit!" - "Diseară, mă duc la curve!"
+- [ ] "Aw, hell." - "Mă îmbăt și mă duc la curve!"
+- [ ] "Grrrr...[mumbles]" - "Mă îmbăt și mă duc să conduc după meciul ăsta!"
+- [ ] "Daugghh!" - "Mă îmbăt și mă duc să mă bat cu țiganii!"
+- [ ] "[Loud, angry, and frustruated sigh]" - "Mi-am bătut nevasta și acum mă mănâncă pula!"
+- [ ] "Dagnabit, damnit!" - "Evreii mi-au furat prepuțul, d-asta n-o mai satisfac pe nevastă-mea!"
+- [ ] "Damn, dagnabit!" - "Alcoolul și cheile de la mașină, o combinație perfectă!"
+- [ ] "Dagit nagit, nabit dagit!" - "Alcoolul și curvele, ce să mai zic..."
+- [ ] "Hell of a shot, mister!" - "Ai tras ca iubitul nevastei mele!"
+- [ ] "Nice shot!" - "Dacă mai tragi așa, te fac nevastă-mea!"
+- [ ] "Nice shooting, Tex!" - "Tragi ca un băiat de puță!"
+- [ ] "Nice job, pardner." - "Bună treabă, băiete!"
+- [ ] "Good work." - "Așa treabă, doar iubitul nevastă-mii a mai făcut!"
+- [ ] "Nice job." - "Uai de pula mea, ce treabă bună!"
+
+## Responses
+
+### Kill-related responses
+
+- [ ] "Whoooowee! Makin' bacon!" - "Grătar, șuncă, senviș!"
+- [ ] "How'd that plan turn out for ya, dummy?" - "Iubitul nevastă-mii m-a felicitat!"
+- [ ] "That's what ya get!" - "N-am mai bătut-o pe nevastă-mea de ieri!"
+- [ ] "Whoooowee, would ya look at that!" - "Am făcut măcel! Nevasta-mea sigur mă iubește!"
+- [ ] "Nice goin', pardner!" - "Bine pe bișniță, sper să-mi plătesc pensia alimentară!"
+- [ ] "Thanks, mister!" - "Mersi, am cu ce să plătesc alocația acum!"
+- [ ] "Take it like a man, shorty." - "Ți-am dat-o la corason!"
+- [ ] "I told ya don't touch that darn thing." - "Ți-am zis să nu te atingi de alcool!"
+- [ ] "I built that." - "Am construit asta, cu pula mea!"
+- [ ] "That's what it was made for." - "Pentru asta am construit-o, ca să o satisfacă pe nevastă-mea!"
+- [ ] "Another satisfied customer!" - "Iubitul nevastei mele e mulțumit!"
+- [ ] "This thing ain't on auto-pilot, son!" - "Santinela e ca nevasta-mea, trebuie să o controlezi!"
+- [ ] "That's from yours truly, son." - "Pentru tine, coaie!"
+- [ ] "Tagged ya." - "Te-am prins, curvă!"
+- [ ] "Gotcha!" - "Muie!"
+- [ ] "That there is a gold-plated kill!" - "Am omorât un țigan!"
+- [ ] "Guess I got the Midas touch." - "Te-am omorât cu aur, țiganule!"
+- [ ] "At least you ain't worthless anymore." - "Măcar nu ești inutil acum!"
+- [ ] "Erectin' a statue of a moron." - "Construiesc o statuie pentru țiganii morți!"
+- [ ] "Sometimes, you just need a little less gun." - "Câteodată, ai nevoie de mai puțină pulă!"
+- [ ] "Ain't that a cute little gun?" - "Ce puță drăguță!"
+- [ ] "I love that little gun!" - "Iubesc puța aia mică!"
+
+### Domination-related responses
+
+- [ ] "You're all about to have a real bad day!" - "Mai aveți puțin și vă fut pe toți!"
+- [ ] "Start prayin', boy!" - "Apucați-vă de rugăciuni, țiganiilor!"
+- [ ] "Gotcha!" - "Muie!"
+- [ ] "Y'all gotta run a lot faster than that." - "Trebuia să fugi mai repede, puță bleagă!"
+- [ ] "Ya ain't too fast for me and my machines now, are ya? Heh. Are ya?"
+- [ ] "Boy, this here is just gonna keep happenin' and happenin'."
+- [ ] "Dominated, string-bean."
+- [ ] "Y'all just got dominated, city boy."
+- [ ] "What in Sam Hill were you thinkin', string-bean?"
+- [ ] "Shoot, son, y'all slow as molasses."
+- [ ] "Dominated, little feller."
+- [ ] "Just a dead little jackrabbit."
+- [ ] "Quick as a hiccup, ain'tcha? Huh. [whispering] Not quick enough."
+- [ ] "Not fast enough; not by a damn sight."
+- [ ] "Gotcha, stretch!"
 - [ ]
-- [ ] Battle Cry - Default key: C → 2
+- [ ] Leaderboard class soldier.png  Dominating a Soldier
+- [ ]
+- [ ] "Y'all take that, rocket-boy."
+- [ ] "That there is just a sad display, boy."
+- [ ] "Don't test my mettle, son!"
+- [ ] "Dominated, ya damn Yankee."
+- [ ] "Y'all just got drafted into my war!"
+- [ ] "That's what it feels like when eagles cry, soldier-boy."
+- [ ] "Next time, lift your lid and you might see it comin'!"
+- [ ] "This all's what happens when you fight a man."
+- [ ]
+- [ ] Leaderboard class pyro.png  Dominating a Pyro
+- [ ]
+- [ ] "Speak up next time, boy!"
+- [ ] "Sorry, ma'am."
+- [ ] "Dominated, smokey."
+- [ ] "Gotcha, mumbles."
+- [ ] "Sorry to put out your campfire, boy."
+- [ ] "You look a mite tongue-tied, son."
+- [ ] "You shouldn't have played with fire, boy."
+- [ ] "Didn't yer momma teach ya not to play with matches?"
+- [ ] "Y'all might be flame retardant, but ya sure ain't bulletproof."
+- [ ]
+- [ ] Leaderboard class demoman.png  Dominating a Demoman
+- [ ]
+- [ ] "I wish y'all could see how bad I'm kickin' your tail."
+- [ ] "Drunk on the battlefield ain't no way to be, son."
+- [ ] "Dominated, eyepatch!"
+- [ ] "That catch yer eye, son?"
+- [ ] "The hand is quicker than the eye!"
+- [ ] "Gotcha, eyehole."
+- [ ]
+- [ ] Leaderboard class heavy.png  Dominating a Heavy
+- [ ]
+- [ ] "Never mind the bullets. How much all these coffins costin' ya?"
+- [ ] "I've seen better sides of beef been run over by a combine."
+- [ ] "Y'all come back now!"
+- [ ] "Nice try, slim."
+- [ ] "Gotcha, chuckwagon!"
+- [ ] "Gotcha, pork drippings."
+- [ ] "Dominated, corn cakes."
+- [ ] "Y'all just got branded."
+- [ ] "And another thing: you're ugly."
+- [ ] "Dumber than dirt, ain'tcha?"
+- [ ] "You're dumb as a box of rocks!"
+- [ ] "Y'all come back now! More where that came from."
+- [ ] "Dominated, fat man!"
+- [ ] "You are a whole herd'a ugly."
+- [ ] "Gotcha, fat boy!"
+- [ ]
+- [ ] Leaderboard class engineer.png  Dominating an Engineer
+- [ ]
+- [ ] "You just ain't doin' it right."
+- [ ] "Dominated, hardhat."
+- [ ] "A real Texan woulda dodged that."
+- [ ] "You can always tell a Texan, but you can't tell 'em much."
+- [ ] "You done incurred my wrath, son!"
+- [ ] "I'm wolverine-mean, you son of a bitch."
+- [ ] "If ya done it, it ain't braggin'!"
+- [ ] "You're all hardhat and no cattle."
+- [ ] "You shoulda oughta brought more gun, son."
+- [ ]
+- [ ] Leaderboard class medic.png  Dominating a Medic
+- [ ]
+- [ ] "Doctor! I am the better man!"
+- [ ] "Guess they didn't teach you to duck in doctor school!"
+- [ ] "Keep comin' at me, doctor; eventually y'all gonna rustle up some sense."
+- [ ] "Next time, tend to your own knittin', sawbones."
+- [ ] "Sell your tonics elsewhere, miracle man."
+- [ ] "You must be a doctor, 'cause you just saw the extent of my patience!"
+- [ ] "I'm a killer of men, doc. That is the God's honest truth."
+- [ ] "Slap a poultice on that, doc! (laughs sarcastically)"
+- [ ]
+- [ ] Leaderboard class sniper.png  Dominating a Sniper
+- [ ]
+- [ ] "Ya oughta stand back a little more, like from me and my machines."
+- [ ] "Looks like that there just weren't the place you oughta be standin'!"
+- [ ] "Dominated, campground."
+- [ ] "You shoulda oughta stayed back at your little campsite."
+- [ ] "Nobody likes a squatter!"
+- [ ] "I just rode you out on a rail, down under."
+- [ ] "Aw, now ya don't look like a happy camper."
+- [ ] "Down under? More like, six feet down under."
+- [ ]
+- [ ] Leaderboard class spy.png  Dominating a Spy
+- [ ]
+- [ ] "Now just stop tryin' ta mess with my contraptions."
+- [ ] "It ain't gettin' any harder for me to kill ya."
+- [ ] "You know where ya oughta hide next time? Back in France."
+- [ ] "Dominated, you turncoat."
+- [ ] "Dominated, you snake!"
+- [ ] "This skunk's startin' to smell."
+- [ ] "Slither on back to hell, coward!"
+- [ ] "That's what my daddy taught me to do to backstabbers."
+- [ ] "You're a looooooong way from France, boy."
+- [ ] "Don't go meddlin' in my business."
+- [ ] "You are a coward and a scoundrel!"
+- [ ] "If y'all had more gadgets for killin' , you wouldn't need so many for hidin'."
+- [ ] "I just beat on your sneaky ass like a mule, boy!"
+- [ ]
+- [ ] Nemesis RED.png  Revenge kill
+- [ ]
+- [ ] "Hee hee... Yee-haw!"
+- [ ] "Woooeee!"
+- [ ] "Cream Gravy!"
+- [ ] "Yippekeeyah-heeyapeeah-kayoh!"
+- [ ] "Ah, good night, Irene!"
+- [ ] (Evil Laughter 1)
+- [ ] (Evil Laughter 2)
+- [ ] (Evil Laughter 3)
+- [ ] (Evil Laughter 4)
+- [ ] (Happy Laughter 1)
+- [ ] (Happy Laughter 2)
+- [ ] (Happy Laughter 3)
+- [ ] (Long Laughter)
+- [ ] "Gutless."
+- [ ] "You ladies shoulda' oughta' brought some menfolk with ya."
+- [ ] "I'm done playin' games with you, boy."
+- [ ] "You were gettin' too big for your britches"
+- [ ] "That'll cut'cha back down to size."
+- [ ]
+
+### Event-related responses
+
+- [ ] Gette it Onne!.png  Round start
 - [ ]
 - [ ] "Yaaaaaaagh!"
 - [ ] "Cowboy up!"
 - [ ] "Move 'em out!"
 - [ ] "Giddy up!"
 - [ ] "Heeeeeeyaaah!"
-- [ ] "Ehee, yeeeehaaaaw!"
-- [ ] While aiming at an enemy, melee weapon equipped:
-- [ ] "Let's do this Texas style."
-- [ ] "You and me, pardner."
-- [ ] "You and me, hoss."
-- [ ] "I'm gonna beat you like a rented mule, boy."
-- [ ] "I'm gonna tear you down, junior!"
-- [ ] "You're all about to have a real bad day!"
-- [ ] "Come here, sissy!"
-- [ ] "Start prayin', boy!"
-- [ ] "I'm gonna lay you out!"
-- [ ] "Son! I'm gonna blow that dumb look right off your stupid face!"
+- [ ] "Hehee, yeeeehaaaaw!"
 - [ ]
-- [ ] Cheers - Default key: C → 3
-- [ ]
-- [ ] "Whooooeee!"
-- [ ] "Whoooohou!"
-- [ ] "Job well done!"
-- [ ] "That wasn't even close."
-- [ ] "Now that there was a fine piece of work."
-- [ ] "Cream gravy."
-- [ ] "Yippee-kiyah-yippee-i-ki-yo!"
-- [ ]
-- [ ] Jeers - Default key: C → 4
+- [ ] Item icon Eyelander.png  Sudden Death
 - [ ]
 - [ ] "Boooooo!"
 - [ ] "Grrrrrrrr..."
 - [ ] "Come on, fellas!"
 - [ ] "Ah, good night, Irene!"
 - [ ]
-- [ ] Positive - Default key: C → 5
+- [ ] Killicon skull.png  Stalemate
 - [ ]
-- [ ] "Well don't that beat all?"
+- [ ] "That just ain't right!"
+- [ ] "Now I've seen everything!"
+- [ ] "Naahhh..."
 - [ ]
-- [ ] Negative - Default key: C → 6
+- [ ] Killicon fire.png  Set on fire
 - [ ]
-- [ ] "Darn."
-- [ ] "Aw, shucks."
-- [ ] "Damnit!"
-- [ ] "Damnit, fellas!"
-- [ ] "Damnit, damnit, damnit, damnit!"
-- [ ] "Aw, hell."
-- [ ] "Grrrr...[mumbles]"
-- [ ] "Daugghh!"
-- [ ] "[Loud, angry, and frustruated sigh]"
-- [ ] "Dagnabit, damnit!"
-- [ ] "Damn, dagnabit!"
-- [ ] "Dagit nagit, nabit dagit!"
+- [ ] "Fire, Fire! Ow oh oh oh-grr fire!"
+- [ ] "Fire!"
+- [ ] "I'm burnin' up."
 - [ ]
-- [ ] Nice Shot! - Default key: C → 7
+- [ ] Health dead.png  On death by weapon and/or critical hit
 - [ ]
-- [ ] "Hell of a shot, mister!"
-- [ ] "Nice shot!"
-- [ ] "Nice shooting, Tex!"
+- [ ] (Dying scream 1)
+- [ ] (Dying scream 2)
+- [ ] (Dying scream 3)
+- [ ] (Dying scream 4)
+- [ ] (Dying scream 5)
+- [ ] (Dying scream 6)
 - [ ]
-- [ ] Good Job! - Default key: C → 8
+- [ ] Bleed drop.png  Severe pain
 - [ ]
-- [ ] "Nice job, pardner."
-- [ ] "Good work."
-- [ ] "Nice job."
+- [ ] (Groan 1)
+- [ ] (Groan 2)
+- [ ] (Groan 3)
+- [ ] (Whimper 1)
+- [ ] (Whimper 2)
+- [ ] (Whimper 3)
+- [ ] (Whimper 4)
+- [ ]
+- [ ] Bleed drop.png  Sharp pain
+- [ ]
+- [ ] (Grunt 1)
+- [ ] (Grunt 2)
+- [ ] (Grunt 3)
+- [ ] (Grunt 4)
+- [ ] (Grunt 5)
+- [ ] (Grunt 6)
+- [ ] (Grunt 7)
+- [ ] (Grunt 8)
+- [ ]
+- [ ] Item icon Jarate.png  Hit by Gas Passer, Jarate, Mad Milk, Mutated Milk, or Self-Aware Beauty Mark
+- [ ]
+- [ ] "That just ain't right!"
+- [ ] "Now I've seen everything!"
+- [ ] "Oh, ya yellow-bellied gutless coward!"
+- [ ]
+- [ ] Telespin.png  Teleportation
+- [ ]
+- [ ] "Much obliged, pardner."
+- [ ] "Thanks for the ride, pardner!"
+- [ ]
+- [ ] Healthico.png  Healed by Medic
+- [ ]
+- [ ] "You're alright Doc."
+- [ ] "'Preciate it, Doc."
+- [ ]
+- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
+- [ ]
+- [ ] "Git along there, little dogies!"
+- [ ] "Why don't you all get along before one of you gets hurt?"
+- [ ] "Let's do this Texas style!"
+- [ ]
+- [ ] Lvl3dispenser.png  Building a Dispenser
+- [ ]
+- [ ] "Dispenser going up." - "Dozatorul se construiește."
+- [ ] "Erectin' a Dispenser." - "Erectez un dozator."
+- [ ] "Sentry going up." - "Santinela se construiește."
+- [ ] "Buildin' a Sentry." - "Construiesc o santinelă."
+- [ ] "Teleporter comin' right up." - "Erectez un teleportator."
+- [ ] "Teleporter goin' up." - "Contruiesc teleportatorul."
+- [ ]
+- [ ] Building icon Metal.png  Packing up a building
+- [ ]
+- [ ] "Packin' up!"
+- [ ] "Movin' out!"
+- [ ] "I'm movin' this!"
+- [ ]
+- [ ] Building icon Metal.png  Moving a building
+- [ ]
+- [ ] "Heavy load comin' through!"
+- [ ] "Outta mah way! Outta mah way!"
+- [ ]
+- [ ] Backpack PDA builder.png  Replanting a building
+- [ ]
+- [ ] "That was gettin' heavy!"
+- [ ] "That there wasn't gettin' any lighter."
+- [ ] "Phew!"
+- [ ] "Go on, git!"
+- [ ]
+- [ ] Killicon electro sapper.png  Dispenser sapped by enemy Spy
+- [ ]
+- [ ] "Spy's sappin' my Dispenser!" - "Spionul îmi fute dozatorul!"
+- [ ] "Spy's sappin' my Sentry!" - "Spionul îmi fute santinela!"
+- [ ] "Spy's sappin' my Teleporter!" - "Spionul îmi fute teleportatorul!"
+- [ ] "Dispenser down!" - "Dozatorul și-a luat muie!"
+- [ ] "Sentry down!" - "Santinela și-a luat muie!"
+- [ ] "Teleporter down!" - "Teleportatorul și-a luat muie!"
+- [ ]
+- [ ] Item icon Frontier Justice.png  After Revenge Crits activated when Sentry has scored kills recently
+- [ ]
+- [ ] "You're all about to have a real bad day!"
+- [ ] "Start prayin', boy!"
+- [ ] "Why don't you all get along before one of you gets hurt?"
+- [ ]
+- [ ] Killicon gunslinger.png  Gunslinger punch
+- [ ]
+- [ ] "Pow!"
+- [ ] "Bam!"
+- [ ] "Bap!"
+- [ ]
+- [ ] Killicon gunslinger triple punch.png  Third Gunslinger punch
+- [ ]
+- [ ] "Yee-haw!"
+- [ ] "Haaaa!"
+- [ ] "Aargh!"
+- [ ]
+- [ ] Wrangler RED.png  Wrangler cramp
+- [ ]
+- [ ] "Argh!"
+- [ ] "Hrrr!"
+- [ ]
+
+### Objective-related responses
+
+- [ ] Intel red idle.png  After Capturing Intelligence
+- [ ]
+- [ ] "Hell, that was easy."
+- [ ] "That's nothin'."
+- [ ] "Weren't no thing."
+- [ ]
+- [ ] CP Captured RED.png  After capturing control point
+- [ ]
+- [ ] "We got it!"
+- [ ] "This one's ours now!"
+- [ ] "This here point's ours now!"
+- [ ]
+- [ ] CP Locked RED.png  Standing on captured control, firing weapon
+- [ ]
+- [ ] "Plant yerself on that darn point, mister!"
+- [ ] "Plant yerself on the point, mister!"
+- [ ]
+- [ ] Cross RED.png  Defense
+- [ ]
+- [ ] "Wooohooo!"
+- [ ] "Job well done."
+- [ ] "That wasn't even close."
+- [ ] "That there was a fine piece of work."
+- [ ] "Heeeyaaah!"
+- [ ]
+
+### Duel-related responses
+
+- [ ] Backpack Dueling Mini-Game.png  Starting a duel
+- [ ]
+- [ ] "Let's do this Texas style."
+- [ ] "You and me, pardner."
+- [ ] "You and me, hoss."
+- [ ]
+- [ ] Duel RED.png  Duel accepted
+- [ ]
+- [ ] "Giddy up!"
+- [ ] "Heck yes!"
+- [ ] "I'm gonna beat you like a rented mule, boy."
+- [ ] "I'm gonna tear you down, junior!"
+- [ ] "Start prayin', boy!"
+- [ ] "Come here, sissy!"
+- [ ] "I'm gonna lay you out!"
+- [ ]
+- [ ] Duel BLU.png  Duel rejected
+- [ ]
+- [ ] "You are a coward and a scoundrel!"
+- [ ] "Naahhh..."
+- [ ] "That there is just a sad display, boy."
+- [ ] "Boooooo!"
+- [ ]
+
+## Not planned
+
+### Contract-related responses
+
+- [ ] Contract complete
+- [ ]
+- [ ] "Nice work!"
+- [ ] "Done and done."
+- [ ] "Well done, pardner!"
+- [ ] "That contract weren't nothing!"
+- [ ] "That contract was all hat and no cattle!"
+- [ ] "My sentries could have handled that one on their own!"
+- [ ] "We got that done faster than a knife fight in a phonebooth!"
+- [ ] "Shucks, I was just getting started!"
+- [ ] "We done already? Now that is a shame!"
+- [ ] "I got hats harder than that!"
+- [ ] "[whistles] Not bad!"
+- [ ]
+- [ ] Difficult contract
+- [ ]
+- [ ] "Nice work pardner!"
+- [ ] "We are riding high!"
+- [ ] "Nice seeing the back of that one!"
+- [ ] "That was a heap of work!"
+- [ ] "Now that's how it's done!"
+- [ ] "Yee-haw!"
+- [ ] "We only got two speeds: Fast and Faster!"
+- [ ]
+
+### Competitive Mode responses
+
+- [ ] Setup
+- [ ] Setup.png  First round
+- [ ]
+- [ ] "Y'all ready? 'Cause I'm ready!"
+- [ ] "This wrench ain't gonna swing itself!"
+- [ ] "Let's raise a ruckus!"
+- [ ] "Howdy howdy! Let's get rowdy!"
+- [ ] "Let's go make trouble!"
+- [ ] "Ready! And rarin' to go!"
+- [ ] "Reckon we better get to gettin'!"
+- [ ] "Let's get to it!"
+- [ ] "You ready to dance, pardner?"
+- [ ] "I'm fixin' to gettin' mean!"
+- [ ] "We best get on the stick!"
+- [ ] "Saddle up, boys!"
+- [ ] "Giddiyup, boys!"
+- [ ] "Let's get wranglin', cowboys!"
+- [ ] "Come on, boys! These Yankees are all hat and no battle!"
+- [ ] "They won't know what hit 'em!"
+- [ ]
+- [ ] Rare
+- [ ]
+- [ ] "Winning's like science, boys: if you wanna steak, you gotta prove it!"
+- [ ] "Don't worry, boys! The Engineer, is Engi-here! (laughs) Yeah... Still tinkerin' with that one."
+- [ ] "Man vs. Sentry? I believe I'll take 900 pounds of precision-machined steel over a little fella that runs fast!"
+- [ ] "I love engines! Pinion shafts. Flanges. Mitigating shock loads. But most of all: I love winnin'!"
+- [ ] "Hoo wee! They ain't gonna know what hit 'em! Though it'll likely to be bullets. Statistically speaking."
+- [ ] "This button here, builds Teleporters. This button, builds Dispensers. And this little button makes them enemy sum-bitches wish they'd never been born!"
+- [ ] "I whipped up a satellite earlier to scan the topography of the area, boys. And guess what? There's plenty of room for us to kick their asses all over it!"
+- [ ]
+- [ ] Competitive Mode
+- [ ]
+- [ ] "I don't know about y'all, but I'm feelin' pretty damn competitive!"
+- [ ] "I don't know about y'all, but I'm feelin' mighty competitive!"
+- [ ] "This ain't no scrim, boys!"
+- [ ] "Let's kick some ass and take some games!"
+- [ ] "Good news, boys! I drafted up a blueprint of the other team's asses and it looks like all our boots are gonna fit up there!"
+- [ ] "Fellas, I've seen their scrim. Them boys are a bunch of broken down old mules!"
+- [ ] "Wait, they let you bring Sentries to this game? (laughs) Well, game on, then!"
+- [ ]
+- [ ] 6s Only
+- [ ]
+- [ ] "I may be new to 6s, but this ain't my first rodeo! Let's win this!"
+- [ ] "I reckon I brought enough boot to kick six asses!"
+- [ ] "Six Yankees against one of my Sentries? I believe the numbers are in my favor here!"
+- [ ]
+- [ ] Setup.png  Previous round was a win
+- [ ]
+- [ ] Casual Mode
+- [ ]
+- [ ] "We got 'em spooked, boys!"
+- [ ] "There's more where that came from!"
+- [ ] "Those sorry sum-bitches gave me an idea for a new invention: bullet-magnets!"
+- [ ] "I ran the numbers, boys! We got this one in the bag!"
+- [ ]
+- [ ] Rare
+- [ ]
+- [ ] "These fellas are gonna be ohm-less if they don't put up more of a resistance! (laughs) Ah, that's an engineering joke."
+- [ ]
+- [ ] Competitive Mode
+- [ ]
+- [ ] "How's about we teleport some talent over to the other team?"
+- [ ] "Looks like the other team could use a skill-Dispenser."
+- [ ] "I wouldn't call that last game 'competitive', if y'all know what I mean."
+- [ ] "Now a few years back, I invented the bullet-magnet. Do you think the other team stole my schematics?"
+- [ ]
+- [ ] Setup.png  Previous round was a loss
+- [ ]
+- [ ] "We're down, boys. Let's beat these hat-less sons-of-bitches!"
+- [ ] "Let's turn this around, boys!"
+- [ ] "No more losin'!"
+- [ ] "We're gonna turn this around!"
+- [ ] "Do I look like a mule, boys? I can't carry this whole dang team!"
+- [ ] "Them boys've gone and made me lose my temper."
+- [ ] "This losin' streak ends now!"
+- [ ] "I've have just about enough of losin'! Who's with me?"
+- [ ] "We're gonna stop these mother-hubbards in their tracks!"
+- [ ]
+- [ ] Setup.png  Previous round was a tie
+- [ ]
+- [ ] "I'm done playing games, boys!"
+- [ ] "We gotta break this tie, boys!"
+- [ ] "Let's break this tie, fellas!"
+- [ ] "I won't stand for no ties, boys!"
+- [ ] "I never much cared for ties. Let's break this one!"
+- [ ] "This tie just gripes my gizzard! We're breakin' it now!"
+- [ ]
+- [ ] Outcomes
+- [ ] Match win
+- [ ]
+- [ ] "Ha hah!"
+- [ ] "Yeeee-haw!"
+- [ ] "Done and done!"
+- [ ] "(Whistles) Not bad!"
+- [ ] "Yehaw!"
+- [ ] "Now that's how it's done!"
+- [ ] "We won the match, boys!"
+- [ ] "You're damn right we won!"
+- [ ] "You bet your ass, we won!"
+- [ ] "Son, I invented winnin'!"
+- [ ]
+- [ ] Game win
+- [ ]
+- [ ] "My sentries could've handled that one on their own!"
+- [ ] "We done already? Now that is a shame."
+- [ ] "Shucks! I was just gettin' started."
+- [ ] "Nice work."
+- [ ] "Nice seein' the back of that one!"
+- [ ] "I got hats harder than that!"
+- [ ] "We got that done faster than a knife-fight in a phone booth!"
+- [ ] "Nice work, fellas!"
+- [ ] "We won! Can't say I'm surprised, though."
+- [ ] "We kicked a metric ton of ass, boys!"
+- [ ] "Hah, now that is some tactical problem-solving!"
+- [ ] "They call me mule, boy! 'Cause all I do is carry!"
+- [ ] "My 11th PhD is in Applied Ass-Kicking!"
+- [ ] "We did it! With a little help from Mother Science."
+- [ ]
+- [ ] Rare
+- [ ]
+- [ ] "We only got two speeds: fast and faster!"
+- [ ] "Winnin' ain't everything! Heh heh, 'course it's a sight better than losin'! "
+- [ ] "Go Bee Cave IC Tech! Go Fightin' Cows!"
+- [ ] "You cross the boss, you take the loss, hoss!"
+- [ ]
+- [ ] Rank up
+- [ ]
+- [ ] "Rank up!"
+- [ ] "We've ranked up, pardner!"
+- [ ] "Anything better than a rank up? Nope!"
+- [ ] "I love rankin' up!"
+- [ ] "I love beer, barbecue, and rankin' up!"
+- [ ] "Looks like we're rankin' up!"
+- [ ] "Nice work, pardner!"
+- [ ] "Rank up."
+- [ ] "I reckon we just got promoted!"
+- [ ] "Looks like we just got ourselves a promotion!"
+- [ ] "Looks like we ranked up!"
+- [ ] "Looks like we're movin' up in the world!"
+- [ ] "That was a heap of work!"
+- [ ] "Looks like our hard work is finally payin' off!"
+- [ ]
+- [ ] Top scoring
+- [ ]
+- [ ] "I was gonna invent the Death-Dispenser. But it looks like y'all beat me to it. Nice work!"
+- [ ]
+- [ ] Game summary
+- [ ]
+- [ ] "Now that is a cool breeze on a hot day!"
+- [ ] "I am damn proud right now!"
+- [ ] "I believe I will buy you a beer!"
+- [ ] "Son, I never said this to anybody before, but I am damn proud of you!"
+- [ ] "Now that is real nice!"
+- [ ] "You wrangled that up just right!"
+- [ ] "We make a good team!"
+- [ ] "Well done, pardner!"
+- [ ] "Looks like we're ridin' high!"
+- [ ] "We're in tall cotton, friend!"
+- [ ] "We are ridin' high!"
+- [ ]
+
+### Mann vs. Machine responses
+
+- [ ] Setup/Between Waves
+- [ ] Setup.png  Ready to play
+- [ ]
+- [ ] "I'm ready."
+- [ ] "Pony up, boys."
+- [ ]
+- [ ] Other players are not ready
+- [ ]
+- [ ] "Everybody ready?"
+- [ ] "Y'all ready?"
+- [ ]
+- [ ] Uncharged Canteen.PNG  Wave finished, near an Upgrade Station
+- [ ]
+- [ ] "Come on, boys, let's get to them Upgrade Stations."
+- [ ]
+- [ ] MvM Class upgraded.png  After accessing an Upgrade Station
+- [ ]
+- [ ] "Well, I guess that'll do."
+- [ ] "Whoo! I feel fit as a fiddle."
+- [ ]
+- [ ] During a wave
+- [ ] Dead Heat Icon.png  Wave starts
+- [ ]
+- [ ] "Grab some steel, boys, they're comin'!"
+- [ ]
+- [ ] Smallcredits.png  Collecting credits
+- [ ]
+- [ ] "Giddy-up, boys, grab that money!"
+- [ ] "Grab that money!"
+- [ ] "Whoo, look at all that money."
+- [ ]
+- [ ] Killicon electro sapper.png  Teammate places a Sapper on a Robot
+- [ ]
+- [ ] "Sappin' a robot."
+- [ ] "One sapped robot."
+- [ ]
+- [ ] Leaderboard class sniper.png  Enemy Sniper
+- [ ]
+- [ ] "Sniper!"
+- [ ]
+- [ ] Leaderboard class sentry buster.png  Sentry Buster
+- [ ]
+- [ ] Incoming
+- [ ]
+- [ ] "Sentry Buster!"
+- [ ]
+- [ ] Destroyed'
+- [ ]
+- [ ] "Sentry Buster down!"
+- [ ]
+- [ ] Bomb dropped.png  Bomb dropped
+- [ ]
+- [ ] "Bomb bot's down."
+- [ ] "Bomb's clear."
+- [ ]
+- [ ] While in Alert Zone
+- [ ]
+- [ ] "Phew, that was close."
+- [ ]
+- [ ] Bomb carried.png  Bomb picked up
+- [ ]
+- [ ] "Bomb!"
+- [ ] "They got a bomb!"
+- [ ] "Another bomb!"
+- [ ]
+- [ ] Bomb carrier defense.png  Bomb carrier upgrades
+- [ ]
+- [ ] "That bomb bot's gettin' mean."
+- [ ] "That bomb bot's gettin' meaner, boys!"
+- [ ]
+- [ ] Hud mvm bomb upgrade boss.png  Giant Robot
+- [ ]
+- [ ] Deployed
+- [ ]
+- [ ] "Mighty robot!"
+- [ ] "Big damn robot!"
+- [ ]
+- [ ] Picks up bomb
+- [ ]
+- [ ] "Big robot's got the bomb, boys!"
+- [ ]
+- [ ] Leaderboard class tank.png  Tank
+- [ ]
+- [ ] Incoming
+- [ ]
+- [ ] "Taaank!"
+- [ ]
+- [ ] In Alert Zone
+- [ ]
+- [ ] "Tank's droppin' a bomb."
+- [ ]
+- [ ] Attacking
+- [ ]
+- [ ] "Shoot that Tank!"
+- [ ]
+- [ ] Destroyed
+- [ ]
+- [ ] "Wooo!"
+- [ ]
+- [ ] Health dead.png  Teammate is killed
+- [ ]
+- [ ] "Scout's a goner."
+- [ ] "Soldier's a goner."
+- [ ] "Pyro's a goner."
+- [ ] "Demo's a goner."
+- [ ] "Heavy's a goner."
+- [ ] "Engie's a goner."
+- [ ] "Medic's a goner."
+- [ ] "Sniper's a goner."
+- [ ] "Spy's a goner."
+- [ ]
+- [ ] Health dead.png  All other teammates are dead
+- [ ]
+- [ ] "Guess it's up to me now."
+- [ ]
+- [ ] Upon being revived with a Reanimator
+- [ ]
+- [ ] "Much obliged, Doc!"
+- [ ] "I ain't got time to die!"
+- [ ] "Being dead just got me mad!"
+- [ ]
+- [ ] Mvm navicon.png  Miscellaneous
+- [ ]
+- [ ] "I will send every damn one of you back to robot hell!"
+- [ ] "When y'all meet your maker, tell him to build you some guts next time."
+- [ ]
+- [ ] Mannhattan specific
+- [ ] Gate responses
+- [ ]
+- [ ] Robots attacking
+- [ ]
+- [ ] "The robots are taking the gate!"
+- [ ] "Robots are attacking the gate!"
+- [ ] "Robots at the gate, boys!"
+- [ ]
+- [ ] Robots take gate
+- [ ]
+- [ ] "Aw, hell! The robots took the gate!"
+- [ ]
+- [ ] After a wave
+- [ ] Achieved.png  Won
+- [ ]
+- [ ] "Yee, we did it, boys!"
+- [ ] "Well, I reckon that's that."
+- [ ] "Robot ain't been built can't get shot."
+- [ ] "Wooohooo!"
+- [ ]
+- [ ] Killicon skull.png  Lost
+- [ ]
+- [ ] "Damn robots went and got me mad."
+- [ ] "Awww. Hell."
+- [ ] "Hell, boys, we better man up in a big damn hurry."
+- [ ]
+- [ ] Receiving a Killstreak Kit
+- [ ]
+- [ ] Common loot
+- [ ]
+- [ ] "Not bad. Not bad at all."
+- [ ] "That works."
+- [ ]
+- [ ] Rare loot
+- [ ]
+- [ ] "Damn!"
+- [ ] "Hot damn!"
+- [ ] "Now that is just dynamite!"
+- [ ] "Hmm, damn!"
+- [ ]
+- [ ] Godlike loot
+- [ ]
+- [ ] "Oh my God."
+- [ ] [Whispering] "It's perfect."
+- [ ] [Whispering] "It's beautiful.
+- [ ]
+
+### Versus Saxton Hale responses
+
+- [ ]
+- [ ] Note: Voicelines for this mode were provided by James McGuinn.
+- [ ] Setup.png  Setup
+- [ ]
+- [ ] "Some like to fight harder, I like to fight smarter!"
+- [ ] "Some like to fight harder! I like to fight smarter!"
+- [ ] "You may build your body by lifting weights, Hale! I build my body by lifting heavy machinery!"
+- [ ] "You know, that big fellow over there reminds me of my grandfather."
+- [ ] "Mr. Hale, you, sir, are about to have a real bad day!"
+- [ ] "Wait, if beer is called liquid bread and teleporting bread infects it with tumors, does that mean...?" (Reference to Expiration Date)
+- [ ]
+- [ ] VSH Saxton Hale Model.png  Saxton location
+- [ ]
+- [ ] Above
+- [ ]
+- [ ] "Above ya!"
+- [ ] "Above ya!"
+- [ ] "Watch the skies, feller!"
+- [ ] "Up in the sky, dummy!"
+- [ ] "Look out, boys, it's a Hale-storm!"
+- [ ]
+- [ ] Behind
+- [ ]
+- [ ] "Behind ya!"
+- [ ] "Watch out behind ya!"
+- [ ] "Behind ya!"
+- [ ]
+- [ ] Contact
+- [ ]
+- [ ] "He's over there, boys!"
+- [ ] "He's over there, boys!"
+- [ ] "He's over there, boys!
+- [ ]
+- [ ] Leaderboard class medic.png  Medic status
+- [ ]
+- [ ] "We have no Medic, boys!"
+- [ ] "Looks like the only Medic who's joined us today is my Dispenser!"
+- [ ] "Looks like our Medic decided to stay behind!"
+- [ ]
+- [ ] Medic is dead
+- [ ]
+- [ ] "Darn it! No Medics left!"
+- [ ] "Medic's dead! Everyone, gather near the Dispenser!"
+- [ ]
+- [ ] Wall climb
+- [ ]
+- [ ] "Giddyup!"
+- [ ] "Giddyup!"
+- [ ] "We call this higher education!"
+- [ ] "Wall climbing!"
+- [ ] "If I'd known we were climbing walls, I would have brought a glass of lemonade!"
+- [ ]
+
+### Halloween / Full Moon responses
+
+- [ ] Helltower responses
+- [ ] Gette it Onne!.png  Round start
+- [ ]
+- [ ] "Let's get that dead man movin'!"
+- [ ] "Let's get this buzzard bait in a hole, boys!"
+- [ ] "Push that damn old man straight to damn hell!"
+- [ ] "Let's get this damn old man to hell!"
+- [ ]
+- [ ] BLU Bombcart.png  Pushing the cart
+- [ ]
+- [ ] "Push the dead man, boys!"
+- [ ] "Push! Push! Push!"
+- [ ] "Keep pushin' that dead man!"
+- [ ]
+- [ ] BLU Bombcart.png  Witching Hour: The bridge appears
+- [ ]
+- [ ] "The bridge is down, boys! Get while the gettin's good!"
+- [ ] "It's the Witchin' Hour, boys!"
+- [ ] "The bridge is down! Go, go, go!"
+- [ ]
+- [ ] Miscellaneous
+- [ ] Backpack Fancy Spellbook.png  Collected rare spell
+- [ ]
+- [ ] "I am a god!"
+- [ ]
+- [ ] Backpack Fancy Spellbook.png  Reacting to rare spell
+- [ ]
+- [ ] "Move, move, move!"
+- [ ] "What dumb son of a bitch cast that?"
+- [ ]
+- [ ] Backpack Spellbook Magazine.png  Casting spells
+- [ ]
+- [ ] "Caputus crepitus!"
+- [ ] "Pactum diabolus!"
+- [ ] "Seismela tremoro!"
+- [ ] "Barpo kabalto!"
+- [ ] "Barpo invisium!"
+- [ ] "Imputum fulmenus!"
+- [ ] "Invokum Monoculus!"
+- [ ] "Amplus tripudio!"
+- [ ] "Paidum celeris!"
+- [ ] "Ipsum instantarium!"
+- [ ] "Deus invictus!"
+- [ ] "Mortis animataris!"
+- [ ]
+
+### Item-related responses
+
+- [ ] Magical Mercenary With Magical Mercenary equipped
+- [ ] These responses override the default responses for that category.
+- [ ] Dominating.png  Domination
+- [ ]
+- [ ] "Dominated. By a unicorn. You are pathetic, son."
+- [ ] "You just got dominated, pink pony style."
+- [ ] "Dominated! By a man in a pink wig! That is some shame right there."
+- [ ]
+- [ ] Gette it Onne!.png  Round start
+- [ ]
+- [ ] "Unicorn up, boys!"
+- [ ] "Yippee-ki-unicorn, boys!"
+- [ ]
+- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
+- [ ]
+- [ ] "I am a pink pony god!"
+- [ ]
+- [ ] Lvl3dispenser.png  Building a Dispenser
+- [ ]
+- [ ] "Unicorn, erectin' a dispenser!"
+- [ ]
+- [ ] Healthico.png  Healed by Medic
+- [ ]
+- [ ] "I feel like a brand new unicorn, doc!"
+- [ ]
+- [ ] Nemesis RED.png  Revenge kill
+- [ ]
+- [ ] "That is unicorn justice, son."
+- [ ] "You ladies shoulda oughta brought some unicorns with ya."
