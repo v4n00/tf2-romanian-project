@@ -203,262 +203,168 @@
 - [ ] "If ya done it, it ain't braggin'!" - "Vai de puța mea, ce ai construit aici nenică?"
 - [ ] "You're all hardhat and no cattle." - "Te duc la muie, pălarie de cap de pulă!"
 - [ ] "You shoulda oughta brought more gun, son." - "Trebuia să aduci mai multă armă, băiete!"
-- [ ]
-- [ ] Leaderboard class medic.png  Dominating a Medic
-- [ ]
-- [ ] "Doctor! I am the better man!"
-- [ ] "Guess they didn't teach you to duck in doctor school!"
-- [ ] "Keep comin' at me, doctor; eventually y'all gonna rustle up some sense."
-- [ ] "Next time, tend to your own knittin', sawbones."
-- [ ] "Sell your tonics elsewhere, miracle man."
-- [ ] "You must be a doctor, 'cause you just saw the extent of my patience!"
-- [ ] "I'm a killer of men, doc. That is the God's honest truth."
-- [ ] "Slap a poultice on that, doc! (laughs sarcastically)"
-- [ ]
-- [ ] Leaderboard class sniper.png  Dominating a Sniper
-- [ ]
-- [ ] "Ya oughta stand back a little more, like from me and my machines."
-- [ ] "Looks like that there just weren't the place you oughta be standin'!"
-- [ ] "Dominated, campground."
-- [ ] "You shoulda oughta stayed back at your little campsite."
-- [ ] "Nobody likes a squatter!"
-- [ ] "I just rode you out on a rail, down under."
-- [ ] "Aw, now ya don't look like a happy camper."
-- [ ] "Down under? More like, six feet down under."
-- [ ]
-- [ ] Leaderboard class spy.png  Dominating a Spy
-- [ ]
-- [ ] "Now just stop tryin' ta mess with my contraptions."
-- [ ] "It ain't gettin' any harder for me to kill ya."
-- [ ] "You know where ya oughta hide next time? Back in France."
-- [ ] "Dominated, you turncoat."
-- [ ] "Dominated, you snake!"
-- [ ] "This skunk's startin' to smell."
-- [ ] "Slither on back to hell, coward!"
-- [ ] "That's what my daddy taught me to do to backstabbers."
-- [ ] "You're a looooooong way from France, boy."
-- [ ] "Don't go meddlin' in my business."
-- [ ] "You are a coward and a scoundrel!"
-- [ ] "If y'all had more gadgets for killin' , you wouldn't need so many for hidin'."
-- [ ] "I just beat on your sneaky ass like a mule, boy!"
-- [ ]
-- [ ] Nemesis RED.png  Revenge kill
-- [ ]
-- [ ] "Hee hee... Yee-haw!"
-- [ ] "Woooeee!"
-- [ ] "Cream Gravy!"
-- [ ] "Yippekeeyah-heeyapeeah-kayoh!"
-- [ ] "Ah, good night, Irene!"
-- [ ] (Evil Laughter 1)
-- [ ] (Evil Laughter 2)
-- [ ] (Evil Laughter 3)
-- [ ] (Evil Laughter 4)
-- [ ] (Happy Laughter 1)
-- [ ] (Happy Laughter 2)
-- [ ] (Happy Laughter 3)
-- [ ] (Long Laughter)
-- [ ] "Gutless."
-- [ ] "You ladies shoulda' oughta' brought some menfolk with ya."
-- [ ] "I'm done playin' games with you, boy."
-- [ ] "You were gettin' too big for your britches"
-- [ ] "That'll cut'cha back down to size."
-- [ ]
+- [ ] "Doctor! I am the better man!" - "Doctore, poți să-mi faci ceva la disfuncția asta erectilă?"
+- [ ] "Guess they didn't teach you to duck in doctor school!" - "Doctore, tot iese ceva alb pe puță, crezi că e ejaculare prematură!"
+- [ ] "Keep comin' at me, doctor; eventually y'all gonna rustle up some sense." - "Doctore, am luat examenul de prostată?"
+- [ ] "Next time, tend to your own knittin', sawbones." - "Doctore, cum învăț pentru examenul de prostată?"
+- [ ] "Sell your tonics elsewhere, miracle man." - "Doctore, vinzi titan gel?"
+- [ ] "You must be a doctor, 'cause you just saw the extent of my patience!" - "Ce se-ntâmpla doctore?"
+- [ ] "I'm a killer of men, doc. That is the God's honest truth." - "Băi doctore, am o problemă cu pula!"
+- [ ] "Slap a poultice on that, doc! (laughs sarcastically)" - "Nu mi se mai scoală pula, doctore, ce pot să fac?"
+- [ ] "Ya oughta stand back a little more, like from me and my machines." - "Te uiți cu acea lunetă la cum o fut pe nevastă-ta?"
+- [ ] "Looks like that there just weren't the place you oughta be standin'!" - "Te-ai uitat la mine când o fut pe nevastă-mea?"
+- [ ] "Dominated, campground." - "Te-am dominat, australian cu nevastă cangur!"
+- [ ] "You shoulda oughta stayed back at your little campsite." - "Stai la cort, că vin să-ți fut nevasta!"
+- [ ] "Nobody likes a squatter!" - "Nevastă-mea nu vrea să te fută!"
+- [ ] "I just rode you out on a rail, down under." - "Te-am futut ca pe un cangur, australianule!"
+- [ ] "Aw, now ya don't look like a happy camper." - "Vrei să ne futem în patru?"
+- [ ] "Down under? More like, six feet down under." - "Te uiți cu luneta la cum nevastă-mea se fute cu iubitul ei?"
+- [ ] "Now just stop tryin' ta mess with my contraptions." - "Nu te mai juca cu nevastă-mea!"
+- [ ] "It ain't gettin' any harder for me to kill ya." - "Nu e greu să te omor, e greu să te fut!"
+- [ ] "You know where ya oughta hide next time? Back in France." - "Te-ai ascunde în Franța, că acolo e nevasta-mea!"
+- [ ] "Dominated, you turncoat." - "Te-am dominat, curvă!"
+- [ ] "Dominated, you snake!" - "Te-am dominat, șarpe francez!"
+- [ ] "This skunk's startin' to smell." - "Miroși a nevastă-mea!"
+- [ ] "Slither on back to hell, coward!" - "Du-te înapoi la nevastă-mea!"
+- [ ] "That's what my daddy taught me to do to backstabbers." - "Asta mi-a învățat tata să fac cu curvele!"
+- [ ] "You're a looooooong way from France, boy." - "Ești departe de nevasta-mea, puță!"
+- [ ] "Don't go meddlin' in my business." - "Nu te mai băga în treburile mele, că te fut!"
+- [ ] "You are a coward and a scoundrel!" - "Ești un laș și un hoț, mai ai și puța mică!"
+- [ ] "If y'all had more gadgets for killin' , you wouldn't need so many for hidin'." - "Dacă ai avea mai multe ghegeturi pentru futut, nu ai mai avea nevoie de atâtea pentru ascuns!"
+- [ ] "I just beat on your sneaky ass like a mule, boy!" - "Te-am omorât cu pula, băiete!"
+- [ ] "Hee hee... Yee-haw!" - "Mi-am luat puța înapoi, blegule!"
+- [ ] "Woooeee!" - "Urăsc negrii!"
+- [x] "Cream Gravy!"
+- [x] "Yippekeeyah-heeyapeeah-kayoh!"
+- [x] "Ah, good night, Irene!"
+- [x] ~~(Evil Laughter 1)~~
+- [x] ~~(Evil Laughter 2)~~
+- [x] ~~(Evil Laughter 3)~~
+- [x] ~~(Evil Laughter 4)~~
+- [x] ~~(Happy Laughter 1)~~
+- [x] ~~(Happy Laughter 2)~~
+- [x] ~~(Happy Laughter 3)~~
+- [x] ~~(Long Laughter)~~
+- [ ] "Gutless." - "N-ai coaie!"
+- [ ] "You ladies shoulda' oughta' brought some menfolk with ya." - "Omoară-ma, nu te ține, n-ai coaie!"
+- [ ] "I'm done playin' games with you, boy." - "N-ai sânge-n coaie!"
+- [ ] "You were gettin' too big for your britches" - "Bag pula că o să mă masturbez în fața voastră!"
+- [ ] "That'll cut'cha back down to size." - "Este ziua în care îmi tai prepuțul!"
 
 ### Event-related responses
 
-- [ ] Gette it Onne!.png  Round start
-- [ ]
-- [ ] "Yaaaaaaagh!"
-- [ ] "Cowboy up!"
-- [ ] "Move 'em out!"
-- [ ] "Giddy up!"
-- [ ] "Heeeeeeyaaah!"
-- [ ] "Hehee, yeeeehaaaaw!"
-- [ ]
-- [ ] Item icon Eyelander.png  Sudden Death
-- [ ]
-- [ ] "Boooooo!"
-- [ ] "Grrrrrrrr..."
-- [ ] "Come on, fellas!"
-- [ ] "Ah, good night, Irene!"
-- [ ]
-- [ ] Killicon skull.png  Stalemate
-- [ ]
-- [ ] "That just ain't right!"
-- [ ] "Now I've seen everything!"
-- [ ] "Naahhh..."
-- [ ]
-- [ ] Killicon fire.png  Set on fire
-- [ ]
-- [ ] "Fire, Fire! Ow oh oh oh-grr fire!"
-- [ ] "Fire!"
-- [ ] "I'm burnin' up."
-- [ ]
-- [ ] Health dead.png  On death by weapon and/or critical hit
-- [ ]
-- [ ] (Dying scream 1)
-- [ ] (Dying scream 2)
-- [ ] (Dying scream 3)
-- [ ] (Dying scream 4)
-- [ ] (Dying scream 5)
-- [ ] (Dying scream 6)
-- [ ]
-- [ ] Bleed drop.png  Severe pain
-- [ ]
-- [ ] (Groan 1)
-- [ ] (Groan 2)
-- [ ] (Groan 3)
-- [ ] (Whimper 1)
-- [ ] (Whimper 2)
-- [ ] (Whimper 3)
-- [ ] (Whimper 4)
-- [ ]
-- [ ] Bleed drop.png  Sharp pain
-- [ ]
-- [ ] (Grunt 1)
-- [ ] (Grunt 2)
-- [ ] (Grunt 3)
-- [ ] (Grunt 4)
-- [ ] (Grunt 5)
-- [ ] (Grunt 6)
-- [ ] (Grunt 7)
-- [ ] (Grunt 8)
-- [ ]
-- [ ] Item icon Jarate.png  Hit by Gas Passer, Jarate, Mad Milk, Mutated Milk, or Self-Aware Beauty Mark
-- [ ]
-- [ ] "That just ain't right!"
-- [ ] "Now I've seen everything!"
-- [ ] "Oh, ya yellow-bellied gutless coward!"
-- [ ]
-- [ ] Telespin.png  Teleportation
-- [ ]
-- [ ] "Much obliged, pardner."
-- [ ] "Thanks for the ride, pardner!"
-- [ ]
-- [ ] Healthico.png  Healed by Medic
-- [ ]
-- [ ] "You're alright Doc."
-- [ ] "'Preciate it, Doc."
-- [ ]
-- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
-- [ ]
-- [ ] "Git along there, little dogies!"
-- [ ] "Why don't you all get along before one of you gets hurt?"
-- [ ] "Let's do this Texas style!"
-- [ ]
-- [ ] Lvl3dispenser.png  Building a Dispenser
-- [ ]
+- [x] "Yaaaaaaagh!"
+- [x] "Cowboy up!"
+- [x] "Move 'em out!"
+- [x] "Giddy up!"
+- [x] "Heeeeeeyaaah!"
+- [x] "Hehee, yeeeehaaaaw!"
+- [x] "Boooooo!"
+- [x] "Grrrrrrrr..."
+- [x] "Come on, fellas!"
+- [x] "Ah, good night, Irene!"
+- [ ] "That just ain't right!" - "Coaie, pe bune?"
+- [ ] "Now I've seen everything!" - "Mă duc la sală..."
+- [ ] "Naahhh..." - "Na coaie, situație!"
+- [ ] "Fire, Fire! Ow oh oh oh-grr fire!" - "Fooooc, mi se topește puțaaa!"
+- [ ] "Fire!" - "Ard, mă cac pe mine!"
+- [ ] "I'm burnin' up." - "Mă topesc, piromanule, ajută-mă!"
+- [x] ~~(Dying scream 1)~~
+- [x] ~~(Dying scream 2)~~
+- [x] ~~(Dying scream 3)~~
+- [x] ~~(Dying scream 4)~~
+- [x] ~~(Dying scream 5)~~
+- [x] ~~(Dying scream 6)~~
+- [x] ~~(Groan 1)~~
+- [x] ~~(Groan 2)~~
+- [x] ~~(Groan 3)~~
+- [x] ~~(Whimper 1)~~
+- [x] ~~(Whimper 2)~~
+- [x] ~~(Whimper 3)~~
+- [ ] (Whimper 4) - "M-am bășit!"
+- [x] ~~(Grunt 1)~~
+- [x] ~~(Grunt 2)~~
+- [x] ~~(Grunt 3)~~
+- [x] ~~(Grunt 4)~~
+- [x] ~~(Grunt 5)~~
+- [x] ~~(Grunt 6)~~
+- [x] ~~(Grunt 7)~~
+- [ ] (Grunt 8) - "M-am căcat pe mine!"
+- [x] "That just ain't right!"
+- [x] "Now I've seen everything!"
+- [ ] "Oh, ya yellow-bellied gutless coward!" - "Cine pula mea s-a pișat pe mine?"
+- [ ] "Much obliged, pardner." - "Mulțumesc pentru nevastă!"
+- [ ] "Thanks for the ride, pardner!" - "Teleportatorul ăsta e ca nevastă-mea, satisface toată echipa!"
+- [ ] "You're alright Doc." - "Doctore, dacă aș fi ghei, te-aș fute!"
+- [ ] "'Preciate it, Doc." - "Doctore, îți sunt dator cu o muie!"
+- [ ] "Git along there, little dogies!" - "O să vă dau la muie de n-o să vă mai atingeți de nevastă-mea!"
+- [ ] "Why don't you all get along before one of you gets hurt?" - "Cine nu-i gata, îl fut cu justiția!"
+- [x] "Let's do this Texas style!"
 - [ ] "Dispenser going up." - "Dozatorul se construiește."
 - [ ] "Erectin' a Dispenser." - "Erectez un dozator."
 - [ ] "Sentry going up." - "Santinela se construiește."
 - [ ] "Buildin' a Sentry." - "Construiesc o santinelă."
 - [ ] "Teleporter comin' right up." - "Erectez un teleportator."
 - [ ] "Teleporter goin' up." - "Contruiesc teleportatorul."
-- [ ]
-- [ ] Building icon Metal.png  Packing up a building
-- [ ]
-- [ ] "Packin' up!"
-- [ ] "Movin' out!"
-- [ ] "I'm movin' this!"
-- [ ]
-- [ ] Building icon Metal.png  Moving a building
-- [ ]
-- [ ] "Heavy load comin' through!"
-- [ ] "Outta mah way! Outta mah way!"
-- [ ]
-- [ ] Backpack PDA builder.png  Replanting a building
-- [ ]
-- [ ] "That was gettin' heavy!"
-- [ ] "That there wasn't gettin' any lighter."
-- [ ] "Phew!"
-- [ ] "Go on, git!"
-- [ ]
-- [ ] Killicon electro sapper.png  Dispenser sapped by enemy Spy
-- [ ]
+- [ ] "Packin' up!" - "Mut căcatu ăsta mai sus!"
+- [ ] "Movin' out!" - "Îmi mut căcaturile!"
+- [ ] "I'm movin' this!" - "Timpu' să mut căcatu!"
+- [ ] "Heavy load comin' through!" - "Dădeți-vă că vin cu coxu!"
+- [ ] "Outta mah way! Outta mah way!" - "Dădeți-vă că vin cu iarba!"
+- [ ] "That was gettin' heavy!" - "Mamă coaie câte ge-uri am cărat!"
+- [ ] "That there wasn't gettin' any lighter." - "M-am coxat!"
+- [ ] "Phew!" - "Mă doare pula!"
+- [ ] "Go on, git!" - "Oai de plm!"
 - [ ] "Spy's sappin' my Dispenser!" - "Spionul îmi fute dozatorul!"
 - [ ] "Spy's sappin' my Sentry!" - "Spionul îmi fute santinela!"
 - [ ] "Spy's sappin' my Teleporter!" - "Spionul îmi fute teleportatorul!"
 - [ ] "Dispenser down!" - "Dozatorul și-a luat muie!"
 - [ ] "Sentry down!" - "Santinela și-a luat muie!"
 - [ ] "Teleporter down!" - "Teleportatorul și-a luat muie!"
-- [ ]
-- [ ] Item icon Frontier Justice.png  After Revenge Crits activated when Sentry has scored kills recently
-- [ ]
 - [ ] "You're all about to have a real bad day!"
-- [ ] "Start prayin', boy!"
-- [ ] "Why don't you all get along before one of you gets hurt?"
-- [ ]
-- [ ] Killicon gunslinger.png  Gunslinger punch
-- [ ]
-- [ ] "Pow!"
-- [ ] "Bam!"
-- [ ] "Bap!"
-- [ ]
-- [ ] Killicon gunslinger triple punch.png  Third Gunslinger punch
-- [ ]
-- [ ] "Yee-haw!"
-- [ ] "Haaaa!"
-- [ ] "Aargh!"
-- [ ]
-- [ ] Wrangler RED.png  Wrangler cramp
-- [ ]
-- [ ] "Argh!"
-- [ ] "Hrrr!"
-- [ ]
+- [x] "Start prayin', boy!"
+- [x] "Why don't you all get along before one of you gets hurt?"
+- [ ] "Pow!" - "Bomboclat!"
+- [ ] "Bam!" - "Cox!"
+- [ ] "Bap!" - "Fortnite!"
+- [ ] "Yee-haw!" - "Skibidi!"
+- [ ] "Haaaa!" - "Rizz!"
+- [ ] "Aargh!" - "Taxa lui Fanum!"
+- [ ] "Argh!" - "Băgami-aș!"
+- [ ] "Hrrr!" - "Ce pula mea?"
 
 ### Objective-related responses
 
-- [ ] Intel red idle.png  After Capturing Intelligence
-- [ ]
-- [ ] "Hell, that was easy."
-- [ ] "That's nothin'."
-- [ ] "Weren't no thing."
-- [ ]
-- [ ] CP Captured RED.png  After capturing control point
-- [ ]
-- [ ] "We got it!"
-- [ ] "This one's ours now!"
-- [ ] "This here point's ours now!"
-- [ ]
-- [ ] CP Locked RED.png  Standing on captured control, firing weapon
-- [ ]
-- [ ] "Plant yerself on that darn point, mister!"
-- [ ] "Plant yerself on the point, mister!"
-- [ ]
-- [ ] Cross RED.png  Defense
-- [ ]
-- [ ] "Wooohooo!"
-- [ ] "Job well done."
-- [ ] "That wasn't even close."
-- [ ] "That there was a fine piece of work."
-- [ ] "Heeeyaaah!"
-- [ ]
+- [ ] "Hell, that was easy." - "Coaie ce ușor a fost!"
+- [ ] "That's nothin'." - "Pula mea e mai grea decât asta, și o am de 5 cm!"
+- [ ] "Weren't no thing." - "Nevastă-mea e mai grea decât asta!"
+- [ ] "We got it!" - "Am futu- Am luat punctul!"
+- [ ] "This one's ours now!" - "Punctul astă e cam sexy, e al nostru acum!"
+- [ ] "This here point's ours now!" - "Căcatu' asta de punct e al nostru acum!"
+- [ ] "Plant yerself on that darn point, mister!" - "Stați pe nevastă-mea, băieți!"
+- [ ] "Plant yerself on the point, mister!" - "Stați pe punct sau vă bag santinela în cur!"
+- [x] "Wooohooo!"
+- [x] "Job well done."
+- [x] "That wasn't even close."
+- [x] "That there was a fine piece of work."
+- [x] "Heeeyaaah!"
 
 ### Duel-related responses
 
-- [ ] Backpack Dueling Mini-Game.png  Starting a duel
-- [ ]
-- [ ] "Let's do this Texas style."
-- [ ] "You and me, pardner."
-- [ ] "You and me, hoss."
-- [ ]
-- [ ] Duel RED.png  Duel accepted
-- [ ]
-- [ ] "Giddy up!"
-- [ ] "Heck yes!"
-- [ ] "I'm gonna beat you like a rented mule, boy."
-- [ ] "I'm gonna tear you down, junior!"
-- [ ] "Start prayin', boy!"
-- [ ] "Come here, sissy!"
-- [ ] "I'm gonna lay you out!"
-- [ ]
-- [ ] Duel BLU.png  Duel rejected
-- [ ]
-- [ ] "You are a coward and a scoundrel!"
-- [ ] "Naahhh..."
-- [ ] "That there is just a sad display, boy."
-- [ ] "Boooooo!"
-- [ ]
+- [x] "Let's do this Texas style."
+- [x] "You and me, pardner."
+- [x] "You and me, hoss."
+- [x] "Giddy up!"
+- [x] "Heck yes!"
+- [x] "I'm gonna beat you like a rented mule, boy."
+- [x] "I'm gonna tear you down, junior!"
+- [x] "Start prayin', boy!"
+- [x] "Come here, sissy!"
+- [x] "I'm gonna lay you out!"
+- [x] "You are a coward and a scoundrel!"
+- [x] "Naahhh..."
+- [x] "That there is just a sad display, boy."
+- [x] "Boooooo!"
 
 ## Not planned
 
