@@ -65,53 +65,41 @@
 - [ ] "I need a hand defending here!" - "Mă ajută cineva să apăr?"
 - [ ] "Get over here ya yobbos and help me defend!" - "Hai bă, că îmi dau drumu' încurând!"
 - [ ] "Help me pin this down!" - "Ajutați-mă să-l prind!"
-- [ ]
-- [ ] "Help me capture this bloody thing!"
-- [ ] "Get over here and help me capture!"
-- [ ] "Get on the point, wanker!"
-- [ ] "Come stand on the point, ya bloody wuss!"
-- [ ]
-- [ ] Battle Cry - Default key: C → 2
-- [ ]
+- [ ] "Help me capture this bloody thing!" - "Ajutați-mă să prindem puța asta!"
+- [ ] "Get over here and help me capture!" - "Hai bă pe punct, că mă plictisesc!"
+- [ ] "Get on the point, wanker!" - "Treceți pe punct sau vă scuip între ochi!"
+- [ ] "Come stand on the point, ya bloody wuss!" - "Pe punct, pe... PUNCT!"
 - [ ] "Let's have a go at it." - "Mă mărginesc!"
 - [ ] "Get to it!" - "Mă joc barbut pe nucile mele!"
 - [ ] "Yaaaagh!" - "Cineva să-mi miroasă nucile!"
 - [ ] "Go on then, mates!" - "Nucile astea!"
 - [ ] "God Save the Queen!" - "Lujerului!"
 - [ ] "Give 'em a gob full!" - "Am devenit românia!"
-- [ ] Renamed and/or described stock weapon, or non-stock weapon currently drawn.
-- [ ] "Ahh, she's a beaut."
-- [ ] "Hmmm, have a gander at this little beauty."
-- [ ] "Take a butcher's at this." (Butcher's hook - Cockney rhyming slang for "look")
-- [ ] "Hmmm, I reckon this'll come in handy."
-- [ ] "Now this is a nice weapon."
-- [ ] "This thing looks bloody useful."
-- [ ] "*laughs* It's like Christmas morning."
-- [ ] "Take a gander at this, little princess."
-- [ ] While aiming at an enemy, melee weapon equipped:
-- [ ] "Now this is a knife!"
-- [ ] "Let's have a go, ya mug!"
-- [ ] "Ready to meet sharpy?!"
-- [ ] "I'm gonna carve you a new cake hole!"
-- [ ] "Let's see how much blood's in ya!"
-- [ ] "Come on!"
-- [ ] "Stabbin' time!"
-- [ ] "Stab, stab, stab!"
-- [ ] "I'm gonna cut a smile into ya!"
-- [ ]
-- [ ] Cheers - Default key: C → 3
-- [ ]
-- [ ] "Yah!"
-- [ ] "Wicked!"
-- [ ] "Aces!"
+- [ ] "Ahh, she's a beaut." - "Sunt campionul la mărginit!"
+- [ ] "Hmmm, have a gander at this little beauty." - "Eu cred că mărginitul e căprit!"
+- [ ] "Take a butcher's at this." - "Am muiat prea mult și acum pot să bag limba pe nări!"
+- [ ] "Hmmm, I reckon this'll come in handy." - "Hai să facem looksmaxing!"
+- [ ] "Now this is a nice weapon." - "Arma mă-tii!"
+- [ ] "This thing looks bloody useful." - "Asta arată de parcă pute!"
+- [ ] "*laughs* It's like Christmas morning." - "O fut pe zâna măseluță!"
+- [ ] "Take a gander at this, little princess." - "Păcat ca nu sunt evreu!"
+- [ ] "Now this is a knife!" - "Acum, ăsta e un cuțit bun ca să tai niște preupuțuri!"
+- [ ] "Let's have a go, ya mug!" - "Hai să vedem cine are pula mai mare!"
+- [ ] "Ready to meet sharpy?!" - "Ești gata să mănânci pula?"
+- [ ] "I'm gonna carve you a new cake hole!" - "O să-ți fac o gaură nouă în cur!"
+- [ ] "Let's see how much blood's in ya!" - "O să-mi vând scamele din buric!"
+- [ ] "Come on!" - "O să-mi vând scamele din chiloți!"
+- [ ] "Stabbin' time!" - "Timpu' să vă tai prepuțul!"
+- [ ] "Stab, stab, stab!" - "Muie, muie, muie!"
+- [ ] "I'm gonna cut a smile into ya!" - "Bazingen!"
+- [ ] "Yah!" - "Ya Ya Ya!"
+- [ ] "Wicked!" - "Mă doare o măsea!"
+- [ ] "Aces!" - "A sărit gardu' la național arena!"
 - [ ] "Good on ya mates!" - "Ce-i aia rubber banding?"
-- [ ] "All right!"
-- [ ] "We gave 'em a bloody drubbin'!"
-- [ ] "Bewdy!"
-- [ ] "Bloody bewd!" ("Bewd" is short for "Bewdy", Australian slang for "Beauty")
-- [ ]
-- [ ] Jeers - Default key: C → 4
-- [ ]
+- [ ] "All right!" - "Unu doi trei patru... câți negrii sunt în magazinul meu? O nu ei fură!"
+- [ ] "We gave 'em a bloody drubbin'!" - "Ce-i aia cox?"
+- [ ] "Bewdy!" - "Ce-i aia ping?"
+- [ ] "Bloody bewd!" - "Pula pula pula pula pula!"
 - [ ] "Ahh, that was rubbish!" - "Sunt retardat!"
 - [ ] "That's some shonky business right there!" - "Bijnița mea e mai mare ca a ta!"
 - [ ] "Crikey!" - "Uită-te la pula mea!"
@@ -151,3 +139,1042 @@
 - [ ] "Good on ya!" - "N-ai treabă coaie, te descurci!"
 - [ ] "Good one, mate!" - "Ești mai bun ca un cangur!"
 - [ ] "Spot on!" - "Aproape ca mi-am dat drumu'!"
+
+## Responses
+
+### Kill-related responses
+
+- [ ] "Mongrel!"
+- [ ] "Bloody bogan!" - "Țiganii dracu'!"
+- [ ] "You bloody pikers!"
+- [ ] "You're all a bunch'a'no-hopers!"
+- [ ] "All your heads look bloody twelve feet tall!"
+- [ ] "I'm gonna blow the inside of ya head all over four counties!"
+- [ ] "I'm gunnin' for ya, you mongrels!"
+- [ ] "This is gonna be a real piece of piss, you bloody fruit shop owners!"
+- [ ] "I'm gonna turn ya into colored rain!"
+- [ ] "Everything above your neck's gonna be a fine red mist!"
+- [ ] "Hold still!"
+- [ ]
+- [ ] While Scoped
+- [ ] [Whispering] "Now that was a proper bloody rootin'."
+- [ ] [Whispering] "Bloody bogan."
+- [ ] [Whispering] "You big-head wankers."
+- [ ] [Whispering] "Ya prancin' show ponies."
+- [ ] [Whispering] "D'they make them shirts for men?"
+- [ ] [Whispering] "You bloody pikers."
+- [ ] [Whispering] "You're all a bunch'a'no-hopers."
+- [ ] [Whispering] "Piss off, you mongrels."
+- [ ] [Whispering] "Piss off, you bloody pikers."
+- [ ] [Whispering] "This is gonna be a real piece of piss, you bloody fruit shop owners."
+- [ ]
+- [ ] Item icon Sydney Sleeper.png  After killing more than 1 enemy in 20 seconds with a primary weapon
+- [ ]
+- [ ] (Evil laughter 1)
+- [ ] (Evil laughter 2)
+- [ ] (Harsh, happy laughter 1)
+- [ ] (Harsh, happy laughter 2)
+- [ ] (Long laughter 1)
+- [ ] (Long laughter 2)
+- [ ] "G'day!"
+- [ ] "Wave goodbye to your head, wanker."
+- [ ] "Thanks fer standin' still, wanker!"
+- [ ]
+- [ ] Item icon Huntsman.png  After killing more than 3 enemies in 20 seconds with a primary weapon
+- [ ]
+- [ ] "You'll be needin' another use for that neck." - "O să am nevoie de gâtul vostru ca să-l fut!"
+- [ ] "You'd best keep lyin' down!" - "Nu mai treceți prin fața mea că vă fut!"
+- [ ] "Bloody piker!"
+- [ ] "You big head wankers!"
+- [ ] "You prancin' show ponies!"
+- [ ] "D'they make them shirts for men?" - "Voi o faceți cu ambele mâini?"
+- [ ] "I'm gonna plant one right between your eyes, ya punter!" - "O să-ți plantez o pulă-n cur!"
+- [ ] "Keep yubbin' that big mouth, while it's still attached to your bloody neck!" - "Nu mai da iap ca n-o să mai ai cap!"
+- [x] "Thanks, mate!"
+- [x] "Appreciate it, mate!"
+- [ ] "Ah, I'm sorry, mate." - "Scuze, patriotule, data viitoare pune-o pe mă-ta pe steag!"
+- [ ] "Standin' around like a bloody idiot!" - "Nu mai sări ca idiotu'!
+- [ ] "That helmet ain't gonna save ya." - "Șapca aia nu te salvează coaie!"
+- [ ] "That helmet's gonna make a nice bowl for ya brains!" - "O să-ți mănânc prepuțul!"
+- [ ] "Psst! (laughs evilly)" - "America e inferioară australiei!"
+- [ ] [Whispering] "Standin' around like a bloody idiot." - "Nu mai sări ca idiotu..."
+- [ ] [Whispering] "That helmet ain't gonna save ya." - "Șapca aia nu te salvează coaie..."
+- [ ] [Whispering] "That helmet's gonna make a nice bowl for ya brains." - "O să-ți mănânc prepuțul..."
+- [ ] "Piss off, big-head!" - "Mai slăbește, coaie!"
+- [ ] [Whispering] "Piss off, big-head." - "Dacă slăbești, ți se face capu mai mic! Al pulii!"
+- [ ] "That funeral ain't gonna be open casket!" - "La înmormântare o să-ți pună capac pe pulă!"
+- [ ] "Stupid bloody Spies!" - "Toate clasele sunt mai bune ca spionul!"
+- [ ] "Spies, bloody useless." - "Spionii sunt inutili!"
+- [ ] "Spy that, ya fancy bloody wuss!" - "Nu mai spiona cum mă masturbez!"
+- [ ] [Whispering] "Wuss." - "Pizda mă-tii!"
+- [ ] [Whispering] "Stupid bloody Spies." - "Toate clasele sunt mai bune ca spionul..."
+- [ ] [Whispering] "Spies, bloody useless." - "Spionii sunt inutili..."
+- [ ] [Whispering] "I see ya." - "Te văd."
+- [ ] [Whispering] "Spy that, ya fancy bloody wuss." - "Nu mai spiona cum mă masturbez..."
+
+### Domination-related responses
+
+- [ ] Dominating.png  Domination
+- [ ]
+- [ ] "You shouldn't have even gotten outta bed."
+- [ ] "You're gonna keep finding yourself belly up."
+- [ ] "This is getting too easy, mate."
+- [ ] "I'm running outta places to put holes in ya."
+- [ ] "How's about ya call it a day?"
+- [ ] "Fightin' men might not be your thing, lad."
+- [ ] "If your strategy is to build me confidence, it's working."
+- [ ] "This is getting embarrassing."
+- [ ] "How many times have you died? I'm actually getting impressed."
+- [ ] "It's only gonna get worse, mate."
+- [ ] "This is as good as you're gonna do."
+- [ ] "Bloody hell, you're awful."
+- [ ] "You got a forehead on ya like a coffee table."
+- [ ] "Now I gotta make a necklace outta your teeth, bushman's rules."
+- [ ] "Where'd I get you that time? The liver? The kidney? I'm losing track."
+- [ ] "You're making this so easy, I'm actually getting worse."
+- [ ] "I'm not done yet, mate. Not by a long shot."
+- [ ] "Let's do this again."
+- [ ] "This is just getting started."
+- [ ] "I'm just getting warmed up."
+- [ ] "Kill ya again soon, mate."
+- [ ] "I reckon you're gonna get real used to lookin' up at me."
+- [ ] "See you in five minutes."
+- [ ]
+- [ ] Leaderboard class scout.png  Dominating a Scout
+- [ ]
+- [ ] "Dom-in-ated, ya little ankle-biter!"
+- [ ] "That'll slow ya down, ya twitchy hooligan!"
+- [ ] "Dominated, ya miniature delinquent!"
+- [ ] "Couldn't skip around that, could ya? Ya precious little posey!"
+- [ ] "Gotcha, ya spastic little gremlin!"
+- [ ]
+- [ ] Leaderboard class soldier.png  Dominating a Soldier
+- [ ]
+- [ ] "I own ya, ya pickle-headed drongo!"
+- [ ] "All rockets, no brains, eh, mate?!"
+- [ ] "Take that, ya rocket-hoppin' simpleton!"
+- [ ] "Oi, lend us yer shovel, so I can dig yer grave!"
+- [ ] "Dominated, ya ploddin' potatohead!"
+- [ ] "At ease! Ha ha ha ha ha ha ha!"
+- [ ]
+- [ ] Leaderboard class pyro.png  Dominating a Pyro
+- [ ]
+- [ ] "You are a creepy, mute little bugger, ain't ya?"
+- [ ] "Nobody's gonna miss you, ya mutant!"
+- [ ] "Gotcha, ya mental defective!"
+- [ ] "That snuffed yer fire, ya filthy arsonist!"
+- [ ] "Ya know what 'dominated' means, ya bloody whackjob?!"
+- [ ]
+- [ ] Leaderboard class demoman.png  Dominating a Demoman
+- [ ]
+- [ ] "Take that, ya one-eyed drunk!"
+- [ ] "Tagged ya, ya wobblin' Scot!"
+- [ ] "Ace reflexes, ya bomb-chuckin' waste of good scotch!"
+- [ ] "You've been killed by the best, cyclops!"
+- [ ] "Gotcha, ya bomb-lobbin' wanker!"
+- [ ]
+- [ ] Leaderboard class heavy.png  Dominating a Heavy
+- [ ]
+- [ ] "Gotcha, ya pot-bellied lardass!"
+- [ ] "Thanks for the target practice, ya plump bloody freakshow!"
+- [ ] "Dodge that, ya fat jigglin' butterball!"
+- [ ] "Oi! Yer bleedin' gravy, fatso!"
+- [ ] "Thanks for bein' such a whoppin' big target, mate!"
+- [ ] "I just bagged the world's fattest man!"
+- [ ] "That gotcha, ya lard-arm simpleton!"
+- [ ]
+- [ ] Leaderboard class engineer.png  Dominating a Engineer
+- [ ]
+- [ ] "Dom-in-ated, ya cactus-eatin' egghead!"
+- [ ] "Take that, booksmarts!"
+- [ ] "Back to the drawin' board, genius!"
+- [ ] "Not so smart with yer brains outside yer head, are ya?"
+- [ ] "Here's a gadget you should build: one what stops my bullets!"
+- [ ] "You are inventin' loads of new ways to get killed by me!"
+- [ ]
+- [ ] Leaderboard class medic.png  Dominating a Medic
+- [ ]
+- [ ] "What's up, Doc?! Heh, heh, heh!"
+- [ ] "Take that, ya quack!"
+- [ ] "Quit blubberin' and take yer medicine like a man!"
+- [ ] "Too slow, medicine woman!"
+- [ ] "Sorry there, nurse, I mistook ya for an actual threat!"
+- [ ]
+- [ ] Leaderboard class sniper.png  Dominating a Sniper
+- [ ]
+- [ ] "The bullets come outta the slim end, mate!"
+- [ ] "Nice try, mate, but I'm the best!"
+- [ ] "You call that snipin'?"
+- [ ] "Dominated, ya blind-eyed bastard!"
+- [ ] "One Sniper to another, mate: Give! Up!"
+- [ ] "Bloody hell, you're awful."
+- [ ] "Where'd I get you that time? The liver? The kidney? I'm losing track."
+- [ ] "You're making this so easy, I'm actually getting worse."
+- [ ] "I'm not done yet, mate, not by a long shot."
+- [ ]
+- [ ] Leaderboard class spy.png  Dominating a Spy
+- [ ]
+- [ ] "Sneak around that, ya phony scoundrel!"
+- [ ] "Take that, ya two-faced mongrel!"
+- [ ] "Backstab that, ya snake!"
+- [ ] "Aww, did I get blood on your suit?"
+- [ ] "Cloak yer way outta that, ya filthy spook!"
+- [ ] "I! Win! Ya bloody backstabbing fraud!"
+- [ ] "I was never on your side either! Wanka!"
+- [ ]
+- [ ] Nemesis RED.png  Revenge kill
+- [ ]
+- [ ] Regular
+- [ ] "All right!"
+- [ ] "I'm a dinkum Aussie, not some bloody cartoon!"
+- [ ] "I've slept in the corpse of water buffalo tougher than you!"
+- [ ] "Piss off, you mongrels!"
+- [ ] "Piss off, you bloody pikers!"
+- [ ] "Spot on!"
+- [ ] "No worries!"
+- [ ] "Piece of piss!"
+- [ ]
+- [ ] While scoped
+- [ ] [Whispering] "I'm a dinkum Aussie, not some bloody cartoon."
+- [ ] [Whispering] "I've slept in the corpse of a water buffalo tougher than you."
+- [ ]
+- [ ] Leaderboard class scout.png  Revenge kill directed at Scout
+- [ ]
+- [ ] "Ya had a good run, ya mongrel."
+- [ ] "I'm great. You're dead. I think we're done here."
+- [ ] "How do you like that, ya snotty little mongrel?"
+- [ ]
+- [ ] Leaderboard class soldier.png  Revenge kill directed at Soldier
+- [ ]
+- [ ] "How's that bullet feel? Feel good? Huh? Huh?"
+- [ ] "Here's a touchin' story. Once upon a time you died, and I lived happily ever after. The end."
+- [ ]
+- [ ] Leaderboard class pyro.png  Revenge kill directed at Pyro
+- [ ]
+- [ ] "Thanks for the warm-up, sister."
+- [ ] "You know what you and Jane Austen have in common? You're both dead women."
+- [ ] "Oooh, got ya right in the ovary."
+- [ ]
+- [ ] Leaderboard class demoman.png  Revenge kill directed at Demoman
+- [ ]
+- [ ] "Not so smug now, are ya?"
+- [ ] "Look 'ere, pumpkin head: Yer all done."
+- [ ]
+- [ ] Leaderboard class heavy.png  Revenge kill directed at Heavy
+- [ ]
+- [ ] "I suspect you'll keep your big mouth shut now."
+- [ ] "You want to hear something funny? You're dead."
+- [ ]
+- [ ] Leaderboard class engineer.png  Revenge kill directed at Engineer
+- [ ]
+- [ ] "Take that, ya mongrel."
+- [ ]
+- [ ] Leaderboard class medic.png  Revenge kill directed at Medic
+- [ ]
+- [ ] "Hate to break it to ya, but your own team paid me to do that."
+- [ ]
+- [ ] Leaderboard class sniper.png  Revenge kill directed at Sniper
+- [ ]
+- [ ] "Go to hell, wanka."
+- [ ] "You... are... a... bloody... disgrace."
+- [ ] "Nothing personal, mate. I'm just better."
+- [ ] "Here's some advice: Next time, shoot first."
+- [ ]
+- [ ] Leaderboard class spy.png  Revenge kill directed at Spy
+- [ ]
+- [ ] "Skill always beats luck, ya weasel."
+- [ ] "What goes around comes around, ya snotty little nance."
+- [ ] "Take that, you greasy weasel."
+- [ ] "Cheatin' only gets ya so far."
+- [ ] "Ah, my God, you've been shot. Did you get a look at the handsome rogue who did it?"
+- [ ]
+
+### Event-related responses
+
+- [ ] Gette it Onne!.png  Round start
+- [ ]
+- [ ] "Let's have a go at it."
+- [ ] "Get to it!"
+- [ ] "Yaaaagh!"
+- [ ] "Go on then, mates!"
+- [ ] "God Save the Queen!"
+- [ ] "Give 'em a gob full!"
+- [ ]
+- [ ] Item icon Eyelander.png  Sudden Death
+- [ ]
+- [ ] "Ahh, that was rubbish!"
+- [ ] "That's some shonky business right there!"
+- [ ] "Crikey!"
+- [ ] "Dodgy!"
+- [ ] "Well that was a real BLOODY rootin'!"
+- [ ] "Nice goin' ya bludgers!
+- [ ] "Should've saved a bullet for some of you, blokes!"
+- [ ] "Gaaahhhh!"
+- [ ]
+- [ ] Killicon skull.png  Stalemate
+- [ ]
+- [ ] "Gah! Hear me, man? Gah!"
+- [ ] "Now that's downright embarrassing."
+- [ ] (Grumbles)
+- [ ]
+- [ ] Killicon fire.png  Set on fire
+- [ ]
+- [ ] "Fire! Grr-fire, fire!"
+- [ ] "Fire!"
+- [ ] "Grr- on fire!"
+- [ ]
+- [ ] Health dead.png  On death by melee weapon and/or critical hit
+- [ ]
+- [ ] (Dying scream 1)
+- [ ] (Dying scream 2)
+- [ ] (Dying scream 3)
+- [ ] (Dying scream 4)
+- [ ]
+- [ ] Bleed drop.png  Severe pain
+- [ ]
+- [ ] "Gah!"
+- [ ] "Yah!"
+- [ ] "Aah!"
+- [ ] "Grah!"
+- [ ]
+- [ ] Bleed drop.png  Sharp pain
+- [ ]
+- [ ] "Uh!"
+- [ ] "Oof!"
+- [ ] "Ah!"
+- [ ] "Grah!"
+- [ ]
+- [ ] Item icon Jarate.png  Hit by Gas Passer, Jarate, Mad Milk, Mutated Milk, or Self-Aware Beauty Mark
+- [ ]
+- [ ] Regular
+- [ ] (Grumble)
+- [ ] "Ah... Piss!"
+- [ ] "Argh..."
+- [ ]
+- [ ] While Scoped
+- [ ] "Bugger."
+- [ ] "Nrgh, Arrggghh..."
+- [ ] "Crikey!"
+- [ ]
+- [ ] Telespin.png  Teleportation
+- [ ]
+- [ ] "Thanks, mate!"
+- [ ] "Thanks!"
+- [ ] "Thanks for that, Truckie."
+- [ ]
+- [ ] Healthico.png  Healed by Medic
+- [ ]
+- [ ] "Thanks, mate!"
+- [ ] "'Preciate it."
+- [ ] "Thanks, doc!"
+- [ ]
+- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
+- [ ]
+- [ ] "I'm gonna blow the inside of ya head all over four counties!"
+- [ ] "I'm gunnin' for ya, you mongrels!"
+- [ ] "This is gonna be a real piece of piss, ya bloody fruit shop owners!"
+- [ ] "I'm gonna turn ya into colored rain!"
+- [ ]
+- [ ] Achieved.png  Achievement unlocked
+- [ ]
+- [ ] "That one's for me, boys!"
+- [ ] "That's how we do it in the bush!"
+- [ ] "Sniping's a good job, mate!"
+- [ ] "Right, then!"
+- [ ] "Yeah, that seems about right!"
+- [ ] "No worries!"
+- [ ] "Aces."
+- [ ] "All in a days work."
+- [ ] "I told ya sniping was a good job!"
+- [ ] "Well I'll be stuffed!"
+- [ ] "I make it look easy."
+- [ ] "Now that is how it's done!"
+- [ ] "I could do this all day."
+- [ ] "Ahh, that's apples mate."
+- [ ]
+
+### Weapon-related responses
+
+- [ ] Item icon Jarate.png  Tossing Jarate or Self-Aware Beauty Mark
+- [ ]
+- [ ] "Jarate!"
+- [ ] "Bombs away!"
+- [ ] "Heads up!"
+- [ ]
+- [ ] Killicon sniperriflehs.png  Headshot
+- [ ]
+- [ ] (Hocks and spits 1)
+- [ ] "Steady, steady!"
+- [ ] (Spits)
+- [ ] "Psst... (laughs quietly)"
+- [ ] [Whispering] "You'll be needin' another use for that neck."
+- [ ] [Whispering] "G'day."
+- [ ] [Whispering] "Piker."
+- [ ] [Whispering] "Ah, I'm sorry, mate.."
+- [ ] [Whispering] "Mongrel."
+- [ ] [Whispering] "Wave goodbye to your head, wanker."
+- [ ] [Whispering] "Thanks for standin' still, wanker."
+- [ ] (Hocks and spits 2)
+- [ ] (Hocks and spits 3)
+- [ ]
+- [ ] Leaderboard class sniper.png  Looking at enemy while scoped
+- [ ]
+- [ ] [Whispering] "Steady, steady."
+- [ ] [Whispering] "All your heads look bloody twelve feet tall."
+- [ ] [Whispering] "I'm gonna plant one right between your eyes, ya punter."
+- [ ] [Whispering] "You better hold on to your head, mate."
+- [ ] [Whispering] "I'm gonna blow the inside of ya head all over four counties."
+- [ ] [Whispering] "I'm gunnin' for ya, you mongrels."
+- [ ] [Whispering] "Keep yubbin' that big mouth, while it's still attached to your bloody neck."
+- [ ] [Whispering] "I'm gonna turn ya into colored rain."
+- [ ] [Whispering] "Everything above your neck's gonna be a fine red mist."
+- [ ] [Whispering] "Hold still."
+- [ ]
+- [ ] Item icon Kukri.png  Melee kill
+- [ ]
+- [ ] "You got blood on my knife, mate!"
+- [ ] "A little of the ol' 'chop-chop'!"
+- [ ]
+- [ ] Item icon SMG.png  SMG kill
+- [ ]
+- [ ] "(Laughs) Bloody hell, you're awful!"
+- [ ]
+- [ ] Item icon Tribalman's Shiv.png  Tribalman's Shiv kill
+- [ ]
+- [ ] "You know what yer dominatin' now? Bleedin'."
+- [ ]
+- [ ] Item icon Saxxy.png  Saxxy kill
+- [ ]
+- [ ] "You'd best keep lyin' down!"
+- [ ] (Long laughter 1)
+- [ ] (Long laughter 2)
+- [ ] (Evil laughter 1)
+- [ ] (Evil laughter 2)
+- [ ]
+
+### Objective-related responses
+
+- [ ] Intel red idle.png  After capturing Intelligence
+- [ ]
+- [ ] [Whispering] "Simple. Simple. One for me."
+- [ ] "That was too easy mate!"
+- [ ] [Calmly] "No worries."
+- [ ] "That wasn't so bad."
+- [ ] "That wasn't so hard."
+- [ ]
+- [ ] CP Captured RED.png  After capturing control point
+- [ ]
+- [ ] "This one's ours now."
+- [ ] "That was too easy, mate."
+- [ ] "We're not givin' it back."
+- [ ]
+- [ ] CP Locked RED.png  Standing on captured control point, firing weapon
+- [ ]
+- [ ] "Get on the point, wanker!"
+- [ ] "Come stand on the point, ya bloody wuss!"
+- [ ]
+- [ ] CP Neutral.png  Standing on a cappable control point, firing weapon
+- [ ]
+- [ ] "Get on the cap, mates!"
+- [ ] "Fight on the cap!"
+- [ ] "Get on the cap!"
+- [ ] "Stand on the bloody cap!"
+- [ ] "Stand on the cap, lads!"
+- [ ] "On the cap!"
+- [ ]
+- [ ] Cross RED.png  Defense
+- [ ]
+- [ ] "Wicked!"
+- [ ] "Aces!"
+- [ ] "Yaaaagh!"
+- [ ] "There ya go!"
+- [ ] "Now that was a proper bloody rootin'!"
+- [ ]
+- [ ] Payload-related responses
+- [ ] BLU Bombcart.png  Attacking: Cart goes forward
+- [ ]
+- [ ] Regular
+- [ ] "Keep that cart moving!"
+- [ ] "Keep the bloody cart moving!"
+- [ ] "Throw your backs into it, boys!"
+- [ ] "This ain't a walk-a-bout! Push that cart!"
+- [ ] "Push! That! Cart!"
+- [ ] "Keep pushing, lads!"
+- [ ] "Push, lads! Push!"
+- [ ] "Come on, then! Push!"
+- [ ] "Let's go, lads, keep pushing!"
+- [ ] "Where'd you mongrels learn to push!?"
+- [ ]
+- [ ] While scoped
+- [ ] [Whispering] "Keep that cart moving!"
+- [ ] [Whispering] "Keep the bloody cart moving!"
+- [ ] [Whispering] "Throw your backs into it, boys!"
+- [ ] [Whispering] "This ain't a walk-a-bout! Push that cart!"
+- [ ] [Whispering] "Push! That! Cart!"
+- [ ] [Whispering] "Keep pushing, lads!"
+- [ ] [Whispering] "Push, lads! Push!"
+- [ ] [Whispering] "Come on, then! Push!"
+- [ ] [Whispering] "Let's go, lads, keep pushing!"
+- [ ] [Whispering] "Where'd you mongrels learn to push!?"
+- [ ]
+- [ ] BLU Bombcart.png  Attacking: Cart goes back
+- [ ]
+- [ ] Regular
+- [ ] "Get to the cart, ya bloody idiots!"
+- [ ] "The cart's moving the wrong bloody way!"
+- [ ] "Get to the cart, boys!"
+- [ ] "That bomb ain't gonna move itself, lads!"
+- [ ] "The bomb's moving the wrong way!"
+- [ ] "The bomb, lads! Don't forget about the bomb!"
+- [ ] "Get that cart going the right way!"
+- [ ]
+- [ ] While scoped
+- [ ] [Whispering] "Get to the cart, ya bloody idiots!"
+- [ ] [Whispering] "The cart's moving the wrong bloody way!"
+- [ ] [Whispering] "Get to the cart, boys!"
+- [ ] [Whispering] "That bomb ain't gonna move itself, lads."
+- [ ] [Whispering] "That bomb's moving the wrong way!"
+- [ ] [Whispering] "The bomb, lads! Don't forget about the bomb!"
+- [ ] [Whispering] "Get that cart going the right way!"
+- [ ]
+- [ ] RED Bombcart.png  Defending: Cart goes forward
+- [ ]
+- [ ] Regular
+- [ ] "Here comes the bloody bomb!"
+- [ ] "Look out, lads; bomb's on the way!"
+- [ ] "Bugger me! The bomb's coming!"
+- [ ] "Shut your cake-holes and stop that cart!"
+- [ ] "The bomb's coming!"
+- [ ] "Here comes the cart!"
+- [ ]
+- [ ] While Scoped
+- [ ] [Whispering] "Here comes the bloody bomb!"
+- [ ] [Whispering] "Look out, lads, bomb's on the way!"
+- [ ] [Whispering] "Bugger me! The bomb's coming!"
+- [ ] [Whispering] "Shut your cake-holes and stop that cart!"
+- [ ] [Whispering] "The bomb's coming!"
+- [ ] [Whispering] "Here comes the cart!"
+- [ ]
+- [ ] RED Bombcart.png  Defending: Cart goes back
+- [ ]
+- [ ] Regular
+- [ ] "Alright, mates! The cart's moving back!"
+- [ ] "There she goes!"
+- [ ] "The cart's on its way back!"
+- [ ] "Good job, lads! The cart's going back."
+- [ ] "The cart's retreatin'!"
+- [ ] "Aces! There goes the cart!"
+- [ ] "Nice job! The bomb's moving back."
+- [ ] "The bomb's heading back!"
+- [ ]
+- [ ] While scoped
+- [ ] [Whispering] "Alright, mates. The cart's moving back.
+- [ ] [Whispering] "There she goes."
+- [ ] [Whispering] "Cart's on its way back."
+- [ ] [Whispering] "Good job, lads! The cart's going back!"
+- [ ] [Whispering] "The cart's retreatin'!"
+- [ ] [Whispering] "Aces! There goes the cart."
+- [ ] [Whispering] "Nice job! The bomb's moving back."
+- [ ] [Whispering] "Alright. The bomb's heading back!"
+- [ ]
+- [ ] Hoodoo Bombcart.png  Attacking: Stay close to cart
+- [ ]
+- [ ] Regular
+- [ ] "To the cart, you wankers!"
+- [ ] "Stay with the cart!"
+- [ ] "Pull up your socks and stick to the cart!"
+- [ ] "Stay near the bomb!"
+- [ ] "Stay near the bloody cart!"
+- [ ] "The cart, lads! Stick with it!"
+- [ ] "Stop mucking about and get to the cart!"
+- [ ]
+- [ ] While scoped
+- [ ] [Whispering] "To the cart, you wankers!"
+- [ ] [Whispering] "Stay with the cart!"
+- [ ] [Whispering] "Pull up your socks and stick to the cart!"
+- [ ] [Whispering] "Stay near the bomb!"
+- [ ] [Whispering] "Stay near the bloody cart!"
+- [ ] [Whispering] "The cart, lads! Stick with it!"
+- [ ] [Whispering] "Stop mucking about and get to the bomb!"
+- [ ]
+- [ ] Hoodoo Bombcart.png  Attacking: Cart has stopped
+- [ ]
+- [ ] Regular
+- [ ] "That bloody cart ain't gonna move itself!"
+- [ ] "The cart ain't moving, lads!"
+- [ ] "The bomb's just sittin' there!"
+- [ ] "The bomb ain't moving!"
+- [ ] "The cart's just sittin' there!"
+- [ ]
+- [ ] While scoped
+- [ ] [Whispering] "That bloody cart ain't gonna move itself!"
+- [ ] [Whispering] "The cart ain't moving, lads!"
+- [ ] [Whispering] "The bomb's just sittin' there!"
+- [ ] [Whispering] "The bomb ain't moving!"
+- [ ] [Whispering] "The cart's just sittin' there!"
+- [ ]
+- [ ] Lil-chewchew.png  Defending: Stop the bomb
+- [ ]
+- [ ] Regular
+- [ ] "One of you rough-types ought to stop that bomb!"
+- [ ] "Stop the bloody bomb!"
+- [ ] "Stop the cart, lads!"
+- [ ] "Don't let 'em push that bomb!"
+- [ ] "Stop the bloody bomb!"
+- [ ] "Don't let the cart through, lads!"
+- [ ]
+- [ ] While Scoped
+- [ ] [Whispering] "One of you rough-types ought to stop that bomb!"
+- [ ] [Whispering] "Stop the bloody cart!"
+- [ ] [Whispering] "Stop the bomb, lads!"
+- [ ] [Whispering] "Don't let 'em push that bomb!"
+- [ ] [Whispering] "Don't let the cart through, lads!"
+- [ ]
+
+### Duel-related responses
+
+- [ ] Backpack Dueling Mini-Game.png  Starting a duel
+- [ ]
+- [ ] "Let's have a go, ya mug!"
+- [ ] "I'm gonna carve you a new cake hole!"
+- [ ] "Let's see how much blood's in ya!"
+- [ ] "Come on!"
+- [ ]
+- [ ] Duel RED.png  Duel accepted
+- [ ]
+- [ ] "'Right, then!"
+- [ ] "Yeah, that seems about right!"
+- [ ] "I make it look easy."
+- [ ] "Get to it!"
+- [ ] "Yaaaagh!"
+- [ ] "Ready to meet sharpy?!"
+- [ ] "I'm gonna cut a smile into ya!"
+- [ ] "You better hold on to your head, mate!"
+- [ ] "Ok!"
+- [ ] "Ok mate!"
+- [ ]
+- [ ] Duel BLU.png  Duel rejected
+- [ ]
+- [ ] "Gah! Hear me, man? Gah!"
+- [ ] "Now that's downright embarrassing."
+- [ ] (Grumble)
+- [ ] "Quit blubberin' and take yer medicine like a man!"
+- [ ] "That's some shonky business right there!"
+- [ ] "Bugger!"
+- [ ] "Crikey!"
+- [ ] "Piker!"
+- [ ] "Wuss!"
+- [ ]
+
+## Not planned
+
+### Contract-related responses
+
+- [ ] Contract complete
+- [ ]
+- [ ] "Cheers, mate."
+- [ ] "Bonza." (Translation: excellent, attractive, pleasing)
+- [ ] "Aw, beaut! We did it!"
+- [ ] "It was barely a challenge."
+- [ ] "No worries."
+- [ ] "He he he. Barely broke a sweat!"
+- [ ] "Too bloody easy!"
+- [ ] "And that is how you do that!"
+- [ ]
+- [ ] Difficult contract
+- [ ]
+- [ ] "Ha ha ha! Aces!"
+- [ ] "Ha ha ha ha ha ha!"
+- [ ] "Ha ha, we did it!"
+- [ ] "Phew, well done mate!"
+- [ ] "Won't lie to you, that was a tough one!"
+- [ ] "Good to see that one done!"
+- [ ] "Good to see that back of that one!"
+- [ ]
+- [ ] Competitive Mode responses
+- [ ] Setup
+- [ ] Setup.png  First round
+- [ ]
+- [ ] "I don't make the first move, just the last one."
+- [ ] "Let's give 'em hell, lads!"
+- [ ] "No worries! The Sniper's here."
+- [ ] "Let's win this one, lads!"
+- [ ] "Let's win this game, lads!"
+- [ ] "Let's win this match!"
+- [ ] "Ready and waiting, mate."
+- [ ] "Let's get to work."
+- [ ] "Let's show these no-hopers how a Sniper wins a game!"
+- [ ] "Let's win this bloody match, boys!"
+- [ ] "Who wants to win this bloody game?"
+- [ ] "I'm ready when you are."
+- [ ]
+- [ ] Rare
+- [ ]
+- [ ] "I've got hand-load precision rounds effective to a thousand yards. Let's get this done!"
+- [ ] "I love this job. Sunshine's free, bullets are cheap, and everybody's got a head."
+- [ ] "Never complain, never explain, aim for the brain."
+- [ ] "Sniper's not hard, mate. You just need a good eye, a steady hand, and perfect bloody aim."
+- [ ]
+- [ ] Competitive Mode
+- [ ]
+- [ ] "Good news lads, I watched their scrim! They all got big, bloody heads!"
+- [ ] "'Bout time we got a Sniper around here."
+- [ ] "'Bout time a Sniper showed up around here."
+- [ ] "Tell the other team to watch their heads."
+- [ ] "This team just got a lot more accurate."
+- [ ] "Good news lads, I watched their scrim! They all bunch of no-hopers!"
+- [ ] "So the goal is to kill the other team, right? I think I'll muddle through."
+- [ ]
+- [ ] 6s Only
+- [ ]
+- [ ] "'Bout time 6s got a sharpshooter."
+- [ ] "6s, eh?. Won't need more than six bullets then."
+- [ ] "'Bout time 6s got a Sniper."
+- [ ] "6s with a Sniper, eh? I guess you blokes wanna win."
+- [ ] "You know what this team could use? Five more Snipers."
+- [ ]
+- [ ] Setup.png  Previous round was a win
+- [ ]
+- [ ] "We ain't won yet!"
+- [ ] "Settle it out, lads! We ain't won yet!"
+- [ ] "We ain't through this yet! Push 'em back!"
+- [ ] "Come on, lads, we ain't through this yet! Push 'em back!"
+- [ ] "Keep up the pressure! We ain't won yet!"
+- [ ] "Don't get cocky! We ain't won yet!"
+- [ ] "Looking good! But it ain't bloody over yet!"
+- [ ] "Just like the last round boys! Let's do it again!"
+- [ ] "We got this game all sewn up, lads!"
+- [ ]
+- [ ] Rare
+- [ ]
+- [ ] "Don't run, mate! You'll just die tired!"
+- [ ] "Two lines you should never cross, mate: horizontal and vertical."
+- [ ] "Shoot straight, shoot first. That's all there is to it."
+- [ ]
+- [ ] Setup.png  Previous round was a loss
+- [ ]
+- [ ] "They ain't won the match yet!"
+- [ ] "Come on, lads! They ain't won the match yet!"
+- [ ] "Let's even this up, lads!"
+- [ ] "It ain't over yet!"
+- [ ] "Come on, lads! It ain't over yet!"
+- [ ] "Let's get in the game, lads!"
+- [ ]
+- [ ] Rare
+- [ ]
+- [ ] "Just need to adjust the crosshairs. Now we're in business."
+- [ ] "Whip it out and bottle it up, boys! We got a game to win!"
+- [ ]
+- [ ] Setup.png  Previous round was a tie
+- [ ]
+- [ ] "I don't like ties, lads!"
+- [ ] "Let's break the tie, lads!"
+- [ ] "One apiece, let's get this done!"
+- [ ] "Looks like we're tied, lads! Let's get ahead!"
+- [ ] "I never cared for ties. How's about we win this one?"
+- [ ] "Let's get this done!"
+- [ ]
+- [ ] Rare
+- [ ]
+- [ ] "Sight's steady, trigger's cold. Let's get a lead on this one."
+- [ ]
+- [ ] Outcomes
+- [ ] Match win
+- [ ]
+- [ ] "And that's a match."
+- [ ] "I knew we'd take care of that!"
+- [ ] "Nothing to it!"
+- [ ] "Ha ha ha ha ha hah!"
+- [ ] "All in a day's work!"
+- [ ] "Good work, lads!"
+- [ ] "Ha ha! We showed them, didn't we?"
+- [ ] "Job done! Let's hit the bar!"
+- [ ] "That is a match!"
+- [ ] "Ha ha! I knew we'd win!"
+- [ ] "Yeah, we did it!"
+- [ ] "Good on us, mates! We won!"
+- [ ] "And that's a match!"
+- [ ] "We weren't even trying!"
+- [ ] "Ha ha ha! Aces!"
+- [ ] "Ha ha, we did it!"
+- [ ]
+- [ ] Game win
+- [ ]
+- [ ] Casual Mode
+- [ ]
+- [ ] "Done! And done!"
+- [ ] "Done and done!"
+- [ ] "Too! Bloody! Easy!"
+- [ ] "Headshot or head home, mate!"
+- [ ] "It's the bullet you don't hear that gets you!"
+- [ ] "And that's a game!"
+- [ ] "And that's how you win a game!"
+- [ ] "Aw, beaut! We did it!"
+- [ ] "And that is how you do that."
+- [ ] "Ha ha ha ha ha!"
+- [ ]
+- [ ] Competitive Mode
+- [ ]
+- [ ] "You've got a Sniper, 'course you're gonna bloody win!"
+- [ ] "That is how you win a game!"
+- [ ] "That is how a Sniper wins a game!"
+- [ ] "'Course we won, you've got a Sniper on your team!"
+- [ ] "Ha ha ha! Told you bringing a Sniper was a good idea!"
+- [ ] "And that's a game!"
+- [ ]
+- [ ] 6s Only
+- [ ]
+- [ ] "Who said Snipers don't belong in 6s?"
+- [ ] "Put any six blokes together, you'll get a job done. Got a Sniper? You get it done right."
+- [ ]
+- [ ] Rank up
+- [ ]
+- [ ] "I like three things in this world, mate: coffee, big heads, and ranking up!"
+- [ ] "Ranking up!"
+- [ ] "Good on you, a rank up!"
+- [ ] "Rank up, well done, mate!"
+- [ ] "Hard earned and well won!"
+- [ ] "Ha ha! Looks like we're ranking up!"
+- [ ] "Good to see the back of that one!"
+- [ ] "I won't lie to you, that was a tough one!"
+- [ ] "Ranked up, did we? Nice work!"
+- [ ] "Hah, there's a nice little promotion!"
+- [ ] "A new rank? Well done!"
+- [ ] "Nice rank up!"
+- [ ] "Ha ho ho, beaut! A new rank!"
+- [ ]
+- [ ] Top scoring
+- [ ]
+- [ ] "Looks like they need to add more ranks!"
+- [ ]
+- [ ] Game summary
+- [ ]
+- [ ] "Good on ya."
+- [ ] "Good one, mate."
+- [ ] "Ha ha! Well done, son!"
+- [ ] "Ha ha ha! Nicely done!"
+- [ ] "That's how a professional gets it done!"
+- [ ] "You're better than the best, mate. You're a Sniper."
+- [ ] "That time, we got some recognition!"
+- [ ] "Best of the bloody best!"
+- [ ] "Cheers, mate!"
+- [ ] "Hmm hmm hmm. Barely broke a sweat."
+- [ ] "No worries."
+- [ ] "Too bloody easy."
+- [ ] "Phew, well done, mate!"
+- [ ]
+
+### Mann vs. Machine responses
+
+- [ ] During a wave
+- [ ] Upon being revived with a Reanimator
+- [ ]
+- [ ] "Ah! What the bloody hell just happened?"
+- [ ] "What happened?"
+- [ ] "Huhbluhbluhbluhbluhbluh! Bloody hell!"
+- [ ] "You're a miracle worker, doc!"
+- [ ]
+- [ ] Mannhattan specific
+- [ ] Gate responses
+- [ ]
+- [ ] Robots attacking
+- [ ]
+- [ ] "The robots are poundin' the bloody gate!
+- [ ] "The robots are at the bloody gate!
+- [ ]
+- [ ] Robots take gate
+- [ ]
+- [ ] "The robots took the gate!
+- [ ]
+- [ ] After a Wave
+- [ ] Receiving a Killstreak Kit
+- [ ]
+- [ ] Common loot
+- [ ]
+- [ ] "Hehehe. Nice."
+- [ ] "I will take it!"
+- [ ] "Not bad!"
+- [ ] "Well, Happy Australia Day to me."
+- [ ] "That'll bloody do!"
+- [ ] "Huh, now that's nice!"
+- [ ]
+- [ ] Rare loot
+- [ ]
+- [ ] "Whoa, hehehehe! That is bloody beautiful!"
+- [ ] "Now that is not somethin' you see everyday!"
+- [ ] "Bloody gorgeous!"
+- [ ] "Now that is the Queen's birthday right there."
+- [ ] "Come to Sniper, my little beauty."
+- [ ] "Sniper'll give you a good home, darlin'."
+- [ ] "Very, very nice!"
+- [ ] "Hehehehehehe. You don't see a lot of these!"
+- [ ]
+- [ ] Godlike loot
+- [ ]
+- [ ] "It's a miracle. It's an Australian Christmas bloody miracle!
+- [ ] "I'm rich. I'm rich! I'm filthy, bloody, stinkin' rich!"
+- [ ]
+
+### Versus Saxton Hale responses
+
+- [ ]
+- [ ] Note: Voicelines for this mode were provided by James McGuinn.
+- [ ] Setup.png  Setup
+- [ ]
+- [ ] "Time to show who the real Australian here is! You big head, wide, hairy-chest wanker!"
+- [ ]
+- [ ] VSH Saxton Hale Model.png  Saxton location
+- [ ]
+- [ ] Contact
+- [ ]
+- [ ] "He's moving to ya!"
+- [ ]
+- [ ] Leaderboard class medic.png  Medic status
+- [ ]
+- [ ] "Looks like Medic has better things to do than help."
+- [ ] "Alright, which one of you knuckleheads didn't invite our Medic!"
+- [ ]
+- [ ] Medic is dead
+- [ ]
+- [ ] "Our doc is six feet down under!"
+- [ ] "No docs left! Huh, that's not good."
+- [ ] "No doc left? I'll find a leaf and some twigs!"
+- [ ]
+- [ ] Wall climb
+- [ ]
+- [ ] "Alley oop!"
+- [ ] "Wall climbing!"
+- [ ] "See ya at the top, lads!"
+- [ ] "See ya at the top, lads!"
+- [ ] "Dibs on the rooftop!"
+- [ ] "See ya at the top, lads! Hehe, just kidding. Don't get in the way of a professional."
+- [ ]
+- [ ] Unknownweapon.png  Run
+- [ ]
+- [ ] "RUUUUUUN!"
+- [ ] "Ruuuuuuun!"
+- [ ] "Run away, run away, run away!"
+- [ ] "Outta my way, outta my way! Can't you see he's trying to kick my butt?"
+- [ ]
+
+### Halloween / Full Moon responses
+
+- [ ] Helltower responses
+- [ ] Gette it Onne!.png  Round start
+- [ ]
+- [ ] "Let's roll these bones to hell!"
+- [ ] "Let's make some bloody magic!"
+- [ ]
+- [ ] BLU Bombcart.png  Witching Hour: The bridge appears
+- [ ]
+- [ ] "Bridge is down, lads!"
+- [ ] "It's the Witchin' Hour!"
+- [ ] "Bridge is down! Let's load up!"
+- [ ] "We can get to the island! Go!"
+- [ ]
+- [ ] Miscellaneous
+- [ ] Backpack Fancy Spellbook.png  Collected normal spell
+- [ ]
+- [ ] "Ace."
+- [ ]
+- [ ] Backpack Fancy Spellbook.png  Collected rare spell
+- [ ]
+- [ ] "I am the King of Australia!"
+- [ ] "So much bloody power!"
+- [ ] "I'm a bloody god, mate!"
+- [ ] "Fan-bloody-tastic!"
+- [ ]
+- [ ] Backpack Fancy Spellbook.png  Reacting to rare spell
+- [ ]
+- [ ] "(Short scream) Everything's gone bloody crazy!"
+- [ ] (Short scream)
+- [ ] "Close your eyes! Keep the magic out!"
+- [ ] "I-It's too much! (screams)"
+- [ ] "The magic's in my bloody head!"
+- [ ] "[Quietly] It's only magic... [louder] It's only magic!"
+- [ ] "The magic's all around me! (screams)"
+- [ ]
+- [ ] Backpack Spellbook Magazine.png  Casting spells
+- [ ]
+- [ ] "Caputus crepitus!"
+- [ ] "Pactum diabolus!"
+- [ ] "Seismela tremoro!"
+- [ ] "Barpo kabalto!"
+- [ ] "Barpo invisium!"
+- [ ] "Imputum fulmenus!"
+- [ ] "Invokum Monoculus!"
+- [ ] "Amplus tripudio!"
+- [ ] "Paidum celeris!"
+- [ ] "Ipsum instantarium!"
+- [ ] "Deus invictus!"
+- [ ] "Mortis animataris!"
+- [ ]
+- [ ] Ghost Yikes!.png  Scared by a ghost
+- [ ]
+- [ ] (Scream 1)
+- [ ] (Scream 2)
+- [ ] (Scream 3)
+- [ ]
+
+### Item-related responses
+
+- [ ] Sir Shootsalot With Sir Shootsalot equipped
+- [ ] These responses override the default responses for that category.
+- [ ] Gette it Onne!.png  Round start
+- [ ]
+- [ ] "Hoot! Hoot!"
+- [ ] "Sniper owl! CHARGE!"
+- [ ] "I have an owl head!" *long scream*
+- [ ] "Owl-head Sniper! Comin' through!"
+- [ ] "Hoot!"
+- [ ] "Hoooot! Am I the only bloody owl?"
+- [ ]
+- [ ] Dominating.png  Domination
+- [ ]
+- [ ] "You and I are a lot alike, mate. Except I'm an owl, and you're dead."
+- [ ] "Dominated! Hoot!"
+- [ ] "Owl-head domination!"
+- [ ]
+- [ ] Item icon Jarate.png  Tossing Jarate
+- [ ]
+- [ ] "Owl Jarate!"
+- [ ]
+- [ ] Item icon Sniper Rifle.png  Kill with primary weapon (if scoped)
+- [ ]
+- [ ] "I love havin' an owl head!"
+- [ ] "God, I'm good at bein' an owl!"
+- [ ] "Oh, I love this owl head!"
+- [ ]
+- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
+- [ ]
+- [ ] "Hoot! HOOOOT!"
+- [ ]
+- [ ] BLU Bombcart.png  Pushing the cart
+- [ ]
+- [ ] "Push! Hoot!"
+- [ ] "Owl push!"
+- [ ]
+- [ ] Magical Mercenary With Magical Mercenary equipped
+- [ ] These responses override the default responses for that category.
+- [ ] Gette it Onne!.png  Round start
+- [ ]
+- [ ] "I'm a bloody unicorn!"
+- [ ] "Unicorn power! Am I right?!"
+- [ ]
+- [ ] Item icon Sniper Rifle.png  Kill with primary weapon (if scoped)
+- [ ]
+- [ ] "Becomin' a unicorn was the best decision I ever made."
+- [ ] "Yeah, that's pony magic."
+- [ ] "Unicorn power."
+- [ ] "Not bloody bad for a magical pony."
+- [ ] "The secret to pony magic: bullets."
+- [ ] "The unicorn queen can't ignore me now."
+- [ ]
+- [ ] BLU Bombcart.png  Attacking: Cart goes forward
+- [ ]
+- [ ] "Unicorns! Push!"
+- [ ] "Push, unicorns! Push!"
+- [ ]
+- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
+- [ ]
+- [ ] "Who wants some bloody horn?!"
