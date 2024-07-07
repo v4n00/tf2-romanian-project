@@ -144,49 +144,41 @@
 
 ### Kill-related responses
 
-- [ ] "Mongrel!"
+- [ ] "Mongrel!" - "Țigan!"
 - [ ] "Bloody bogan!" - "Țiganii dracu'!"
-- [ ] "You bloody pikers!"
-- [ ] "You're all a bunch'a'no-hopers!"
-- [ ] "All your heads look bloody twelve feet tall!"
-- [ ] "I'm gonna blow the inside of ya head all over four counties!"
-- [ ] "I'm gunnin' for ya, you mongrels!"
-- [ ] "This is gonna be a real piece of piss, you bloody fruit shop owners!"
-- [ ] "I'm gonna turn ya into colored rain!"
-- [ ] "Everything above your neck's gonna be a fine red mist!"
-- [ ] "Hold still!"
-- [ ]
-- [ ] While Scoped
-- [ ] [Whispering] "Now that was a proper bloody rootin'."
-- [ ] [Whispering] "Bloody bogan."
-- [ ] [Whispering] "You big-head wankers."
-- [ ] [Whispering] "Ya prancin' show ponies."
-- [ ] [Whispering] "D'they make them shirts for men?"
-- [ ] [Whispering] "You bloody pikers."
-- [ ] [Whispering] "You're all a bunch'a'no-hopers."
-- [ ] [Whispering] "Piss off, you mongrels."
-- [ ] [Whispering] "Piss off, you bloody pikers."
-- [ ] [Whispering] "This is gonna be a real piece of piss, you bloody fruit shop owners."
-- [ ]
-- [ ] Item icon Sydney Sleeper.png  After killing more than 1 enemy in 20 seconds with a primary weapon
-- [ ]
-- [ ] (Evil laughter 1)
-- [ ] (Evil laughter 2)
-- [ ] (Harsh, happy laughter 1)
-- [ ] (Harsh, happy laughter 2)
-- [ ] (Long laughter 1)
-- [ ] (Long laughter 2)
-- [ ] "G'day!"
-- [ ] "Wave goodbye to your head, wanker."
-- [ ] "Thanks fer standin' still, wanker!"
-- [ ]
-- [ ] Item icon Huntsman.png  After killing more than 3 enemies in 20 seconds with a primary weapon
-- [ ]
+- [ ] "You bloody pikers!" - "Pula mea, ce să mai zic!"
+- [ ] "You're all a bunch'a'no-hopers!" - "Sunteți o gramadă de no laifări!"
+- [ ] "All your heads look bloody twelve feet tall!" - "Aveți pula cât luneta!"
+- [ ] "I'm gonna blow the inside of ya head all over four counties!" - "O să-ți dau cu pula-n cap!"
+- [ ] "I'm gunnin' for ya, you mongrels!" - "Am spermă pe hanorac!"
+- [ ] "This is gonna be a real piece of piss, you bloody fruit shop owners!" - "O să vă fut în cur!"
+- [ ] "I'm gonna turn ya into colored rain!" - "O să vă fac să sugeți!"
+- [ ] "Everything above your neck's gonna be a fine red mist!" - "O să vă fac capul sașimi!"
+- [ ] "Hold still!" - "Stai pe loc ca să te fut!"
+- [ ] [Whispering] "Now that was a proper bloody rootin'." - "Asta a fost o futai bună!"
+- [ ] [Whispering] "Bloody bogan." - "Țiganii dracu'..."
+- [ ] [Whispering] "You big-head wankers." - "Toți aveți cap de pulă!"
+- [ ] [Whispering] "Ya prancin' show ponies." - "Toți sunteți niște curve!"
+- [ ] [Whispering] "D'they make them shirts for men?" - "Voi o faceți cu ambele mâini?"
+- [ ] [Whispering] "You bloody pikers." - "Pula mea, ce să mai zic... sunteți niște homalăi!"
+- [ ] [Whispering] "You're all a bunch'a'no-hopers." - "Sunteți proști? N-ați dat bacu?"
+- [ ] [Whispering] "Piss off, you mongrels." - "Pișati-vă pe voi!"
+- [ ] [Whispering] "Piss off, you bloody pikers." - "Nu mai vreau să vă văd când vă masturbați!"
+- [ ] [Whispering] "This is gonna be a real piece of piss, you bloody fruit shop owners." - "O să-mi bag o pungă de pufuleți în cur!"
+- [x] ~~(Evil laughter 1)~~
+- [x] ~~(Evil laughter 2)~~
+- [x] ~~(Harsh, happy laughter 1)~~
+- [x] ~~(Harsh, happy laughter 2)~~
+- [x] ~~(Long laughter 1)~~
+- [x] ~~(Long laughter 2)~~
+- [ ] "G'day!" - "Sărupula!"
+- [ ] "Wave goodbye to your head, wanker." - "Spune-ți pa pa la prepuț!"
+- [ ] "Thanks fer standin' still, wanker!" - "Mulțumesc că ai stat pe loc, puță de cal!"
 - [ ] "You'll be needin' another use for that neck." - "O să am nevoie de gâtul vostru ca să-l fut!"
 - [ ] "You'd best keep lyin' down!" - "Nu mai treceți prin fața mea că vă fut!"
-- [ ] "Bloody piker!"
-- [ ] "You big head wankers!"
-- [ ] "You prancin' show ponies!"
+- [ ] "Bloody piker!" - "Am un puțoi mare și am să vă fut cu el!"
+- [ ] "You big head wankers!" - "Sunteți niște gay!"
+- [ ] "You prancin' show ponies!" - "Sunteți niște ponei!"
 - [ ] "D'they make them shirts for men?" - "Voi o faceți cu ambele mâini?"
 - [ ] "I'm gonna plant one right between your eyes, ya punter!" - "O să-ți plantez o pulă-n cur!"
 - [ ] "Keep yubbin' that big mouth, while it's still attached to your bloody neck!" - "Nu mai da iap ca n-o să mai ai cap!"
@@ -214,91 +206,68 @@
 
 ### Domination-related responses
 
-- [ ] Dominating.png  Domination
-- [ ]
-- [ ] "You shouldn't have even gotten outta bed."
-- [ ] "You're gonna keep finding yourself belly up."
-- [ ] "This is getting too easy, mate."
-- [ ] "I'm running outta places to put holes in ya."
-- [ ] "How's about ya call it a day?"
-- [ ] "Fightin' men might not be your thing, lad."
-- [ ] "If your strategy is to build me confidence, it's working."
-- [ ] "This is getting embarrassing."
-- [ ] "How many times have you died? I'm actually getting impressed."
-- [ ] "It's only gonna get worse, mate."
-- [ ] "This is as good as you're gonna do."
-- [ ] "Bloody hell, you're awful."
-- [ ] "You got a forehead on ya like a coffee table."
-- [ ] "Now I gotta make a necklace outta your teeth, bushman's rules."
-- [ ] "Where'd I get you that time? The liver? The kidney? I'm losing track."
-- [ ] "You're making this so easy, I'm actually getting worse."
-- [ ] "I'm not done yet, mate. Not by a long shot."
-- [ ] "Let's do this again."
-- [ ] "This is just getting started."
-- [ ] "I'm just getting warmed up."
-- [ ] "Kill ya again soon, mate."
-- [ ] "I reckon you're gonna get real used to lookin' up at me."
-- [ ] "See you in five minutes."
-- [ ]
-- [ ] Leaderboard class scout.png  Dominating a Scout
-- [ ]
-- [ ] "Dom-in-ated, ya little ankle-biter!"
-- [ ] "That'll slow ya down, ya twitchy hooligan!"
-- [ ] "Dominated, ya miniature delinquent!"
-- [ ] "Couldn't skip around that, could ya? Ya precious little posey!"
-- [ ] "Gotcha, ya spastic little gremlin!"
-- [ ]
-- [ ] Leaderboard class soldier.png  Dominating a Soldier
-- [ ]
-- [ ] "I own ya, ya pickle-headed drongo!"
-- [ ] "All rockets, no brains, eh, mate?!"
-- [ ] "Take that, ya rocket-hoppin' simpleton!"
-- [ ] "Oi, lend us yer shovel, so I can dig yer grave!"
-- [ ] "Dominated, ya ploddin' potatohead!"
-- [ ] "At ease! Ha ha ha ha ha ha ha!"
-- [ ]
-- [ ] Leaderboard class pyro.png  Dominating a Pyro
-- [ ]
-- [ ] "You are a creepy, mute little bugger, ain't ya?"
-- [ ] "Nobody's gonna miss you, ya mutant!"
-- [ ] "Gotcha, ya mental defective!"
-- [ ] "That snuffed yer fire, ya filthy arsonist!"
-- [ ] "Ya know what 'dominated' means, ya bloody whackjob?!"
-- [ ]
-- [ ] Leaderboard class demoman.png  Dominating a Demoman
-- [ ]
-- [ ] "Take that, ya one-eyed drunk!"
-- [ ] "Tagged ya, ya wobblin' Scot!"
-- [ ] "Ace reflexes, ya bomb-chuckin' waste of good scotch!"
-- [ ] "You've been killed by the best, cyclops!"
-- [ ] "Gotcha, ya bomb-lobbin' wanker!"
-- [ ]
-- [ ] Leaderboard class heavy.png  Dominating a Heavy
-- [ ]
-- [ ] "Gotcha, ya pot-bellied lardass!"
-- [ ] "Thanks for the target practice, ya plump bloody freakshow!"
-- [ ] "Dodge that, ya fat jigglin' butterball!"
-- [ ] "Oi! Yer bleedin' gravy, fatso!"
-- [ ] "Thanks for bein' such a whoppin' big target, mate!"
-- [ ] "I just bagged the world's fattest man!"
-- [ ] "That gotcha, ya lard-arm simpleton!"
-- [ ]
-- [ ] Leaderboard class engineer.png  Dominating a Engineer
-- [ ]
-- [ ] "Dom-in-ated, ya cactus-eatin' egghead!"
-- [ ] "Take that, booksmarts!"
-- [ ] "Back to the drawin' board, genius!"
-- [ ] "Not so smart with yer brains outside yer head, are ya?"
-- [ ] "Here's a gadget you should build: one what stops my bullets!"
-- [ ] "You are inventin' loads of new ways to get killed by me!"
-- [ ]
-- [ ] Leaderboard class medic.png  Dominating a Medic
-- [ ]
-- [ ] "What's up, Doc?! Heh, heh, heh!"
-- [ ] "Take that, ya quack!"
-- [ ] "Quit blubberin' and take yer medicine like a man!"
-- [ ] "Too slow, medicine woman!"
-- [ ] "Sorry there, nurse, I mistook ya for an actual threat!"
+- [ ] "You shouldn't have even gotten outta bed." - "Nici măcar nu trebuia să te scoli din pat."
+- [ ] "You're gonna keep finding yourself belly up." - "O să te găsesc cu pula în sus."
+- [ ] "This is getting too easy, mate." - "Nu o să ți se mai scoale după asta!"
+- [ ] "I'm running outta places to put holes in ya." - "O să-ți fac o a doua gaură în cur!"
+- [ ] "How's about ya call it a day?" - "Hai să ne futem!"
+- [ ] "Fightin' men might not be your thing, lad." - "Nu ești bun de nimic, nici de supt pula!"
+- [ ] "If your strategy is to build me confidence, it's working." - "Dacă vrei să mă faci să mă simt bine, ești pe drumul cel bun!"
+- [ ] "This is getting embarrassing." - "Ești atât de prost încât mă faci să mă simt prost!"
+- [ ] "How many times have you died? I'm actually getting impressed." - "Câte ori ai murit? Ești atât de prost încât mă faci să mă simt prost!"
+- [ ] "It's only gonna get worse, mate." - "O să te fut până la capăt!"
+- [ ] "This is as good as you're gonna do." - "Ești prea prost coaie, nu mai încerca!"
+- [ ] "Bloody hell, you're awful." - "Mă bășesc în fața ta!"
+- [ ] "You got a forehead on ya like a coffee table." - "Ai fruntea ca o masă de cafea!"
+- [ ] "Now I gotta make a necklace outta your teeth, bushman's rules." - "O să-ți fac un colier din dinți, regulile bășinarilor!"
+- [ ] "Where'd I get you that time? The liver? The kidney? I'm losing track." - "Unde te-am lovit de data asta? În pulă? În coaie? Nu mai știu."
+- [ ] "You're making this so easy, I'm actually getting worse." - "Sunt atât de prost!"
+- [ ] "I'm not done yet, mate. Not by a long shot." - "Îmi vine să mă masturbez!"
+- [ ] "Let's do this again." - "Și voi vă mirosiți bășinile?"
+- [ ] "This is just getting started." - "Îmi bag mâna în cur și o miros!"
+- [ ] "I'm just getting warmed up." - "Mă doare burtica!"
+- [ ] "Kill ya again soon, mate." - "O să te fut din nou!"
+- [ ] "I reckon you're gonna get real used to lookin' up at me." - "Am mâncat căcat și mi-a plăcut!"
+- [ ] "See you in five minutes." - "O să te văd după respaun!"
+- [ ] "Dom-in-ated, ya little ankle-biter!" - "Dacă mai alergi o dată, te fut!"
+- [ ] "That'll slow ya down, ya twitchy hooligan!" - "Chiar și dacă alergi, alegațile de pedofil nu o să te lase!"
+- [ ] "Dominated, ya miniature delinquent!" - "Dominat, copil de țigan!"
+- [ ] "Couldn't skip around that, could ya? Ya precious little posey!" - "Nu mai sări ca o curvă!"
+- [ ] "Gotcha, ya spastic little gremlin!" - "Tactu' e spion?"
+- [ ] "I own ya, ya pickle-headed drongo!" - "Ești al meu, ca pula mea!"
+- [ ] "All rockets, no brains, eh, mate?!" - "Toate rachetele și nici un coi!"
+- [ ] "Take that, ya rocket-hoppin' simpleton!" - "Oriunde ai sări, o să te fut!"
+- [ ] "Oi, lend us yer shovel, so I can dig yer grave!" - "Nu mai sări cu racheta, te nimeresc oricum!"
+- [ ] "Dominated, ya ploddin' potatohead!" - "Dominat, cartofule!"
+- [ ] "At ease! Ha ha ha ha ha ha ha!" - "TE FUT!"
+- [ ] "You are a creepy, mute little bugger, ain't ya?" - "Poate o să vorbești dupa ce-ți bag pula pe gât!"
+- [ ] "Nobody's gonna miss you, ya mutant!" - "Nimeni nu o să vorbească la înmormântarea ta!"
+- [ ] "Gotcha, ya mental defective!" - "Te-am futut, autistule!"
+- [ ] "That snuffed yer fire, ya filthy arsonist!" - "Ai certificat de retardism?"
+- [ ] "Ya know what 'dominated' means, ya bloody whackjob?!" - "Tu măcar ai găuri unde te pot fute?"
+- [ ] "Take that, ya one-eyed drunk!" - "O să beau spermă din sticla ta!"
+- [ ] "Tagged ya, ya wobblin' Scot!" - "Scoțian prost, mai vrei muie?"
+- [ ] "Ace reflexes, ya bomb-chuckin' waste of good scotch!" - "Ești o irosire de spermă!"
+- [ ] "You've been killed by the best, cyclops!" - "O să te împușc în singurul ochi!"
+- [ ] "Gotcha, ya bomb-lobbin' wanker!" - "Chiar și când ești beat și te bălăngăni, tot te fut!"
+- [ ] "Gotcha, ya pot-bellied lardass!" - "Coaie, mișcă-te, d-aia te tot omor!"
+- [ ] "Thanks for the target practice, ya plump bloody freakshow!" - "Ești prea gras, normal că-ți dau în puță!"
+- [ ] "Dodge that, ya fat jigglin' butterball!" - "Puță mică, ai capu' prea mare!"
+- [ ] "Oi! Yer bleedin' gravy, fatso!" - "Grăsanule, d-aia ți se zice greu!"
+- [ ] "Thanks for bein' such a whoppin' big target, mate!" - "Muie grașilor!"
+- [ ] "I just bagged the world's fattest man!" - "Te-am violat prin gaura buricului!"
+- [ ] "That gotcha, ya lard-arm simpleton!" - "Când te speli, îți mai vezi puța?"
+- [ ] "Dom-in-ated, ya cactus-eatin' egghead!" - "Inginer, construiește-mi o pulă!"
+- [ ] "Take that, booksmarts!" - "Inignerule, când băgam și noi un cox?"
+- [ ] "Back to the drawin' board, genius!" - "Ți-am comandat un robot care să te fută!"
+- [ ] "Not so smart with yer brains outside yer head, are ya?" - "Nu ești așa deștept de te domină un lunetist?"
+- [ ] "Here's a gadget you should build: one what stops my bullets!" - "Gloanțele mele trec prin metal, adică pula ta mecanică!"
+- [ ] "You are inventin' loads of new ways to get killed by me!" - "Inventezi noi metode să te fut!"
+- [ ] "What's up, Doc?! Heh, heh, heh!" - "Ce faci doctore? Mai ajuți lumea?"
+- [ ] "Take that, ya quack!" - "Ia asta, doctorule!"
+- [ ] "Quit blubberin' and take yer medicine like a man!" - "Bagă-ți pula-n gură și taci!"
+- [ ] "Too slow, medicine woman!" - "Bagă-ți supozitor în cur și taci!"
+- [ ] "Sorry there, nurse, I mistook ya for an actual threat!" - "Mai bagi insulină în greu?"
 - [ ]
 - [ ] Leaderboard class sniper.png  Dominating a Sniper
 - [ ]
@@ -307,10 +276,10 @@
 - [ ] "You call that snipin'?"
 - [ ] "Dominated, ya blind-eyed bastard!"
 - [ ] "One Sniper to another, mate: Give! Up!"
-- [ ] "Bloody hell, you're awful."
-- [ ] "Where'd I get you that time? The liver? The kidney? I'm losing track."
-- [ ] "You're making this so easy, I'm actually getting worse."
-- [ ] "I'm not done yet, mate, not by a long shot."
+- [x] "Bloody hell, you're awful."
+- [x] "Where'd I get you that time? The liver? The kidney? I'm losing track."
+- [x] "You're making this so easy, I'm actually getting worse."
+- [x] "I'm not done yet, mate, not by a long shot."
 - [ ]
 - [ ] Leaderboard class spy.png  Dominating a Spy
 - [ ]
@@ -764,7 +733,6 @@
 - [ ] "Crikey!"
 - [ ] "Piker!"
 - [ ] "Wuss!"
-- [ ]
 
 ## Not planned
 
