@@ -268,43 +268,31 @@
 - [ ] "Quit blubberin' and take yer medicine like a man!" - "Bagă-ți pula-n gură și taci!"
 - [ ] "Too slow, medicine woman!" - "Bagă-ți supozitor în cur și taci!"
 - [ ] "Sorry there, nurse, I mistook ya for an actual threat!" - "Mai bagi insulină în greu?"
-- [ ]
-- [ ] Leaderboard class sniper.png  Dominating a Sniper
-- [ ]
-- [ ] "The bullets come outta the slim end, mate!"
-- [ ] "Nice try, mate, but I'm the best!"
-- [ ] "You call that snipin'?"
-- [ ] "Dominated, ya blind-eyed bastard!"
-- [ ] "One Sniper to another, mate: Give! Up!"
-- [x] "Bloody hell, you're awful."
+- [ ] "The bullets come outta the slim end, mate!" - "Gloanțele vin din pula mea coaie!"
+- [ ] "Nice try, mate, but I'm the best!" - "Buna încercare coaie, dar eu sunt cel mai coios de aici!"
+- [ ] "You call that snipin'?" - "Asta zici tu că este tras cu luneta"
+- [ ] "Dominated, ya blind-eyed bastard!" - "Vezi că trebuie să te uiți pe cealaltă gaută"
+- [ ] "One Sniper to another, mate: Give! Up!" - "De la un lunetist la altul, lasă-te coaie, diferență de aptitudini!"
+- [x] "Bloody hell, you're awful." 
 - [x] "Where'd I get you that time? The liver? The kidney? I'm losing track."
 - [x] "You're making this so easy, I'm actually getting worse."
 - [x] "I'm not done yet, mate, not by a long shot."
-- [ ]
-- [ ] Leaderboard class spy.png  Dominating a Spy
-- [ ]
-- [ ] "Sneak around that, ya phony scoundrel!"
-- [ ] "Take that, ya two-faced mongrel!"
-- [ ] "Backstab that, ya snake!"
-- [ ] "Aww, did I get blood on your suit?"
-- [ ] "Cloak yer way outta that, ya filthy spook!"
-- [ ] "I! Win! Ya bloody backstabbing fraud!"
-- [ ] "I was never on your side either! Wanka!"
-- [ ]
-- [ ] Nemesis RED.png  Revenge kill
-- [ ]
-- [ ] Regular
-- [ ] "All right!"
-- [ ] "I'm a dinkum Aussie, not some bloody cartoon!"
-- [ ] "I've slept in the corpse of water buffalo tougher than you!"
-- [ ] "Piss off, you mongrels!"
-- [ ] "Piss off, you bloody pikers!"
-- [ ] "Spot on!"
-- [ ] "No worries!"
-- [ ] "Piece of piss!"
-- [ ]
-- [ ] While scoped
-- [ ] [Whispering] "I'm a dinkum Aussie, not some bloody cartoon."
+- [ ] "Sneak around that, ya phony scoundrel!" - "Nu te mai ascunde ca ultimul evreu prin canale!"
+- [ ] "Take that, ya two-faced mongrel!" - "Dacă tot ai atâtea fețe, de ce nu te transformi într-un tată suportiv!"
+- [ ] "Backstab that, ya snake!" - "Nu mai încerca să mă fuți de la spate, nu-ți iese!"
+- [ ] "Aww, did I get blood on your suit?" - "Ți-am pătat costumul cu sânge?"
+- [ ] "Cloak yer way outta that, ya filthy spook!" - "Încearcă să scapi din luneta mea, căcat cu ochi!"
+- [ ] "I! Win! Ya bloody backstabbing fraud!" - "Am câștigat un premiu, vrei să ți-l dau ca să-ți plătești pensia alimentară?"
+- [ ] "I was never on your side either! Wanka!" - "Nici eu nu am fost de partea ta, partenerule!"
+- [ ] "All right!" - "Nu mai muia, nu vezi că te-am omorât?"
+- [ ] "I'm a dinkum Aussie, not some bloody cartoon!" - "Sunt un cangur de australia, nu un desen animat!"
+- [ ] "I've slept in the corpse of water buffalo tougher than you!" - "Am dormit prea mult coaie!"
+- [ ] "Piss off, you mongrels!" - "Mi-am pornit monitorul!"
+- [ ] "Piss off, you bloody pikers!" - "Căcați-vă pe voi, homosexualilor!"
+- [ ] "Spot on!" - "Te-am prins pe lunetă!"
+- [ ] "No worries!" - "N-am nicio treabă coaie!"
+- [ ] "Piece of piss!" - "Ești ca o piesă de puzzle!"
+- [ ] [Whispering] "I'm a dinkum Aussie, not some bloody cartoon." - "Sunt un cangur de australia, nu un desen animat!"
 - [ ] [Whispering] "I've slept in the corpse of a water buffalo tougher than you."
 - [ ]
 - [ ] Leaderboard class scout.png  Revenge kill directed at Scout
