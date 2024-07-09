@@ -73,13 +73,13 @@
 - [ ] "Get to it!" - "Mă joc barbut pe nucile mele!"
 - [ ] "Yaaaagh!" - "Cineva să-mi miroasă nucile!"
 - [ ] "Go on then, mates!" - "Nucile astea!"
-- [ ] "God Save the Queen!" - "Lujerului!"
+- [ ] "God Save the Queen!" - "Dumnezeu să ne ferească de țigani!"
 - [ ] "Give 'em a gob full!" - "Am devenit românia!"
 - [ ] "Ahh, she's a beaut." - "Sunt campionul la mărginit!"
 - [ ] "Hmmm, have a gander at this little beauty." - "Eu cred că mărginitul e căprit!"
 - [ ] "Take a butcher's at this." - "Am muiat prea mult și acum pot să bag limba pe nări!"
 - [ ] "Hmmm, I reckon this'll come in handy." - "Hai să facem looksmaxing!"
-- [ ] "Now this is a nice weapon." - "Arma mă-tii!"
+- [ ] "Now this is a nice weapon." - "Lujerului!"
 - [ ] "This thing looks bloody useful." - "Asta arată de parcă pute!"
 - [ ] "*laughs* It's like Christmas morning." - "O fut pe zâna măseluță!"
 - [ ] "Take a gander at this, little princess." - "Păcat ca nu sunt evreu!"
@@ -128,7 +128,7 @@
 - [ ] "Crikey!" - "Îmi vine să mă masturbez..."
 - [ ] "Bugger!" - "Nu mai vreau coaie..."
 - [ ] "Bugger." - "Coaie, m-au prins cu pula p-afară..."
-- [ ] "Ah... Piss!" - "Mă duc să mă piș în borcan..."
+- [ ] "Ah... Piss!" - "Pișat coaie..."
 - [ ] "Ah, piss." - "Mă duc să-mi beau pișatu'..."
 - [ ] "Argh..." - "Pula mea..."
 - [ ] "Nrgh, Arrggghh..." - "Bă da gata că-mi dau drumu'..."
@@ -273,7 +273,7 @@
 - [ ] "You call that snipin'?" - "Asta zici tu că este tras cu luneta"
 - [ ] "Dominated, ya blind-eyed bastard!" - "Vezi că trebuie să te uiți pe cealaltă gaută"
 - [ ] "One Sniper to another, mate: Give! Up!" - "De la un lunetist la altul, lasă-te coaie, diferență de aptitudini!"
-- [x] "Bloody hell, you're awful." 
+- [x] "Bloody hell, you're awful."
 - [x] "Where'd I get you that time? The liver? The kidney? I'm losing track."
 - [x] "You're making this so easy, I'm actually getting worse."
 - [x] "I'm not done yet, mate, not by a long shot."
@@ -293,177 +293,105 @@
 - [ ] "No worries!" - "N-am nicio treabă coaie!"
 - [ ] "Piece of piss!" - "Ești ca o piesă de puzzle!"
 - [ ] [Whispering] "I'm a dinkum Aussie, not some bloody cartoon." - "Sunt un cangur de australia, nu un desen animat!"
-- [ ] [Whispering] "I've slept in the corpse of a water buffalo tougher than you."
-- [ ]
-- [ ] Leaderboard class scout.png  Revenge kill directed at Scout
-- [ ]
-- [ ] "Ya had a good run, ya mongrel."
-- [ ] "I'm great. You're dead. I think we're done here."
-- [ ] "How do you like that, ya snotty little mongrel?"
-- [ ]
-- [ ] Leaderboard class soldier.png  Revenge kill directed at Soldier
-- [ ]
-- [ ] "How's that bullet feel? Feel good? Huh? Huh?"
-- [ ] "Here's a touchin' story. Once upon a time you died, and I lived happily ever after. The end."
-- [ ]
-- [ ] Leaderboard class pyro.png  Revenge kill directed at Pyro
-- [ ]
-- [ ] "Thanks for the warm-up, sister."
-- [ ] "You know what you and Jane Austen have in common? You're both dead women."
-- [ ] "Oooh, got ya right in the ovary."
-- [ ]
-- [ ] Leaderboard class demoman.png  Revenge kill directed at Demoman
-- [ ]
-- [ ] "Not so smug now, are ya?"
-- [ ] "Look 'ere, pumpkin head: Yer all done."
-- [ ]
-- [ ] Leaderboard class heavy.png  Revenge kill directed at Heavy
-- [ ]
-- [ ] "I suspect you'll keep your big mouth shut now."
-- [ ] "You want to hear something funny? You're dead."
-- [ ]
-- [ ] Leaderboard class engineer.png  Revenge kill directed at Engineer
-- [ ]
-- [ ] "Take that, ya mongrel."
-- [ ]
-- [ ] Leaderboard class medic.png  Revenge kill directed at Medic
-- [ ]
-- [ ] "Hate to break it to ya, but your own team paid me to do that."
-- [ ]
-- [ ] Leaderboard class sniper.png  Revenge kill directed at Sniper
-- [ ]
-- [ ] "Go to hell, wanka."
-- [ ] "You... are... a... bloody... disgrace."
-- [ ] "Nothing personal, mate. I'm just better."
-- [ ] "Here's some advice: Next time, shoot first."
-- [ ]
-- [ ] Leaderboard class spy.png  Revenge kill directed at Spy
-- [ ]
-- [ ] "Skill always beats luck, ya weasel."
-- [ ] "What goes around comes around, ya snotty little nance."
-- [ ] "Take that, you greasy weasel."
-- [ ] "Cheatin' only gets ya so far."
-- [ ] "Ah, my God, you've been shot. Did you get a look at the handsome rogue who did it?"
-- [ ]
+- [ ] [Whispering] "I've slept in the corpse of a water buffalo tougher than you." - "Am dormit pe cadavrul unei curve mai tare ca tine!"
+- [ ] "Ya had a good run, ya mongrel." - "Ai avut o viață bună, țigane!"
+- [ ] "I'm great. You're dead. I think we're done here." - "Sunt cel mai bun, tu ești plin de sida, cred că m-am terminat aici."
+- [ ] "How do you like that, ya snotty little mongrel?" - "Ce părere ai de asta, țigane?"
+- [ ] "How's that bullet feel? Feel good? Huh? Huh?" - "Cum te simți cu glonțul în cur? Bine? Bine?"
+- [ ] "Here's a touchin' story. Once upon a time you died, and I lived happily ever after. The end." - "Aici e o poveste emoționantă. Odată, te-ai bășit, și eu am trăit fericit până m-am căcat pe mine. Sfârșitul."
+- [ ] "Thanks for the warm-up, sister." - "Mi-am pornit monitorul!"
+- [ ] "You know what you and Jane Austen have in common? You're both dead women." - "Știi ce ai în comun cu pizda mă-tii? Ambele sunteți curve moarte."
+- [ ] "Oooh, got ya right in the ovary." - "Oooh, te-am prins în ovare."
+- [ ] "Not so smug now, are ya?" - "Dacă mai bei mult, o să-ți iasă pula din gură."
+- [ ] "Look 'ere, pumpkin head: Yer all done." - "Uite aici, cap de pulă: Ești terminat."
+- [ ] "I suspect you'll keep your big mouth shut now." - "Ai burta mai mică ca capul tău!"
+- [ ] "You want to hear something funny? You're dead." - "Când mergi și tu la sală să devi ziz?"
+- [ ] "Take that, ya mongrel." - "Ia d-aici coaie, construiește o dominație acum!"
+- [ ] "Hate to break it to ya, but your own team paid me to do that." - "Îmi pare rău să-ți spun, dar echipa ta m-a plătit să te fut."
+- [ ] "Go to hell, wanka." - "Du-te-n pula mea, coaie."
+- [ ] "You... are... a... bloody... disgrace." - "Ești un căcănar!"
+- [ ] "Nothing personal, mate. I'm just better." - "Nu e nimic personal, ești doar prost."
+- [ ] "Here's some advice: Next time, shoot first." - "Ia un sfat: Data viitoare, trage primul."
+- [ ] "Skill always beats luck, ya weasel." - "Diferență de aptitudini, coaie."
+- [ ] "What goes around comes around, ya snotty little nance." - "Ce se întoarce, se așternă pe pula mea."
+- [ ] "Take that, you greasy weasel." - "Nu te mai furișa ca un șobolan."
+- [ ] "Cheatin' only gets ya so far." - "Frauda te duce doar până la mine."
+- [ ] "Ah, my God, you've been shot. Did you get a look at the handsome rogue who did it?" - "Ah, Doamne, ai fost împușcat. Ai văzut cine te-a futut?"
 
 ### Event-related responses
 
-- [ ] Gette it Onne!.png  Round start
-- [ ]
-- [ ] "Let's have a go at it."
-- [ ] "Get to it!"
-- [ ] "Yaaaagh!"
-- [ ] "Go on then, mates!"
-- [ ] "God Save the Queen!"
-- [ ] "Give 'em a gob full!"
-- [ ]
-- [ ] Item icon Eyelander.png  Sudden Death
-- [ ]
-- [ ] "Ahh, that was rubbish!"
-- [ ] "That's some shonky business right there!"
-- [ ] "Crikey!"
-- [ ] "Dodgy!"
-- [ ] "Well that was a real BLOODY rootin'!"
-- [ ] "Nice goin' ya bludgers!
-- [ ] "Should've saved a bullet for some of you, blokes!"
-- [ ] "Gaaahhhh!"
-- [ ]
-- [ ] Killicon skull.png  Stalemate
-- [ ]
-- [ ] "Gah! Hear me, man? Gah!"
-- [ ] "Now that's downright embarrassing."
-- [ ] (Grumbles)
-- [ ]
-- [ ] Killicon fire.png  Set on fire
-- [ ]
-- [ ] "Fire! Grr-fire, fire!"
-- [ ] "Fire!"
-- [ ] "Grr- on fire!"
-- [ ]
-- [ ] Health dead.png  On death by melee weapon and/or critical hit
-- [ ]
-- [ ] (Dying scream 1)
-- [ ] (Dying scream 2)
-- [ ] (Dying scream 3)
-- [ ] (Dying scream 4)
-- [ ]
-- [ ] Bleed drop.png  Severe pain
-- [ ]
-- [ ] "Gah!"
-- [ ] "Yah!"
-- [ ] "Aah!"
-- [ ] "Grah!"
-- [ ]
-- [ ] Bleed drop.png  Sharp pain
-- [ ]
-- [ ] "Uh!"
-- [ ] "Oof!"
-- [ ] "Ah!"
-- [ ] "Grah!"
-- [ ]
-- [ ] Item icon Jarate.png  Hit by Gas Passer, Jarate, Mad Milk, Mutated Milk, or Self-Aware Beauty Mark
-- [ ]
-- [ ] Regular
-- [ ] (Grumble)
-- [ ] "Ah... Piss!"
-- [ ] "Argh..."
-- [ ]
-- [ ] While Scoped
-- [ ] "Bugger."
-- [ ] "Nrgh, Arrggghh..."
-- [ ] "Crikey!"
-- [ ]
-- [ ] Telespin.png  Teleportation
-- [ ]
-- [ ] "Thanks, mate!"
-- [ ] "Thanks!"
-- [ ] "Thanks for that, Truckie."
-- [ ]
-- [ ] Healthico.png  Healed by Medic
-- [ ]
-- [ ] "Thanks, mate!"
-- [ ] "'Preciate it."
-- [ ] "Thanks, doc!"
-- [ ]
-- [ ] Item icon Kritzkrieg.png  Under the effects of an ÜberCharge
-- [ ]
-- [ ] "I'm gonna blow the inside of ya head all over four counties!"
-- [ ] "I'm gunnin' for ya, you mongrels!"
-- [ ] "This is gonna be a real piece of piss, ya bloody fruit shop owners!"
-- [ ] "I'm gonna turn ya into colored rain!"
-- [ ]
-- [ ] Achieved.png  Achievement unlocked
-- [ ]
-- [ ] "That one's for me, boys!"
-- [ ] "That's how we do it in the bush!"
-- [ ] "Sniping's a good job, mate!"
-- [ ] "Right, then!"
-- [ ] "Yeah, that seems about right!"
-- [ ] "No worries!"
-- [ ] "Aces."
-- [ ] "All in a days work."
-- [ ] "I told ya sniping was a good job!"
-- [ ] "Well I'll be stuffed!"
-- [ ] "I make it look easy."
-- [ ] "Now that is how it's done!"
-- [ ] "I could do this all day."
-- [ ] "Ahh, that's apples mate."
-- [ ]
+- [x] "Let's have a go at it."
+- [x] "Get to it!"
+- [x] "Yaaaagh!"
+- [x] "Go on then, mates!"
+- [x] "God Save the Queen!"
+- [x] "Give 'em a gob full!"
+- [x] "Ahh, that was rubbish!"
+- [x] "That's some shonky business right there!"
+- [x] "Crikey!"
+- [x] "Dodgy!"
+- [x] "Well that was a real BLOODY rootin'!"
+- [x] "Nice goin' ya bludgers!
+- [x] "Should've saved a bullet for some of you, blokes!"
+- [x] "Gaaahhhh!"
+- [ ] "Gah! Hear me, man? Gah!" - "Gah! Mă auzi, coaie? Gah!"
+- [ ] "Now that's downright embarrassing." - "Mă simt prost, la cât de prost ești."
+- [x] ~~(Grumbles)~~
+- [ ] "Fire! Grr-fire, fire!" - "Mă topesc, cine mă ajută cu o limbă?"
+- [ ] "Fire!" - "Fooooooc!"
+- [ ] "Grr- on fire!" - "Am luat foc în pîlîmî!"
+- [x] ~~(Dying scream 1)~~
+- [x] ~~(Dying scream 2)~~
+- [x] ~~(Dying scream 3)~~
+- [x] ~~(Dying scream 4)~~
+- [ ] "Gah!" - "Iac coaie!"
+- [ ] "Yah!" - "Cîpîlîmî m-a lovit?"
+- [ ] "Aah!" - "Vai de pîlîmî!"
+- [ ] "Grah!" - "Uai coaie!"
+- [ ] "Uh!" - "Băăăăă!"
+- [ ] "Oof!" - "Asta doare!"
+- [ ] "Ah!" - "AaaaAAaaaAAAa!"
+- [ ] "Grah!" - "Gata bă!"
+- [x] ~~(Grumble)~~
+- [x] "Ah... Piss!"
+- [x] "Argh..."
+- [x] "Bugger."
+- [x] "Nrgh, Arrggghh..."
+- [x] "Crikey!"
+- [x] "Thanks, mate!"
+- [ ] "Thanks!" - "Te pup în cur, inginerule!"
+- [ ] "Thanks for that, Truckie." - "Mersi texanule, îți mai vrei nevasta înapoi?"
+- [x] "Thanks, mate!"
+- [x] "'Preciate it."
+- [ ] "Thanks, doc!" - "Doctore, ți-as face o muie!"
+- [ ] "I'm gonna blow the inside of ya head all over four counties!" - "O să-mi dau drumul în capetele voastre!"
+- [ ] "I'm gunnin' for ya, you mongrels!" - "De ce pula mea m-ai încarcat, doctore?"
+- [ ] "This is gonna be a real piece of piss, ya bloody fruit shop owners!" - "Doctore, sigur asta e ce voiai să faci?"
+- [ ] "I'm gonna turn ya into colored rain!" - "Doctorul nostru e degeaba!"
+- [ ] "That one's for me, boys!" - "Asta-i a mea, băieți!"
+- [ ] "That's how we do it in the bush!" - "Așa ne pișăm în tufe!"
+- [ ] "Sniping's a good job, mate!" - "Trasul cu luneta mă excită!"
+- [ ] "Right, then!" - "Corect, nu am abuzat-o!"
+- [ ] "Yeah, that seems about right!" - "Da, pare okay coaie!"
+- [x] "No worries!"
+- [x] "Aces."
+- [ ] "All in a days work." - "Asta e treaba de zi cu zi."
+- [ ] "I told ya sniping was a good job!" - "V-am zis eu că trasul cu luneta e o treabă coioasă!"
+- [ ] "Well I'll be stuffed!" - "Mă simt plin de pula voastră!"
+- [ ] "I make it look easy." - "Fac asta cu ochii închiși!"
+- [ ] "Now that is how it's done!" - "Așa se face treaba de muie!"
+- [ ] "I could do this all day." - "Aș putea să mă masturbez toată ziua!"
+- [ ] "Ahh, that's apples mate." - "Astea-s mere, coaie!"
 
 ### Weapon-related responses
 
-- [ ] Item icon Jarate.png  Tossing Jarate or Self-Aware Beauty Mark
-- [ ]
-- [ ] "Jarate!"
-- [ ] "Bombs away!"
-- [ ] "Heads up!"
-- [ ]
-- [ ] Killicon sniperriflehs.png  Headshot
-- [ ]
-- [ ] (Hocks and spits 1)
-- [ ] "Steady, steady!"
-- [ ] (Spits)
-- [ ] "Psst... (laughs quietly)"
+- [ ] "Jarate!" - "Pișam-aș pe voi!"
+- [ ] "Bombs away!" - "Luați-mi pișatul!"
+- [ ] "Heads up!" - "Mă piș pe voi!"
+- [x] ~~(Hocks and spits 1)~~
+- [ ] "Steady, steady!" - "Stai pe loc, nu ești la bară!'
+- [x] ~~(Spits)~~
+- [x] ~~"Psst... (laughs quietly)"~~
 - [ ] [Whispering] "You'll be needin' another use for that neck."
 - [ ] [Whispering] "G'day."
 - [ ] [Whispering] "Piker."
@@ -471,8 +399,8 @@
 - [ ] [Whispering] "Mongrel."
 - [ ] [Whispering] "Wave goodbye to your head, wanker."
 - [ ] [Whispering] "Thanks for standin' still, wanker."
-- [ ] (Hocks and spits 2)
-- [ ] (Hocks and spits 3)
+- [x] ~~(Hocks and spits 2)~~
+- [x] ~~(Hocks and spits 3)~~
 - [ ]
 - [ ] Leaderboard class sniper.png  Looking at enemy while scoped
 - [ ]
@@ -489,25 +417,15 @@
 - [ ]
 - [ ] Item icon Kukri.png  Melee kill
 - [ ]
-- [ ] "You got blood on my knife, mate!"
-- [ ] "A little of the ol' 'chop-chop'!"
-- [ ]
-- [ ] Item icon SMG.png  SMG kill
-- [ ]
-- [ ] "(Laughs) Bloody hell, you're awful!"
-- [ ]
-- [ ] Item icon Tribalman's Shiv.png  Tribalman's Shiv kill
-- [ ]
-- [ ] "You know what yer dominatin' now? Bleedin'."
-- [ ]
-- [ ] Item icon Saxxy.png  Saxxy kill
-- [ ]
-- [ ] "You'd best keep lyin' down!"
-- [ ] (Long laughter 1)
-- [ ] (Long laughter 2)
-- [ ] (Evil laughter 1)
-- [ ] (Evil laughter 2)
-- [ ]
+- [ ] "You got blood on my knife, mate!" - "Mi-ai pătat puța cu sânge, virginule!"
+- [ ] "A little of the ol' 'chop-chop'!" - "Te-am făcut sașimi coaie!"
+- [ ] "(Laughs) Bloody hell, you're awful!" - "Doamne coaie, cum ai murit de la mine?"
+- [ ] "You know what yer dominatin' now? Bleedin'." - "Sângerezi? Ai menstruație?"
+- [x] "You'd best keep lyin' down!"
+- [x] ~~(Long laughter 1)~~
+- [x] ~~(Long laughter 2)~~
+- [x] ~~(Evil laughter 1)~~
+- [x] ~~(Evil laughter 2)~~
 
 ### Objective-related responses
 
@@ -686,41 +604,32 @@
 - [ ] [Whispering] "Stop the bomb, lads!"
 - [ ] [Whispering] "Don't let 'em push that bomb!"
 - [ ] [Whispering] "Don't let the cart through, lads!"
-- [ ]
 
 ### Duel-related responses
 
-- [ ] Backpack Dueling Mini-Game.png  Starting a duel
-- [ ]
-- [ ] "Let's have a go, ya mug!"
-- [ ] "I'm gonna carve you a new cake hole!"
-- [ ] "Let's see how much blood's in ya!"
-- [ ] "Come on!"
-- [ ]
-- [ ] Duel RED.png  Duel accepted
-- [ ]
-- [ ] "'Right, then!"
-- [ ] "Yeah, that seems about right!"
-- [ ] "I make it look easy."
-- [ ] "Get to it!"
-- [ ] "Yaaaagh!"
-- [ ] "Ready to meet sharpy?!"
-- [ ] "I'm gonna cut a smile into ya!"
-- [ ] "You better hold on to your head, mate!"
-- [ ] "Ok!"
-- [ ] "Ok mate!"
-- [ ]
-- [ ] Duel BLU.png  Duel rejected
-- [ ]
-- [ ] "Gah! Hear me, man? Gah!"
-- [ ] "Now that's downright embarrassing."
-- [ ] (Grumble)
-- [ ] "Quit blubberin' and take yer medicine like a man!"
-- [ ] "That's some shonky business right there!"
-- [ ] "Bugger!"
-- [ ] "Crikey!"
-- [ ] "Piker!"
-- [ ] "Wuss!"
+- [x] "Let's have a go, ya mug!"
+- [x] "I'm gonna carve you a new cake hole!"
+- [x] "Let's see how much blood's in ya!"
+- [x] "Come on!"
+- [x] "'Right, then!"
+- [x] "Yeah, that seems about right!"
+- [x] "I make it look easy."
+- [x] "Get to it!"
+- [x] "Yaaaagh!"
+- [x] "Ready to meet sharpy?!"
+- [x] "I'm gonna cut a smile into ya!"
+- [x] "You better hold on to your head, mate!"
+- [x] "Ok!"
+- [x] "Ok mate!"
+- [x] "Gah! Hear me, man? Gah!"
+- [x] "Now that's downright embarrassing."
+- [x] ~~(Grumble)~~
+- [x] "Quit blubberin' and take yer medicine like a man!"
+- [x] "That's some shonky business right there!"
+- [x] "Bugger!"
+- [x] "Crikey!"
+- [x] "Piker!"
+- [x] "Wuss!"
 
 ## Not planned
 
