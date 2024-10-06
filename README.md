@@ -13,8 +13,8 @@ Go to the [releases page](https://github.com/v4n00/tf2-romanian-project/releases
 ### Voice lines
 
 - [x] Administrator responses
-- [ ] Scout commands
-- [ ] Scout responses
+- [x] Scout commands
+- [x] Scout responses
 - [x] Soldier commands
 - [x] Soldier responses
 - [x] Pyro commands
