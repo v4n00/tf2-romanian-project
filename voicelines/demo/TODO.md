@@ -115,7 +115,7 @@
 - [x] "Cheers, mate!" - "Noroc, șefule!"
 - [x] "You're doing good, lad!" - "Te descurci bine, coaie!"
 
-## Responses - 30%
+## Responses
 
 ### Kill-related responses
 

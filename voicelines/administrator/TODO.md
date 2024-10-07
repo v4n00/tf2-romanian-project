@@ -319,7 +319,7 @@
 - [ ] ~~"Yes, that's right! Reach for that brass ring! Here, let me lower it. [cranking sound] Oh, I guess it doesn't go that low. Oh well."~~
 - [ ] ~~"Congratulations! [clapping sound] That was a stunning display of mediocrity! You can stop clapping now Miss Pauling, I've made my point."~~
 
-### Mann vs. Machine responses - 0%
+### Mann vs. Machine responses
 
 - [ ] "Get to an Upgrade Station before they return." - "Ajungeți la o stație de îmbunătățire înainte să se întoarcă."
 - [ ] "Get to an Upgrade Station." - "Ajungeți la o stație de îmbunătățire."

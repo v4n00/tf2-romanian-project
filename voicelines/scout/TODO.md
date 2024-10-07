@@ -3,7 +3,7 @@
 [wiki commands](https://wiki.teamfortress.com/wiki/Scout_voice_commands)
 [wiki responses](https://wiki.teamfortress.com/wiki/Scout_responses)
 
-## Commands - 100%
+## Commands
 
 - [x] "Medic!" - "Doctor!"
 - [x] "MEDIC!" - "Unde-i doctoru'?"
@@ -131,9 +131,9 @@
 - [x] "Dat was all you!" - "M-am udat în pantaloni la cum ai tras!"
 - [x] "Alright, yeah, that's- naw, that's a pretty good job." - "Mă simt ca un boșorog care a fost la păcănele!"
 
-## Responses - 100%
+## Responses
 
-### Kill-related responses - 100%
+### Kill-related responses
 
 - [x] "That's what I'm talking about!" - "Despre asta vorbesc!"
 - [x] ~~(Evil laughter)~~
