@@ -392,31 +392,25 @@
 - [ ] "Steady, steady!" - "Stai pe loc, nu ești la bară!'
 - [x] ~~(Spits)~~
 - [x] ~~"Psst... (laughs quietly)"~~
-- [ ] [Whispering] "You'll be needin' another use for that neck."
-- [ ] [Whispering] "G'day."
-- [ ] [Whispering] "Piker."
-- [ ] [Whispering] "Ah, I'm sorry, mate.."
-- [ ] [Whispering] "Mongrel."
-- [ ] [Whispering] "Wave goodbye to your head, wanker."
-- [ ] [Whispering] "Thanks for standin' still, wanker."
+- [ ] [Whispering] "You'll be needin' another use for that neck." - "O să am nevoie de gâtul vostru ca să-l fut!"
+- [ ] [Whispering] "G'day." - "Sărupula!"
+- [ ] [Whispering] "Piker." - "Homalău!"
+- [ ] [Whispering] "Ah, I'm sorry, mate.." - "Scuze coaie!"
+- [ ] [Whispering] "Mongrel." - "Țigan!"
+- [ ] [Whispering] "Wave goodbye to your head, wanker." - "Ți-am dat muie pe gât!"
+- [ ] [Whispering] "Thanks for standin' still, wanker." - "Mulțumesc că ai stat pe loc, căcat cu ochi!"
 - [x] ~~(Hocks and spits 2)~~
 - [x] ~~(Hocks and spits 3)~~
-- [ ]
-- [ ] Leaderboard class sniper.png  Looking at enemy while scoped
-- [ ]
-- [ ] [Whispering] "Steady, steady."
-- [ ] [Whispering] "All your heads look bloody twelve feet tall."
-- [ ] [Whispering] "I'm gonna plant one right between your eyes, ya punter."
-- [ ] [Whispering] "You better hold on to your head, mate."
-- [ ] [Whispering] "I'm gonna blow the inside of ya head all over four counties."
-- [ ] [Whispering] "I'm gunnin' for ya, you mongrels."
-- [ ] [Whispering] "Keep yubbin' that big mouth, while it's still attached to your bloody neck."
-- [ ] [Whispering] "I'm gonna turn ya into colored rain."
-- [ ] [Whispering] "Everything above your neck's gonna be a fine red mist."
-- [ ] [Whispering] "Hold still."
-- [ ]
-- [ ] Item icon Kukri.png  Melee kill
-- [ ]
+- [ ] [Whispering] "Steady, steady." - "Trebuie să mă calmez."
+- [ ] [Whispering] "All your heads look bloody twelve feet tall." - "Mi-am dat drumul în pantaloni."
+- [ ] [Whispering] "I'm gonna plant one right between your eyes, ya punter." - "O să-ți  bag pula pe gât."
+- [ ] [Whispering] "You better hold on to your head, mate." - "Sper că-ți tii capul. Pulii!"
+- [ ] [Whispering] "I'm gonna blow the inside of ya head all over four counties." - "Nu te mai mișca, o să îți explodez capul!"
+- [ ] [Whispering] "I'm gunnin' for ya, you mongrels." - "Sunteți niște homosexuali!"
+- [ ] [Whispering] "Keep yubbin' that big mouth, while it's still attached to your bloody neck." - "Nu mai da din gură când nici nu ai cap!"
+- [ ] [Whispering] "I'm gonna turn ya into colored rain." - "O să plouă cu spermă roșie!"
+- [ ] [Whispering] "Everything above your neck's gonna be a fine red mist." - "O să-ți fac o pălărie din creier!"
+- [ ] [Whispering] "Hold still." - "Stai pe loc!"
 - [ ] "You got blood on my knife, mate!" - "Mi-ai pătat puța cu sânge, virginule!"
 - [ ] "A little of the ol' 'chop-chop'!" - "Te-am făcut sașimi coaie!"
 - [ ] "(Laughs) Bloody hell, you're awful!" - "Doamne coaie, cum ai murit de la mine?"
@@ -429,181 +423,124 @@
 
 ### Objective-related responses
 
-- [ ] Intel red idle.png  After capturing Intelligence
-- [ ]
-- [ ] [Whispering] "Simple. Simple. One for me."
-- [ ] "That was too easy mate!"
-- [ ] [Calmly] "No worries."
-- [ ] "That wasn't so bad."
-- [ ] "That wasn't so hard."
-- [ ]
-- [ ] CP Captured RED.png  After capturing control point
-- [ ]
-- [ ] "This one's ours now."
-- [ ] "That was too easy, mate."
-- [ ] "We're not givin' it back."
-- [ ]
-- [ ] CP Locked RED.png  Standing on captured control point, firing weapon
-- [ ]
-- [ ] "Get on the point, wanker!"
-- [ ] "Come stand on the point, ya bloody wuss!"
-- [ ]
-- [ ] CP Neutral.png  Standing on a cappable control point, firing weapon
-- [ ]
-- [ ] "Get on the cap, mates!"
-- [ ] "Fight on the cap!"
-- [ ] "Get on the cap!"
-- [ ] "Stand on the bloody cap!"
-- [ ] "Stand on the cap, lads!"
-- [ ] "On the cap!"
-- [ ]
-- [ ] Cross RED.png  Defense
-- [ ]
-- [ ] "Wicked!"
-- [ ] "Aces!"
-- [ ] "Yaaaagh!"
-- [ ] "There ya go!"
-- [ ] "Now that was a proper bloody rootin'!"
-- [ ]
-- [ ] Payload-related responses
-- [ ] BLU Bombcart.png  Attacking: Cart goes forward
-- [ ]
-- [ ] Regular
-- [ ] "Keep that cart moving!"
-- [ ] "Keep the bloody cart moving!"
-- [ ] "Throw your backs into it, boys!"
-- [ ] "This ain't a walk-a-bout! Push that cart!"
-- [ ] "Push! That! Cart!"
-- [ ] "Keep pushing, lads!"
-- [ ] "Push, lads! Push!"
-- [ ] "Come on, then! Push!"
-- [ ] "Let's go, lads, keep pushing!"
-- [ ] "Where'd you mongrels learn to push!?"
-- [ ]
-- [ ] While scoped
-- [ ] [Whispering] "Keep that cart moving!"
-- [ ] [Whispering] "Keep the bloody cart moving!"
-- [ ] [Whispering] "Throw your backs into it, boys!"
-- [ ] [Whispering] "This ain't a walk-a-bout! Push that cart!"
-- [ ] [Whispering] "Push! That! Cart!"
-- [ ] [Whispering] "Keep pushing, lads!"
-- [ ] [Whispering] "Push, lads! Push!"
-- [ ] [Whispering] "Come on, then! Push!"
-- [ ] [Whispering] "Let's go, lads, keep pushing!"
-- [ ] [Whispering] "Where'd you mongrels learn to push!?"
-- [ ]
-- [ ] BLU Bombcart.png  Attacking: Cart goes back
-- [ ]
-- [ ] Regular
-- [ ] "Get to the cart, ya bloody idiots!"
-- [ ] "The cart's moving the wrong bloody way!"
-- [ ] "Get to the cart, boys!"
-- [ ] "That bomb ain't gonna move itself, lads!"
-- [ ] "The bomb's moving the wrong way!"
-- [ ] "The bomb, lads! Don't forget about the bomb!"
-- [ ] "Get that cart going the right way!"
-- [ ]
-- [ ] While scoped
-- [ ] [Whispering] "Get to the cart, ya bloody idiots!"
-- [ ] [Whispering] "The cart's moving the wrong bloody way!"
-- [ ] [Whispering] "Get to the cart, boys!"
-- [ ] [Whispering] "That bomb ain't gonna move itself, lads."
-- [ ] [Whispering] "That bomb's moving the wrong way!"
-- [ ] [Whispering] "The bomb, lads! Don't forget about the bomb!"
-- [ ] [Whispering] "Get that cart going the right way!"
-- [ ]
-- [ ] RED Bombcart.png  Defending: Cart goes forward
-- [ ]
-- [ ] Regular
-- [ ] "Here comes the bloody bomb!"
-- [ ] "Look out, lads; bomb's on the way!"
-- [ ] "Bugger me! The bomb's coming!"
-- [ ] "Shut your cake-holes and stop that cart!"
-- [ ] "The bomb's coming!"
-- [ ] "Here comes the cart!"
-- [ ]
-- [ ] While Scoped
-- [ ] [Whispering] "Here comes the bloody bomb!"
-- [ ] [Whispering] "Look out, lads, bomb's on the way!"
-- [ ] [Whispering] "Bugger me! The bomb's coming!"
-- [ ] [Whispering] "Shut your cake-holes and stop that cart!"
-- [ ] [Whispering] "The bomb's coming!"
-- [ ] [Whispering] "Here comes the cart!"
-- [ ]
-- [ ] RED Bombcart.png  Defending: Cart goes back
-- [ ]
-- [ ] Regular
-- [ ] "Alright, mates! The cart's moving back!"
-- [ ] "There she goes!"
-- [ ] "The cart's on its way back!"
-- [ ] "Good job, lads! The cart's going back."
-- [ ] "The cart's retreatin'!"
-- [ ] "Aces! There goes the cart!"
-- [ ] "Nice job! The bomb's moving back."
-- [ ] "The bomb's heading back!"
-- [ ]
-- [ ] While scoped
-- [ ] [Whispering] "Alright, mates. The cart's moving back.
-- [ ] [Whispering] "There she goes."
-- [ ] [Whispering] "Cart's on its way back."
-- [ ] [Whispering] "Good job, lads! The cart's going back!"
-- [ ] [Whispering] "The cart's retreatin'!"
-- [ ] [Whispering] "Aces! There goes the cart."
-- [ ] [Whispering] "Nice job! The bomb's moving back."
-- [ ] [Whispering] "Alright. The bomb's heading back!"
-- [ ]
-- [ ] Hoodoo Bombcart.png  Attacking: Stay close to cart
-- [ ]
-- [ ] Regular
-- [ ] "To the cart, you wankers!"
-- [ ] "Stay with the cart!"
-- [ ] "Pull up your socks and stick to the cart!"
-- [ ] "Stay near the bomb!"
-- [ ] "Stay near the bloody cart!"
-- [ ] "The cart, lads! Stick with it!"
-- [ ] "Stop mucking about and get to the cart!"
-- [ ]
-- [ ] While scoped
-- [ ] [Whispering] "To the cart, you wankers!"
-- [ ] [Whispering] "Stay with the cart!"
-- [ ] [Whispering] "Pull up your socks and stick to the cart!"
-- [ ] [Whispering] "Stay near the bomb!"
-- [ ] [Whispering] "Stay near the bloody cart!"
-- [ ] [Whispering] "The cart, lads! Stick with it!"
-- [ ] [Whispering] "Stop mucking about and get to the bomb!"
-- [ ]
-- [ ] Hoodoo Bombcart.png  Attacking: Cart has stopped
-- [ ]
-- [ ] Regular
-- [ ] "That bloody cart ain't gonna move itself!"
-- [ ] "The cart ain't moving, lads!"
-- [ ] "The bomb's just sittin' there!"
-- [ ] "The bomb ain't moving!"
-- [ ] "The cart's just sittin' there!"
-- [ ]
-- [ ] While scoped
-- [ ] [Whispering] "That bloody cart ain't gonna move itself!"
-- [ ] [Whispering] "The cart ain't moving, lads!"
-- [ ] [Whispering] "The bomb's just sittin' there!"
-- [ ] [Whispering] "The bomb ain't moving!"
-- [ ] [Whispering] "The cart's just sittin' there!"
-- [ ]
-- [ ] Lil-chewchew.png  Defending: Stop the bomb
-- [ ]
-- [ ] Regular
-- [ ] "One of you rough-types ought to stop that bomb!"
-- [ ] "Stop the bloody bomb!"
-- [ ] "Stop the cart, lads!"
-- [ ] "Don't let 'em push that bomb!"
-- [ ] "Stop the bloody bomb!"
-- [ ] "Don't let the cart through, lads!"
-- [ ]
-- [ ] While Scoped
-- [ ] [Whispering] "One of you rough-types ought to stop that bomb!"
-- [ ] [Whispering] "Stop the bloody cart!"
-- [ ] [Whispering] "Stop the bomb, lads!"
-- [ ] [Whispering] "Don't let 'em push that bomb!"
-- [ ] [Whispering] "Don't let the cart through, lads!"
+- [ ] [Whispering] "Simple. Simple. One for me." - "Simplu. Simplu. Unul pentru mine."
+- [ ] "That was too easy mate!" - "M-am căcat pe voi!"
+- [ ] [Calmly] "No worries." - "N-am nicio treabă."
+- [ ] "That wasn't so bad." - "N-a fost așa de rău."
+- [ ] "That wasn't so hard." - "N-a fost așa de greu."
+- [ ] "This one's ours now." - "Căcatu ăsta e al nostru acum."
+- [ ] "That was too easy, mate." - "A fost prea ușor, coaie."
+- [ ] "We're not givin' it back." - "Nu-ți dau virginitatea înapoi!"
+- [x] "Get on the point, wanker!"
+- [x] "Come stand on the point, ya bloody wuss!"
+- [ ] "Get on the cap, mates!" - "Masturbați-vă pe punct!"
+- [ ] "Fight on the cap!" - "Hai pe punct odată!"
+- [ ] "Get on the cap!" - "Treceți bă troglodiților pe punct!"
+- [ ] "Stand on the bloody cap!" - "Retardaților, stați pe punct!"
+- [ ] "Stand on the cap, lads!" - "Treceți coaie pe punct!"
+- [ ] "On the cap!" - "Pe punct, acum!"
+- [x] "Wicked!"
+- [x] "Aces!"
+- [x] "Yaaaagh!"
+- [x] "There ya go!"
+- [x] "Now that was a proper bloody rootin'!"
+- [ ] "Keep that cart moving!" - "Ține-ți căruciorul în mișcare!"
+- [ ] "Keep the bloody cart moving!" - "Bagați nos în cărucior!"
+- [ ] "Throw your backs into it, boys!" - "Ajutați căruciorul, e senil!"
+- [ ] "This ain't a walk-a-bout! Push that cart!" - "Asta nu e un joc, împingeți căcatul!"
+- [ ] "Push! That! Cart!" - "Dacă nu împingeți, vă dau la muie!"
+- [ ] "Keep pushing, lads!" - "Împingeți coaie odată!"
+- [ ] "Push, lads! Push!" - "O să pun smegmă pe cărucior dacă nu împingeți!"
+- [ ] "Come on, then! Push!" - "Hai, împingeți căcatul!"
+- [ ] "Let's go, lads, keep pushing!" - "Dacă vreți să futeți ceva, futeți căruciorul ca să-l împingeți!"
+- [ ] "Where'd you mongrels learn to push!?" - "De unde ați învățat să împingeți, țiganilor?"
+- [ ] [Whispering] "Keep that cart moving!" - "Ține-ți căruciorul în mișcare!"
+- [ ] [Whispering] "Keep the bloody cart moving!" - "Bagați nos în cărucior!"
+- [ ] [Whispering] "Throw your backs into it, boys!" - "Ajutați căruciorul, e senil!"
+- [ ] [Whispering] "This ain't a walk-a-bout! Push that cart!" - "Asta nu e un joc, împingeți căcatul!"
+- [ ] [Whispering] "Push! That! Cart!" - "Dacă nu împingeți, vă dau la muie!"
+- [ ] [Whispering] "Keep pushing, lads!" - "Împingeți coaie odată!"
+- [ ] [Whispering] "Push, lads! Push!" - "O să pun smegmă pe cărucior dacă nu împingeți!"
+- [ ] [Whispering] "Come on, then! Push!" - "Hai, împingeți căcatul!"
+- [ ] [Whispering] "Let's go, lads, keep pushing!" - "Dacă vreți să futeți ceva, futeți căruciorul ca să-l împingeți!"
+- [ ] [Whispering] "Where'd you mongrels learn to push!?" - "De unde ați învățat să împingeți, țiganilor?"
+- [ ] "Get to the cart, ya bloody idiots!" - "Ajungeți la cărucior, țiganilor!"
+- [ ] "The cart's moving the wrong bloody way!" - "Căruciorul merge în direcția greșită!"
+- [ ] "Get to the cart, boys!" - "Treceți bă pe cărucior!"
+- [ ] "That bomb ain't gonna move itself, lads!" - "Căruciorul nu se va muta singur, coaie!"
+- [ ] "The bomb's moving the wrong way!" - "Căruciorul este sfânt, împingeți-l!"
+- [ ] "The bomb, lads! Don't forget about the bomb!" - "Căruciorul, coaie! Nu uitați de cărucior!"
+- [ ] "Get that cart going the right way!" - "Împingeți căruciorul în direcția corectă!"
+- [ ] [Whispering] "Get to the cart, ya bloody idiots!" - "Țiganilor, treceți pe cărucior!"
+- [ ] [Whispering] "The cart's moving the wrong bloody way!" - "Bag pula în cărucior, împingeți-l odată!"
+- [ ] [Whispering] "Get to the cart, boys!" - "Șa pe cărucior băieți!"
+- [ ] [Whispering] "That bomb ain't gonna move itself, lads." - "Sunteți niște muieri dacă nu împingeți!"
+- [ ] [Whispering] "That bomb's moving the wrong way!" - "Umflați căruciorul cu spermă, băieți!"
+- [ ] [Whispering] "The bomb, lads! Don't forget about the bomb!" - "Cărucioruuuuul!"
+- [ ] [Whispering] "Get that cart going the right way!" - "Acum! Pe cărucior! Sau vă castrez!"
+- [ ] "Here comes the bloody bomb!" - "Ia uite că vine căruciorul!"
+- [ ] "Look out, lads; bomb's on the way!" - "E doar pișat în cărucior, aveți grijă!"
+- [ ] "Bugger me! The bomb's coming!" - "Vine căruciorul!"
+- [ ] "Shut your cake-holes and stop that cart!" - "Opriți-l! Șa pe el!"
+- [ ] "The bomb's coming!" - "Faceți și voi ceva cu căruciorul ăla?"
+- [ ] "Here comes the cart!" - "Căruciorul e în drum spre noi!"
+- [ ] [Whispering] "Here comes the bloody bomb!" - "Băgami-aș, vine căruciorul!"
+- [ ] [Whispering] "Look out, lads, bomb's on the way!" - "Bomba e pe drum, opriți-o!"
+- [ ] [Whispering] "Bugger me! The bomb's coming!" - "O să-mi dau drumul pe cărucior dacă mai avansează!"
+- [ ] [Whispering] "Shut your cake-holes and stop that cart!" - "Nu mai pălăvrăgiți și opriți bomba!"
+- [ ] [Whispering] "The bomb's coming!" - "Vine bomba cu căcat!"
+- [ ] [Whispering] "Here comes the cart!" - "Bombaaaaa!"
+- [ ] "Alright, mates! The cart's moving back!" - "Am pariat familia că acel cărucior o să dea înapoi, și a dat!"
+- [ ] "There she goes!" - "Mamă ce le-am dat-o, se duce bomba înapoi!"
+- [ ] "The cart's on its way back!" - "Căruciorul s-a speriat de pula mea!"
+- [ ] "Good job, lads! The cart's going back." - "Bomba dă înapoi, exact invers precum a zis Dani Mocanu!"
+- [ ] "The cart's retreatin'!" - "Cinci șeptari, dă căruciorul înapoi!"
+- [ ] "Aces! There goes the cart!" - "Dau bairam diseară că se duce căruciorul înapoi!"
+- [ ] "Nice job! The bomb's moving back." - "Chef de chef, așa-i când dă bomba înapoi!"
+- [ ] "The bomb's heading back!" - "Căruciorul a intrat în marșarier!"
+- [ ] [Whispering] "Alright, mates. The cart's moving back." - "Gata coițelor, a dat înapoi!"
+- [ ] [Whispering] "There she goes." - "Bomba se duce înapoi, ce bine!"
+- [ ] [Whispering] "Cart's on its way back." - "S-a zis cu bomba! Mă bucur!"
+- [ ] [Whispering] "Good job, lads! The cart's going back!" - "E atât de gata pentru cărucior, ce mă bucur!"
+- [ ] [Whispering] "The cart's retreatin'!" - "Petrecere, căruciorul se duce înapoi!"
+- [ ] [Whispering] "Aces! There goes the cart." - "Căruciorul se duce dracu, însfârșit!"
+- [ ] [Whispering] "Nice job! The bomb's moving back." - "Însfârșit, merge înapoi!"
+- [ ] [Whispering] "Alright. The bomb's heading back!" - "Dă cu spatele, băieți, aveți grijă la bombă!"
+- [ ] "To the cart, you wankers!" - "Eu nu dau înapoi, nu cad pe locul doi!"
+- [ ] "Stay with the cart!" - "Căruciorul e ca o femeie, trebuie să-l împingi!"
+- [ ] "Pull up your socks and stick to the cart!" - "Îmi dau drumul pe cărucior ca să vă lipiți de el!"
+- [ ] "Stay near the bomb!" - "Nu mai părăsiți căruciorul, are depresie!"
+- [ ] "Stay near the bloody cart!" - "Stați lângă cărucior, că e singur!"
+- [ ] "The cart, lads! Stick with it!" - "Bomba nu se împinge singură, retardaților!"
+- [ ] "Stop mucking about and get to the cart!" - "Nu vă mai masturbați și împingeți căruciorul!"
+- [ ] [Whispering] "To the cart, you wankers!" - "Căruciorul este ca Dani Mocanu!"
+- [ ] [Whispering] "Stay with the cart!" - "Hai odată, stați pe cărucior!"
+- [ ] [Whispering] "Pull up your socks and stick to the cart!" - "Stați lipiți de cărucior!"
+- [ ] [Whispering] "Stay near the bomb!" - "Pe cărucior!"
+- [ ] [Whispering] "Stay near the bloody cart!" - "Stați pe cărucior, că e singur!"
+- [ ] [Whispering] "The cart, lads! Stick with it!" - "Bomba aia trebuie împinsă, știați?"
+- [ ] [Whispering] "Stop mucking about and get to the bomb!" - "Bă da împingeți odată!"
+- [ ] "That bloody cart ain't gonna move itself!" - "Căruța nu se mișcă singură!"
+- [ ] "The cart ain't moving, lads!" - "Împingeți, că eu am erecție!"
+- [ ] "The bomb's just sittin' there!" - "Bomba stă pe loc! Fute-ți-o!"
+- [ ] "The bomb ain't moving!" - "Băgați turbo pe cărucior!"
+- [ ] "The cart's just sittin' there!" - "Când pula mea nu o să vă mai fie frică să împingeti căruciorul?"
+- [ ] [Whispering] "That bloody cart ain't gonna move itself!" - "Căruța nu se mișcă singură!"
+- [ ] [Whispering] "The cart ain't moving, lads!" - "Împingeți, că eu am erecție!"
+- [ ] [Whispering] "The bomb's just sittin' there!" - "Bomba stă pe loc! Fute-ți-o!"
+- [ ] [Whispering] "The bomb ain't moving!" - "Băgați turbo pe cărucior!"
+- [ ] [Whispering] "The cart's just sittin' there!" - "Când pula mea nu o să vă mai fie frică să împingeti căruciorul?"
+- [ ] "One of you rough-types ought to stop that bomb!" - "Unul din voi, țiganilor, opriți bomba!"
+- [ ] "Stop the bloody bomb!" - "Opriți bomba, coaie!"
+- [ ] "Stop the cart, lads!" - "Opriți căruciorul cu puța, băieți!"
+- [ ] "Don't let 'em push that bomb!" - "Nu-i lăsați să fută bomba!"
+- [ ] "Stop the bloody bomb!" - "Dacă nu opriți caruciorul, o să vă fut!"
+- [ ] "Don't let the cart through, lads!" - "Nu-i lăsați să ne bage căruciorul în cur, băieți!"
+- [ ] [Whispering] "One of you rough-types ought to stop that bomb!" - "Unul din voi, țiganilor, opriți bomba!"
+- [ ] [Whispering] "Stop the bloody cart!" - "Opriți căruciorul cu puța, băieți!"
+- [ ] [Whispering] "Stop the bomb, lads!" - "Opriți bomba, coaie!"
+- [ ] [Whispering] "Don't let 'em push that bomb!" - "Nu-i lăsați să fută bomba!"
+- [ ] [Whispering] "Don't let the cart through, lads!" - "Nu-i lăsați să ne bage căruciorul în cur, băieți!"
 
 ### Duel-related responses
 
