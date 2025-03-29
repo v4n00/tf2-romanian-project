@@ -8,6 +8,8 @@ This project is a **FULL** translation of the game Team Fortress 2 in Romanian l
 
 Go to the [releases page](https://github.com/v4n00/tf2-romanian-project/releases), and download the first archive named `tf.zip` from latest release. Extract the archive in the `Steam/steamapps/common/Team Fortress 2` folder on your computer.
 
+I have not updated this mod in a while, I will eventually finish it, but, until then, after installing, please verify your game files as the GUI translation file crashes TF2 if it doesn't have the latest strings inside.
+
 ## Progress
 
 ### Voice lines
