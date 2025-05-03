@@ -1,1 +1,0 @@
-Copy the "tf" folder that's inside this directory to "Steam/steamapps/common/Team Fortress 2"
