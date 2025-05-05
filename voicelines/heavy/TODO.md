@@ -5,122 +5,73 @@
 
 ## Commands
 
-- [ ] Medic! - Default key: Z → 1 or E
-- [ ]
-- [ ] "Medic!"
-- [ ] "MEDIC!"
-- [ ] "Doctor!"
-- [ ] While aiming at friendly Medic:
-- [ ] "Follow me, Doctor." (1)
-- [ ] "We go together, Doctor."
-- [ ] "Doctor, this way!"
-- [ ] "Is team time, Doctor!"
-- [ ] "Follow me, Doctor." (2)
-- [ ] "Come, Doctor!"
-- [ ] "Come along now, Doctor."
-- [ ]
-- [ ] Thanks! - Default key: Z → 2
-- [ ]
-- [ ] "Thank you!"
-- [ ] "Many thanks!"
-- [ ] "Thank you!"
-- [ ] After a kill or kill assist:
-- [ ] "We make good team!"
-- [ ]
-- [ ] Go Go Go! - Default key: Z → 3
-- [ ]
-- [ ] "Go! Go! Go!"
-- [ ] "Go!"
-- [ ] "Move!"
-- [ ]
-- [ ] Move up! - Default key: Z → 4
-- [ ]
-- [ ] "Move gear up!"
-- [ ] "Move gear forward!"
-- [ ] "Move machine up!"
-- [ ]
-- [ ] Go Left! - Default key: Z → 5
-- [ ]
-- [ ] "To left!"
-- [ ] "Left!"
-- [ ] "Go left!"
-- [ ] "Left!"
-- [ ]
-- [ ] Go Right! - Default key: Z → 6
-- [ ]
-- [ ] "To right!"
-- [ ] "Right!"
-- [ ] "Go right!"
-- [ ] "Right!"
-- [ ]
-- [ ] Yes - Default key: Z → 7
-- [ ]
-- [ ] "Yes."
-- [ ] "Да." ("Da." Translation: "Yes.")
-- [ ] "Very well."
-- [ ]
-- [ ] No - Default key: Z → 8
-- [ ]
-- [ ] "No!"
-- [ ] "Нет!" ("Nyet!" Translation: "No!")
-- [ ] "Is not possible!"
-- [ ]
-- [ ] Voice Menu 2
-- [ ] Incoming! - Default key: X → 1
-- [ ]
-- [ ] "Incoming!"
-- [ ] "Incoming!"
-- [ ] "INCOMIIIIIIIING!"
-- [ ]
-- [ ] Spy! - Default key: X → 2
-- [ ]
-- [ ] "Spy!"
-- [ ] "I see Spy!"
-- [ ] "A Spy!"
-- [ ] "I Spy with my little eye!"
-- [ ] While aiming at a player:
-- [ ] "Scout is Spy!"
-- [ ] "Soldier is Spy!"
-- [ ] "Pyro is Spy!"
-- [ ] "Demoman is Spy!"
-- [ ] "Heavy is Spy!"
-- [ ] "Engineer is Spy!"
-- [ ] "Medic is Spy!"
-- [ ] "Sniper is Spy!"
-- [ ] "Spy is not our Spy!"
-- [ ]
-- [ ] Sentry Ahead! - Default key: X → 3
-- [ ]
-- [ ] "Sentry ahead! (1)"
-- [ ] "Sentry ahead! (2)"
-- [ ]
-- [ ] Teleporter Here! - Default key: X → 4
-- [ ]
-- [ ] "Put Teleport here."
-- [ ]
-- [ ] Dispenser Here! - Default key: X → 5
-- [ ]
-- [ ] "Put Dispenser here."
-- [ ]
-- [ ] Sentry Here! - Default key: X → 6
-- [ ]
-- [ ] "Put Sentry here."
-- [ ]
-- [ ] Activate ÜberCharge! - Default key: X → 7
-- [ ]
-- [ ] "Charge now, Doctor!"
-- [ ] "Hit charge!"
-- [ ] "Charge me!"
-- [ ] "Now, Doctor!"
+- [ ] "Medic!" - "Doctore!"
+- [ ] "MEDIC!" - "Hai doctore!"
+- [ ] "Doctor!" - "Doctor, hai odată!"
+- [ ] "Follow me, Doctor." - "Iubește-mă doctore!"
+- [ ] "We go together, Doctor." - "Doctore, pula mea te cheamă!"
+- [ ] "Doctor, this way!" - "Doctore, hai în pizda mă-tii!"
+- [ ] "Is team time, Doctor!" - "E timpul să ne futem doctore!"
+- [ ] "Follow me, Doctor." - "Treci coaie încoa, doctor împuțit."
+- [ ] "Come, Doctor!" - "Doctore, pula mea nu se suge singură!"
+- [ ] "Come along now, Doctor." - "Mâncați-aș pula doctore, treci!"
+- [ ] "Thank you!" - "Mersi camarade!"
+- [ ] "Many thanks!" - "Spasiba camarade!"
+- [ ] "Thank you!" - "Pupați-as tălpile!"
+- [ ] "We make good team!" - "Muie!"
+- [ ] "Go! Go! Go!" - "Mergi odată!"
+- [ ] "Go!" - "Treci coaie!"
+- [ ] "Move!" - "Mișcă din buric!"
+- [ ] "Move gear up!" - "Mutați-vă maglavaisurile!"
+- [ ] "Move gear forward!" - "Hai să-i împingem, ca la futai!"
+- [ ] "Move machine up!" - "Mișcă mașinăriile astea mai sus!"
+- [ ] "To left!" - "La stânga, gunoaielor!"
+- [ ] "Left!" - "Stânga, nătărăule!"
+- [ ] "Go left!" - "La stânga, idioților!"
+- [ ] "Left!" - "Stânga sau vă omor!"
+- [ ] "To right!" - "La dreapta, gunoaielor!"
+- [ ] "Right!" - "Dreapta, nătărăule!"
+- [ ] "Go right!" - "La dreapta, idioților!"
+- [ ] "Right!" - "Dreapta sau vă omor!"
+- [ ] "Yes." - "Da mă!"
+- [ ] "Да." - "Da broadere!"
+- [ ] "Very well." - "Hai că da dacă e!"
+- [ ] "No!" - "Nu boule!"
+- [ ] "Нет!" - "Nu bă, puță bleagă!"
+- [ ] "Is not possible!" - "Nu se poate, ești prost?"
+- [ ] "Incoming!" - "Se aproprie!"
+- [ ] "Incoming!" - "Vin peste noi, fraților!"
+- [ ] "INCOMIIIIIIIING!" - "Dau iama în noi!"
+- [ ] "Spy!" - "Spion!"
+- [ ] "I see Spy!" - "Spion în pula mea!"
+- [ ] "A Spy!" - "Muie spion!"
+- [ ] "I Spy with my little eye!" - "Văd un homosexual de spion!"
+- [ ] "Scout is Spy!" - "Cercetașul e spion!"
+- [ ] "Soldier is Spy!" - "Soldatul e spion!"
+- [ ] "Pyro is Spy!" - "Piromanul e spion!"
+- [ ] "Demoman is Spy!" - "Demolițianul e spion!"
+- [ ] "Heavy is Spy!" - "Greul e spion!"
+- [ ] "Engineer is Spy!" - "Inginerul e spion!"
+- [ ] "Medic is Spy!" - "Doctorul e spion!"
+- [ ] "Sniper is Spy!" - "Lunetistul e spion!"
+- [ ] "Spy is not our Spy!" - "Spionul e de la cealaltă echipă!"
+- [ ] "Sentry ahead! (1)" - "Morții mă-tii de santinelă!"
+- [ ] "Sentry ahead! (2)" - "O santinelă de futut în față!"
+- [ ] "Put Teleport here." - "Pune un teleporatator acilea!"
+- [ ] "Put Dispenser here." - "Pune un dozator p-aici!"
+- [ ] "Put Sentry here." - "Pune drecu o santinelă prin jur!"
+- [ ] "Charge now, Doctor!" - "Doctore, hai să-i dăm drumul!"
+- [ ] "Hit charge!" - "Freacă-mă doctore!"
+- [ ] "Charge me!" - "Îmi dau drumul doctore, ajută-mă!"
+- [ ] "Now, Doctor!" - "Acum, doctore!"
 - [ ]
 - [ ] Voice Menu 3
 - [ ] Help! - Default key: C → 1
 - [ ]
-- [ ] "Help!"
-- [ ] "Help now!"
-- [ ] "Help me!"
-- [ ] Standing on friendly control point:
-- [ ] "Defend here!"
+- [ ] "Help!" - "Ajutați-mă jegurilor!"
+- [ ] "Help now!" - "Sunteți cu mine sau vă futeți în cur?"
+- [ ] "Help me!" - "Ajutați-mă, pizda mă-tii!"
+- [ ] "Defend here!" - "Vă dau la muie dacă nu apărați!"
 - [ ] "Who's man enough to stand with me?"
 - [ ] "Help defend!"
 - [ ] While standing on a neutral or enemy control point:
@@ -134,17 +85,17 @@
 - [ ]
 - [ ] Battle Cry - Default key: C → 2
 - [ ]
-- [ ] "Here I come!"
-- [ ] "Run, cowards!"
-- [ ] "Hide cowards!"
-- [ ] "Raaaaaaaaagh!"
-- [ ] "Yaaaaaaaaaaaagh!"
-- [ ] "I liiiiive!"
+- [ ] "Here I come!" - "Votăm masiv Călin Georgescu!"
+- [ ] "Run, cowards!" - "Azi votăm PSD!"
+- [ ] "Hide cowards!" - "Fugiți că vine secera!"
+- [ ] "Raaaaaaaaagh!" - "Vă iau în pula pe toți!"
+- [ ] "Yaaaaaaaaaaaagh!" - "Ciocanul meu vă da la muie!"
+- [ ] "I liiiiive!" - "Sunt viu! Vă fut!"
 - [ ] While aiming at an enemy Engineer:
 - [ ] "I hear someone building diaper changing station!"
 - [ ] "Go ahead! Build your tiny gun! Then run!"
 - [ ] While aiming at an enemy, Minigun or secondary weapon equipped, enemy is not a Heavy:
-- [ ] "[Laughs] Look at your little baby guns!"
+- [ ] "[Laughs] Look at your little baby guns!" - "Ui ce puță mică ai!"
 - [ ] "Who send all these babies to fight!?"
 - [ ] "All of you are babies!"
 - [ ] Renamed and/or described stock primary weapon, or non-stock primary weapon currently drawn.
@@ -166,7 +117,7 @@
 - [ ] "Why waste bullet on such a teeny man?"
 - [ ] "Fight me!"
 - [ ] "Come; we fight like men."
-- [ ] "Let us fight; man versus tiny baby man."
+- [ ] "Let us fight; man versus tiny baby man." - "Hai să ne batem, grec versus turc!"
 - [ ]
 - [ ] Cheers - Default key: C → 3
 - [ ]
