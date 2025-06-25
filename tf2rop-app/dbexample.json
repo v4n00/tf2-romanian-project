@@ -1,0 +1,77 @@
+{
+	"Cercetasul": {
+		"Kill related responses": {
+			"After killing more than 1 enemy in 20 seconds with a primary weapon": [
+				{
+					"id": 1,
+					"english": "I am the scout!",
+					"romanianTranslation": "Eu sunt cercetasul!",
+					"customSaveLocation": ".",
+					"audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2f/Scout_Intro.mp3",
+					"audioElevenLabs": "./audio/Scout_Intro.mp3",
+					"notMaking": true
+				},
+				{
+					"id": 2,
+					"english": "I am the fastest!",
+					"romanianTranslation": "",
+					"customSaveLocation": ".",
+					"audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3c/Scout_Fastest.mp3",
+					"audioElevenLabs": "",
+					"notMaking": false
+				}
+			],
+			"Destroying a building": [
+				{
+					"id": 3,
+					"english": "You are dominated!",
+					"romanianTranslation": "Esti dominat!",
+					"customSaveLocation": ".",
+					"audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3c/Scout_Dominated.mp3",
+					"audioElevenLabs": "./audio/Scout_Dominated.mp3",
+					"notMaking": false
+				},
+				{
+					"id": 4,
+					"english": "You are dominated, you are a loser!",
+					"romanianTranslation": "Esti dominat, esti un perdant!",
+					"customSaveLocation": ".",
+					"audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6f/Scout_Dominated_Loser.mp3",
+					"audioElevenLabs": "./audio/Scout_Dominated_Loser.mp3",
+					"notMaking": false
+				}
+			]
+		},
+		"Domination related responses": {
+			"After dominating an enemy": [
+				{
+					"id": 5,
+					"english": "You are dominated!",
+					"romanianTranslation": "Esti dominat!",
+					"customSaveLocation": ".",
+					"audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3c/Scout_Dominated.mp3",
+					"audioElevenLabs": "./audio/Scout_Dominated.mp3",
+					"notMaking": false
+				},
+				{
+					"id": 6,
+					"english": "You are dominated, you are a loser!",
+					"romanianTranslation": "Esti dominat, esti un perdant!",
+					"customSaveLocation": ".",
+					"audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6f/Scout_Dominated_Loser.mp3",
+					"audioElevenLabs": "./audio/Scout_Dominated_Loser.mp3",
+					"notMaking": false
+				}
+			]
+		}
+	},
+	"Soldatul": {},
+	"Piromanul": {},
+	"Demolitianul": {},
+	"Greul": {},
+	"Inginerul": {},
+	"Medic": {},
+	"Lunetistul": {},
+	"Spionul": {},
+	"Administratorul": {}
+}
