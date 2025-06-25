@@ -33,7 +33,7 @@ export const Navbar = ({ directoryHandle }: { directoryHandle: FileSystemDirecto
 		<div className="h-16 border flex items-center gap-2 pl-2 sticky top-0 z-50 bg-background">
 			<DropdownMenu>
 				<DropdownMenuTrigger asChild>
-					<Button className="w-40">Clasă: {location.pathname.split('/')[1] || 'Selectează'}</Button>
+					<Button className="w-50">Clasă: {location.pathname.split('/')[1] || 'Selectează'}</Button>
 				</DropdownMenuTrigger>
 				<DropdownMenuContent>
 					{Clasa.map((clasa) => (

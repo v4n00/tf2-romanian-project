@@ -9,6 +9,7 @@ import { Card } from './ui/card';
 import { Input } from './ui/input';
 
 import { useDatabase } from '@/contexts/DatabaseContext';
+import { useState } from 'react';
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from './ui/form';
 
 const formSchema = z.object({
@@ -23,6 +24,11 @@ const formSchema = z.object({
 
 export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: { voiceline: Voiceline; clasa: (typeof Clasa)[number]; category: string; subcategory: string }) => {
 	const { database, setDatabase } = useDatabase();
+	const [done, setDone] = useState(false);
+
+	if (voiceline.audioElevenLabs && voiceline.romanianTranslation) {
+		setDone(true);
+	}
 
 	const form = useForm<z.infer<typeof formSchema>>({
 		resolver: zodResolver(formSchema),
@@ -66,22 +72,29 @@ export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: 
 		};
 
 		setDatabase(updatedDatabase as Database);
+
+		if (voiceline.audioElevenLabs && voiceline.romanianTranslation) {
+			setDone(true);
+		}
+
 		toast.success('Voice line updated successfully');
 	}
 
 	return (
-		<Card className={`w-full px-4 py-6 flex flex-col gap-6 ${notMakingState && 'bg-destructive/10 opacity-50'}`}>
+		<Card className={`w-full px-4 py-6 flex flex-col gap-6 ${notMakingState && 'bg-destructive/10 opacity-50'} ${done ? 'bg-success/30' : ''}`}>
 			<Form {...form}>
 				<form onSubmit={form.handleSubmit(onSubmit)} className="flex flex-col gap-2">
 					<FormField
 						control={form.control}
 						name="englishVoiceline"
 						render={({ field }) => (
-							<FormItem>
-								<FormLabel>English Voice Line</FormLabel>
-								<FormControl>
-									<Input {...field} disabled />
-								</FormControl>
+							<FormItem className="flex flex-col">
+								<div className="flex flex-row gap-2">
+									<FormLabel>EN:</FormLabel>
+									<FormControl>
+										<Input {...field} disabled />
+									</FormControl>
+								</div>
 								<FormMessage />
 							</FormItem>
 						)}
@@ -91,11 +104,13 @@ export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: 
 						control={form.control}
 						name="romanianVoiceline"
 						render={({ field }) => (
-							<FormItem>
-								<FormLabel>Romanian Voice Line</FormLabel>
-								<FormControl>
-									<Input {...field} disabled={notMakingState} />
-								</FormControl>
+							<FormItem className="flex flex-col">
+								<div className="flex flex-row gap-2">
+									<FormLabel>RO:</FormLabel>
+									<FormControl>
+										<Input {...field} disabled={notMakingState} />
+									</FormControl>
+								</div>
 								<FormMessage />
 							</FormItem>
 						)}

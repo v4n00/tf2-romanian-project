@@ -19,3 +19,9 @@ createRoot(document.getElementById('root')!).render(
 		</ThemeProvider>
 	</HashRouter>
 );
+
+// TODO:
+// API request to ElevenLabs
+// Generate Voiceline button
+// Custom save location button
+// Save button generates file and moves to custom save location if exists

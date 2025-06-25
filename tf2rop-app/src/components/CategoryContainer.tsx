@@ -7,9 +7,9 @@ import { VoicelineContainer } from './VoiceLineContainer';
 
 export const CategoryContainer = ({ categoryName, subcategory, clasa }: { categoryName: string; subcategory: SubCategory; clasa: (typeof Clasa)[number] }) => {
 	return (
-		<Card className="px-2 w-full">
+		<Card className="px-2 w-full py-0">
 			<Collapsible>
-				<CollapsibleTrigger className="flex flex-row cursor-pointer w-full">
+				<CollapsibleTrigger className="flex flex-row cursor-pointer w-full py-4">
 					{categoryName} <ChevronDown />
 				</CollapsibleTrigger>
 				<CollapsibleContent className="mt-2 flex flex-col gap-2">
