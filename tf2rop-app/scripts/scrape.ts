@@ -18,7 +18,7 @@ type CharacterMap = Record<string, CategoryMap>;
 
 let globalId = 1;
 
-async function scrapeTF2Wiki(url: string, characterName: string): Promise<void> {
+async function scrapeTF2Wiki(url: string, characterName: string, type: string): Promise<void> {
 	const { data: html } = await axios.get(url);
 	const $ = cheerio.load(html);
 	const characterData: CharacterMap = { [characterName]: {} };
@@ -26,6 +26,7 @@ async function scrapeTF2Wiki(url: string, characterName: string): Promise<void> 
 	$('h2 .mw-headline').each((_, headline) => {
 		const categoryId = $(headline).attr('id') || '';
 		const categoryTitle = $(headline).text().trim();
+		console.log(`Processing category: ${categoryTitle}`);
 		if (!categoryId || !categoryTitle) return;
 
 		const category: SubCategoryMap = {};
@@ -33,11 +34,25 @@ async function scrapeTF2Wiki(url: string, characterName: string): Promise<void> 
 
 		while (element.length && element[0].tagName !== 'h2') {
 			if (element.is('table')) {
-				const subCategoryHeader = element.find('td.gradient b').first();
+				let subCategoryHeaderElement: string;
+				if (type === 'taunts') {
+					subCategoryHeaderElement = 'td';
+				} else if (type === 'voice_commands') {
+					subCategoryHeaderElement = 'td.gradient';
+				} else {
+					subCategoryHeaderElement = 'td.gradient b'; // "responses"
+				}
+				const subCategoryHeader = element.find(subCategoryHeaderElement).first();
 				const subCategoryTitle = subCategoryHeader.text().trim();
+				console.log(`Processing sub-category: ${subCategoryTitle} in category: ${categoryTitle}`);
 				const voiceLines: VoiceLine[] = [];
 
-				element.find('li a.internal').each((_, link) => {
+				let voiceLineElements = 'li a.internal';
+				if (type === 'taunts') {
+					voiceLineElements = 'dd a.internal';
+				}
+
+				element.find(voiceLineElements).each((_, link) => {
 					const voiceText = $(link).text().replace(/["“”]/g, '').trim();
 					const audioHref = $(link).attr('href')?.trim() || '';
 
@@ -71,14 +86,22 @@ async function scrapeTF2Wiki(url: string, characterName: string): Promise<void> 
 	console.log(`Scraped data saved to ${outputFilename}`);
 }
 
-// Example usage:
-const characterName = process.argv[3];
-const wikiUrl = process.argv[2];
+const types = ['voice_commands', 'responses', 'taunts'];
+const classes = ['Scout', 'Soldier', 'Pyro', 'Demoman', 'Heavy', 'Engineer', 'Medic', 'Sniper', 'Spy', 'Administrator'];
+const classesRO = ['Cercetasul', 'Soldatul', 'Piromanul', 'Demolitianul', 'Greul', 'Inginerul', 'Medic', 'Lunetistul', 'Spionul', 'Administratorul'];
 
-if (!wikiUrl) {
-	console.error('Usage: ts-node scrape.ts <wikiUrl> <characterName>');
-	process.exit(1);
+// const characterName = 'Cercetasul3';
+// const wikiUrl = 'https://wiki.teamfortress.com/wiki/Scout_taunts';
+// const type = 'taunts'; // "responses" or "voice_commands" or "taunts"
+
+for (let i = 0; i < classes.length; i++) {
+	for (let j = 0; j < 3; j++) {
+		const characterName = classesRO[i] + j;
+		const wikiUrl = `https://wiki.teamfortress.com/wiki/${classes[i]}_${types[j]}`;
+		const type = types[j]; // "taunts", "responses", or "voice_commands"
+		if (i === 10 && (j === 0 || j === 2)) continue;
+		scrapeTF2Wiki(wikiUrl, characterName, type).catch(console.error);
+	}
 }
 
-scrapeTF2Wiki(wikiUrl, characterName).catch(console.error);
-// ts-node scrape.ts "https://wiki.teamfortress.com/wiki/Scout_responses" Cercetasul
+// scrapeTF2Wiki(wikiUrl, characterName, type).catch(console.error);

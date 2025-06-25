@@ -46,7 +46,7 @@ export const App = () => {
 			<Navbar directoryHandle={directoryHandle} />
 			<div className="flex flex-col items-center gap-2 px-2">
 				{!isValidClass ? (
-					<p>Invalid URL</p>
+					<p>Select class</p>
 				) : !directoryHandle ? (
 					<>
 						<p>No working directory selected</p>
