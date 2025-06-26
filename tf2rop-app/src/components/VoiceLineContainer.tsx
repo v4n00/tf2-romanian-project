@@ -45,7 +45,20 @@ export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: 
 
 	const notMakingState = form.watch('notMaking');
 
-	async function onSubmit(values: z.infer<typeof formSchema>) {
+	const onSubmit = async (values: z.infer<typeof formSchema>) => {
+		if (!voiceSettings) {
+			toast.error('Voice settings are not set');
+			return;
+		}
+
+		const directoryHandle = voiceSettings.directoryHandle;
+
+		if (!directoryHandle) {
+			console.error('Directory handle is not set');
+			toast.error('Directory handle is not set');
+			return;
+		}
+
 		if (!database) {
 			console.error('Database is not loaded');
 			toast.error('Database is not loaded');
@@ -54,18 +67,12 @@ export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: 
 
 		if (values.audioElevenLabs) {
 			// save to working directory
-			if (!voiceSettings) {
-				toast.error('Voice settings are not set');
-				return;
-			}
 
-			const directoryHandle = voiceSettings.directoryHandle;
 			if (!directoryHandle || !values.audioEnglishVoiceline || !values.audioElevenLabs) {
 				console.log(directoryHandle, values.audioEnglishVoiceline, values.audioElevenLabs, values.customSaveLocation);
-				toast.error('Failed to save audio file: Invalid directory or voiceline');
+				toast.error('Failed to save audio file: Invalid voiceline');
 				return;
 			}
-			console.log('Directory handle:', directoryHandle);
 
 			const fileName = `${values.audioEnglishVoiceline.split('/').pop()?.replace('.wav', '.mp3')}`;
 			console.log('Saving audio file: ', fileName);
@@ -140,7 +147,11 @@ export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: 
 		};
 
 		setDatabase(updatedDatabase as Database);
-	}
+		const fileHandle = await directoryHandle.getFileHandle('database.json', { create: true });
+		const writable = await fileHandle.createWritable();
+		await writable.write(JSON.stringify(updatedDatabase, null, 2));
+		await writable.close();
+	};
 
 	const generateVoiceline = async () => {
 		const romanianTranslation = form.getValues('romanianVoiceline');
@@ -160,7 +171,6 @@ export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: 
 		}
 
 		console.log('Generating voice line for:', romanianTranslation);
-		console.log('Using API key:', apiKey);
 
 		try {
 			setGenerating(true);
@@ -208,69 +218,58 @@ export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: 
 		}
 	};
 
-	// check if the local file inside audioElevenLabsState exists
-	const audioExists = async () => {
-		const url = form.getValues('audioElevenLabs');
-		if (!url) return false;
-		try {
-			const response = await fetch(url, {
-				method: 'HEAD',
-			});
-			return response.ok;
-		} catch (error) {
-			console.error('Error checking audio file:', error);
-			return false;
-		}
-	};
-
 	const audioElevenLabsState = form.watch('audioElevenLabs');
 	const romanianVoicelineState = form.watch('romanianVoiceline');
 	const [generating, setGenerating] = useState(false);
 
-	if (audioElevenLabsState && !audioElevenLabsState.startsWith('blob:')) {
-		audioExists().then((exists) => {
-			if (exists) {
-				form.setValue('audioElevenLabs', 'corrupt');
-				console.error('Audio file does not exist for:', voiceline.audioElevenLabs);
-			}
-		});
-	}
-
 	return (
-		<Card className={`w-full px-4 py-6 flex flex-col gap-6 ${notMakingState && 'bg-destructive/10 opacity-50'} ${audioElevenLabsState && romanianVoicelineState ? 'bg-success/30' : ''}`}>
+		<Card className={`w-full px-4 py-4 flex flex-col gap-6 ${notMakingState && 'bg-destructive/10 opacity-50'} ${audioElevenLabsState && romanianVoicelineState ? 'bg-success/30' : ''}`}>
 			<Form {...form}>
 				<form onSubmit={form.handleSubmit(onSubmit)} className="flex flex-col gap-2">
-					<FormField
-						control={form.control}
-						name="englishVoiceline"
-						render={({ field }) => (
-							<FormItem className="flex flex-col">
-								<div className="flex flex-row gap-2">
-									<FormLabel>EN:</FormLabel>
-									<FormControl>
-										<Input {...field} disabled />
-									</FormControl>
-								</div>
-								<FormMessage />
-							</FormItem>
-						)}
-					/>
+					<div className="flex flex-row gap-2">
+						<div className="flex flex-col gap-2 flex-1">
+							<FormField
+								control={form.control}
+								name="englishVoiceline"
+								render={({ field }) => (
+									<FormItem className="flex flex-col">
+										<div className="flex flex-row gap-2">
+											<FormLabel>EN:</FormLabel>
+											<FormControl>
+												<Input {...field} disabled />
+											</FormControl>
+										</div>
+										<FormMessage />
+									</FormItem>
+								)}
+							/>
 
-					<FormField
-						control={form.control}
-						name="romanianVoiceline"
-						render={({ field }) => (
-							<FormItem className="flex flex-col">
-								<div className="flex flex-row gap-2">
-									<FormLabel>RO:</FormLabel>
-									<FormControl>
-										<Input {...field} disabled={notMakingState} />
-									</FormControl>
-								</div>
-								<FormMessage />
-							</FormItem>
-						)}
-					/>
+							<FormField
+								control={form.control}
+								name="romanianVoiceline"
+								render={({ field }) => (
+									<FormItem className="flex flex-col">
+										<div className="flex flex-row gap-2">
+											<FormLabel>RO:</FormLabel>
+											<FormControl>
+												<Input {...field} disabled={notMakingState} />
+											</FormControl>
+										</div>
+										<FormMessage />
+									</FormItem>
+								)}
+							/>
+						</div>
+						<Card
+							className="p-2 flex items-center justify-center cursor-pointer"
+							onClick={() => {
+								console.log('Voiceline:');
+								console.log(voiceline);
+								console.log('Form:');
+								console.log(form.getValues());
+							}}
+						>{`${voiceline.audioTF2Wiki.split('/').pop()?.replace('.wav', '.mp3')}`}</Card>
+					</div>
 
 					<div className="flex flex-row gap-4">
 						<div className="flex-1 flex flex-col gap-2">
@@ -289,15 +288,9 @@ export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: 
 										<p>Generating...</p>
 									</Card>
 								) : audioElevenLabsState ? (
-									audioElevenLabsState === 'corrupt' ? (
-										<Card className="w-full h-12 flex items-center justify-center rounded-4xl bg-destructive">
-											<p>Audio file not found</p>
-										</Card>
-									) : (
-										<audio controls className="w-full">
-											<source src={audioElevenLabsState} type="audio/mpeg" />
-										</audio>
-									)
+									<audio controls className="w-full">
+										<source src={audioElevenLabsState} type="audio/mpeg" />
+									</audio>
 								) : (
 									<Card className="w-full h-12 flex items-center justify-center rounded-4xl">
 										<p>No audio available</p>
@@ -307,9 +300,18 @@ export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: 
 						</div>
 
 						<div className="grid grid-cols-2 grid-rows-2 gap-2">
-							<Button type="button" variant="outline" className="h-full cursor-pointer" disabled={notMakingState}>
-								Change save location
-							</Button>
+							<FormField
+								control={form.control}
+								name="customSaveLocation"
+								render={({ field }) => (
+									<FormItem className="flex flex-col">
+										<FormControl>
+											<Input placeholder="Custom save location" {...field} disabled={notMakingState} className="h-full" />
+										</FormControl>
+										<FormMessage />
+									</FormItem>
+								)}
+							/>
 							<Button type="submit" variant="success" className="h-full cursor-pointer">
 								Save
 							</Button>
@@ -329,11 +331,6 @@ export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: 
 					</div>
 				</form>
 			</Form>
-			<Button
-				onClick={() => {
-					console.log(form.getValues());
-				}}
-			/>
 		</Card>
 	);
 };

@@ -13,13 +13,16 @@ export const App = () => {
 	const location = useLocation();
 	const clasa = location.pathname.split('/')[1];
 	const isValidClass = Clasa.includes(clasa);
-	const { directoryHandle, setDirectoryHandle } = useVoiceSettings().voiceSettings;
+	const voiceSettings = useVoiceSettings().voiceSettings;
+	const directoryHandle = voiceSettings?.directoryHandle;
+	const setDirectoryHandle = voiceSettings?.setDirectoryHandle;
 	const { database, setDatabase } = useDatabase();
 
 	const handlePickFolder = async () => {
 		try {
+			if (!setDirectoryHandle) return;
 			const dirHandle = await window.showDirectoryPicker();
-			setDirectoryHandle(dirHandle);
+			if (dirHandle) setDirectoryHandle(dirHandle);
 		} catch (error) {
 			console.error('Error picking folder:', error);
 		}
@@ -70,7 +73,7 @@ export const App = () => {
 			</ResizablePanel>
 			<ResizableHandle withHandle />
 			<ResizablePanel>
-				<Navbar directoryHandle={directoryHandle} />
+				<Navbar />
 			</ResizablePanel>
 		</ResizablePanelGroup>
 	);
