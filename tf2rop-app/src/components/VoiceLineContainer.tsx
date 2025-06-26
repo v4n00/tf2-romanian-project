@@ -111,6 +111,7 @@ export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: 
 			}
 
 			form.setValue('audioElevenLabs', filePath);
+			values.audioElevenLabs = filePath;
 		}
 
 		const updatedVoiceline = {
@@ -122,6 +123,8 @@ export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: 
 			customSaveLocation: values.customSaveLocation,
 			notMaking: values.notMaking,
 		};
+
+		console.log('Updating voiceline:', updatedVoiceline);
 
 		const updatedSubcategory = database[clasa][category][subcategory].map((line) => (line.id === values.id ? updatedVoiceline : line));
 
@@ -205,10 +208,6 @@ export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: 
 		}
 	};
 
-	const audioElevenLabsState = form.watch('audioElevenLabs');
-	const romanianVoicelineState = form.watch('romanianVoiceline');
-	const [generating, setGenerating] = useState(false);
-
 	// check if the local file inside audioElevenLabsState exists
 	const audioExists = async () => {
 		const url = form.getValues('audioElevenLabs');
@@ -224,11 +223,15 @@ export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: 
 		}
 	};
 
+	const audioElevenLabsState = form.watch('audioElevenLabs');
+	const romanianVoicelineState = form.watch('romanianVoiceline');
+	const [generating, setGenerating] = useState(false);
+
 	if (audioElevenLabsState && !audioElevenLabsState.startsWith('blob:')) {
-		console.log('hi');
 		audioExists().then((exists) => {
-			if (!exists) {
-				form.setValue('audioElevenLabs', '');
+			if (exists) {
+				form.setValue('audioElevenLabs', 'corrupt');
+				console.error('Audio file does not exist for:', voiceline.audioElevenLabs);
 			}
 		});
 	}
@@ -286,9 +289,15 @@ export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: 
 										<p>Generating...</p>
 									</Card>
 								) : audioElevenLabsState ? (
-									<audio controls className="w-full">
-										<source src={audioElevenLabsState} type="audio/mpeg" />
-									</audio>
+									audioElevenLabsState === 'corrupt' ? (
+										<Card className="w-full h-12 flex items-center justify-center rounded-4xl bg-destructive">
+											<p>Audio file not found</p>
+										</Card>
+									) : (
+										<audio controls className="w-full">
+											<source src={audioElevenLabsState} type="audio/mpeg" />
+										</audio>
+									)
 								) : (
 									<Card className="w-full h-12 flex items-center justify-center rounded-4xl">
 										<p>No audio available</p>
