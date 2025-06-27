@@ -67,6 +67,7 @@ export const VoicelineContainer = ({ voiceline, clasa, category, subcategory }: 
 
 		if (values.audioElevenLabs) {
 			// save to working directory
+			if (!values.audioElevenLabs.startsWith('blob:')) return;
 
 			if (!directoryHandle || !values.audioEnglishVoiceline || !values.audioElevenLabs) {
 				console.log(directoryHandle, values.audioEnglishVoiceline, values.audioElevenLabs, values.customSaveLocation);

@@ -17,4 +17,7 @@ export default defineConfig({
 			ignored: ['**/database.json', '**/workdir/**'],
 		},
 	},
+	build: {
+		emptyOutDir: false,
+	},
 });
