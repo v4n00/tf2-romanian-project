@@ -8973,10 +8973,10 @@
         {
           "id": 3718,
           "english": "That Heavy is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acel greu este un bozggor!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/de/Soldier_cloakedspyidentify03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cloakedspyidentify03.mp3",
           "notMaking": false
         },
         {
@@ -9286,20 +9286,20 @@
         {
           "id": 3751,
           "english": "I am a robot! I am here to take American jobs!",
-          "romanianTranslation": "Sunt. un. robot! Am. venit. să-ți. fur. virginitatea.",
+          "romanianTranslation": "",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b6/Soldier_robot08.wav",
-          "audioElevenLabs": "workdir/Soldier_robot08.mp3",
-          "notMaking": false
+          "audioElevenLabs": "",
+          "notMaking": true
         },
         {
           "id": 3752,
           "english": "I am a ro-bot from the fu-ture!",
-          "romanianTranslation": "Mă. Fut. În. El. De. Chat. GEPETE.",
+          "romanianTranslation": "",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/60/Soldier_robot09.wav",
-          "audioElevenLabs": "workdir/Soldier_robot09.mp3",
-          "notMaking": false
+          "audioElevenLabs": "",
+          "notMaking": true
         },
         {
           "id": 3753,
@@ -10447,10 +10447,10 @@
         {
           "id": 885,
           "english": "You just got dominated, Oktoberfest!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Doctor, ce zice verificarea aia de prostată?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/76/Soldier_DominationMedic01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_DominationMedic01.mp3",
           "notMaking": false
         },
         {
@@ -10539,100 +10539,100 @@
         {
           "id": 895,
           "english": "I will send my condolences to your kangaroo wife.",
-          "romanianTranslation": "",
+          "romanianTranslation": "O să te fut până îți iese căcatul pe ochi!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/87/Soldier_DominationSniper04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_DominationSniper04.mp3",
           "notMaking": false
         },
         {
           "id": 896,
           "english": "You are a coward, and you died like one.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mă cac în luneta ta, v-a trebui să-ți iei ștergătoare!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fe/Soldier_DominationSniper05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_DominationSniper05.mp3",
           "notMaking": false
         },
         {
           "id": 897,
           "english": "The next time you want to kill a man, look him in the eyes!",
-          "romanianTranslation": "",
+          "romanianTranslation": "M-am căcat pe mine, vino să te uiți cu luneta ta la curul meu!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/76/Soldier_DominationSniper06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_DominationSniper06.mp3",
           "notMaking": false
         },
         {
           "id": 898,
           "english": "You just got dominated, Bilbo Baggins!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Tragi în picior ca în cap! Muie negrule!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fd/Soldier_DominationSniper07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_DominationSniper07.mp3",
           "notMaking": false
         },
         {
           "id": 899,
           "english": "You just got dominated, Balbo Biggins!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ce pula mea, mai trăiești?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2b/Soldier_DominationSniper08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_DominationSniper08.mp3",
           "notMaking": false
         },
         {
           "id": 900,
           "english": "You just got dominated, Bablo Bravins!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Te sugrum cu pizda mătti de cangur!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/67/Soldier_DominationSniper09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_DominationSniper09.mp3",
           "notMaking": false
         },
         {
           "id": 901,
           "english": "You just got dominated, Barble Bapkins!",
-          "romanianTranslation": "",
+          "romanianTranslation": "În australia o fut pe mătta până ajunge în românia!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/7c/Soldier_DominationSniper10.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_DominationSniper10.mp3",
           "notMaking": false
         },
         {
           "id": 902,
           "english": "You just got dominated, Bazbo Bibbons!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Bă da lasă-mă odată homosexualule!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/1f/Soldier_DominationSniper11.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_DominationSniper11.mp3",
           "notMaking": false
         },
         {
           "id": 903,
           "english": "You just got dominated, Bulbo Buttons!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Bă. Muie!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4a/Soldier_DominationSniper14.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_DominationSniper14.mp3",
           "notMaking": false
         },
         {
           "id": 904,
           "english": "Aww, am I too violent for you, cupcake?",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sunt prea sexos pentru tine, căcăcilă?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/94/Soldier_DominationSniper12.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_DominationSniper12.mp3",
           "notMaking": false
         },
         {
           "id": 905,
           "english": "Your country did not prepare you for the level of violence you will meet on my battlefield!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Scriu cu foc, trag cu rachete și mă ling cu porumbei!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/36/Soldier_DominationSniper13.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_DominationSniper13.mp3",
           "notMaking": false
         }
       ],
@@ -10728,10 +10728,10 @@
         {
           "id": 936,
           "english": "I will not tolerate failure on my team.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nu o să tolerez homosexuali în echipa mea!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6a/Soldier_autodejectedtie02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_autodejectedtie02.mp3",
           "notMaking": false
         },
         {
@@ -10741,35 +10741,35 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e5/Soldier_autodejectedtie03.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Set on fire": [
         {
           "id": 938,
           "english": "Fire, fire, fire!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Foooc! M-a ras la floci!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/36/Soldier_autoonfire01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_autoonfire01.mp3",
           "notMaking": false
         },
         {
           "id": 939,
           "english": "I am on fire!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am luat foooc! Pizda mătti!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3b/Soldier_autoonfire02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_autoonfire02.mp3",
           "notMaking": false
         },
         {
           "id": 940,
           "english": "The burning, the burning!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Foooc! Futeți piromanul!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/32/Soldier_autoonfire03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_autoonfire03.mp3",
           "notMaking": false
         }
       ],
@@ -10901,28 +10901,28 @@
         {
           "id": 958,
           "english": "Thanks.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mulțumesc pentru teleportator, îți fut nevasta!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/cc/Soldier_thanksfortheteleporter01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_thanksfortheteleporter01.mp3",
           "notMaking": false
         },
         {
           "id": 959,
           "english": "Thanks for the Teleporter.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Teleportatorul ăsta e ca o femeie! O violez și o arunc în râu!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c1/Soldier_thanksfortheteleporter02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_thanksfortheteleporter02.mp3",
           "notMaking": false
         },
         {
           "id": 960,
           "english": "Thanks, Engie.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mulțumesc inginerule, să-ți pup chelia aia de pedofil!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/55/Soldier_thanksfortheteleporter03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_thanksfortheteleporter03.mp3",
           "notMaking": false
         }
       ],
@@ -10930,28 +10930,28 @@
         {
           "id": 961,
           "english": "You deserve a medal, Doc.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mersi doctore, îți donez un cuptor!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/45/Soldier_thanksfortheheal01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_thanksfortheheal01.mp3",
           "notMaking": false
         },
         {
           "id": 962,
           "english": "Thanks for the aid.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mulțumesc pentru ajutorul de genocid, doctore!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/95/Soldier_thanksfortheheal02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_thanksfortheheal02.mp3",
           "notMaking": false
         },
         {
           "id": 963,
           "english": "Thanks, Doc.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mulțam doctor, foarte bazat!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e1/Soldier_thanksfortheheal03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_thanksfortheheal03.mp3",
           "notMaking": false
         }
       ],
@@ -10959,64 +10959,64 @@
         {
           "id": 964,
           "english": "I am going to enjoy killing each and every one of you sorry sacks of scum!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O să vă cocoșez toate puțele alea blege și mai mult!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/86/Soldier_taunts05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunts05.mp3",
           "notMaking": false
         },
         {
           "id": 965,
           "english": "Each and every one of you will be sent home to your momma' in a box!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O să vă ridic pe pulă și o să vă fut până mor!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f0/Soldier_taunts11.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunts11.mp3",
           "notMaking": false
         },
         {
           "id": 966,
           "english": "You are all maggots, you scum sucking fruit baskets!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sunteți toți unguri, vă las să mi-o sugeți puțin!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/21/Soldier_taunts21.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunts21.mp3",
           "notMaking": false
         },
         {
           "id": 967,
           "english": "You sissified maggot scum have just signed your death warrants!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Urăsc țiganii, ungurii, negrii, indienii și turcaleții!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9f/Soldier_taunts06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunts06.mp3",
           "notMaking": false
         },
         {
           "id": 968,
           "english": "Surrender now, maggots, and you will not be harmed!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sunteți vai mama voastră. Stai. Nu mai aveți mamă. Am futut-o pâna a murit!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/18/Soldier_taunts15.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunts15.mp3",
           "notMaking": false
         },
         {
           "id": 969,
           "english": "You are scum! You are nothin' but a buncha' cowards!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Trebuia să fiți avortați, ungurii dreacu!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2e/Soldier_taunts04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunts04.mp3",
           "notMaking": false
         },
         {
           "id": 970,
           "english": "We have you surrounded, at least from this side!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ce pula mea ziceți de Ardeal, e chiar aici, dar normal că e al meu!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/35/Soldier_taunts12.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunts12.mp3",
           "notMaking": false
         }
       ],
@@ -11024,19 +11024,19 @@
         {
           "id": 971,
           "english": "Now that is what I wanna see!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Asta vreau să vad, curve goale!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a6/Soldier_autocappedcontrolpoint01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_autocappedcontrolpoint01.mp3",
           "notMaking": false
         },
         {
           "id": 972,
           "english": "And that is how you do it, men!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Așa le tăiem prepuțul băieți!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/85/Soldier_autocappedintelligence02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_autocappedintelligence02.mp3",
           "notMaking": false
         }
       ]
@@ -11050,7 +11050,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a4/Concheror_horn.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 977,
@@ -11059,7 +11059,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/cb/Buff_banner_horn_blue.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 978,
@@ -11068,7 +11068,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fc/Buff_banner_horn_red.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 979,
@@ -11077,7 +11077,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/0a/Battalions_backup_blue.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 980,
@@ -11086,7 +11086,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5f/Battalions_backup_red.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ]
     },
@@ -11095,19 +11095,19 @@
         {
           "id": 987,
           "english": "This is my intelligence.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Asta e inteligența mea, oricum nu știu cât face 7 ori 8!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d5/Soldier_autocappedintelligence01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_autocappedintelligence01.mp3",
           "notMaking": false
         },
         {
           "id": 989,
           "english": "I have rescued my intelligence.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mi-am luat creierul înapoi, cum îl pun la loc?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/39/Soldier_autocappedintelligence03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_autocappedintelligence03.mp3",
           "notMaking": false
         }
       ],
@@ -11115,19 +11115,19 @@
         {
           "id": 991,
           "english": "This point is mine! Do you understand that?",
-          "romanianTranslation": "",
+          "romanianTranslation": "Punctul asta e al meu, la fel ca ardealul!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/75/Soldier_autocappedcontrolpoint02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_autocappedcontrolpoint02.mp3",
           "notMaking": false
         },
         {
           "id": 992,
           "english": "We have commandeered my point!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Punctul asta e românia, la fel ca basarabia!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/51/Soldier_autocappedcontrolpoint03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_autocappedcontrolpoint03.mp3",
           "notMaking": false
         }
       ],
@@ -11137,136 +11137,136 @@
         {
           "id": 999,
           "english": "Move, move, move!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mișcați din bucile alea!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/90/Soldier_cartgoingforwardoffense01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwardoffense01.mp3",
           "notMaking": false
         },
         {
           "id": 1000,
           "english": "Push!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți, e ziua de împingere!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4d/Soldier_cartgoingforwardoffense02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwardoffense02.mp3",
           "notMaking": false
         },
         {
           "id": 1001,
           "english": "I do not see enough pushing!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți de parcă vă căcați pe voi!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d0/Soldier_cartgoingforwardoffense03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwardoffense03.mp3",
           "notMaking": false
         },
         {
           "id": 1002,
           "english": "Push, that is an order!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împinge, asta e o ordine de la mătta!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9d/Soldier_cartgoingforwardoffense04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwardoffense04.mp3",
           "notMaking": false
         },
         {
           "id": 1003,
           "english": "Push that cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeeeeeeți!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fd/Soldier_cartgoingforwardoffense05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwardoffense05.mp3",
           "notMaking": false
         },
         {
           "id": 1004,
           "english": "Push that cart forward!",
-          "romanianTranslation": "",
+          "romanianTranslation": "E ziua de împingere!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/53/Soldier_cartgoingforwardoffense06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwardoffense06.mp3",
           "notMaking": false
         },
         {
           "id": 1005,
           "english": "Push, cream-puffs!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai băgați cu kerosen pe cărucior!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6b/Soldier_cartgoingforwardoffense07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwardoffense07.mp3",
           "notMaking": false
         },
         {
           "id": 1006,
           "english": "Push, you apple-blossoms!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Căruciorul ăla nu se fute singur!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/55/Soldier_cartgoingforwardoffense08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwardoffense08.mp3",
           "notMaking": false
         },
         {
           "id": 1007,
           "english": "Push, you butter muffins!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nu mai futeți căruciorul, trebuie să-l împingem ușor!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6c/Soldier_cartgoingforwardoffense09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwardoffense09.mp3",
           "notMaking": false
         },
         {
           "id": 1008,
           "english": "Ladies, let's get this cart moving!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Îi dau la cărucior între buci până o ia din loc!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b3/Soldier_cartgoingforwardoffense10.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwardoffense10.mp3",
           "notMaking": false
         },
         {
           "id": 1009,
           "english": "You will push this cart or I will push you into a grave!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O să împingeți căruciorul sau o să vă împing o muie pe gât!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2c/Soldier_cartgoingforwardoffense11.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwardoffense11.mp3",
           "notMaking": false
         },
         {
           "id": 1010,
           "english": "We will push until there is nothing left to push!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți căruciorul sau vă arunc la maghiari!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e4/Soldier_cartgoingforwardoffense12.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwardoffense12.mp3",
           "notMaking": false
         },
         {
           "id": 1011,
           "english": "Push!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Îm. Pin. Geți. Ce nu înțelegeți?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b6/Soldier_cartgoingforwardoffense13.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwardoffense13.mp3",
           "notMaking": false
         },
         {
           "id": 1012,
           "english": "Keep pushing!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Continuați ziua de împingere!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b4/Soldier_cartgoingforwardoffense14.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwardoffense14.mp3",
           "notMaking": false
         },
         {
           "id": 1013,
           "english": "Push like you mean it!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți de parcă violați o femeie!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ec/Soldier_cartgoingforwardoffense15.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwardoffense15.mp3",
           "notMaking": false
         }
       ],
@@ -11274,19 +11274,19 @@
         {
           "id": 1014,
           "english": "Do not let that cart roll back!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nu lăsați căruciorul să facă avort!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/24/Soldier_cartgoingbackoffense01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingbackoffense01.mp3",
           "notMaking": false
         },
         {
           "id": 1015,
           "english": "The cart needs to go forward!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Căruciorul trebuie să continue în față, el nu dă înapoi, la fel ca Dani!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/15/Soldier_cartgoingbackoffense02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingbackoffense02.mp3",
           "notMaking": false
         }
       ],
@@ -11294,28 +11294,28 @@
         {
           "id": 1016,
           "english": "Do not let that cart go forward!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Îți fut o pulă de cărucior! Opriți-l!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fd/Soldier_cartgoingforwarddefense01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwarddefense01.mp3",
           "notMaking": false
         },
         {
           "id": 1017,
           "english": "Hold the line, men! Stop that cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Puneți-vă-n rocadă domnișoarelor, opriți căruciorul!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f5/Soldier_cartgoingforwarddefense02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwarddefense02.mp3",
           "notMaking": false
         },
         {
           "id": 1018,
           "english": "Stop that cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Trebuie să oprim căruciorul ăla sau devin și mai rasist!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9e/Soldier_cartgoingforwarddefense03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingforwarddefense03.mp3",
           "notMaking": false
         }
       ],
@@ -11323,19 +11323,19 @@
         {
           "id": 1019,
           "english": "The cart's falling back!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Căruciorul dă înapoi, la fel ca bozggorii!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f0/Soldier_cartgoingbackdefense01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingbackdefense01.mp3",
           "notMaking": false
         },
         {
           "id": 1020,
           "english": "That's it, men, move that cart back!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Așa vă vreau, dați căruciorul pe marșarier!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a9/Soldier_cartgoingbackdefense02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartgoingbackdefense02.mp3",
           "notMaking": false
         }
       ],
@@ -11343,55 +11343,55 @@
         {
           "id": 1021,
           "english": "Get to the cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Căruciorul trebuie să ia linia rasistă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9e/Soldier_cartstaycloseoffense01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartstaycloseoffense01.mp3",
           "notMaking": false
         },
         {
           "id": 1022,
           "english": "Get to the cart, ladies!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai odată pe cărucior!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b2/Soldier_cartstaycloseoffense02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartstaycloseoffense02.mp3",
           "notMaking": false
         },
         {
           "id": 1023,
           "english": "Everyone, get to the cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Dacă nu vă lipiți de cărucior, vă fur prepuțul la toți!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5c/Soldier_cartstaycloseoffense03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartstaycloseoffense03.mp3",
           "notMaking": false
         },
         {
           "id": 1024,
           "english": "Get to the cart, maggots!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Bozggori dreacu, treceți pe cărucior!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3f/Soldier_cartstaycloseoffense04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartstaycloseoffense04.mp3",
           "notMaking": false
         },
         {
           "id": 1025,
           "english": "Stick to that cart like glue, that is an order!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vă dau ordine să futeți căruciorul!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a6/Soldier_cartstaycloseoffense05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartstaycloseoffense05.mp3",
           "notMaking": false
         },
         {
           "id": 1026,
           "english": "Get to the cart! Hup, hup, hup!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hopa, hai pe cărucior!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/90/Soldier_cartstaycloseoffense06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartstaycloseoffense06.mp3",
           "notMaking": false
         }
       ],
@@ -11399,28 +11399,28 @@
         {
           "id": 1027,
           "english": "Why is that cart stopped, maggots?!",
-          "romanianTranslation": "",
+          "romanianTranslation": "De ce s-a oprit căruciorul, muierilor?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d6/Soldier_cartstoppedoffense01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartstoppedoffense01.mp3",
           "notMaking": false
         },
         {
           "id": 1028,
           "english": "I do not see a cart moving, ladies!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Căruciorul nu se mișcă? Ce pula mea?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/0a/Soldier_cartstoppedoffense02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartstoppedoffense02.mp3",
           "notMaking": false
         },
         {
           "id": 1029,
           "english": "Why is that cart not moving?!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Căruciorul nu mai are kerosen??",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e6/Soldier_cartstoppedoffense03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartstoppedoffense03.mp3",
           "notMaking": false
         }
       ],
@@ -11428,28 +11428,28 @@
         {
           "id": 1030,
           "english": "Stand next to the cart, damn you!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Trebuie să-i punem opritor la cărucior!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/39/Soldier_cartstopitdefense01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartstopitdefense01.mp3",
           "notMaking": false
         },
         {
           "id": 1031,
           "english": "Get to the cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Căruciorul mai are puțin șiși dă drumul, opriți-l!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d2/Soldier_cartstopitdefense02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartstopitdefense02.mp3",
           "notMaking": false
         },
         {
           "id": 1032,
           "english": "You will stand next to that cart or I will stand you next to that cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Futem-aș în el de cărucior, opriți-l odată!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/0c/Soldier_cartstopitdefense03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_cartstopitdefense03.mp3",
           "notMaking": false
         }
       ]
@@ -11461,10 +11461,10 @@
         {
           "id": 1047,
           "english": "You are a spineless worm! You are a mistake of nature! You are walking vomit!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Du-te dracu că te scutur și-ți iese toată sperma din cur!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/72/Soldier_taunts18.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunts18.mp3",
           "notMaking": false
         }
       ]
@@ -14286,10 +14286,10 @@
         {
           "id": 5454,
           "english": "Cuh-rit!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ți-am dat la muie!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b3/Soldier_specialcompleted01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_specialcompleted01.mp3",
           "notMaking": false
         }
       ]
@@ -14303,7 +14303,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/57/Taunt_knuckle_crack.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ]
     },
@@ -14313,37 +14313,37 @@
         {
           "id": 5464,
           "english": "A big cup of kicking your ass!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O mare ceașcă de spermă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e5/Soldier_taunt_kill_01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_kill_01.mp3",
           "notMaking": false
         },
         {
           "id": 5465,
           "english": "A big mug of my foot up your ass!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Măreața mea pulă în curul tău micuț!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4b/Soldier_taunt_kill_04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_kill_04.mp3",
           "notMaking": false
         },
         {
           "id": 5466,
           "english": "I love the smell of a kicked ass in the morning!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Iubesc mirosul de evrei copți de dimineață!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b2/Soldier_taunt_kill_10.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_kill_10.mp3",
           "notMaking": false
         },
         {
           "id": 5467,
           "english": "Mission accomplished!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Bozggori au fost eliminați!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/06/Soldier_taunt_admire_18.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_admire_18.mp3",
           "notMaking": false
         },
         {
@@ -14353,7 +14353,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/71/Soldier_taunt_kill_16.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5469,
@@ -14362,7 +14362,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/83/Soldier_taunt_kill_18.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5470,
@@ -14371,7 +14371,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/cb/Taunt_soldier_coffee_1_bag_can_swoosh.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5471,
@@ -14380,7 +14380,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ed/Taunt_soldier_coffee_2_bag_can_drop.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5472,
@@ -14389,7 +14389,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/ca/Taunt_soldier_coffee_3_coffee_splash.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5473,
@@ -14398,7 +14398,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/da/Taunt_soldier_coffee_4_coffee_sip.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5474,
@@ -14407,7 +14407,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b9/Taunt_soldier_coffee_5_coffee_ahh.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Fubar Fanfare": [
@@ -14418,7 +14418,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a5/Trombonetauntv2.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Neck Snap": [
@@ -14429,7 +14429,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/0e/Soldier_taunt_head_pain_13.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5487,
@@ -14438,7 +14438,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/08/Soldier_taunt_admire_09.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Panzer Pants": [
@@ -14449,7 +14449,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/85/Soldier_tank_01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5492,
@@ -14458,105 +14458,105 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f4/Soldier_tank_02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5493,
           "english": "Come and get it maggots!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Veniți și sugeți-mi pula!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/14/Soldier_tank_03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_tank_03.mp3",
           "notMaking": false
         },
         {
           "id": 5494,
           "english": "War is hell! Freedom isn't free! I am in a tank!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ui ce pulă mare am la tanc!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/34/Soldier_tank_04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_tank_04.mp3",
           "notMaking": false
         },
         {
           "id": 5495,
           "english": "I am in a tank!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Tancul ăsta e de pe war thunder!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/45/Soldier_tank_06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_tank_06.mp3",
           "notMaking": false
         },
         {
           "id": 5496,
           "english": "I will drive this tank up your ass, maggot!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O să conduc până-n găoaza ta, poate o să ți se scoale!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/26/Soldier_tank_08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_tank_08.mp3",
           "notMaking": false
         },
         {
           "id": 5497,
           "english": "I am about to tattoo some tank treads on your ass!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O să-mi dau drumul în tanc!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/80/Soldier_tank_09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_tank_09.mp3",
           "notMaking": false
         },
         {
           "id": 5498,
           "english": "This is my tank! There are many like it, but this one is mine!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Tancul ăsta are funcție de masturbare!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/7a/Soldier_tank_10.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_tank_10.mp3",
           "notMaking": false
         },
         {
           "id": 5499,
           "english": "Wars may be fought with tanks, but they are won by men! With tanks!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Tactu se joacă cu tancuri! Adică cu pula mea!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d5/Soldier_tank_11.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_tank_11.mp3",
           "notMaking": false
         },
         {
           "id": 5500,
           "english": "Anything worth fighting for is worth fighting for in a tank!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Jarvis, masturbează-mă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a2/Soldier_tank_12.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_tank_12.mp3",
           "notMaking": false
         },
         {
           "id": 5501,
           "english": "War! What is it good for? Everything!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Iubesc tancurile mari și negre!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/29/Soldier_tank_13.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_tank_13.mp3",
           "notMaking": false
         },
         {
           "id": 5502,
           "english": "This tank runs on blood, guts, and glory! The guts and glory I will provide! The blood is where you come in!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acest tanc merge pe suflete de bozggori morți!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ed/Soldier_tank_14.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_tank_14.mp3",
           "notMaking": false
         },
         {
           "id": 5503,
           "english": "This tank and the hero driving it, we're both made in America!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acest tanc a avut documentele clasificate răspândite pe forumurile de la war thunder!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/07/Soldier_tank_16.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_tank_16.mp3",
           "notMaking": false
         },
         {
@@ -14566,7 +14566,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/00/Soldier_tank_warcry_01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5505,
@@ -14575,7 +14575,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6f/Soldier_tank_warcry_02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5506,
@@ -14584,7 +14584,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4a/Soldier_tank_warcry_03.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5507,
@@ -14593,51 +14593,51 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/41/Soldier_tank_warcry_04.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5508,
           "english": "For Americaaaaa!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Pentru româniaaaaaa!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fe/Soldier_tank_warcry_05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_tank_warcry_05.mp3",
           "notMaking": false
         },
         {
           "id": 5509,
           "english": "Freeeedom!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Libertateeeeeeee!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/40/Soldier_tank_warcry_06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_tank_warcry_06.mp3",
           "notMaking": false
         },
         {
           "id": 5510,
           "english": "Sound off if you love freedom, maggot!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vă fuuuuut!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/1a/Soldier_tank_warcry_08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_tank_warcry_08.mp3",
           "notMaking": false
         },
         {
           "id": 5511,
           "english": "I am in a taaaaank!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Urăsc bozggori!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c2/Soldier_tank_warcry_09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_tank_warcry_09.mp3",
           "notMaking": false
         },
         {
           "id": 5512,
           "english": "Taaaaank!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Tanc. Sunt ca un tanc.",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b2/Soldier_tank_warcry_12.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_tank_warcry_12.mp3",
           "notMaking": false
         },
         {
@@ -14647,7 +14647,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/21/Soldier_tank_warcry_13.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Profane Puppeteer": [
@@ -14658,7 +14658,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/78/Profane_puppeteer_soldier_taunts03.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5516,
@@ -14667,7 +14667,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/44/Profane_puppeteer_soldier_taunts04.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5517,
@@ -14676,7 +14676,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6b/Profane_puppeteer_soldier_taunts07.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5518,
@@ -14685,7 +14685,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/94/Profane_puppeteer_soldier_taunts09.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5519,
@@ -14694,7 +14694,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/80/Profane_puppeteer_soldier_taunts10.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5520,
@@ -14703,7 +14703,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b6/Profane_puppeteer_soldier_taunts11.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5521,
@@ -14712,7 +14712,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ea/Profane_puppeteer_soldier_taunts12.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5522,
@@ -14721,7 +14721,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/56/Profane_puppeteer_soldier_taunts14.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5523,
@@ -14730,7 +14730,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/cf/Profane_puppeteer_soldier_taunts15.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5524,
@@ -14739,7 +14739,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/23/Profane_puppeteer_soldier_taunts19.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5525,
@@ -14748,17 +14748,17 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2b/Profane_puppeteer_soldier_weapon_taunts04.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Rocket Jockey": [
         {
           "id": 5526,
           "english": "Medals for everyone!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Medalii pentru mătta că ne-a supt pe toți!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/8f/Soldier_taunt_admire_22.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_admire_22.mp3",
           "notMaking": false
         },
         {
@@ -14768,7 +14768,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/8f/Soldier_taunt_flip_fun_04.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5528,
@@ -14777,7 +14777,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/27/Soldier_taunt_flip_fun_06.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5529,
@@ -14786,7 +14786,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/7e/Soldier_taunt_flip_fun_08.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Soldier's Requiem": [],
@@ -14794,10 +14794,10 @@
         {
           "id": 5548,
           "english": "Let's do this!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să ne lingem!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d3/Soldier_taunt_int_02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_int_02.mp3",
           "notMaking": false
         },
         {
@@ -14807,7 +14807,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/66/Soldier_sf12_goodmagic02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5560,
@@ -14816,7 +14816,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/28/Soldier_taunt_exert_02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5561,
@@ -14825,7 +14825,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/74/Soldier_taunt_exert_06.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5562,
@@ -14834,7 +14834,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/98/Soldier_taunt_bos_pain_06.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5563,
@@ -14843,7 +14843,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/7f/Soldier_taunt_bos_pain_01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5564,
@@ -14852,7 +14852,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/28/Soldier_painsharp04.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5565,
@@ -14861,7 +14861,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/bc/Soldier_painsharp06.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5566,
@@ -14870,17 +14870,17 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/df/Soldier_painsharp07.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Burstchester": [
         {
           "id": 5604,
           "english": "My blood! No!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sângele meu cu sifilis. Nuuuuu!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e7/Soldier_sf12_badmagic14.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_sf12_badmagic14.mp3",
           "notMaking": false
         },
         {
@@ -14890,15 +14890,15 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6e/Soldier_taunt_rps_lose_01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5613,
           "english": "Maggot!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Muie țiganule!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f6/Soldier_taunt_rps_lose_12.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_rps_lose_12.mp3",
           "notMaking": false
         },
         {
@@ -14908,17 +14908,17 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4d/Soldier_taunt_rps_lose_14.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Commending Clap": [
         {
           "id": 5616,
           "english": "Well done!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Bravo coaie!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/02/Soldier_taunt_admire_01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_admire_01.mp3",
           "notMaking": false
         }
       ],
@@ -14930,87 +14930,87 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/98/Soldier_taunt_cong_int_03.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5620,
           "english": "Ha ha! Conga!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Iubesc conga, dansul național românesc!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c5/Soldier_taunt_cong_int_04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_cong_int_04.mp3",
           "notMaking": false
         },
         {
           "id": 5621,
           "english": "Single file!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Urăsc chinezii!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b1/Soldier_taunt_cong_int_13.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_cong_int_13.mp3",
           "notMaking": false
         },
         {
           "id": 5622,
           "english": "Oooh, yeah!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Conga conga!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/24/Soldier_taunt_cong_fun_01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_cong_fun_01.mp3",
           "notMaking": false
         },
         {
           "id": 5623,
           "english": "Ha hah, conga!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Muie tuturor!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b5/Soldier_taunt_cong_fun_04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_cong_fun_04.mp3",
           "notMaking": false
         },
         {
           "id": 5624,
           "english": "Conga, maggots!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Conga muierilor!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ed/Soldier_taunt_cong_fun_08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_cong_fun_08.mp3",
           "notMaking": false
         },
         {
           "id": 5625,
           "english": "Get into it!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Haideți la conga!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/ae/Soldier_taunt_cong_fun_11.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_cong_fun_11.mp3",
           "notMaking": false
         },
         {
           "id": 5626,
           "english": "Conga you fools!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să dansăm!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/48/Soldier_taunt_cong_fun_24.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_cong_fun_24.mp3",
           "notMaking": false
         },
         {
           "id": 5627,
           "english": "Love it!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Iubesc conga!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/93/Soldier_taunt_cong_fun_27.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_cong_fun_27.mp3",
           "notMaking": false
         },
         {
           "id": 5628,
           "english": "[singing] Duh da da da!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Conga, da da!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/0b/Soldier_taunt_cong_fun_29.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_cong_fun_29.mp3",
           "notMaking": false
         }
       ],
@@ -15018,64 +15018,64 @@
         {
           "id": 5630,
           "english": "Let's do this!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Haide!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b7/Soldier_taunt_int_03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_int_03.mp3",
           "notMaking": false
         },
         {
           "id": 5631,
           "english": "Come on!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai odată!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/80/Soldier_taunt_int_08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_int_08.mp3",
           "notMaking": false
         },
         {
           "id": 5632,
           "english": "I haven't got all day!",
-          "romanianTranslation": "",
+          "romanianTranslation": "N-am toată muia la dispoziție!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/ab/Soldier_taunt_int_10.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_int_10.mp3",
           "notMaking": false
         },
         {
           "id": 5633,
           "english": "I haven't got all day!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai că trebuie să mă cac!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/ac/Soldier_taunt_int_12.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_int_12.mp3",
           "notMaking": false
         },
         {
           "id": 5634,
           "english": "Come on, maggot!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vino băi muie!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/ae/Soldier_taunt_int_16.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_int_16.mp3",
           "notMaking": false
         },
         {
           "id": 5635,
           "english": "Let's go, maggot!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mă ține o pișare!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b6/Soldier_taunt_int_19.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_int_19.mp3",
           "notMaking": false
         },
         {
           "id": 5636,
           "english": "Mission accomplished!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mi-am dat drumul!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/28/Soldier_taunt_admire_16.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_admire_16.mp3",
           "notMaking": false
         }
       ],
@@ -15083,100 +15083,100 @@
         {
           "id": 5637,
           "english": "Flip is go!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Răstoarnămi boașele!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b2/Soldier_taunt_flip_int_01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_int_01.mp3",
           "notMaking": false
         },
         {
           "id": 5638,
           "english": "Flip is go!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să-ți dau bobârnac la puță!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d4/Soldier_taunt_flip_int_03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_int_03.mp3",
           "notMaking": false
         },
         {
           "id": 5639,
           "english": "Flip is go!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să te răstorn coaie!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/36/Soldier_taunt_flip_int_04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_int_04.mp3",
           "notMaking": false
         },
         {
           "id": 5640,
           "english": "Step up and get flipped!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vino să te răstorn în morții mătti!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/33/Soldier_taunt_flip_int_11.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_int_11.mp3",
           "notMaking": false
         },
         {
           "id": 5641,
           "english": "In flipping position!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sunt în poziție de cal!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f9/Soldier_taunt_flip_int_15.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_int_15.mp3",
           "notMaking": false
         },
         {
           "id": 5642,
           "english": "Do not keep me waiting!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nu mă mai mărginii!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/56/Soldier_taunt_flip_int_17.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_int_17.mp3",
           "notMaking": false
         },
         {
           "id": 5643,
           "english": "Get over here, sky-meat!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să-ți bag degetul în cur!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/92/Soldier_taunt_flip_int_19.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_int_19.mp3",
           "notMaking": false
         },
         {
           "id": 5644,
           "english": "Say your prayers and grab some air!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Spune-ți rugăciunea și vin-o să te fut!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/27/Soldier_taunt_flip_int_20.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_int_20.mp3",
           "notMaking": false
         },
         {
           "id": 5645,
           "english": "Operation: Soaring Eagle!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Operație: puță mare răsturnată!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/82/Soldier_taunt_flip_int_24.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_int_24.mp3",
           "notMaking": false
         },
         {
           "id": 5646,
           "english": "[strained]Up you go!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sus cu tine!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/83/Soldier_taunt_flip_exert_02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_exert_02.mp3",
           "notMaking": false
         },
         {
           "id": 5647,
           "english": "[strained]Up you go!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sus te iau în pulă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/49/Soldier_taunt_flip_exert_06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_exert_06.mp3",
           "notMaking": false
         },
         {
@@ -15186,7 +15186,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/81/Soldier_taunt_flip_exert_21.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5649,
@@ -15195,114 +15195,114 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/0b/Soldier_taunt_flip_exert_31.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5655,
           "english": "Perfect landing!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ai aterizat fain!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/be/Soldier_taunt_flip_end_01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_end_01.mp3",
           "notMaking": false
         },
         {
           "id": 5656,
           "english": "Perfect landing!",
-          "romanianTranslation": "",
+          "romanianTranslation": "N-ai nicio zgârietură pe puță!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/35/Soldier_taunt_flip_end_02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_end_02.mp3",
           "notMaking": false
         },
         {
           "id": 5657,
           "english": "Perfect landing.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai gata că muiez.",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/52/Soldier_taunt_flip_end_03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_end_03.mp3",
           "notMaking": false
         },
         {
           "id": 5658,
           "english": "The Eagle has landed.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Muia a aterizat!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/97/Soldier_taunt_flip_end_05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_end_05.mp3",
           "notMaking": false
         },
         {
           "id": 5659,
           "english": "Duty. Honor. Flipping.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mi-am făcut datoria să te fut!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/26/Soldier_taunt_flip_end_15.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_end_15.mp3",
           "notMaking": false
         },
         {
           "id": 5660,
           "english": "Duty and honor!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Pentru onoare!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3f/Soldier_taunt_flip_end_16.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_end_16.mp3",
           "notMaking": false
         },
         {
           "id": 5661,
           "english": "Duty and honor.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Fortnite!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c2/Soldier_taunt_flip_end_17.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_flip_end_17.mp3",
           "notMaking": false
         },
         {
           "id": 5663,
           "english": "Perfect!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Iubesc pabăgii!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/19/Soldier_taunt_admire_04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_admire_04.mp3",
           "notMaking": false
         },
         {
           "id": 5665,
           "english": "Done and done!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Gata și gata că mă sufoc cu mătta!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/18/Soldier_taunt_admire_10.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_admire_10.mp3",
           "notMaking": false
         },
         {
           "id": 5667,
           "english": "Mission accomplished!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Puță îndeplinită!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2d/Soldier_taunt_admire_17.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_admire_17.mp3",
           "notMaking": false
         },
         {
           "id": 5670,
           "english": "Stay frosty!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Rămâi retardat.",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/bf/Soldier_taunt_admire_24.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_admire_24.mp3",
           "notMaking": false
         },
         {
           "id": 5671,
           "english": "Stay frosty!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Rămâi prost!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/12/Soldier_taunt_admire_26.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_admire_26.mp3",
           "notMaking": false
         }
       ],
@@ -15316,7 +15316,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e4/Soldier_aerobic_04.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5677,
@@ -15325,7 +15325,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/80/Soldier_aerobic_07.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5678,
@@ -15334,15 +15334,15 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9f/Soldier_aerobic_13.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5679,
           "english": "There's nothing more American than exercise!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Iubesc exercițiul de futere de mame!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/24/Soldier_aerobic_14.mp3",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_aerobic_14.mp3",
           "notMaking": false
         }
       ],
@@ -15350,118 +15350,118 @@
         {
           "id": 5680,
           "english": "Rock, paper, scissors!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Piatră, foarfecă, hârtie!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5c/Soldier_taunt_rps_int_01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_rps_int_01.mp3",
           "notMaking": false
         },
         {
           "id": 5681,
           "english": "Rock! Paper! Scissors!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Piatră foarfecă hârtie!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f2/Soldier_taunt_rps_int_03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_rps_int_03.mp3",
           "notMaking": false
         },
         {
           "id": 5682,
           "english": "Let's throw down!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să ne luăm în pulă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f0/Soldier_taunt_rps_int_05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_rps_int_05.mp3",
           "notMaking": false
         },
         {
           "id": 5683,
           "english": "Who wants some?",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să-ți fut o puță!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c0/Soldier_taunt_rps_int_07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_rps_int_07.mp3",
           "notMaking": false
         },
         {
           "id": 5684,
           "english": "It's throw time!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să ne jucăm cu puța-n țărână!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/ca/Soldier_taunt_rps_int_08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_rps_int_08.mp3",
           "notMaking": false
         },
         {
           "id": 5685,
           "english": "One, two, three!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Un, doi, trei!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4d/Soldier_taunt_rps_exert_01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_rps_exert_01.mp3",
           "notMaking": false
         },
         {
           "id": 5686,
           "english": "On three...",
-          "romanianTranslation": "",
+          "romanianTranslation": "La trei...",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ee/Soldier_taunt_rps_exert_11.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_rps_exert_11.mp3",
           "notMaking": false
         },
         {
           "id": 5687,
           "english": "Paper wins!",
-          "romanianTranslation": "",
+          "romanianTranslation": "România câștigă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b5/Soldier_taunt_rps_win_55.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_rps_win_55.mp3",
           "notMaking": false
         },
         {
           "id": 5688,
           "english": "Rock wins!",
-          "romanianTranslation": "",
+          "romanianTranslation": "România câștigă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/77/Soldier_taunt_rps_win_57.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_rps_win_57.mp3",
           "notMaking": false
         },
         {
           "id": 5689,
           "english": "Scissors win!",
-          "romanianTranslation": "",
+          "romanianTranslation": "România câștigă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/63/Soldier_taunt_rps_win_61.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_rps_win_61.mp3",
           "notMaking": false
         },
         {
           "id": 5691,
           "english": "Ah!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Băgami-aș!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/df/Soldier_taunt_rps_lose_05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_rps_lose_05.mp3",
           "notMaking": false
         },
         {
           "id": 5694,
           "english": "Did I win?",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am câștigat?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/82/Soldier_taunt_rps_lose_21.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_rps_lose_21.mp3",
           "notMaking": false
         },
         {
           "id": 5695,
           "english": "I won! No, wait.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Stai, eu am câștigat!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c3/Soldier_taunt_rps_lose_22.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_rps_lose_22.mp3",
           "notMaking": false
         }
       ],
@@ -15469,10 +15469,10 @@
         {
           "id": 5700,
           "english": "I am scared, you maggots!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sunt speriat de femei!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a0/Soldier_sf12_scared01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_sf12_scared01.mp3",
           "notMaking": false
         }
       ],
@@ -15480,91 +15480,91 @@
         {
           "id": 5703,
           "english": "Heeead butt!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să ne spargem capetele de jos!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/ab/Soldier_taunt_head_int_02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_head_int_02.mp3",
           "notMaking": false
         },
         {
           "id": 5704,
           "english": "Head butt me!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Provocarea spargerii nucii, aici la mine!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b4/Soldier_taunt_head_int_07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_head_int_07.mp3",
           "notMaking": false
         },
         {
           "id": 5705,
           "english": "Head butt time!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să ne spargem nucile!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6f/Soldier_taunt_head_int_17.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_head_int_17.mp3",
           "notMaking": false
         },
         {
           "id": 5706,
           "english": "Butt my head, that's an order!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nuca ta trebuie spartă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/7f/Soldier_taunt_head_int_21.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_head_int_21.mp3",
           "notMaking": false
         },
         {
           "id": 5709,
           "english": "Let's go!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai odată!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/23/Soldier_taunt_int_04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_int_04.mp3",
           "notMaking": false
         },
         {
           "id": 5711,
           "english": "Come on.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vino-n pîlîmî.",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fd/Soldier_taunt_int_09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_int_09.mp3",
           "notMaking": false
         },
         {
           "id": 5714,
           "english": "Go go go!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai hai hai!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2a/Soldier_taunt_int_14.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_int_14.mp3",
           "notMaking": false
         },
         {
           "id": 5715,
           "english": "Go go go!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să băgam o labă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/29/Soldier_taunt_int_15.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_int_15.mp3",
           "notMaking": false
         },
         {
           "id": 5718,
           "english": "I got your six!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Te trag de puță!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/7a/Soldier_taunt_int_24.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_int_24.mp3",
           "notMaking": false
         },
         {
           "id": 5719,
           "english": "Come on maggots!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Veniți muierilor!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c5/Soldier_taunt_int_25.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_int_25.mp3",
           "notMaking": false
         },
         {
@@ -15574,7 +15574,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/43/Soldier_taunt_head_exert_02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5721,
@@ -15583,7 +15583,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/49/Soldier_taunt_head_pain_02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5724,
@@ -15592,7 +15592,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/98/Soldier_taunt_bos_pain_02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5726,
@@ -15601,33 +15601,33 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/52/Soldier_taunt_head_end_01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5727,
           "english": "U. S. A.!",
-          "romanianTranslation": "",
+          "romanianTranslation": "România!!!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/36/Soldier_taunt_head_end_13.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_head_end_13.mp3",
           "notMaking": false
         },
         {
           "id": 5728,
           "english": "God, Guts, Guns!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sarmale curve și bemveu!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9b/Soldier_taunt_head_end_24.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_head_end_24.mp3",
           "notMaking": false
         },
         {
           "id": 5729,
           "english": "Gaaawd, Guuuuts, Guuuns!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Pula. pizda. coaielee, au început războaiele!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/58/Soldier_taunt_head_end_29.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_head_end_29.mp3",
           "notMaking": false
         }
       ],
@@ -15635,28 +15635,28 @@
         {
           "id": 5730,
           "english": "Let's dance, maggot!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să dansezi cu mine!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9a/Soldier_taunt_dosi_int_03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_dosi_int_03.mp3",
           "notMaking": false
         },
         {
           "id": 5731,
           "english": "Do-si-do!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Haideți să ne lingem!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/8b/Soldier_taunt_dosi_int_05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_dosi_int_05.mp3",
           "notMaking": false
         },
         {
           "id": 5732,
           "english": "Dance-time, boys!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Timpul de futere, băieți!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/bd/Soldier_taunt_dosi_int_12.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_dosi_int_12.mp3",
           "notMaking": false
         },
         {
@@ -15666,7 +15666,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f7/Soldier_taunt_dosi_fun_05.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5734,
@@ -15675,7 +15675,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/08/Soldier_taunt_dosi_fun_09.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5735,
@@ -15684,7 +15684,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/23/Soldier_taunt_dosi_fun_11.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5736,
@@ -15693,7 +15693,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/89/Soldier_taunt_dosi_fun_29.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5737,
@@ -15702,33 +15702,33 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2e/Soldier_taunt_dosi_fun_30.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5738,
           "english": "Ha ha hah, I'm dancing!",
-          "romanianTranslation": "",
+          "romanianTranslation": "M-am căcat pe mine!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3f/Soldier_taunt_dosi_fun_32.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_dosi_fun_32.mp3",
           "notMaking": false
         },
         {
           "id": 5739,
           "english": "Dance accomplished!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am dansat ca o curvă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e5/Soldier_taunt_dosi_end_01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_dosi_end_01.mp3",
           "notMaking": false
         },
         {
           "id": 5740,
           "english": "Dance terminated!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am dansat ca măttan pula mea!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a0/Soldier_taunt_dosi_end_03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Soldier_taunt_dosi_end_03.mp3",
           "notMaking": false
         }
       ],
