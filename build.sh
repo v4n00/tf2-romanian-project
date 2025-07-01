@@ -20,7 +20,10 @@ cp "$LOGO_SOURCE" "$LOGO_DEST"
 # voice lines
 
 find "$NEW_VOICELINES_SOURCE" -type f -name "*.mp3" | while read -r file; do
-    ffmpeg -y -i "$file" -af "volume=$VOLUME_ADJUST" "$SOUND_DEST/$(basename "$file")"
+    relative_path="${file#$NEW_VOICELINES_SOURCE}" # Get relative path
+    target_dir="$SOUND_DEST/$(dirname "$relative_path")" # Recreate directory structure
+    mkdir -p "$target_dir" # Ensure target directory exists
+    ffmpeg -y -i "$file" -af "volume=$VOLUME_ADJUST" "$target_dir/$(basename "$file")"
 done
 
 find "$SOUND_SOURCE" -type f -name "*.mp3" | while read -r file; do
@@ -38,4 +41,3 @@ done
 find "$SOUND_SOURCE/administrator/responses/ui" -type f -name "*.mp3" | while read -r file; do
     ffmpeg -y -i "$file" -af "volume=$VOLUME_ADJUST" "$OUTPUT_DEST/sound/ui/$(basename "$file")"
 done
-
