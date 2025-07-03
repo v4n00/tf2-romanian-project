@@ -8,7 +8,7 @@ LOGO_DEST="$OUTPUT_DEST/materials/logo"
 SOUND_DEST="$OUTPUT_DEST/sound/vo"
 VOLUME_ADJUST="3dB"
 
-[[ -d "./output/tf" ]] && rm -rf "./output/tf"
+[[ -d "$OUTPUT_DEST" ]] && rm -rf "$OUTPUT_DEST"
 
 mkdir -p "$LOGO_DEST"
 mkdir -p "$SOUND_DEST"
@@ -19,7 +19,7 @@ cp "$LOGO_SOURCE" "$LOGO_DEST"
 
 # voice lines
 
-find "$NEW_VOICELINES_SOURCE" -type f -name "*.mp3" | while read -r file; do
+find "$NEW_VOICELINES_SOURCE" -type f \( -name "*.mp3" -o -name "*.wav" \) | while read -r file; do
     relative_path="${file#$NEW_VOICELINES_SOURCE}" # Get relative path
     target_dir="$SOUND_DEST/$(dirname "$relative_path")" # Recreate directory structure
     mkdir -p "$target_dir" # Ensure target directory exists
