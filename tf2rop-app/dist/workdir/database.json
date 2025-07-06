@@ -24115,10 +24115,10 @@
         {
           "id": 4222,
           "english": "Come along now, Doctor.",
-          "romanianTranslation": "Hai acasa, hai cu mine, doctor.",
+          "romanianTranslation": "Hai să-ți fac degețica doctore!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/cb/Heavy_medicfollow07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_medicfollow07.mp3",
           "notMaking": false
         }
       ],
@@ -24486,10 +24486,10 @@
         {
           "id": 4261,
           "english": "Sniper is Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Lunetist îi spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/60/Heavy_cloakedspyidentify09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cloakedspyidentify09.mp3",
           "notMaking": false
         },
         {
@@ -26213,7 +26213,7 @@
         {
           "id": 1722,
           "english": "Get behind me, doctor!",
-          "romanianTranslation": "Îmi împrăștii sămânță!",
+          "romanianTranslation": "Îmi împrăștii sămânța!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ef/Heavy_specialcompleted04.wav",
           "audioElevenLabs": "workdir/Heavy_specialcompleted04.mp3",
@@ -26222,37 +26222,37 @@
         {
           "id": 1723,
           "english": "Time to hide, cowards!",
-          "romanianTranslation": "",
+          "romanianTranslation": "E timpul să mă urinez pe voi!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/54/Heavy_taunts03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunts03.mp3",
           "notMaking": false
         },
         {
           "id": 1724,
           "english": "Now is coward killing time!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Îmi dau drumul în uretra voastră!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/88/Heavy_specialcompleted05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_specialcompleted05.mp3",
           "notMaking": false
         },
         {
           "id": 1725,
           "english": "I AM BULLETPROOF!!!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ce pula mea sunt steroizii ăștia?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/11/Heavy_specialcompleted06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_specialcompleted06.mp3",
           "notMaking": false
         },
         {
           "id": 1726,
           "english": "Is good time to run, cowards!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ați face bine să vă ascundeți boașele!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b7/Heavy_taunts16.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunts16.mp3",
           "notMaking": false
         }
       ],
@@ -26278,73 +26278,73 @@
         {
           "id": 1729,
           "english": "It is good day to be Giant Man!",
-          "romanianTranslation": "",
+          "romanianTranslation": "E o zi bună să mă cac pe mine!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5e/Heavy_award03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_award03.mp3",
           "notMaking": false
         },
         {
           "id": 1730,
           "english": "Everyone! Look at me!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Uitați-vă la pula mea!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/98/Heavy_award04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_award04.mp3",
           "notMaking": false
         },
         {
           "id": 1731,
           "english": "Yes!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Daaaa iubesc sex!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a2/Heavy_award05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_award05.mp3",
           "notMaking": false
         },
         {
           "id": 1732,
           "english": "Very good!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acasă sau la cazino?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/74/Heavy_award06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_award06.mp3",
           "notMaking": false
         },
         {
           "id": 1733,
           "english": "Very good, very VERY good!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Măttai o curvă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5d/Heavy_award07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_award07.mp3",
           "notMaking": false
         },
         {
           "id": 1734,
           "english": "I am most dangerous man, in history of WORLD!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sunt cel mai gay om din lume!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e6/Heavy_award08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_award08.mp3",
           "notMaking": false
         },
         {
           "id": 1735,
           "english": "Who dares stand against me NOW?",
-          "romanianTranslation": "",
+          "romanianTranslation": "Cine se pune cu mine? Am pula mai mare!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b3/Heavy_award09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_award09.mp3",
           "notMaking": false
         },
         {
           "id": 1736,
           "english": "Fear me, cowards!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vă fac la scandărberg cu pula!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/42/Heavy_award10.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_award10.mp3",
           "notMaking": false
         },
         {
@@ -26377,28 +26377,28 @@
         {
           "id": 1740,
           "english": "Another medal! Is good!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Încă o pulă, acum pot să vă fut pe toți!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/8b/Heavy_award14.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_award14.mp3",
           "notMaking": false
         },
         {
           "id": 1741,
           "english": "I am big war hero!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sunt gay!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b4/Heavy_award15.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_award15.mp3",
           "notMaking": false
         },
         {
           "id": 1742,
           "english": "Now I am king of team!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acum eu sunt regele negrilor!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/79/Heavy_award16.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_award16.mp3",
           "notMaking": false
         }
       ]
@@ -26411,19 +26411,19 @@
         {
           "id": 1749,
           "english": "Take that!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Tactu!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/83/Heavy_meleeing03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_meleeing03.mp3",
           "notMaking": false
         },
         {
           "id": 1750,
           "english": "BOOM!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mătta!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/19/Heavy_meleeing01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_meleeing01.mp3",
           "notMaking": false
         },
         {
@@ -26433,33 +26433,33 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/ba/Heavy_meleeing02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 1752,
           "english": "-and this!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Marș!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/69/Heavy_meleeing04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_meleeing04.mp3",
           "notMaking": false
         },
         {
           "id": 1753,
           "english": "-and that!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Muie!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/da/Heavy_meleeing05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_meleeing05.mp3",
           "notMaking": false
         },
         {
           "id": 1754,
           "english": "-and this!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Căcat!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/28/Heavy_meleeing06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_meleeing06.mp3",
           "notMaking": false
         }
       ],
@@ -26467,172 +26467,172 @@
         {
           "id": 1755,
           "english": "Ahh, so filling! Hahaha!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Oare avea gust mai bun daca mi-l bagam in cur?!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/ad/Heavy_sandwichtaunt01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt01.mp3",
           "notMaking": false
         },
         {
           "id": 1756,
           "english": "Moist and delicious! Hehaha!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Cineva și-a dat drumul în ăsta! Se simte bine la gust!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/77/Heavy_sandwichtaunt02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt02.mp3",
           "notMaking": false
         },
         {
           "id": 1757,
           "english": "Kill them all! Hahaha!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Aproape la fel de gustos ca bucile inginerului!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e0/Heavy_sandwichtaunt14.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt14.mp3",
           "notMaking": false
         },
         {
           "id": 1758,
           "english": "That vas delicious!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ce pula mea a fost în aia?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/09/Heavy_sandwichtaunt17.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt17.mp3",
           "notMaking": false
         },
         {
           "id": 1759,
           "english": "(Mily Balakirev's Song of the Volga Boatmen)",
-          "romanianTranslation": "",
+          "romanianTranslation": "Pulăăăăăăăăăăăăăăă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/38/Heavy_singing01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_singing01.mp3",
           "notMaking": false
         },
         {
           "id": 1760,
           "english": "(Mily Balakirev's Song of the Volga Boatmen)",
-          "romanianTranslation": "",
+          "romanianTranslation": "Tortura cuc-bilă, este o activitate sexuală ce implică constrângerea sau lovirea organelor genitale masculine.",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/18/Heavy_singing02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_singing02.mp3",
           "notMaking": false
         },
         {
           "id": 1761,
           "english": "Sandvich make me strong!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Senviș glazurat cu sloboz, delicatesă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4f/Heavy_sandwichtaunt03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt03.mp3",
           "notMaking": false
         },
         {
           "id": 1762,
           "english": "I am full of sandvich, and I am coming for you!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am burta plină de spermă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/1a/Heavy_sandwichtaunt04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt04.mp3",
           "notMaking": false
         },
         {
           "id": 1763,
           "english": "Sandvich and I are coming for you!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mi-am pus viagra în pâine!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/8c/Heavy_sandwichtaunt05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt05.mp3",
           "notMaking": false
         },
         {
           "id": 1764,
           "english": "Don't run! It's just ham!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Carne din pizdă de vacă, adică mătta!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c5/Heavy_sandwichtaunt06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt06.mp3",
           "notMaking": false
         },
         {
           "id": 1765,
           "english": "Bologna is perfect fuel for killing tiny cowards!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Unde îmi este și monster-ul alb?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/69/Heavy_sandwichtaunt07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt07.mp3",
           "notMaking": false
         },
         {
           "id": 1766,
           "english": "Saww-ndvich, sandvich!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Tăiat pe jumate, ca pula inginerului!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/1a/Heavy_sandwichtaunt08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt08.mp3",
           "notMaking": false
         },
         {
           "id": 1767,
           "english": "Me and my... Sandvich.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mi-am băgat pula în senvișul ăsta!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/61/Heavy_sandwichtaunt09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt09.mp3",
           "notMaking": false
         },
         {
           "id": 1768,
           "english": "What was that, Sandvich? 'Kill them all'? Good idea! Hahahahahaha!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Pâinea asta e maturată în urină!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/96/Heavy_sandwichtaunt10.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt10.mp3",
           "notMaking": false
         },
         {
           "id": 1769,
           "english": "Look at you tiny-itty-bitty men running from sandvich!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Senvișșul ăsta miroase a gaura curului!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e1/Heavy_sandwichtaunt11.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt11.mp3",
           "notMaking": false
         },
         {
           "id": 1770,
           "english": "You are a loose cannon, Sandvich, but you are a damn good cop!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Asta a intrat ca pula în căcat!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9a/Heavy_sandwichtaunt12.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt12.mp3",
           "notMaking": false
         },
         {
           "id": 1771,
           "english": "Sandvich and me going to beat your ass!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Senvviș cu carne de pulă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/28/Heavy_sandwichtaunt13.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt13.mp3",
           "notMaking": false
         },
         {
           "id": 1772,
           "english": "Run from the Sandvich!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am folosit prepuțul inamicilor pe post de salam săsesc!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/82/Heavy_sandwichtaunt15.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt15.mp3",
           "notMaking": false
         },
         {
           "id": 1773,
           "english": "Bologna! Hahahaha!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Senvvișul ăsta stătea între buci!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/86/Heavy_sandwichtaunt16.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sandwichtaunt16.mp3",
           "notMaking": false
         }
       ]
@@ -26642,28 +26642,28 @@
         {
           "id": 1774,
           "english": "It was long trip!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mi-a căzut pula de la atâta mers!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f2/Heavy_autocappedintelligence01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_autocappedintelligence01.mp3",
           "notMaking": false
         },
         {
           "id": 1775,
           "english": "I killed many cowards for that.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Gata băieți, le-am luat filmele porno cu manguste!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9d/Heavy_autocappedintelligence02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_autocappedintelligence02.mp3",
           "notMaking": false
         },
         {
           "id": 1776,
           "english": "Not usually my job, but... Eheheh.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Bă puță de castor. Nu știu ce vrei de la mine!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e1/Heavy_autocappedintelligence03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_autocappedintelligence03.mp3",
           "notMaking": false
         }
       ],
@@ -26671,28 +26671,28 @@
         {
           "id": 1777,
           "english": "Come, knock me off it!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ești din galați? Tocmai l-am capturat!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/dc/Heavy_autocappedcontrolpoint01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_autocappedcontrolpoint01.mp3",
           "notMaking": false
         },
         {
           "id": 1778,
           "english": "Ours now!",
-          "romanianTranslation": "",
+          "romanianTranslation": "A meu, a meu, a meu!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b5/Heavy_autocappedcontrolpoint02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_autocappedcontrolpoint02.mp3",
           "notMaking": false
         },
         {
           "id": 1779,
           "english": "Come, take it back!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nu-l mai scot din prepuț!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/61/Heavy_autocappedcontrolpoint03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_autocappedcontrolpoint03.mp3",
           "notMaking": false
         }
       ],
@@ -26701,37 +26701,37 @@
         {
           "id": 1782,
           "english": "Get on point!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ia la pulă, ia pe punct!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9a/Heavy_fightoncap01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_fightoncap01.mp3",
           "notMaking": false
         },
         {
           "id": 1783,
           "english": "Fight on the point!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Cine nu trece pe punct e homosexual!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/15/Heavy_fightoncap02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_fightoncap02.mp3",
           "notMaking": false
         },
         {
           "id": 1784,
           "english": "Come to point!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Veniți la orgie drăgăstoșii mei!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/52/Heavy_fightoncap03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_fightoncap03.mp3",
           "notMaking": false
         },
         {
           "id": 1785,
           "english": "Get on the point!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mă trece o căcare pe punct!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6a/Heavy_fightoncap04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_fightoncap04.mp3",
           "notMaking": false
         }
       ],
@@ -26739,37 +26739,37 @@
         {
           "id": 1786,
           "english": "You are going to need much bigger guns!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O să aveți nevoie de steroizi mai potenți!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/aa/Heavy_taunts15.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunts15.mp3",
           "notMaking": false
         },
         {
           "id": 1787,
           "english": "I was told we would be fighting men!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Eu sunt ursul, voi sunteți muierile!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/69/Heavy_taunts09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunts09.mp3",
           "notMaking": false
         },
         {
           "id": 1789,
           "english": "You, yes you! You are dead!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Tu. Tu ai pula sculată!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a1/Heavy_taunts08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunts08.mp3",
           "notMaking": false
         },
         {
           "id": 1792,
           "english": "I think you need more men!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Cred că aveți nevoie de o căcare!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/ff/Heavy_taunts18.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunts18.mp3",
           "notMaking": false
         }
       ],
@@ -26777,226 +26777,226 @@
         {
           "id": 1793,
           "english": "Keep pushing!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Îl împing singur cu pula dacă trebuie!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ea/Heavy_cartmovingforwardoffense01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense01.mp3",
           "notMaking": false
         },
         {
           "id": 1794,
           "english": "Keep pushing tiny cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți ca să nu vă împing puța pe gât!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a0/Heavy_cartmovingforwardoffense02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense02.mp3",
           "notMaking": false
         },
         {
           "id": 1795,
           "english": "Forward, glorious cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Chaka chaka face căruciorul!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3d/Heavy_cartmovingforwardoffense03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense03.mp3",
           "notMaking": false
         },
         {
           "id": 1796,
           "english": "Keep going!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Înainte spre marea unire!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/22/Heavy_cartmovingforwardoffense04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense04.mp3",
           "notMaking": false
         },
         {
           "id": 1797,
           "english": "Everyone!  Push!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ștergeți-vă coaiele de cărucior!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/46/Heavy_cartmovingforwardoffense05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense05.mp3",
           "notMaking": false
         },
         {
           "id": 1798,
           "english": "Puuuuush!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e0/Heavy_cartmovingforwardoffense06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense06.mp3",
           "notMaking": false
         },
         {
           "id": 1799,
           "english": "Go!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți troglodiților!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/17/Heavy_cartmovingforwardoffense07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense07.mp3",
           "notMaking": false
         },
         {
           "id": 1800,
           "english": "Push, push the cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți ca la caufland!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/7c/Heavy_cartmovingforwardoffense08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense08.mp3",
           "notMaking": false
         },
         {
           "id": 1801,
           "english": "Go, go, давай!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vă castrez dacă nu împingeți!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/ce/Heavy_cartmovingforwardoffense09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense09.mp3",
           "notMaking": false
         },
         {
           "id": 1802,
           "english": "Go, go, push the cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Pe cărucior!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/11/Heavy_cartmovingforwardoffense10.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense10.mp3",
           "notMaking": false
         },
         {
           "id": 1803,
           "english": "Everyone, push cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți cu boașele!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/8b/Heavy_cartmovingforwardoffense11.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense11.mp3",
           "notMaking": false
         },
         {
           "id": 1804,
           "english": "We must all push!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Trebuie să împingem din buric!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/86/Heavy_cartmovingforwardoffense12.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense12.mp3",
           "notMaking": false
         },
         {
           "id": 1805,
           "english": "Push cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți muia asta!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f5/Heavy_cartmovingforwardoffense13.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense13.mp3",
           "notMaking": false
         },
         {
           "id": 1806,
           "english": "Push!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți căruciorul cu căcat!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5a/Heavy_cartmovingforwardoffense14.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense14.mp3",
           "notMaking": false
         },
         {
           "id": 1807,
           "english": "Do not fear bomb! Push!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți căruciorul cu steroizi!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ee/Heavy_cartmovingforwardoffense15.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense15.mp3",
           "notMaking": false
         },
         {
           "id": 1808,
           "english": "Push bomb-cart! MOVE!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți căruciorul muist!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f9/Heavy_cartmovingforwardoffense16.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense16.mp3",
           "notMaking": false
         },
         {
           "id": 1809,
           "english": "Onward, great bomb-cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți căruciorul cu vibratoare!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b1/Heavy_cartmovingforwardoffense17.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartmovingforwardoffense17.mp3",
           "notMaking": false
         },
         {
           "id": 1810,
           "english": "Stay near tiny cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți căruciorul cu iagăr!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/37/Heavy_cartstaycloseoffense01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartstaycloseoffense01.mp3",
           "notMaking": false
         },
         {
           "id": 1811,
           "english": "Stay close to cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Lipiți-vă de cărucior!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/85/Heavy_cartstaycloseoffense02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartstaycloseoffense02.mp3",
           "notMaking": false
         },
         {
           "id": 1812,
           "english": "All must come to cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Toată lumea fute căruciorul acum!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2d/Heavy_cartstaycloseoffense03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartstaycloseoffense03.mp3",
           "notMaking": false
         },
         {
           "id": 1813,
           "english": "Join me at bomb cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți căruciorul cu smegmă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/00/Heavy_cartstaycloseoffense04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartstaycloseoffense04.mp3",
           "notMaking": false
         },
         {
           "id": 1814,
           "english": "JOIN ME AT BOMB CART!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți căruciorul plin de pișat!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9a/Heavy_cartstaycloseoffense05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartstaycloseoffense05.mp3",
           "notMaking": false
         },
         {
           "id": 1815,
           "english": "Bomb is friend! Come, visit friend!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Căruciorul e neandertal. Împingeți!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2b/Heavy_cartstaycloseoffense06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartstaycloseoffense06.mp3",
           "notMaking": false
         },
         {
           "id": 1817,
           "english": "(Mily Balakirev's Song of the Volga Boatmen) C'mon!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Împingeți căruciorul cu negrii!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/87/Heavy_singing03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_singing03.mp3",
           "notMaking": false
         },
         {
           "id": 1818,
           "english": "(Mily Balakirev's Song of the Volga Boatmen) Push!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Căruciorul nu se fute singur!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c1/Heavy_singing04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_singing04.mp3",
           "notMaking": false
         }
       ],
@@ -27004,28 +27004,28 @@
         {
           "id": 1819,
           "english": "Cart goes wrong way!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Căruciorul mere cu spatele!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a3/Heavy_cartgoingbackoffense01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartgoingbackoffense01.mp3",
           "notMaking": false
         },
         {
           "id": 1820,
           "english": "Nooooooooo!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nuuu, căruciorulll!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f8/Heavy_cartgoingbackoffense02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartgoingbackoffense02.mp3",
           "notMaking": false
         },
         {
           "id": 1821,
           "english": "Little men steal our cart!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Căruciorul ne-a abandonat!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a0/Heavy_cartgoingbackoffense03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartgoingbackoffense03.mp3",
           "notMaking": false
         },
         {
@@ -27208,10 +27208,10 @@
         {
           "id": 1841,
           "english": "Bomb cart will not push self!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Căruciorul trebuie să dea din buric!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/31/Heavy_cartstoppedoffense01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_cartstoppedoffense01.mp3",
           "notMaking": false
         },
         {
@@ -28199,19 +28199,19 @@
         {
           "id": 1972,
           "english": "Upgrade, upgrade!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sex în bază!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/95/Heavy_mvm_encourage_upgrade02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_encourage_upgrade02.mp3",
           "notMaking": false
         },
         {
           "id": 1973,
           "english": "All tiny teammates must upgrade.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Haideți la curve!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3b/Heavy_mvm_encourage_upgrade03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_encourage_upgrade03.mp3",
           "notMaking": false
         }
       ],
@@ -28219,55 +28219,55 @@
         {
           "id": 1974,
           "english": "I feel good.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Coaie ce pula mea au fost drogurile astea?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/7e/Heavy_mvm_get_upgrade01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_get_upgrade01.mp3",
           "notMaking": false
         },
         {
           "id": 1975,
           "english": "It is good day to be Giant Man.",
-          "romanianTranslation": "",
+          "romanianTranslation": "E o zi bună să fii făcut din carne de kebab!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/da/Heavy_mvm_get_upgrade02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_get_upgrade02.mp3",
           "notMaking": false
         },
         {
           "id": 1976,
           "english": "I feel bigger. (Laughs) Good.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am băgat două boabe!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/67/Heavy_mvm_get_upgrade03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_get_upgrade03.mp3",
           "notMaking": false
         },
         {
           "id": 1977,
           "english": "Да, this will help.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Psihedelicele astea nu-s căcat!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fd/Heavy_mvm_get_upgrade04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_get_upgrade04.mp3",
           "notMaking": false
         },
         {
           "id": 1978,
           "english": "Hmmm, tiny robots are in big trouble now.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mi-am făcut puța mai groasă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/7d/Heavy_mvm_get_upgrade05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_get_upgrade05.mp3",
           "notMaking": false
         },
         {
           "id": 1979,
           "english": "(Laughs) Bring me robots to fight.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Adu-mi femei să bat!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/28/Heavy_mvm_get_upgrade06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_get_upgrade06.mp3",
           "notMaking": false
         }
       ],
@@ -28284,28 +28284,28 @@
         {
           "id": 1981,
           "english": "Come, help me pick up money.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Evreule, banii sunt aici!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/26/Heavy_mvm_collect_credits02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_collect_credits02.mp3",
           "notMaking": false
         },
         {
           "id": 1982,
           "english": "Money will not wait forever!",
-          "romanianTranslation": "",
+          "romanianTranslation": "De ce trebuie să fac treaba evreului?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/89/Heavy_mvm_collect_credits03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_collect_credits03.mp3",
           "notMaking": false
         },
         {
           "id": 1983,
           "english": "We are losing money!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Banii ăștia îi bag sub prepuț!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/74/Heavy_mvm_collect_credits04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_collect_credits04.mp3",
           "notMaking": false
         }
       ],
@@ -28313,10 +28313,10 @@
         {
           "id": 1984,
           "english": "Sniper!",
-          "romanianTranslation": "",
+          "romanianTranslation": "LUNETIST ACOLO!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f4/Heavy_mvm_sniper01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_sniper01.mp3",
           "notMaking": false
         }
       ],
@@ -28324,19 +28324,19 @@
         {
           "id": 1985,
           "english": "Sentry Buster!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Spărgătorul de buci!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ed/Heavy_mvm_sentry_buster01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_sentry_buster01.mp3",
           "notMaking": false
         },
         {
           "id": 1986,
           "english": "I have crushed tiny Sentry Buster!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am futut spărgătorul de nuci!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fc/Heavy_mvm_sentry_buster02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_sentry_buster02.mp3",
           "notMaking": false
         }
       ],
@@ -28344,10 +28344,10 @@
         {
           "id": 1987,
           "english": "Bomb is dead.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Bomba s-a dus pe pulă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/28/Heavy_mvm_bomb_destroyed01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_bomb_destroyed01.mp3",
           "notMaking": false
         },
         {
@@ -28554,19 +28554,19 @@
         {
           "id": 2009,
           "english": "I am alone.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Orgia asta e a mea!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f5/Heavy_mvm_stand_alone01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_stand_alone01.mp3",
           "notMaking": false
         },
         {
           "id": 2010,
           "english": "Robots! I will beat you myself!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Roboți, pregătiți-vă găoazele!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ea/Heavy_mvm_stand_alone02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_stand_alone02.mp3",
           "notMaking": false
         }
       ],
@@ -28751,10 +28751,10 @@
         {
           "id": 2030,
           "english": "Ya da da da! Best thing! Heavy owns best thing! It is his, do not touch, or he will kill you! Da dum da dum dum! (laughs)",
-          "romanianTranslation": "",
+          "romanianTranslation": "Să nu fure evreul asta că mă sinucid!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d3/Heavy_mvm_loot_godlike03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_mvm_loot_godlike03.mp3",
           "notMaking": false
         }
       ]
@@ -29409,19 +29409,19 @@
         {
           "id": 2100,
           "english": "Bridge, comrades!",
-          "romanianTranslation": "",
+          "romanianTranslation": "La pod căcaților!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e0/Heavy_sf13_midnight02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sf13_midnight02.mp3",
           "notMaking": false
         },
         {
           "id": 2101,
           "english": "Bridge is down!",
-          "romanianTranslation": "",
+          "romanianTranslation": "S-a futut podul!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5f/Heavy_sf13_midnight04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sf13_midnight04.mp3",
           "notMaking": false
         }
       ],
@@ -29430,19 +29430,19 @@
         {
           "id": 2104,
           "english": "So much magic!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Cu magia asta îmi cresc o pulă nouă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/15/Heavy_sf13_influx_big01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sf13_influx_big01.mp3",
           "notMaking": false
         },
         {
           "id": 2105,
           "english": "Ha-ha! Run, babies!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O să ți-o aduc înapoi pe mătta cu magie!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a9/Heavy_sf13_influx_big02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sf13_influx_big02.mp3",
           "notMaking": false
         },
         {
@@ -29468,10 +29468,10 @@
         {
           "id": 2108,
           "english": "(screams) Heavy cannot believe eyes!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Văd 3 pule sau mi se pare mie?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a8/Heavy_sf13_magic_reac01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_sf13_magic_reac01.mp3",
           "notMaking": false
         },
         {
@@ -29501,7 +29501,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/eb/Heavy_sf13_spell_bombhead01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 2112,
@@ -29510,7 +29510,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d5/Heavy_sf13_spell_devil_bargain01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 2113,
@@ -29519,7 +29519,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2d/Heavy_sf13_spell_earthquake01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 2114,
@@ -29528,7 +29528,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3f/Heavy_sf13_spell_generic04.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 2115,
@@ -29537,7 +29537,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/1e/Heavy_sf13_spell_invisibility01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 2116,
@@ -29546,7 +29546,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3e/Heavy_sf13_spell_lightning_bolt01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 2117,
@@ -29555,7 +29555,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f1/Heavy_sf13_spell_summon_monoculous01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 2118,
@@ -29564,7 +29564,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2d/Heavy_sf13_spell_super_jump01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 2119,
@@ -29573,7 +29573,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2a/Heavy_sf13_spell_super_speed01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 2120,
@@ -29582,7 +29582,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f7/Heavy_sf13_spell_teleport_self01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 2121,
@@ -29591,7 +29591,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2d/Heavy_sf13_spell_uber01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 2122,
@@ -29600,7 +29600,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3c/Heavy_sf13_spell_zombie_horde01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Falling in bottomless pit": [
@@ -29611,7 +29611,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a0/Heavy_scram2012_falling01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ]
     },
@@ -30521,10 +30521,10 @@
         {
           "id": 6191,
           "english": "Come here, baby.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vino-n pizda mătti!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/83/Heavy_taunt_int_19.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunt_int_19.mp3",
           "notMaking": false
         },
         {
@@ -30543,15 +30543,15 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/36/Heavy_taunt_flip_fail_17.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6198,
           "english": "This is nice thing.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Puța asta-i mișto.",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d4/Heavy_trade_09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_trade_09.mp3",
           "notMaking": false
         },
         {
@@ -30566,10 +30566,10 @@
         {
           "id": 6202,
           "english": "Who. Touched. My. Gun.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Cine mi-a atins puța?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ed/Heavy_taunts06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunts06.mp3",
           "notMaking": false
         }
       ],
@@ -30868,19 +30868,19 @@
         {
           "id": 6326,
           "english": "Is time to dance!",
-          "romanianTranslation": "",
+          "romanianTranslation": "E timpul să ne călărim!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/89/Heavy_taunt_dosi_int_05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunt_dosi_int_05.mp3",
           "notMaking": false
         },
         {
           "id": 6327,
           "english": "You will dance!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O să ne futem acum!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/1b/Heavy_taunt_dosi_int_16.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunt_dosi_int_16.mp3",
           "notMaking": false
         },
         {
@@ -30890,7 +30890,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f0/Heavy_aerobic_01.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6337,
@@ -30899,15 +30899,15 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9d/Heavy_aerobic_05.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6338,
           "english": "Ohhhh! Who is great? Ha ha ha!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Fac aerobic ca o muiere!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/eb/Heavy_aerobic_06.mp3",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_aerobic_06.mp3",
           "notMaking": false
         },
         {
@@ -30917,7 +30917,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b3/Heavy_aerobic_08.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6340,
@@ -30926,7 +30926,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/62/Heavy_aerobic_17.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6341,
@@ -30935,7 +30935,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/89/Heavy_aerobic_22.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6342,
@@ -30960,28 +30960,28 @@
         {
           "id": 6344,
           "english": "Rock. Paper. Scissors!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Piatră foarfecă hârtie!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9f/Heavy_taunt_rps_int_01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunt_rps_int_01.mp3",
           "notMaking": false
         },
         {
           "id": 6345,
           "english": "Let us play!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să gunăm!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a5/Heavy_taunt_rps_int_02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunt_rps_int_02.mp3",
           "notMaking": false
         },
         {
           "id": 6346,
           "english": "Who will throw with Heavy?",
-          "romanianTranslation": "",
+          "romanianTranslation": "Cine se linge cu mine?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f3/Heavy_taunt_rps_int_04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunt_rps_int_04.mp3",
           "notMaking": false
         },
         {
@@ -31014,10 +31014,10 @@
         {
           "id": 6351,
           "english": "You lose!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ai muiat prea mult!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a2/Heavy_taunt_rps_win_09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunt_rps_win_09.mp3",
           "notMaking": false
         },
         {
@@ -31041,19 +31041,19 @@
         {
           "id": 6354,
           "english": "Hah! Rock beats scissors!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nu mă circumcizezi astăzi!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/45/Heavy_taunt_rps_win_16.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunt_rps_win_16.mp3",
           "notMaking": false
         },
         {
           "id": 6355,
           "english": "Paper destroy little rock!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Foaia distruge puța mică!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/bb/Heavy_taunt_rps_win_21.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunt_rps_win_21.mp3",
           "notMaking": false
         },
         {
@@ -31068,28 +31068,28 @@
         {
           "id": 6357,
           "english": "I beat you with rock!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Te-am bătut cu al treilea picior!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ef/Heavy_taunt_rps_win_33.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunt_rps_win_33.mp3",
           "notMaking": false
         },
         {
           "id": 6358,
           "english": "I beat you with paper!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Te-am acoperit cu prepuțul!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/bb/Heavy_taunt_rps_win_34.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunt_rps_win_34.mp3",
           "notMaking": false
         },
         {
           "id": 6359,
           "english": "I beat you with scissors!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Te-am circumcizat cu foarfeca!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e2/Heavy_taunt_rps_win_38.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunt_rps_win_38.mp3",
           "notMaking": false
         },
         {
@@ -31099,7 +31099,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/eb/Heavy_taunt_kill_02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6361,
@@ -31108,24 +31108,24 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/93/Heavy_taunt_kill_09.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6363,
           "english": "Ahhhh! Heavy hate losing!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Urăsc când mi-o bagi în cur!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e6/Heavy_taunt_rps_lose_13.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunt_rps_lose_13.mp3",
           "notMaking": false
         },
         {
           "id": 6364,
           "english": "Stupid, stupid game!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Joc de retarzi!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d1/Heavy_taunt_rps_lose_18.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunt_rps_lose_18.mp3",
           "notMaking": false
         }
       ],
@@ -31143,10 +31143,10 @@
         {
           "id": 6375,
           "english": "YOU, WE BUTT HEADS!",
-          "romanianTranslation": "",
+          "romanianTranslation": "TU. NE FUTEM ACUM!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/7d/Heavy_taunt_head_int_04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunt_head_int_04.mp3",
           "notMaking": false
         },
         {
@@ -31302,7 +31302,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/83/Heavy_taunt_dosi_fun_10.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6404,
@@ -31325,10 +31325,10 @@
         {
           "id": 6406,
           "english": "Ha ha ha ha! Okay, enough.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Gata că mă fac gay!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a2/Heavy_taunt_dosi_end_04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Heavy_taunt_dosi_end_04.mp3",
           "notMaking": false
         },
         {
