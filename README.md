@@ -10,13 +10,13 @@ Go to the [releases page](https://github.com/v4n00/tf2-romanian-project/releases
 
 ## Progress
 
-- [x] Administrator voicelines
-- [x] Scout voicelines
+- [ ] Administrator voicelines
+- [ ] Scout voicelines
 - [x] Soldier voicelines
-- [x] Pyro voicelines
-- [x] Demoman voicelines
-- [ ] Heavy voicelines
-- [x] Engineer voicelines
-- [x] Medic voicelines
+- [ ] Pyro voicelines
+- [ ] Demoman voicelines
+- [x] Heavy voicelines
+- [ ] Engineer voicelines
+- [ ] Medic voicelines
 - [ ] Sniper voicelines
 - [ ] Spy voicelines

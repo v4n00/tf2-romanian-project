@@ -26,6 +26,13 @@ find "$NEW_VOICELINES_SOURCE" -type f \( -name "*.mp3" -o -name "*.wav" \) | whi
     ffmpeg -y -i "$file" -af "volume=$VOLUME_ADJUST" "$target_dir/$(basename "$file")"
 done
 
+find "$NEW_VOICELINES_SOURCE" -type f -name "Heavy_*" | while read -r file; do
+    relative_path="${file#$NEW_VOICELINES_SOURCE}" # Get relative path
+    target_dir="$SOUND_DEST/$(dirname "$relative_path")" # Recreate directory structure
+    mkdir -p "$target_dir" # Ensure target directory exists
+    ffmpeg -y -i "$file" -af "volume=6dB" "$target_dir/$(basename "$file")"
+done
+
 find "$SOUND_SOURCE" -type f -name "*.mp3" | while read -r file; do
     ffmpeg -y -i "$file" -af "volume=$VOLUME_ADJUST" "$SOUND_DEST/$(basename "$file")"
 done
