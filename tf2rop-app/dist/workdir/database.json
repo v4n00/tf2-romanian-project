@@ -43131,64 +43131,64 @@
         {
           "id": 1460,
           "english": "Medic!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Doctor, hai la cazinou!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9f/Sniper_medic01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_medic01.mp3",
           "notMaking": false
         },
         {
           "id": 1461,
           "english": "Medic!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Doctor, mi-au picat șeptari!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/10/Sniper_medic02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_medic02.mp3",
           "notMaking": false
         },
         {
           "id": 1462,
           "english": "Follow me, Doctor!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Doctorre, donează-mi niște shekeli",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/33/Sniper_medicfollow01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_medicfollow01.mp3",
           "notMaking": false
         },
         {
           "id": 1463,
           "english": "You're with me, Doctor!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Imprumută-mă cu niște bani doctore!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e3/Sniper_medicfollow02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_medicfollow02.mp3",
           "notMaking": false
         },
         {
           "id": 1464,
           "english": "This way, Doc!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vino să-mi freci o labă doctore!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/70/Sniper_medicfollow03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_medicfollow03.mp3",
           "notMaking": false
         },
         {
           "id": 1465,
           "english": "Come on Doctor, follow me!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Doctore, ce faci la adăpostul pentru oameni fără adăpost?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/60/Sniper_medicfollow04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_medicfollow04.mp3",
           "notMaking": false
         },
         {
           "id": 1466,
           "english": "Stay with me, Doc!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Doctorre, fă-mi o injecție cu insulină!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/98/Sniper_medicfollow05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_medicfollow05.mp3",
           "notMaking": false
         }
       ],
@@ -43196,37 +43196,37 @@
         {
           "id": 1467,
           "english": "Thanks, mate!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Să-ți dea dumnezeu sănătate!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4b/Sniper_thanks01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_thanks01.mp3",
           "notMaking": false
         },
         {
           "id": 1468,
           "english": "'Preciate it!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mulțam pentru donație, mă duc să-i bag la shining crown!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/bf/Sniper_thanks02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_thanks02.mp3",
           "notMaking": false
         },
         {
           "id": 1469,
           "english": "Thanks, mate!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mulțumesc pentru portofel!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6a/Sniper_specialcompleted-assistedkill01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialcompleted-assistedkill01.mp3",
           "notMaking": false
         },
         {
           "id": 1470,
           "english": "Appreciate it, mate!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Îți bag organele la păcănele!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/16/Sniper_specialcompleted-assistedkill02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialcompleted-assistedkill02.mp3",
           "notMaking": false
         }
       ],
@@ -43234,28 +43234,28 @@
         {
           "id": 1471,
           "english": "Get bloody going!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mergeți la păcănele!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/19/Sniper_go01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_go01.mp3",
           "notMaking": false
         },
         {
           "id": 1472,
           "english": "Let's go, mates!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Haideți la roată băieți!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fb/Sniper_go02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_go02.mp3",
           "notMaking": false
         },
         {
           "id": 1473,
           "english": "Go go go!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai că mi-am pierdut casa la roată!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a5/Sniper_go03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_go03.mp3",
           "notMaking": false
         }
       ],
@@ -43263,19 +43263,19 @@
         {
           "id": 1474,
           "english": "Right up, right up!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mergem la super bet!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b6/Sniper_moveup01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_moveup01.mp3",
           "notMaking": false
         },
         {
           "id": 1475,
           "english": "Move that gear up!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Treceți la aparate!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/69/Sniper_moveup02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_moveup02.mp3",
           "notMaking": false
         }
       ],
@@ -43283,28 +43283,28 @@
         {
           "id": 1476,
           "english": "Go left!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Păcănele la stânga!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/23/Sniper_headleft01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_headleft01.mp3",
           "notMaking": false
         },
         {
           "id": 1477,
           "english": "Left, left!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Big bas bonanza la stânga!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f1/Sniper_headleft02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_headleft02.mp3",
           "notMaking": false
         },
         {
           "id": 1478,
           "english": "To the left!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Șeptari la stânga!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/aa/Sniper_headleft03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_headleft03.mp3",
           "notMaking": false
         }
       ],
@@ -43312,28 +43312,28 @@
         {
           "id": 1479,
           "english": "Right, right!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Book of ra la dreapta!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/30/Sniper_headright01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_headright01.mp3",
           "notMaking": false
         },
         {
           "id": 1480,
           "english": "Go right!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Blackjack la dreapta!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/26/Sniper_headright02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_headright02.mp3",
           "notMaking": false
         },
         {
           "id": 1481,
           "english": "To the right!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Poker la dreapta!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3e/Sniper_headright03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_headright03.mp3",
           "notMaking": false
         }
       ],
@@ -43341,28 +43341,28 @@
         {
           "id": 1482,
           "english": "Yeah!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Da!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e1/Sniper_yes01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_yes01.mp3",
           "notMaking": false
         },
         {
           "id": 1483,
           "english": "Okay!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Da frate-miu!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/34/Sniper_yes02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_yes02.mp3",
           "notMaking": false
         },
         {
           "id": 1484,
           "english": "Okay, mate!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ok coiță!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9e/Sniper_yes03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_yes03.mp3",
           "notMaking": false
         }
       ],
@@ -43370,37 +43370,37 @@
         {
           "id": 1485,
           "english": "No!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nu!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/40/Sniper_no01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_no01.mp3",
           "notMaking": false
         },
         {
           "id": 1486,
           "english": "Nah!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nu vreau la curve!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f1/Sniper_no02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_no02.mp3",
           "notMaking": false
         },
         {
           "id": 1487,
           "english": "Nah!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nu plec de la betano!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e0/Sniper_no03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_no03.mp3",
           "notMaking": false
         },
         {
           "id": 1488,
           "english": "Nah!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nu mai pot, trebuie să bag la păcănele!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/36/Sniper_no04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_no04.mp3",
           "notMaking": false
         }
       ]
@@ -43410,37 +43410,37 @@
         {
           "id": 1489,
           "english": "In-comiiinnng!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vin să ne fure șeptarii!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3d/Sniper_incoming01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_incoming01.mp3",
           "notMaking": false
         },
         {
           "id": 1490,
           "english": "Incoming!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vin să ne strice aparatele!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4c/Sniper_incoming02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_incoming02.mp3",
           "notMaking": false
         },
         {
           "id": 1491,
           "english": "Incomiiinnng!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vin să bage totul pe verde!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/65/Sniper_incoming03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_incoming03.mp3",
           "notMaking": false
         },
         {
           "id": 1492,
           "english": "(quietly) Incoming.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vin peste noi, încă sunt beat!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/91/Sniper_incoming04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_incoming04.mp3",
           "notMaking": false
         }
       ],
@@ -43448,109 +43448,109 @@
         {
           "id": 1493,
           "english": "Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Spion! Mi-a furat casa!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/09/Sniper_cloakedspy01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cloakedspy01.mp3",
           "notMaking": false
         },
         {
           "id": 1494,
           "english": "Spy 'round here!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Spion la aparate!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/cb/Sniper_cloakedspy02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cloakedspy02.mp3",
           "notMaking": false
         },
         {
           "id": 1495,
           "english": "Spy here!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Spion la casa pariurilor!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6e/Sniper_cloakedspy03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cloakedspy03.mp3",
           "notMaking": false
         },
         {
           "id": 1496,
           "english": "The Scout is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Cercetașul este un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/ad/Sniper_cloakedspyidentify01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cloakedspyidentify01.mp3",
           "notMaking": false
         },
         {
           "id": 1497,
           "english": "The Soldier, is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Soldatul este un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/74/Sniper_cloakedspyidentify02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cloakedspyidentify02.mp3",
           "notMaking": false
         },
         {
           "id": 1498,
           "english": "The Heavy is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Greul este un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/13/Sniper_cloakedspyidentify03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cloakedspyidentify03.mp3",
           "notMaking": false
         },
         {
           "id": 1499,
           "english": "The Pyro is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Piromanul este un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/41/Sniper_cloakedspyidentify04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cloakedspyidentify04.mp3",
           "notMaking": false
         },
         {
           "id": 1500,
           "english": "The Demoman is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Demolițianul este un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/8e/Sniper_cloakedspyidentify05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cloakedspyidentify05.mp3",
           "notMaking": false
         },
         {
           "id": 1501,
           "english": "The Engineer, is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Inginerul este un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a1/Sniper_cloakedspyidentify07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cloakedspyidentify07.mp3",
           "notMaking": false
         },
         {
           "id": 1502,
           "english": "The Medic is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Doctorul este un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/36/Sniper_cloakedspyidentify06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cloakedspyidentify06.mp3",
           "notMaking": false
         },
         {
           "id": 1503,
           "english": "The Sniper is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Lunetistul este un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3b/Sniper_cloakedspyidentify08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cloakedspyidentify08.mp3",
           "notMaking": false
         },
         {
           "id": 1504,
           "english": "That Spy's an enemy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acel spion este de-al lor!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/12/Sniper_cloakedspyidentify09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cloakedspyidentify09.mp3",
           "notMaking": false
         }
       ],
@@ -43558,10 +43558,10 @@
         {
           "id": 1505,
           "english": "Sentry ahead!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Santinelă în față, vreau berea inginerului!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/34/Sniper_sentryahead01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_sentryahead01.mp3",
           "notMaking": false
         }
       ],
@@ -43569,10 +43569,10 @@
         {
           "id": 1506,
           "english": "Need a Teleporter here!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vreau un teleportator spre super bet!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/65/Sniper_needteleporter01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_needteleporter01.mp3",
           "notMaking": false
         }
       ],
@@ -43580,10 +43580,10 @@
         {
           "id": 1507,
           "english": "Need a Dispenser here!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vreau un dozator cu ecran de shining crown aici!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/58/Sniper_needdispenser01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_needdispenser01.mp3",
           "notMaking": false
         }
       ],
@@ -43591,10 +43591,10 @@
         {
           "id": 1508,
           "english": "Need a Sentry here!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vreau o santinelă să mă apere până iau un jackpot!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/06/Sniper_needsentry01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_needsentry01.mp3",
           "notMaking": false
         }
       ],
@@ -43602,37 +43602,37 @@
         {
           "id": 1509,
           "english": "Hit that charge, Doctor!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Bagă-mi șeptari doctorre!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/58/Sniper_activatecharge01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_activatecharge01.mp3",
           "notMaking": false
         },
         {
           "id": 1510,
           "english": "Charge me, Doctor!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mai alimentează 50 de lei doctorre!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f2/Sniper_activatecharge02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_activatecharge02.mp3",
           "notMaking": false
         },
         {
           "id": 1511,
           "english": "Now, Doctor, now!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Încă puțin și facem banii înapoi doctore!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a7/Sniper_activatecharge03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_activatecharge03.mp3",
           "notMaking": false
         },
         {
           "id": 1512,
           "english": "(Quietly) Now, Doctor, now...",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să băgăm of fisă doctorre!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e2/Sniper_activatecharge04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_activatecharge04.mp3",
           "notMaking": false
         }
       ]
@@ -43642,100 +43642,100 @@
         {
           "id": 1513,
           "english": "Help!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ajutooor! Cine mă împrumută să mai bag un bilet?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/eb/Sniper_helpme01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_helpme01.mp3",
           "notMaking": false
         },
         {
           "id": 1514,
           "english": "Help me!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ajutați-mă să-mi pun păcănelele pe autospin!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/90/Sniper_helpme02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_helpme02.mp3",
           "notMaking": false
         },
         {
           "id": 1515,
           "english": "Need some help here!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Dă-mi și mie un fum!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a0/Sniper_helpme03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_helpme03.mp3",
           "notMaking": false
         },
         {
           "id": 1516,
           "english": "Come here defend!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Punctul ăsta e de la betano, haideți că vreau să pariez o tură!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5d/Sniper_helpmedefend01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_helpmedefend01.mp3",
           "notMaking": false
         },
         {
           "id": 1517,
           "english": "I need a hand defending here!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Punctul ăsta o să-l joc la blackjack!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/26/Sniper_helpmedefend02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_helpmedefend02.mp3",
           "notMaking": false
         },
         {
           "id": 1518,
           "english": "Get over here ya yobbos and help me defend!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O să dublez acest punct dacă îl apărăm!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/32/Sniper_helpmedefend03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_helpmedefend03.mp3",
           "notMaking": false
         },
         {
           "id": 1519,
           "english": "Help me pin this down!",
-          "romanianTranslation": "",
+          "romanianTranslation": "CEPE vine de la casa pariurilor!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5c/Sniper_helpmecapture01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_helpmecapture01.mp3",
           "notMaking": false
         },
         {
           "id": 1520,
           "english": "Help me capture this bloody thing!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am găsit un chiștoc pe punct, ajutați-mă să-l fumez!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b8/Sniper_helpmecapture02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_helpmecapture02.mp3",
           "notMaking": false
         },
         {
           "id": 1521,
           "english": "Get over here and help me capture!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Primim 3 spin-uri gratuite dacă capturăm!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d5/Sniper_helpmecapture03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_helpmecapture03.mp3",
           "notMaking": false
         },
         {
           "id": 1522,
           "english": "Get on the point, wanker!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Păcănele, țigări, alcool și curve pe punct. Treceți pe el!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/42/Sniper_standonthepoint01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_standonthepoint01.mp3",
           "notMaking": false
         },
         {
           "id": 1523,
           "english": "Come stand on the point, ya bloody wuss!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Stați pe punct pentru referral la betano, am nevoie de banii ăștia!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/df/Sniper_standonthepoint02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_standonthepoint02.mp3",
           "notMaking": false
         }
       ],
@@ -43743,208 +43743,208 @@
         {
           "id": 1524,
           "english": "Let's have a go at it.",
-          "romanianTranslation": "",
+          "romanianTranslation": "O să-mi chem tovarășii boschetari!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/52/Sniper_battlecry01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_battlecry01.mp3",
           "notMaking": false
         },
         {
           "id": 1525,
           "english": "Get to it!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Măcar la păcănele am parte de ceva emoții!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/24/Sniper_battlecry02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_battlecry02.mp3",
           "notMaking": false
         },
         {
           "id": 1526,
           "english": "Yaaaagh!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Câștigul e opțional, adrenalina e garantată!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4d/Sniper_battlecry03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_battlecry03.mp3",
           "notMaking": false
         },
         {
           "id": 1527,
           "english": "Go on then, mates!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Banii vin și pleacă, păcănelele rămân!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/38/Sniper_battlecry04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_battlecry04.mp3",
           "notMaking": false
         },
         {
           "id": 1528,
           "english": "God Save the Queen!",
-          "romanianTranslation": "",
+          "romanianTranslation": "N-am noroc la femei, da’ poate iese un jackpot!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/09/Sniper_battlecry05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_battlecry05.mp3",
           "notMaking": false
         },
         {
           "id": 1529,
           "english": "Give 'em a gob full!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sunt pe minus, dar cu stil!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/37/Sniper_battlecry06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_battlecry06.mp3",
           "notMaking": false
         },
         {
           "id": 1530,
           "english": "Ahh, she's a beaut.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Arma asta am câștigat-o la aparate!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a6/Sniper_specialweapon01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialweapon01.mp3",
           "notMaking": false
         },
         {
           "id": 1531,
           "english": "Hmmm, have a gander at this little beauty.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Arma asta o să o bag pe toată pe negru!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b1/Sniper_specialweapon02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialweapon02.mp3",
           "notMaking": false
         },
         {
           "id": 1532,
           "english": "Take a butcher's at this.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Arma asta o să o bag pe toată pe roșu!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/78/Sniper_specialweapon03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialweapon03.mp3",
           "notMaking": false
         },
         {
           "id": 1533,
           "english": "Hmmm, I reckon this'll come in handy.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Uite ce armă am câștigat la pocăr!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d4/Sniper_specialweapon05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialweapon05.mp3",
           "notMaking": false
         },
         {
           "id": 1534,
           "english": "Now this is a nice weapon.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Arma asta costă mai mult ca mătta!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3d/Sniper_specialweapon06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialweapon06.mp3",
           "notMaking": false
         },
         {
           "id": 1535,
           "english": "This thing looks bloody useful.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ăsta-i lanț de aur!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e1/Sniper_specialweapon07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialweapon07.mp3",
           "notMaking": false
         },
         {
           "id": 1536,
           "english": "*laughs* It's like Christmas morning.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Arma asta am furat-o de la țigani!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6b/Sniper_specialweapon08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialweapon08.mp3",
           "notMaking": false
         },
         {
           "id": 1537,
           "english": "Take a gander at this, little princess.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ui ce prințesă frumoasă am în pantaloni!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3e/Sniper_specialweapon09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialweapon09.mp3",
           "notMaking": false
         },
         {
           "id": 1538,
           "english": "Now this is a knife!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Te rup în gură!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/87/Sniper_meleedare01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_meleedare01.mp3",
           "notMaking": false
         },
         {
           "id": 1539,
           "english": "Let's have a go, ya mug!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Te mutilez cu cuțitașul ăsta!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/18/Sniper_meleedare02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_meleedare02.mp3",
           "notMaking": false
         },
         {
           "id": 1540,
           "english": "Ready to meet sharpy?!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vrei să-mi vezi briceagul?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5f/Sniper_meleedare03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_meleedare03.mp3",
           "notMaking": false
         },
         {
           "id": 1541,
           "english": "I'm gonna carve you a new cake hole!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O să-ți bag lama asta pe cur!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2f/Sniper_meleedare04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_meleedare04.mp3",
           "notMaking": false
         },
         {
           "id": 1542,
           "english": "Let's see how much blood's in ya!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să vedem câte coaie ai în sânge!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/45/Sniper_meleedare05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_meleedare05.mp3",
           "notMaking": false
         },
         {
           "id": 1543,
           "english": "Come on!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ăsta-i cuțit de shaorma!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/0a/Sniper_meleedare06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_meleedare06.mp3",
           "notMaking": false
         },
         {
           "id": 1544,
           "english": "Stabbin' time!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Cuțitul ăsta îl am de la unchiu turcalete!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/47/Sniper_meleedare07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_meleedare07.mp3",
           "notMaking": false
         },
         {
           "id": 1545,
           "english": "Stab, stab, stab!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Pipi caca pârț!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2e/Sniper_meleedare08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_meleedare08.mp3",
           "notMaking": false
         },
         {
           "id": 1546,
           "english": "I'm gonna cut a smile into ya!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am să-ți cizelez o pizdă în tine!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e8/Sniper_meleedare09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_meleedare09.mp3",
           "notMaking": false
         }
       ],
@@ -43952,73 +43952,73 @@
         {
           "id": 1547,
           "english": "Yah!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Dacă era ușor, nu-i zicea păcănea, îi zicea condus sub influența alcoolului!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/21/Sniper_cheers01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cheers01.mp3",
           "notMaking": false
         },
         {
           "id": 1548,
           "english": "Wicked!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am scos o dată 800 de lei, am cumpărat curve!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/45/Sniper_cheers02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cheers02.mp3",
           "notMaking": false
         },
         {
           "id": 1549,
           "english": "Aces!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mai bine bag la păcănele decât să beau, nu?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d1/Sniper_cheers03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cheers03.mp3",
           "notMaking": false
         },
         {
           "id": 1550,
           "english": "Good on ya mates!",
-          "romanianTranslation": "",
+          "romanianTranslation": "E și păcăneaua un sport extrem. Cu portofelul.",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a0/Sniper_cheers04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cheers04.mp3",
           "notMaking": false
         },
         {
           "id": 1551,
           "english": "All right!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Viața e ca la păcănele: bagi pula, scoți prepuțul!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3e/Sniper_cheers05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cheers05.mp3",
           "notMaking": false
         },
         {
           "id": 1552,
           "english": "We gave 'em a bloody drubbin'!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am dat azi salariul la păcănele, să nu-l cheltui pe curve!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9f/Sniper_cheers06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cheers06.mp3",
           "notMaking": false
         },
         {
           "id": 1553,
           "english": "Bewdy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Banii vin greu, dar pleacă ușor. Mai ales când îi pui pe toți pe negru!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fb/Sniper_cheers07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cheers07.mp3",
           "notMaking": false
         },
         {
           "id": 1554,
           "english": "Bloody bewd!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Domnul bestie, donează-mi gazilionul să-l bag pe tot pe negru!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/0b/Sniper_cheers08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_cheers08.mp3",
           "notMaking": false
         }
       ],
@@ -44026,10 +44026,10 @@
         {
           "id": 1555,
           "english": "Ahh, that was rubbish!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nu pierd bani, plătesc curve!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/8d/Sniper_jeers01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_jeers01.mp3",
           "notMaking": false
         },
         {
@@ -44071,10 +44071,10 @@
         {
           "id": 1560,
           "english": "Nice goin', ya bludgers!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mi-am băgat familia la păcănele!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/25/Sniper_jeers06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_jeers06.mp3",
           "notMaking": false
         },
         {
@@ -44100,28 +44100,28 @@
         {
           "id": 1563,
           "english": "Ripper you little!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Eu sunt lunetistul, cel care lunetește, și am venit să lunetesc cu luneta mea lunoasă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/0c/Sniper_positivevocalization01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_positivevocalization01.mp3",
           "notMaking": false
         },
         {
           "id": 1564,
           "english": "Holy dooley!!",
-          "romanianTranslation": "",
+          "romanianTranslation": "JACKPOOOOOT! Pot să-mi cumpar familia înapoi!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/01/Sniper_positivevocalization02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_positivevocalization02.mp3",
           "notMaking": false
         },
         {
           "id": 1565,
           "english": "No worries!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O păcănea pe zi ține curvele departe!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/8b/Sniper_positivevocalization03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_positivevocalization03.mp3",
           "notMaking": false
         },
         {
@@ -44181,10 +44181,10 @@
         {
           "id": 1572,
           "english": "'Ere ya go.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ia bă muie!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4f/Sniper_positivevocalization10.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_positivevocalization10.mp3",
           "notMaking": false
         },
         {
@@ -44194,7 +44194,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6b/Sniper_laughevil03.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 1574,
@@ -44203,7 +44203,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/86/Sniper_laughshort01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 1575,
@@ -44212,7 +44212,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9a/Sniper_laughshort02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 1576,
@@ -44221,7 +44221,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4d/Sniper_laughshort03.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 1577,
@@ -44230,7 +44230,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/52/Sniper_laughshort04.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 1578,
@@ -44239,35 +44239,35 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e6/Sniper_laughshort05.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Negative - Default key: C → 6": [
         {
           "id": 1579,
           "english": "Bugger!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Numele meu este lunetă și mă cac pe mine!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fe/Sniper_negativevocalization01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_negativevocalization01.mp3",
           "notMaking": false
         },
         {
           "id": 1580,
           "english": "Crikey!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mai bine mă îmbătam!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3d/Sniper_negativevocalization02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_negativevocalization02.mp3",
           "notMaking": false
         },
         {
           "id": 1581,
           "english": "Ah... piss!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am pișat în șosete!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f9/Sniper_negativevocalization03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_negativevocalization03.mp3",
           "notMaking": false
         },
         {
@@ -44277,7 +44277,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f1/Sniper_negativevocalization04.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 1583,
@@ -44286,33 +44286,33 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/67/Sniper_negativevocalization05.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 1584,
           "english": "Crikey.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Unde-i berea?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a8/Sniper_negativevocalization06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_negativevocalization06.mp3",
           "notMaking": false
         },
         {
           "id": 1585,
           "english": "Ah, piss.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am uitat cum e să dormi într-un pat!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f9/Sniper_negativevocalization07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_negativevocalization07.mp3",
           "notMaking": false
         },
         {
           "id": 1586,
           "english": "Bugger.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am nevoie de un duș că put a boschetar!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d5/Sniper_negativevocalization08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_negativevocalization08.mp3",
           "notMaking": false
         },
         {
@@ -44322,26 +44322,26 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/56/Sniper_negativevocalization09.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Nice Shot! - Default key: C → 7": [
         {
           "id": 1588,
           "english": "Nice shot!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ai nimerit șeptarii!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/7f/Sniper_niceshot01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_niceshot01.mp3",
           "notMaking": false
         },
         {
           "id": 1589,
           "english": "Good shot, mate!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ai ochit gazilionul!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/91/Sniper_niceshot02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_niceshot02.mp3",
           "notMaking": false
         },
         {
@@ -44917,10 +44917,10 @@
         {
           "id": 2751,
           "english": "You shouldn't have even gotten outta bed.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Biletul ăsta l-am băgat pe futerea mătti!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/bd/Sniper_domination01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_domination01.mp3",
           "notMaking": false
         },
         {
@@ -46250,28 +46250,28 @@
         {
           "id": 2924,
           "english": "Jarate!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mă piș pe tine!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/18/Sniper_JarateToss01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_JarateToss01.mp3",
           "notMaking": false
         },
         {
           "id": 2925,
           "english": "Bombs away!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Spermă-n borcan!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d2/Sniper_JarateToss02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_JarateToss02.mp3",
           "notMaking": false
         },
         {
           "id": 2926,
           "english": "Heads up!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Zeamă de bărbat!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5e/Sniper_JarateToss03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_JarateToss03.mp3",
           "notMaking": false
         }
       ],
@@ -46283,15 +46283,15 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/40/Sniper_specialcompleted02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 2928,
           "english": "Steady, steady!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Îmi tremură mâna, vreau la păcănele!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/44/Sniper_specialcompleted17.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialcompleted17.mp3",
           "notMaking": false
         },
         {
@@ -46301,7 +46301,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/04/Sniper_specialcompleted24.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 2930,
@@ -46310,7 +46310,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/99/Sniper_specialcompleted36.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 2931,
@@ -46382,7 +46382,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d9/Sniper_taunts01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 2939,
@@ -46391,7 +46391,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/87/Sniper_taunts23.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Looking at enemy while scoped": [
@@ -46490,19 +46490,19 @@
         {
           "id": 2950,
           "english": "You got blood on my knife, mate!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mmm ce prepuț gustos!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/25/Sniper_specialcompleted06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialcompleted06.mp3",
           "notMaking": false
         },
         {
           "id": 2951,
           "english": "A little of the ol' 'chop-chop'!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nu sunt evreu, dar te-am circumcizat cu briceagul!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d1/Sniper_specialcompleted09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialcompleted09.mp3",
           "notMaking": false
         }
       ],
@@ -46510,10 +46510,10 @@
         {
           "id": 2952,
           "english": "(Laughs) Bloody hell, you're awful!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Prin toate găurile alea o să-mi bag pula!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a3/Sniper_domination21.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_domination21.mp3",
           "notMaking": false
         }
       ],
@@ -46521,10 +46521,10 @@
         {
           "id": 2953,
           "english": "You know what yer dominatin' now? Bleedin'.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ți-am tăiat prepuțul cu sabia!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/07/Sniper_revenge08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_revenge08.mp3",
           "notMaking": false
         }
       ],
@@ -46535,19 +46535,19 @@
         {
           "id": 2959,
           "english": "Simple. Simple. One for me.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să vedem cât e șansa să câștig la aparate!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/32/Sniper_autocappedintelligence01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_autocappedintelligence01.mp3",
           "notMaking": false
         },
         {
           "id": 2960,
           "english": "That was too easy mate!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Aicia erau biletele mele de la păcănele!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/70/Sniper_autocappedintelligence02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_autocappedintelligence02.mp3",
           "notMaking": false
         },
         {
@@ -49611,7 +49611,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/13/Sniper_domination25.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Revenge kill": [
@@ -49622,17 +49622,17 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d6/Sniper_revenge25.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Unknown condition": [
         {
           "id": 3333,
           "english": "I see ya!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Te văd căcatule!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5b/Sniper_specialcompleted19.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialcompleted19.mp3",
           "notMaking": false
         }
       ]
@@ -49649,37 +49649,37 @@
         {
           "id": 5793,
           "english": "Y'got blood on my knife, mate.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ai vărsat spermă pe cuțitul meu!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/22/Sniper_specialcompleted28.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialcompleted28.mp3",
           "notMaking": false
         },
         {
           "id": 5794,
           "english": "You'd best keep lyin' down.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mai bine te masturbai în colț!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ee/Sniper_specialcompleted29.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialcompleted29.mp3",
           "notMaking": false
         },
         {
           "id": 5795,
           "english": "That funeral ain't gonna be open casket.",
-          "romanianTranslation": "",
+          "romanianTranslation": "La înmormântarea ta o să-mi dau drumul pe fața ta!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/56/Sniper_specialcompleted23.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialcompleted23.mp3",
           "notMaking": false
         },
         {
           "id": 5796,
           "english": "A little of the ol' chop-chop.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ai puțină spermă pe la colțul gurii!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/12/Sniper_specialcompleted31.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_specialcompleted31.mp3",
           "notMaking": false
         }
       ]
@@ -49689,19 +49689,19 @@
         {
           "id": 5797,
           "english": "Let's play!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să pariem!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/38/Sniper_taunt_rps_int_03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_taunt_rps_int_03.mp3",
           "notMaking": false
         },
         {
           "id": 5798,
           "english": "Alright, ya wankers!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Iubesc păcăneaua!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2e/Sniper_taunt_cong_fun_18.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_taunt_cong_fun_18.mp3",
           "notMaking": false
         },
         {
@@ -49743,19 +49743,19 @@
         {
           "id": 5804,
           "english": "Ha ha ha ha, bloody brilliant!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Bun, acum hai la păcănele!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/93/Sniper_taunt_flip_end_04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_taunt_flip_end_04.mp3",
           "notMaking": false
         },
         {
           "id": 5805,
           "english": "That was a ripsnorter!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mereu câștig când bag pe negru!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/bf/Sniper_taunt_rps_win_14.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_taunt_rps_win_14.mp3",
           "notMaking": false
         },
         {
@@ -49765,7 +49765,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/69/Taunt_didgeridoo_sit_down.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5808,
@@ -49774,7 +49774,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/1d/Taunt_didgeridoo_stand_up.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 5809,
@@ -49783,7 +49783,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a7/Taunt_didgeridoo_stop.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "I See You": [
@@ -50595,55 +50595,55 @@
         {
           "id": 5998,
           "english": "Who wants a throw?",
-          "romanianTranslation": "",
+          "romanianTranslation": "Cine vrea să pariem?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/70/Sniper_taunt_rps_int_07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_taunt_rps_int_07.mp3",
           "notMaking": false
         },
         {
           "id": 5999,
           "english": "Give us a throw!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Dă-mi o fisă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ea/Sniper_taunt_rps_int_11.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_taunt_rps_int_11.mp3",
           "notMaking": false
         },
         {
           "id": 6000,
           "english": "On three!",
-          "romanianTranslation": "",
+          "romanianTranslation": "La trei!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/18/Sniper_taunt_rps_exert_17.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_taunt_rps_exert_17.mp3",
           "notMaking": false
         },
         {
           "id": 6001,
           "english": "One!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Un!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a4/Sniper_taunt_rps_exert_01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_taunt_rps_exert_01.mp3",
           "notMaking": false
         },
         {
           "id": 6002,
           "english": "Two!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Doi!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/cb/Sniper_taunt_rps_exert_02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_taunt_rps_exert_02.mp3",
           "notMaking": false
         },
         {
           "id": 6003,
           "english": "Three!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Trei!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/df/Sniper_taunt_rps_exert_16.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Sniper_taunt_rps_exert_16.mp3",
           "notMaking": false
         },
         {
@@ -50709,7 +50709,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3d/Sniper_sf13_scared02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6015,
@@ -50884,7 +50884,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/17/Sniper_taunt_dosi_fun_01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6042,
@@ -50893,7 +50893,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d7/Sniper_taunt_dosi_fun_02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6043,
