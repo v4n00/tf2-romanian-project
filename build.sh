@@ -18,6 +18,7 @@ mkdir -p "$OUTPUT_DEST/sound/ui"
 cp "$LOGO_SOURCE" "$LOGO_DEST"
 
 # voice lines
+# ffmpeg -i input.wav -af loudnorm=I=-16:TP=-1.5:LRA=11 output.wav # experimental next time
 
 find "$NEW_VOICELINES_SOURCE" -type f \( -name "*.mp3" -o -name "*.wav" \) | while read -r file; do
     relative_path="${file#$NEW_VOICELINES_SOURCE}" # Get relative path
