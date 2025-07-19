@@ -1,51 +1,37 @@
 #!/bin/bash
 
-OUTPUT_DEST="./output/tf2-ro-pack"
 LOGO_SOURCE="./logo/new_tf2_logo.vtf"
-SOUND_SOURCE="./voicelines"
-NEW_VOICELINES_SOURCE="./tf2rop-app/dist/workdir/"
+VOICELINES_SOURCE="./tf2rop-app/dist/workdir"
+OUTPUT_DEST="./output/tf2-ro-pack"
 LOGO_DEST="$OUTPUT_DEST/materials/logo"
 SOUND_DEST="$OUTPUT_DEST/sound/vo"
-VOLUME_ADJUST="3dB"
+OUTPUT_ZIP="./output/tf2-ro-pack.zip"
+INSTALL_LOCATION="${HOME}/.local/share/Steam/steamapps/common/Team Fortress 2/tf/custom"
 
+# setup
 [[ -d "$OUTPUT_DEST" ]] && rm -rf "$OUTPUT_DEST"
+[[ -f "$OUTPUT_ZIP" ]] && rm -f "$OUTPUT_ZIP"
 
+# logo
 mkdir -p "$LOGO_DEST"
-mkdir -p "$SOUND_DEST"
-mkdir -p "$SOUND_DEST/compmode"
-mkdir -p "$OUTPUT_DEST/sound/ui"
-
 cp "$LOGO_SOURCE" "$LOGO_DEST"
 
 # voice lines
-# ffmpeg -i input.wav -af loudnorm=I=-16:TP=-1.5:LRA=11 output.wav # experimental next time
-
-find "$NEW_VOICELINES_SOURCE" -type f \( -name "*.mp3" -o -name "*.wav" \) | while read -r file; do
-    relative_path="${file#$NEW_VOICELINES_SOURCE}" # Get relative path
-    target_dir="$SOUND_DEST/$(dirname "$relative_path")" # Recreate directory structure
-    mkdir -p "$target_dir" # Ensure target directory exists
-    ffmpeg -y -i "$file" -af "volume=$VOLUME_ADJUST" "$target_dir/$(basename "$file")"
+find "$VOICELINES_SOURCE" -type f \( -name "*.mp3" -o -name "*.wav" \) | while read -r file; do
+    target_dir="$SOUND_DEST/$(dirname "${file#$VOICELINES_SOURCE}")"
+    mkdir -p "$target_dir"
+    ffmpeg -i "$file" -af loudnorm=I=-8:LRA=18:TP=-1.5,volume=3dB -ar 44100 "$target_dir/$(basename "$file")"
 done
 
-find "$NEW_VOICELINES_SOURCE" -type f -name "Heavy_*" | while read -r file; do
-    relative_path="${file#$NEW_VOICELINES_SOURCE}" # Get relative path
-    target_dir="$SOUND_DEST/$(dirname "$relative_path")" # Recreate directory structure
-    mkdir -p "$target_dir" # Ensure target directory exists
-    ffmpeg -y -i "$file" -af "volume=6dB" "$target_dir/$(basename "$file")"
+# REMOVE AFTER REMAKE
+OLD_VOICELINES_SOURCE="./old-voicelines"
+find "$OLD_VOICELINES_SOURCE" -type f \( -name "*.mp3" -o -name "*.wav" \) | while read -r file; do
+    target_dir="$SOUND_DEST/$(dirname "${file#$OLD_VOICELINES_SOURCE}")"
+    mkdir -p "$target_dir"
+    ffmpeg -i "$file" -af loudnorm=I=-8:LRA=18:TP=-1.5,volume=3dB -ar 44100 "$target_dir/$(basename "$file")"
 done
+# REMOVE AFTER REMAKE
 
-find "$SOUND_SOURCE" -type f -name "*.mp3" | while read -r file; do
-    ffmpeg -y -i "$file" -af "volume=$VOLUME_ADJUST" "$SOUND_DEST/$(basename "$file")"
-done
-
-find "$SOUND_SOURCE/administrator/responses/compmode" -type f -name "*.mp3" | while read -r file; do
-    ffmpeg -y -i "$file" -af "volume=$VOLUME_ADJUST" "$SOUND_DEST/compmode/$(basename "$file")"
-done
-
-find "$SOUND_SOURCE/administrator/responses/misc" -type f -name "*.mp3" | while read -r file; do
-    ffmpeg -y -i "$file" -af "volume=$VOLUME_ADJUST" "$SOUND_DEST/compmode/$(basename "$file")"
-done
-
-find "$SOUND_SOURCE/administrator/responses/ui" -type f -name "*.mp3" | while read -r file; do
-    ffmpeg -y -i "$file" -af "volume=$VOLUME_ADJUST" "$OUTPUT_DEST/sound/ui/$(basename "$file")"
-done
+# package and install
+zip -r "$OUTPUT_ZIP" "$OUTPUT_DEST"
+[[ -d "$INSTALL_LOCATION" ]] && rm -rf "$INSTALL_LOCATION/tf2-ro-pack" & cp -r "$OUTPUT_DEST" "$INSTALL_LOCATION"
