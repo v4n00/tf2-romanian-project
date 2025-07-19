@@ -34,4 +34,5 @@ done
 
 # package and install
 zip -r "$OUTPUT_ZIP" "$OUTPUT_DEST"
-[[ -d "$INSTALL_LOCATION" ]] && rm -rf "$INSTALL_LOCATION/tf2-ro-pack" & cp -r "$OUTPUT_DEST" "$INSTALL_LOCATION"
+[[ -d "$INSTALL_LOCATION" ]] && rm -rf "$INSTALL_LOCATION/tf2-ro-pack"
+[[ -d "$INSTALL_LOCATION" ]] && cp -r "$OUTPUT_DEST" "$INSTALL_LOCATION"
