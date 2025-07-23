@@ -38018,7 +38018,7 @@
         {
           "id": 6718,
           "english": "Doktor!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4a/Medic_medic01.wav",
           "audioElevenLabs": "",
@@ -38027,7 +38027,7 @@
         {
           "id": 6719,
           "english": "Medic!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5d/Medic_medic02.wav",
           "audioElevenLabs": "",
@@ -38036,7 +38036,7 @@
         {
           "id": 6720,
           "english": "MEEEDIIIC!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/8b/Medic_medic03.wav",
           "audioElevenLabs": "",
@@ -38047,16 +38047,16 @@
         {
           "id": 6721,
           "english": "Zank you.",
-          "romanianTranslation": "",
+          "romanianTranslation": "O",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a9/Medic_thanks01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_thanks01.mp3",
           "notMaking": false
         },
         {
           "id": 6722,
           "english": "Danke!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/84/Medic_thanks02.wav",
           "audioElevenLabs": "",
@@ -38065,7 +38065,7 @@
         {
           "id": 6723,
           "english": "Danke, Kamerad!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/15/Medic_specialcompleted-assistedkill01.wav",
           "audioElevenLabs": "",
@@ -38074,19 +38074,19 @@
         {
           "id": 6724,
           "english": "Ve did it, Kamerad!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/10/Medic_specialcompleted-assistedkill02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_specialcompleted-assistedkill02.mp3",
           "notMaking": false
         },
         {
           "id": 6725,
           "english": "Eins, zwei, drei... Ugh, I do not think we brought enough body bags.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Un, doi, trei, patru. Câți negrii sunt în magazinul meu?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a1/Medic_taunts02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_taunts02.mp3",
           "notMaking": false
         }
       ],
@@ -38094,16 +38094,16 @@
         {
           "id": 6726,
           "english": "Mach schnell!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mergi în pizda mătti!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3d/Medic_go01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_go01.mp3",
           "notMaking": false
         },
         {
           "id": 6727,
           "english": "Schnell! Raus, RAUS!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/80/Medic_go02.wav",
           "audioElevenLabs": "",
@@ -38112,7 +38112,7 @@
         {
           "id": 6728,
           "english": "Move! Schnell!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c7/Medic_go03.wav",
           "audioElevenLabs": "",
@@ -38121,7 +38121,7 @@
         {
           "id": 6729,
           "english": "Los, Weiter!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/27/Medic_go04.wav",
           "audioElevenLabs": "",
@@ -38132,19 +38132,19 @@
         {
           "id": 6730,
           "english": "Move ze gear up, SCHNELL!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b9/Medic_moveup01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_moveup01.mp3",
           "notMaking": false
         },
         {
           "id": 6731,
           "english": "Move zis gear up!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mutați căcaturile!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/31/Medic_moveup02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_moveup02.mp3",
           "notMaking": false
         }
       ],
@@ -38152,7 +38152,7 @@
         {
           "id": 6732,
           "english": "Left!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d5/Medic_headleft01.wav",
           "audioElevenLabs": "",
@@ -38161,7 +38161,7 @@
         {
           "id": 6733,
           "english": "Go left!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5d/Medic_headleft02.wav",
           "audioElevenLabs": "",
@@ -38170,7 +38170,7 @@
         {
           "id": 6734,
           "english": "Left, left!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9e/Medic_headleft03.wav",
           "audioElevenLabs": "",
@@ -38181,7 +38181,7 @@
         {
           "id": 6735,
           "english": "Right!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/31/Medic_headright01.wav",
           "audioElevenLabs": "",
@@ -38190,7 +38190,7 @@
         {
           "id": 6736,
           "english": "Go right!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/8b/Medic_headright02.wav",
           "audioElevenLabs": "",
@@ -38199,7 +38199,7 @@
         {
           "id": 6737,
           "english": "Right, right!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4e/Medic_headright03.wav",
           "audioElevenLabs": "",
@@ -38210,7 +38210,7 @@
         {
           "id": 6738,
           "english": "Ja.",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fb/Medic_yes01.wav",
           "audioElevenLabs": "",
@@ -38219,7 +38219,7 @@
         {
           "id": 6739,
           "english": "Jawohl.",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/cc/Medic_yes02.wav",
           "audioElevenLabs": "",
@@ -38228,10 +38228,10 @@
         {
           "id": 6740,
           "english": "Yes.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Da, nu mai ai prepuț!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9b/Medic_yes03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_yes03.mp3",
           "notMaking": false
         }
       ],
@@ -38239,16 +38239,16 @@
         {
           "id": 6741,
           "english": "Nein!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nu masturbez!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ec/Medic_no01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_no01.mp3",
           "notMaking": false
         },
         {
           "id": 6742,
           "english": "No!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c3/Medic_no02.wav",
           "audioElevenLabs": "",
@@ -38257,10 +38257,10 @@
         {
           "id": 6743,
           "english": "Nichts da!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nimic în uretră!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3d/Medic_no03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_no03.mp3",
           "notMaking": false
         }
       ]
@@ -38270,28 +38270,28 @@
         {
           "id": 6744,
           "english": "Incoming.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vin să ne fută!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/12/Medic_incoming01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_incoming01.mp3",
           "notMaking": false
         },
         {
           "id": 6745,
           "english": "Incoming!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Se apropie!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2b/Medic_incoming02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_incoming02.mp3",
           "notMaking": false
         },
         {
           "id": 6746,
           "english": "Incoming.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sunt pe cale să-și dea drumul!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d3/Medic_incoming03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_incoming03.mp3",
           "notMaking": false
         }
       ],
@@ -38299,16 +38299,16 @@
         {
           "id": 6747,
           "english": "Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Spion cu disfuncție erectilă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fc/Medic_cloakedspy01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_cloakedspy01.mp3",
           "notMaking": false
         },
         {
           "id": 6748,
           "english": "Achtung! Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/31/Medic_cloakedspy02.wav",
           "audioElevenLabs": "",
@@ -38317,82 +38317,82 @@
         {
           "id": 6749,
           "english": "Ze Scout is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acel cercetaș e un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d3/Medic_cloakedspyidentify01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_cloakedspyidentify01.mp3",
           "notMaking": false
         },
         {
           "id": 6750,
           "english": "Ze Soldier is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acel soldat e un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ee/Medic_cloakedspyidentify02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_cloakedspyidentify02.mp3",
           "notMaking": false
         },
         {
           "id": 6751,
           "english": "Ze Pyro is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acel piroman e un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c8/Medic_cloakedspyidentify04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_cloakedspyidentify04.mp3",
           "notMaking": false
         },
         {
           "id": 6752,
           "english": "Ze Demoman is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acel demolițian e un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a4/Medic_cloakedspyidentify05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_cloakedspyidentify05.mp3",
           "notMaking": false
         },
         {
           "id": 6753,
           "english": "Ze Heavy is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acel greu e un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/29/Medic_cloakedspyidentify03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_cloakedspyidentify03.mp3",
           "notMaking": false
         },
         {
           "id": 6754,
           "english": "Ze Engineer is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acel inginer e un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/24/Medic_cloakedspyidentify08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_cloakedspyidentify08.mp3",
           "notMaking": false
         },
         {
           "id": 6755,
           "english": "Ze Medic is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acel doctor e un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/28/Medic_cloakedspyidentify07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_cloakedspyidentify07.mp3",
           "notMaking": false
         },
         {
           "id": 6756,
           "english": "Ze Sniper is a Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acel lunetist e un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d3/Medic_cloakedspyidentify09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_cloakedspyidentify09.mp3",
           "notMaking": false
         },
         {
           "id": 6757,
           "english": "Ze Spy is a double agent!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acel spion nu este circumcizat!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b5/Medic_cloakedspyidentify06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_cloakedspyidentify06.mp3",
           "notMaking": false
         }
       ],
@@ -38400,7 +38400,7 @@
         {
           "id": 6758,
           "english": "Sentry ahead!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fd/Medic_sentryahead01.wav",
           "audioElevenLabs": "",
@@ -38409,10 +38409,10 @@
         {
           "id": 6759,
           "english": "Zere is a Sentry ahead!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Santinelă în găoaza inamiciilor!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/68/Medic_sentryahead02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_sentryahead02.mp3",
           "notMaking": false
         }
       ],
@@ -38420,10 +38420,10 @@
         {
           "id": 6760,
           "english": "Ze Teleporter goes here!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vreau teleportator că am gaura prea lărgită să mai merg!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ea/Medic_needteleporter01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_needteleporter01.mp3",
           "notMaking": false
         }
       ],
@@ -38431,10 +38431,10 @@
         {
           "id": 6761,
           "english": "Ze Dispenser goes here!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Pune dozator să-mi repare gaura curului!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/0b/Medic_needdispenser01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_needdispenser01.mp3",
           "notMaking": false
         }
       ],
@@ -38442,10 +38442,10 @@
         {
           "id": 6762,
           "english": "Ze Sentry goes here!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Santinelă aici ca să am cu ce să mă fut.",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/0e/Medic_needsentry01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_needsentry01.mp3",
           "notMaking": false
         }
       ],
@@ -38453,28 +38453,28 @@
         {
           "id": 6763,
           "english": "Charge me, Herr doctor.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Bagă-mi-o în cur doctorre!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/bf/Medic_activatecharge01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_activatecharge01.mp3",
           "notMaking": false
         },
         {
           "id": 6764,
           "english": "Ready for ze charge, Herr doctor.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sunt lubrifiat pentru tine doctorre!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e2/Medic_activatecharge02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_activatecharge02.mp3",
           "notMaking": false
         },
         {
           "id": 6765,
           "english": "Now is ze time, Herr doctor.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Lărgeștemi-o înainte să mi-o bagi, doctorre!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/34/Medic_activatecharge03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_activatecharge03.mp3",
           "notMaking": false
         }
       ],
@@ -38482,28 +38482,28 @@
         {
           "id": 6766,
           "english": "Ready to charge!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Trebuie să mă cac!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c0/Medic_autochargeready01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_autochargeready01.mp3",
           "notMaking": false
         },
         {
           "id": 6767,
           "english": "I am fully charged!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sunt pregătit pentru căcare!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6c/Medic_autochargeready02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_autochargeready02.mp3",
           "notMaking": false
         },
         {
           "id": 6768,
           "english": "I am charged!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mă ține o căcare!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9f/Medic_autochargeready03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_autochargeready03.mp3",
           "notMaking": false
         }
       ]
@@ -38513,79 +38513,79 @@
         {
           "id": 6769,
           "english": "Help!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ajutați-mă să-mi lărgesc gaura!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/1e/Medic_helpme01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_helpme01.mp3",
           "notMaking": false
         },
         {
           "id": 6770,
           "english": "I require assistance!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Poate cineva să mi-o bage pe uretră?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/da/Medic_helpme02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_helpme02.mp3",
           "notMaking": false
         },
         {
           "id": 6771,
           "english": "Assistance, bitte!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Dacă mă ajutați vă dau o muie mai târziu!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5b/Medic_helpme03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_helpme03.mp3",
           "notMaking": false
         },
         {
           "id": 6772,
           "english": "Ve must defend zis point!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Trebuie să apărăm stația de masturbare!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/82/Medic_helpmedefend01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_helpmedefend01.mp3",
           "notMaking": false
         },
         {
           "id": 6773,
           "english": "Must I defend zis point myself?!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Aparatul de donat spermă nu se apără singur!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e5/Medic_helpmedefend02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_helpmedefend02.mp3",
           "notMaking": false
         },
         {
           "id": 6774,
           "english": "Defend ze point!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Masturbați-vă pe punct ca să-l apărăm!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/85/Medic_helpmedefend03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_helpmedefend03.mp3",
           "notMaking": false
         },
         {
           "id": 6775,
           "english": "Help me secure this point!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ajutați-mă să capturez stația de masturbare!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/79/Medic_helpmecapture01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_helpmecapture01.mp3",
           "notMaking": false
         },
         {
           "id": 6776,
           "english": "I need help with zis point! Schnell!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am nevoie de ajutor la masturbat!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a6/Medic_helpmecapture02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_helpmecapture02.mp3",
           "notMaking": false
         },
         {
           "id": 6777,
           "english": "Get on ze point, dummkopf!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/71/Medic_standonthepoint01.wav",
           "audioElevenLabs": "",
@@ -38594,7 +38594,7 @@
         {
           "id": 6778,
           "english": "Stand on ze point, schweinhund!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/01/Medic_standonthepoint02.wav",
           "audioElevenLabs": "",
@@ -38603,25 +38603,25 @@
         {
           "id": 6779,
           "english": "Idiot! Get on ze point!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Stați pe punct sau îmi dau drumul pe voi!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c7/Medic_standonthepoint03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_standonthepoint03.mp3",
           "notMaking": false
         },
         {
           "id": 6780,
           "english": "Idiot! Stand on ze point!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mă cac pe voi dacă nu stați pe punct!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ed/Medic_standonthepoint04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_standonthepoint04.mp3",
           "notMaking": false
         },
         {
           "id": 6781,
           "english": "Standing near ze point does nussing; get on ze point, dummkopf!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/72/Medic_standonthepoint05.wav",
           "audioElevenLabs": "",
@@ -38632,7 +38632,7 @@
         {
           "id": 6782,
           "english": "Raus, Raus!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6f/Medic_battlecry01.wav",
           "audioElevenLabs": "",
@@ -38641,25 +38641,25 @@
         {
           "id": 6783,
           "english": "Forward!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Masturbați-vă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f6/Medic_battlecry02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_battlecry02.mp3",
           "notMaking": false
         },
         {
           "id": 6784,
           "english": "Heil us!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Îmi dau drumul!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/df/Medic_battlecry03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_battlecry03.mp3",
           "notMaking": false
         },
         {
           "id": 6785,
           "english": "Hyaaaa!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c2/Medic_battlecry04.wav",
           "audioElevenLabs": "",
@@ -38668,28 +38668,28 @@
         {
           "id": 6786,
           "english": "Horrido!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Puneți-vă coaiele la treabă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/85/Medic_battlecry05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_battlecry05.mp3",
           "notMaking": false
         },
         {
           "id": 6787,
           "english": "Gesundheit!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Am SIDA!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b2/Medic_battlecry06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_battlecry06.mp3",
           "notMaking": false
         },
         {
           "id": 6788,
           "english": "Hold still, Schweinhund, zis vill only sting for a moment.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Stai în pula mea că îți dai drumul pe mine!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a3/Medic_taunts01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_taunts01.mp3",
           "notMaking": false
         },
         {
@@ -42061,7 +42061,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/88/Borrowed_bones_start.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4728,
@@ -42070,7 +42070,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/86/Borrowed_bones_mid.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4729,
@@ -42079,7 +42079,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9c/Borrowed_bones_end.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Doctor's Defibrillators": [
@@ -42285,7 +42285,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/33/Taunt_medic_xray_1_open.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4781,
@@ -42294,7 +42294,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/21/Taunt_medic_xray_2_crumple.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Surgeon's Squeezebox": [
@@ -43021,24 +43021,24 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f2/Medic_trade_05.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4985,
           "english": "Ve should trade!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ar trebui să ne lingem!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/81/Medic_trade_taunts01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_trade_taunts01.mp3",
           "notMaking": false
         },
         {
           "id": 4986,
           "english": "Oh, I see you looking!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Te văd că te uiți la coaiele mele!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d1/Medic_trade_taunts02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Medic_trade_taunts02.mp3",
           "notMaking": false
         },
         {
