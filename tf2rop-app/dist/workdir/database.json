@@ -15956,10 +15956,10 @@
         {
           "id": 519,
           "english": "Fink fhu.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Köszönöm!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/47/Pyro_thanks01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_thanks01.mp3",
           "notMaking": false
         },
         {
@@ -15998,10 +15998,10 @@
         {
           "id": 523,
           "english": "Oohthuhhumph!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Menj balra!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/83/Pyro_headleft01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_headleft01.mp3",
           "notMaking": false
         }
       ],
@@ -16359,7 +16359,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/52/Pyro_laughevil01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 439,
@@ -16368,7 +16368,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/72/Pyro_laughlong01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 440,
@@ -16377,7 +16377,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c0/Pyro_laughhappy01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Revenge kill": []
@@ -17921,7 +17921,7 @@
         {
           "id": 3459,
           "english": "Medic!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e8/Demoman_medic01.wav",
           "audioElevenLabs": "",
@@ -17930,7 +17930,7 @@
         {
           "id": 3460,
           "english": "Medic!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a9/Demoman_medic02.wav",
           "audioElevenLabs": "",
@@ -17939,7 +17939,7 @@
         {
           "id": 3461,
           "english": "Meeediiic!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/8d/Demoman_medic03.wav",
           "audioElevenLabs": "",
@@ -17950,43 +17950,43 @@
         {
           "id": 3462,
           "english": "Thanks, mate!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/eb/Demoman_thanks01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_thanks01.mp3",
           "notMaking": false
         },
         {
           "id": 3463,
           "english": "Aye, thanks!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a5/Demoman_thanks02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_thanks02.mp3",
           "notMaking": false
         },
         {
           "id": 3464,
           "english": "We did it, mate!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c5/Demoman_specialcompleted-assistedkill01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_specialcompleted-assistedkill01.mp3",
           "notMaking": false
         },
         {
           "id": 3465,
           "english": "I didn't need yer help, ya know.",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/99/Demoman_specialcompleted-assistedkill02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_specialcompleted-assistedkill02.mp3",
           "notMaking": false
         },
         {
           "id": 3466,
           "english": "That'll teach 'em!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/62/Demoman_autocappedintelligence03.wav",
           "audioElevenLabs": "",
@@ -17997,7 +17997,7 @@
         {
           "id": 3467,
           "english": "GO!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/28/Demoman_go01.wav",
           "audioElevenLabs": "",
@@ -18006,7 +18006,7 @@
         {
           "id": 3468,
           "english": "Move it, lads!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/83/Demoman_go02.wav",
           "audioElevenLabs": "",
@@ -18015,10 +18015,10 @@
         {
           "id": 3469,
           "english": "Get going!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mișcați din buric băieți!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/18/Demoman_go03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_go03.mp3",
           "notMaking": false
         }
       ],
@@ -18026,7 +18026,7 @@
         {
           "id": 3470,
           "english": "Move the gear up, lads!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6f/Demoman_moveup01.wav",
           "audioElevenLabs": "",
@@ -18035,19 +18035,19 @@
         {
           "id": 3471,
           "english": "MOOOOOVE THAT GEAR UP!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Puneți echipamentul pe accelerație!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4e/Demoman_moveup02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_moveup02.mp3",
           "notMaking": false
         },
         {
           "id": 3472,
           "english": "Move that kit up!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Echipamentul merge cu pula-n sus!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3b/Demoman_moveup03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_moveup03.mp3",
           "notMaking": false
         }
       ],
@@ -18055,7 +18055,7 @@
         {
           "id": 3473,
           "english": "Head left!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/cc/Demoman_headleft01.wav",
           "audioElevenLabs": "",
@@ -18064,7 +18064,7 @@
         {
           "id": 3474,
           "english": "Go left!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d9/Demoman_headleft02.wav",
           "audioElevenLabs": "",
@@ -18073,7 +18073,7 @@
         {
           "id": 3475,
           "english": "To the left!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/10/Demoman_headleft03.wav",
           "audioElevenLabs": "",
@@ -18084,7 +18084,7 @@
         {
           "id": 3476,
           "english": "Head right!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6c/Demoman_headright01.wav",
           "audioElevenLabs": "",
@@ -18093,7 +18093,7 @@
         {
           "id": 3477,
           "english": "Go right!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/97/Demoman_headright02.wav",
           "audioElevenLabs": "",
@@ -18102,7 +18102,7 @@
         {
           "id": 3478,
           "english": "To the right!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/22/Demoman_headright03.wav",
           "audioElevenLabs": "",
@@ -18113,7 +18113,7 @@
         {
           "id": 3479,
           "english": "Aye!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/cf/Demoman_yes01.wav",
           "audioElevenLabs": "",
@@ -18122,7 +18122,7 @@
         {
           "id": 3480,
           "english": "Yah!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/59/Demoman_yes02.wav",
           "audioElevenLabs": "",
@@ -18131,10 +18131,10 @@
         {
           "id": 3481,
           "english": "Yes.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai că da dacă e!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/1f/Demoman_yes03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_yes03.mp3",
           "notMaking": false
         }
       ],
@@ -18142,28 +18142,28 @@
         {
           "id": 3482,
           "english": "No!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nu, șefanule! ",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fa/Demoman_no01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_no01.mp3",
           "notMaking": false
         },
         {
           "id": 3483,
           "english": "Nah.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nu-mi bag pula acolo!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b1/Demoman_no02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_no02.mp3",
           "notMaking": false
         },
         {
           "id": 3484,
           "english": "Ach, nooooo!",
-          "romanianTranslation": "",
+          "romanianTranslation": "N-ai cu cine coaie!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/8c/Demoman_no03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_no03.mp3",
           "notMaking": false
         }
       ]
@@ -18173,25 +18173,25 @@
         {
           "id": 3485,
           "english": "Incoming.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vin peste noi cu bormașina!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/56/Demoman_incoming01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_incoming01.mp3",
           "notMaking": false
         },
         {
           "id": 3486,
           "english": "Incoming!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vin dracu peste noi!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b3/Demoman_incoming02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_incoming02.mp3",
           "notMaking": false
         },
         {
           "id": 3487,
           "english": "Iincoomiing!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9f/Demoman_incoming03.wav",
           "audioElevenLabs": "",
@@ -18202,7 +18202,7 @@
         {
           "id": 3488,
           "english": "Bloody SPY!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/16/Demoman_cloakedspy01.wav",
           "audioElevenLabs": "",
@@ -18211,7 +18211,7 @@
         {
           "id": 3489,
           "english": "Spy around here!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/40/Demoman_cloakedspy02.wav",
           "audioElevenLabs": "",
@@ -18220,16 +18220,16 @@
         {
           "id": 3490,
           "english": "SPY!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Spion, trăsnira-l focu!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/13/Demoman_cloakedspy03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_cloakedspy03.mp3",
           "notMaking": false
         },
         {
           "id": 3491,
           "english": "That Scout's a bloody Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/cb/Demoman_cloakedspyidentify01.wav",
           "audioElevenLabs": "",
@@ -18238,7 +18238,7 @@
         {
           "id": 3492,
           "english": "That Soldier's a bloody Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/bf/Demoman_cloakedspyidentify02.wav",
           "audioElevenLabs": "",
@@ -18247,7 +18247,7 @@
         {
           "id": 3493,
           "english": "That Pyro's a bloody Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/48/Demoman_cloakedspyidentify09.wav",
           "audioElevenLabs": "",
@@ -18256,7 +18256,7 @@
         {
           "id": 3494,
           "english": "That Demo's a bloody Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a4/Demoman_cloakedspyidentify04.wav",
           "audioElevenLabs": "",
@@ -18265,7 +18265,7 @@
         {
           "id": 3495,
           "english": "That Heavy's a bloody Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/11/Demoman_cloakedspyidentify03.wav",
           "audioElevenLabs": "",
@@ -18274,7 +18274,7 @@
         {
           "id": 3496,
           "english": "The Engineer's a bloody Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a2/Demoman_cloakedspyidentify07.wav",
           "audioElevenLabs": "",
@@ -18283,7 +18283,7 @@
         {
           "id": 3497,
           "english": "That Medic's a bloody Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e4/Demoman_cloakedspyidentify06.wav",
           "audioElevenLabs": "",
@@ -18292,7 +18292,7 @@
         {
           "id": 3498,
           "english": "That Sniper's a bloody Spy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/82/Demoman_cloakedspyidentify08.wav",
           "audioElevenLabs": "",
@@ -18301,7 +18301,7 @@
         {
           "id": 3499,
           "english": "That Spy's a bloody traitor!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/7b/Demoman_cloakedspyidentify05.wav",
           "audioElevenLabs": "",
@@ -18312,25 +18312,25 @@
         {
           "id": 3500,
           "english": "Sentry ahead!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sahur! Santinelă în față!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/bc/Demoman_sentryahead01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_sentryahead01.mp3",
           "notMaking": false
         },
         {
           "id": 3501,
           "english": "Sentry comin' up!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Au o santinelă promisă acum trei mii de ani!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c3/Demoman_sentryahead02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_sentryahead02.mp3",
           "notMaking": false
         },
         {
           "id": 3502,
           "english": "Sentry up ahead!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f8/Demoman_sentryahead03.wav",
           "audioElevenLabs": "",
@@ -18341,10 +18341,10 @@
         {
           "id": 3503,
           "english": "Need a Teleporter here!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vreau teleportator că-mi curge smântână din cur!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/69/Demoman_needteleporter01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_needteleporter01.mp3",
           "notMaking": false
         }
       ],
@@ -18352,10 +18352,10 @@
         {
           "id": 3504,
           "english": "Need a Dispenser here!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vreau dozator ca să-mi umplu parfumul uațap!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/41/Demoman_needdispenser01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_needdispenser01.mp3",
           "notMaking": false
         }
       ],
@@ -18363,10 +18363,10 @@
         {
           "id": 3505,
           "english": "Need a Sentry here!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vreau saantinelă pentru negrii mei aici!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/da/Demoman_needsentry01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_needsentry01.mp3",
           "notMaking": false
         }
       ],
@@ -18374,7 +18374,7 @@
         {
           "id": 3506,
           "english": "Hit it, doc!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/1a/Demoman_activatecharge01.wav",
           "audioElevenLabs": "",
@@ -18383,10 +18383,10 @@
         {
           "id": 3507,
           "english": "Charge it, doc!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Dă-mi reddit aur doctorre!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/ac/Demoman_activatecharge02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_activatecharge02.mp3",
           "notMaking": false
         },
         {
@@ -18405,16 +18405,16 @@
         {
           "id": 3509,
           "english": "HEEELP!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ajutați-mă să le furăm cupru!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/39/Demoman_helpme01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_helpme01.mp3",
           "notMaking": false
         },
         {
           "id": 3510,
           "english": "Help me!",
-          "romanianTranslation": "",
+          "romanianTranslation": "o",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/10/Demoman_helpme02.wav",
           "audioElevenLabs": "",
@@ -18423,10 +18423,10 @@
         {
           "id": 3511,
           "english": "Aye, give us a hand!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Dați-ne o muie de ajutor!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c0/Demoman_helpme03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_helpme03.mp3",
           "notMaking": false
         },
         {
@@ -18578,19 +18578,19 @@
         {
           "id": 3528,
           "english": "Ohh, I'm gonna beat ya so hard, you'll have a twitch!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Salut. Folosesc uațap!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4e/Demoman_taunts05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_taunts05.mp3",
           "notMaking": false
         },
         {
           "id": 3529,
           "english": "I'm going to strangle you with me bare hands!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vezi că-ți curge smântână din cur!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/64/Demoman_taunts14.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_taunts14.mp3",
           "notMaking": false
         }
       ],
@@ -19240,7 +19240,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/cf/Demoman_laughshort02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6875,
@@ -19249,7 +19249,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9c/Demoman_laughshort05.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6879,
@@ -19258,7 +19258,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d3/Demoman_laughevil04.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6880,
@@ -19267,7 +19267,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6a/Demoman_laughevil05.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6882,
@@ -19276,7 +19276,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9a/Demoman_laughlong01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6883,
@@ -19285,7 +19285,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c4/Demoman_laughlong02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6884,
@@ -19294,7 +19294,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6a/Demoman_laughhappy01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Dominating a Scout": [
@@ -20067,7 +20067,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b4/Demo_charge_windup1.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6991,
@@ -20076,7 +20076,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e2/Demo_charge_windup2.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6992,
@@ -20085,7 +20085,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/27/Demo_charge_windup3.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Shield bash": [
@@ -20096,7 +20096,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/10/Demo_charge_hit_world1.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6994,
@@ -20105,7 +20105,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e6/Demo_charge_hit_world2.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6995,
@@ -20114,7 +20114,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/ba/Demo_charge_hit_world3.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6996,
@@ -20123,7 +20123,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a4/Demo_charge_hit_flesh1.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6997,
@@ -20132,7 +20132,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f4/Demo_charge_hit_flesh2.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6998,
@@ -20141,7 +20141,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/1c/Demo_charge_hit_flesh3.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 6999,
@@ -20150,7 +20150,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/ad/Demo_charge_hit_flesh_range1.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 7000,
@@ -20159,7 +20159,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c0/Demo_charge_hit_flesh_range2.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 7001,
@@ -20168,7 +20168,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c4/Demo_charge_hit_flesh_range3.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Eyelander / Horseless Headless Horsemann's Headtaker / Nessie's Nine Iron whispers": [
@@ -20179,7 +20179,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/31/Sword_hit01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 7003,
@@ -20402,10 +20402,10 @@
         {
           "id": 7027,
           "english": "Aye, that's the way ye do it! Hehah!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nimic, unu zero!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c7/Demoman_autocappedintelligence01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Demoman_autocappedintelligence01.mp3",
           "notMaking": false
         },
         {
