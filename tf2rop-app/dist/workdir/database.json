@@ -16627,10 +16627,10 @@
         {
           "id": 486,
           "english": "Heh dum dummad.",
-          "romanianTranslation": "O să-mi dau drumul! aaa",
+          "romanianTranslation": "",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/67/Cm_pyro_pregamewonlast_01.mp3",
-          "audioElevenLabs": "workdir/Cm_pyro_pregamewonlast_01.mp3",
+          "audioElevenLabs": "workdir/",
           "notMaking": false
         }
       ],
@@ -16638,28 +16638,28 @@
         {
           "id": 487,
           "english": "Awwwww!",
-          "romanianTranslation": "Muie! aaaa",
+          "romanianTranslation": "",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/91/Cm_pyro_pregamelostlast_01.mp3",
-          "audioElevenLabs": "workdir/Cm_pyro_pregamelostlast_01.mp3",
+          "audioElevenLabs": "",
           "notMaking": false
         },
         {
           "id": 488,
           "english": "Heh thubba theh then, wohha?",
-          "romanianTranslation": "Ce pula mea unde sunt?",
+          "romanianTranslation": "",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/ac/Cm_pyro_pregamelostlast_02.mp3",
-          "audioElevenLabs": "workdir/Cm_pyro_pregamelostlast_02.mp3",
+          "audioElevenLabs": "",
           "notMaking": false
         },
         {
           "id": 489,
           "english": "Yah fuddah gon den dey fhumah!",
-          "romanianTranslation": "Pulă Pulă Pulă Pulă Pulă Pulă !",
+          "romanianTranslation": "",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9c/Cm_pyro_pregamelostlast_03.mp3",
-          "audioElevenLabs": "workdir/Cm_pyro_pregamelostlast_03.mp3",
+          "audioElevenLabs": "",
           "notMaking": false
         }
       ]
