@@ -22,7 +22,7 @@ find "$VOICELINES_SOURCE" -type f \( -name "*.mp3" -o -name "*.wav" \) | while r
     ffmpeg -i "$file" -af loudnorm=I=-8:LRA=18:TP=-1.5,volume=3dB -ar 44100 "$target_dir/$(basename "$file")"
 done
 
-# # REMOVE AFTER REMAKE
+# REMOVE AFTER REMAKE
 OLD_VOICELINES_SOURCE="./old-voicelines"
 find "$OLD_VOICELINES_SOURCE" -type f \( -name "*.mp3" -o -name "*.wav" \) | while read -r file; do
     target_dir="$SOUND_DEST/$(dirname "${file#$OLD_VOICELINES_SOURCE}")"

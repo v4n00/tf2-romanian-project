@@ -15945,10 +15945,10 @@
         {
           "id": 518,
           "english": "Mrrdrr!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Vreau un doctor!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/0f/Pyro_medic01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_medic01.mp3",
           "notMaking": false
         }
       ],
@@ -15956,7 +15956,7 @@
         {
           "id": 519,
           "english": "Fink fhu.",
-          "romanianTranslation": "Köszönöm!",
+          "romanianTranslation": "Mersi coiuțule!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/47/Pyro_thanks01.wav",
           "audioElevenLabs": "workdir/Pyro_thanks01.mp3",
@@ -15965,10 +15965,10 @@
         {
           "id": 520,
           "english": "Mmph mphna mprh.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Muie coaie!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/ad/Pyro_specialcompleted-assistedkill01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_specialcompleted-assistedkill01.mp3",
           "notMaking": false
         }
       ],
@@ -15976,10 +15976,10 @@
         {
           "id": 521,
           "english": "Gho gho gho!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mergi în pizda mătti!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a3/Pyro_go01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_go01.mp3",
           "notMaking": false
         }
       ],
@@ -15987,10 +15987,10 @@
         {
           "id": 522,
           "english": "Oove! Oove up! Oove up!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mutați-vă-nainte în pîlîmî!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/07/Pyro_moveup01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_moveup01.mp3",
           "notMaking": false
         }
       ],
@@ -15998,7 +15998,7 @@
         {
           "id": 523,
           "english": "Oohthuhhumph!",
-          "romanianTranslation": "Menj balra!",
+          "romanianTranslation": "La stânga! a",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/83/Pyro_headleft01.wav",
           "audioElevenLabs": "workdir/Pyro_headleft01.mp3",
@@ -16009,10 +16009,10 @@
         {
           "id": 524,
           "english": "OOoh la ruuh!",
-          "romanianTranslation": "",
+          "romanianTranslation": "La dreapta! aaa",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2d/Pyro_headright01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_headright01.mp3",
           "notMaking": false
         }
       ],
@@ -16020,10 +16020,10 @@
         {
           "id": 525,
           "english": "Uh-huh.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Da!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/34/Pyro_yes01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_yes01.mp3",
           "notMaking": false
         }
       ],
@@ -16031,10 +16031,10 @@
         {
           "id": 526,
           "english": "Nho.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Nu!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/72/Pyro_no01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_no01.mp3",
           "notMaking": false
         }
       ]
@@ -16044,10 +16044,10 @@
         {
           "id": 527,
           "english": "Khamahh!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O să vinăăă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f3/Pyro_incoming01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_incoming01.mp3",
           "notMaking": false
         }
       ],
@@ -16055,10 +16055,10 @@
         {
           "id": 528,
           "english": "Mrr hurrdurr hm hurr!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acel bozgor e un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/26/Pyro_cloakedspy01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_cloakedspy01.mp3",
           "notMaking": false
         }
       ],
@@ -16066,10 +16066,10 @@
         {
           "id": 529,
           "english": "Sphenty ahefv!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Santinelă în față!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b5/Pyro_sentryahead01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_sentryahead01.mp3",
           "notMaking": false
         }
       ],
@@ -16077,10 +16077,10 @@
         {
           "id": 530,
           "english": "Phudda Teddapudda heah!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Bagă teleportator spre curve!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c9/Pyro_needteleporter01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_needteleporter01.mp3",
           "notMaking": false
         }
       ],
@@ -16088,10 +16088,10 @@
         {
           "id": 531,
           "english": "Phudda Dipenza heah!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Bagă dozator să mă frec la pulă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f6/Pyro_needdispenser01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_needdispenser01.mp3",
           "notMaking": false
         }
       ],
@@ -16099,10 +16099,10 @@
         {
           "id": 532,
           "english": "Pudda Sfenty heah!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Bagă santinelă pe curul meu!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/94/Pyro_needsentry01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_needsentry01.mp3",
           "notMaking": false
         }
       ],
@@ -16110,10 +16110,10 @@
         {
           "id": 533,
           "english": "Hudda hudda huh!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Doctorre, fute-mă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/52/Pyro_activatecharge01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_activatecharge01.mp3",
           "notMaking": false
         }
       ]
@@ -16123,37 +16123,37 @@
         {
           "id": 534,
           "english": "Heelp mfe!",
-          "romanianTranslation": "",
+          "romanianTranslation": "aaaa... Ajutați-mă să-mi dau drumul!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e9/Pyro_helpme01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_helpme01.mp3",
           "notMaking": false
         },
         {
           "id": 535,
           "english": "Helfp ee defen!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Trebuie să ne masturbăm pe punct!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/1a/Pyro_helpmedefend01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_helpmedefend01.mp3",
           "notMaking": false
         },
         {
           "id": 536,
           "english": "Helfp ee cafpter!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Hai să masturbăm!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b1/Pyro_helpmecapture01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_helpmecapture01.mp3",
           "notMaking": false
         },
         {
           "id": 537,
           "english": "Mrh! Hrt hr nha phrnt yrh mrprph!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Stați să ne masturbăm!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/67/Pyro_standonthepoint01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_standonthepoint01.mp3",
           "notMaking": false
         }
       ],
@@ -16161,37 +16161,37 @@
         {
           "id": 538,
           "english": "Khamaahh!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mă masturbez în colț! aa",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/dd/Pyro_battlecry01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_battlecry01.mp3",
           "notMaking": false
         },
         {
           "id": 539,
           "english": "Hudda hudda huh!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Uai ce labă bună!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/34/Pyro_battlecry02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_battlecry02.mp3",
           "notMaking": false
         },
         {
           "id": 540,
           "english": "Mhhph mh mh mhhp mh mhp mhpph mhhpp!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sperma asta miroase a mătta!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c2/Pyro_specialcompleted01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_specialcompleted01.mp3",
           "notMaking": false
         },
         {
           "id": 541,
           "english": "Mmmphya harrgh mrgha hrghgph.",
-          "romanianTranslation": "",
+          "romanianTranslation": "A șaptea labă pe ziua de azi!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/19/Pyro_autocappedintelligence01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_autocappedintelligence01.mp3",
           "notMaking": false
         },
         {
@@ -16201,17 +16201,17 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d3/Pyro_laughevil02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Cheers - Default key: C → 3": [
         {
           "id": 543,
           "english": "Fhanks a lah!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Îmi lubrifiez pula!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4a/Pyro_cheers01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_cheers01.mp3",
           "notMaking": false
         }
       ],
@@ -16219,19 +16219,19 @@
         {
           "id": 544,
           "english": "Bvoooh!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Sunteți lobotomizați!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/11/Pyro_jeers01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_jeers01.mp3",
           "notMaking": false
         },
         {
           "id": 545,
           "english": "Yahf fvaorarh!",
-          "romanianTranslation": "",
+          "romanianTranslation": "O să-mi dau drumul pe voi! aah aa. ",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e2/Pyro_jeers02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_jeers02.mp3",
           "notMaking": false
         }
       ],
@@ -16239,10 +16239,10 @@
         {
           "id": 546,
           "english": "Exfellend!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mă masturbez. aa aahh . spermă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d8/Pyro_positivevocalization01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_positivevocalization01.mp3",
           "notMaking": false
         },
         {
@@ -16252,7 +16252,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d3/Pyro_laughevil03.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 548,
@@ -16261,7 +16261,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c7/Pyro_laughevil04.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 549,
@@ -16270,17 +16270,17 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c6/Pyro_laughshort01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Negative - Default key: C → 6": [
         {
           "id": 550,
           "english": "Eeuaghafvada...",
-          "romanianTranslation": "",
+          "romanianTranslation": "Pe bune? Ce pula mea?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b2/Pyro_negativevocalization01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_negativevocalization01.mp3",
           "notMaking": false
         }
       ],
@@ -16288,10 +16288,10 @@
         {
           "id": 551,
           "english": "Phice fah.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ai tras bine șefule!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/1a/Pyro_niceshot01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_niceshot01.mp3",
           "notMaking": false
         }
       ],
@@ -16299,10 +16299,10 @@
         {
           "id": 552,
           "english": "Gvuuh jovhh.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Bun, acum mi-o bagi în cur!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d3/Pyro_goodjob01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_goodjob01.mp3",
           "notMaking": false
         }
       ]
@@ -16312,10 +16312,10 @@
         {
           "id": 432,
           "english": "Ow dow how dow.",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Acum masturbează-mă!",
+          "customSaveLocation": "taunts/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d5/Pyro_taunts04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/Pyro_taunts04.mp3",
           "notMaking": false
         }
       ],
@@ -16324,28 +16324,28 @@
         {
           "id": 434,
           "english": "Murr hurr mphuphurrur, hurr mph phrr.",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Sub costumul ăsta îmi dau labă!",
+          "customSaveLocation": "taunts/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2c/Pyro_taunts01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/Pyro_taunts01.mp3",
           "notMaking": false
         },
         {
           "id": 435,
           "english": "Murr hurr mphuphurrur, hurr mph phrr.",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Mă masturbez pe sub costumul ăsta!",
+          "customSaveLocation": "taunts/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/02/Pyro_taunts02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/Pyro_taunts02.mp3",
           "notMaking": false
         },
         {
           "id": 436,
           "english": "Murr hurr mphuphurrur, hurr mph phrr.",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Costumul ăsta are funcție de masturbare!",
+          "customSaveLocation": "taunts/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/95/Pyro_taunts03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/Pyro_taunts03.mp3",
           "notMaking": false
         }
       ]
@@ -16389,10 +16389,10 @@
         {
           "id": 447,
           "english": "Mmmrpgh crpyha drghya!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Unde mi-am pus dildoul?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/90/Pyro_autodejectedtie01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_autodejectedtie01.mp3",
           "notMaking": false
         }
       ],
@@ -16400,19 +16400,19 @@
         {
           "id": 448,
           "english": "Mmmh,mmh!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mă unge la pulă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/43/Pyro_autoonfire01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_autoonfire01.mp3",
           "notMaking": false
         },
         {
           "id": 449,
           "english": "Mmmrgh!",
-          "romanianTranslation": "",
+          "romanianTranslation": "aaaa foc la pulă",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/44/Pyro_autoonfire02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_autoonfire02.mp3",
           "notMaking": false
         }
       ],
@@ -16424,7 +16424,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fc/Pyro_paincrticialdeath01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 451,
@@ -16433,7 +16433,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a4/Pyro_paincrticialdeath02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 452,
@@ -16442,7 +16442,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/cd/Pyro_paincrticialdeath03.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Severe pain": [
@@ -16453,15 +16453,15 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/40/Pyro_painsevere01.mp3",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 454,
           "english": "[*Whimper*]",
-          "romanianTranslation": "",
+          "romanianTranslation": "ah",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/79/Pyro_painsevere02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_painsevere02.mp3",
           "notMaking": false
         },
         {
@@ -16471,15 +16471,15 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/eb/Pyro_painsevere03.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 456,
           "english": "Ungh!",
-          "romanianTranslation": "",
+          "romanianTranslation": "ah",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/8e/Pyro_painsevere04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_painsevere04.mp3",
           "notMaking": false
         },
         {
@@ -16489,15 +16489,15 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c2/Pyro_painsevere05.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 458,
           "english": "Unh!",
-          "romanianTranslation": "",
+          "romanianTranslation": "ah",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a2/Pyro_painsevere06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_painsevere06.mp3",
           "notMaking": false
         }
       ],
@@ -16509,7 +16509,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/bc/Pyro_painsharp01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 460,
@@ -16518,7 +16518,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9a/Pyro_painsharp02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 461,
@@ -16527,7 +16527,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ef/Pyro_painsharp03.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 462,
@@ -16536,15 +16536,15 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d4/Pyro_painsharp04.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 463,
           "english": "Uf!",
-          "romanianTranslation": "",
+          "romanianTranslation": "uuh",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/25/Pyro_painsharp05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_painsharp05.mp3",
           "notMaking": false
         },
         {
@@ -16554,15 +16554,15 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4b/Pyro_painsharp06.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 465,
           "english": "Ungh!",
-          "romanianTranslation": "",
+          "romanianTranslation": "aa",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3d/Pyro_painsharp07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_painsharp07.mp3",
           "notMaking": false
         }
       ],
@@ -16571,10 +16571,10 @@
         {
           "id": 468,
           "english": "Mmphn frphha herrpha.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Mi-am uitat vibratorul!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/cf/Pyro_thanksfortheteleporter01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_thanksfortheteleporter01.mp3",
           "notMaking": false
         }
       ],
@@ -16582,10 +16582,10 @@
         {
           "id": 469,
           "english": "Mhnk nhya mhph.",
-          "romanianTranslation": "",
+          "romanianTranslation": "Săru-mâna!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/04/Pyro_thanksfortheheal01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_thanksfortheheal01.mp3",
           "notMaking": false
         }
       ],
@@ -16597,10 +16597,10 @@
         {
           "id": 473,
           "english": "Hurrururururu!",
-          "romanianTranslation": "",
+          "romanianTranslation": "uuuh a",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c5/Pyro_autocappedcontrolpoint01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_autocappedcontrolpoint01.mp3",
           "notMaking": false
         }
       ],
@@ -16614,10 +16614,10 @@
         {
           "id": 483,
           "english": "Ah hyro ifva phy!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Acel bozgor e un spion!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5a/Pyro_cloakedspyidentify01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_cloakedspyidentify01.mp3",
           "notMaking": false
         }
       ]
@@ -16627,10 +16627,10 @@
         {
           "id": 486,
           "english": "Heh dum dummad.",
-          "romanianTranslation": "",
+          "romanianTranslation": "O să-mi dau drumul! aaa",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/67/Cm_pyro_pregamewonlast_01.mp3",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Cm_pyro_pregamewonlast_01.mp3",
           "notMaking": false
         }
       ],
@@ -16638,28 +16638,28 @@
         {
           "id": 487,
           "english": "Awwwww!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Muie! aaaa",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/91/Cm_pyro_pregamelostlast_01.mp3",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Cm_pyro_pregamelostlast_01.mp3",
           "notMaking": false
         },
         {
           "id": 488,
           "english": "Heh thubba theh then, wohha?",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ce pula mea unde sunt?",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/ac/Cm_pyro_pregamelostlast_02.mp3",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Cm_pyro_pregamelostlast_02.mp3",
           "notMaking": false
         },
         {
           "id": 489,
           "english": "Yah fuddah gon den dey fhumah!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Pulă Pulă Pulă Pulă Pulă Pulă !",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9c/Cm_pyro_pregamelostlast_03.mp3",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Cm_pyro_pregamelostlast_03.mp3",
           "notMaking": false
         }
       ]
@@ -16838,7 +16838,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/56/Pyro_sf13_influx_small01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Collected rare spell": [
@@ -16849,89 +16849,89 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d2/Pyro_sf13_influx_big01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Casting spells": [
         {
           "id": 509,
           "english": "Mumuno, muh bumuno! (Pactum diabolus! and Mortis animataris!)",
-          "romanianTranslation": "",
+          "romanianTranslation": "Skibidi fortnite o sută!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/cf/Pyro_sf13_spell_generic01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_sf13_spell_generic01.mp3",
           "notMaking": false
         },
         {
           "id": 510,
           "english": "Bumunuh, bun! (Imputum fulminus!)",
-          "romanianTranslation": "",
+          "romanianTranslation": "Chimpanzini Bananini!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fc/Pyro_sf13_spell_generic02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_sf13_spell_generic02.mp3",
           "notMaking": false
         },
         {
           "id": 511,
           "english": "Buh blumunuh! (Amplus tripudio!)",
-          "romanianTranslation": "",
+          "romanianTranslation": "Bananita Dolfinita!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/05/Pyro_sf13_spell_generic03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_sf13_spell_generic03.mp3",
           "notMaking": false
         },
         {
           "id": 512,
           "english": "Cuhts me trihp! (Deus invictus! and Barpo kabalto!)",
-          "romanianTranslation": "",
+          "romanianTranslation": "Cocofanto Elefanto!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/33/Pyro_sf13_spell_generic04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_sf13_spell_generic04.mp3",
           "notMaking": false
         },
         {
           "id": 513,
           "english": "Muphituh lurr! (Barpo invisium!)",
-          "romanianTranslation": "",
+          "romanianTranslation": "Crocodillo Ananasinno",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6a/Pyro_sf13_spell_generic05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_sf13_spell_generic05.mp3",
           "notMaking": false
         },
         {
           "id": 514,
           "english": "Muhk niphurr! (Ipsum instanterium! and Seismela tremoro!)",
-          "romanianTranslation": "",
+          "romanianTranslation": "Budi Di Dun!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/55/Pyro_sf13_spell_generic06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_sf13_spell_generic06.mp3",
           "notMaking": false
         },
         {
           "id": 515,
           "english": "Buh phuh murrit uph truph!",
-          "romanianTranslation": "",
+          "romanianTranslation": "Pulă pizdă!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/12/Pyro_sf13_spell_generic07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_sf13_spell_generic07.mp3",
           "notMaking": false
         },
         {
           "id": 516,
           "english": "Cuhts me trihp! (Paidum celeris!)",
-          "romanianTranslation": "",
+          "romanianTranslation": "Ananitto Giraffini!",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a5/Pyro_sf13_spell_generic08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_sf13_spell_generic08.mp3",
           "notMaking": false
         },
         {
           "id": 517,
           "english": "Muhk muttuh! (Invokum MONOCULUS!)",
-          "romanianTranslation": "",
+          "romanianTranslation": "Blueberrini Tatticini.",
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/02/Pyro_sf13_spell_generic09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/Pyro_sf13_spell_generic09.mp3",
           "notMaking": false
         }
       ]
@@ -16945,7 +16945,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d1/Taunt_rockstar.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4470,
@@ -16954,7 +16954,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/1b/Taunt_rockstar_end.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4471,
@@ -16963,7 +16963,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fc/Pyro_guitar_solo_no_verb.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4472,
@@ -16972,7 +16972,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/db/Sign_bass_solo.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ]
     },
@@ -16985,7 +16985,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/27/Pyro_highfive_success01.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4475,
@@ -16994,7 +16994,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f6/Pyro_highfive_success02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4476,
@@ -17003,7 +17003,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c7/Pyro_highfive_success03.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4477,
@@ -17012,7 +17012,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/ab/Pyro_taunt_cong_fun_08.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4478,
@@ -17021,7 +17021,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/eb/Pyro_taunt_cong_fun_11.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4479,
@@ -17030,7 +17030,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/73/Pyro_taunt_cong_fun_13.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4480,
@@ -17039,7 +17039,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/bf/Pyro_taunt_dosi_fun_02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4481,
@@ -17048,7 +17048,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/90/Pyro_taunt_dosi_fun_05.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4482,
@@ -17057,24 +17057,24 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/ce/Pyro_taunt_flip_fun_06.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4483,
           "english": "Woo hoo hoo hoo hoo hoo!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "jjj",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/39/Pyro_taunt_flip_fun_09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_flip_fun_09.mp3",
           "notMaking": false
         },
         {
           "id": 4484,
           "english": "Woo hoo hoo hoo hoo hoo!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "da aa",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c8/Pyro_taunt_flip_fun_10.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_flip_fun_10.mp3",
           "notMaking": false
         },
         {
@@ -17084,7 +17084,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2f/Pyro_taunt_flip_fun_11.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4486,
@@ -17093,7 +17093,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/36/Pyro_taunt_flip_int_02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4487,
@@ -17102,7 +17102,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d8/Pyro_taunt_flip_int_05.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4488,
@@ -17111,7 +17111,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/46/Pyro_taunt_ballon_11.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4492,
@@ -17120,7 +17120,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5b/Taunt_springrider_sit.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4493,
@@ -17129,7 +17129,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b8/Taunt_springrider_squeak1.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4494,
@@ -17138,7 +17138,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d9/Taunt_springrider_squeak2.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4495,
@@ -17147,7 +17147,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/02/Taunt_springrider_squeak3.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4496,
@@ -17156,7 +17156,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/fc/Taunt_springrider_squeak4.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4497,
@@ -17165,7 +17165,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/91/Taunt_springrider_squeak5.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4498,
@@ -17174,7 +17174,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e0/Taunt_springrider_getup.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Party Trick": [
@@ -17185,7 +17185,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ef/Pyro_taunt_ballon_06.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4500,
@@ -17194,7 +17194,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9d/Pyro_taunt_ballon_07.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4502,
@@ -17203,7 +17203,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/89/Pyro_taunt_clap1.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4503,
@@ -17212,7 +17212,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/21/Pyro_taunt_clap2.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4504,
@@ -17221,7 +17221,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f0/Pyro_taunt_clap3.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4505,
@@ -17230,7 +17230,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/eb/Pyro_taunt_clap4.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4506,
@@ -17239,7 +17239,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/78/Pyro_taunt_clap5.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4507,
@@ -17248,7 +17248,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f8/Pyro_taunt_clap6.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4508,
@@ -17257,7 +17257,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/4d/Pyro_taunt_clap7.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Roasty Toasty": [
@@ -17268,7 +17268,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/41/Pyro_taunt_flip_exert_02.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4510,
@@ -17277,7 +17277,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c1/Pyro_taunt_flip_exert_04.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4511,
@@ -17286,7 +17286,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ee/Pyro_taunt_flip_exert_05.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4512,
@@ -17295,114 +17295,114 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/47/Pyro_taunt_head_exert_03.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4513,
           "english": "Huhyah!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "a a",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/28/Pyro_taunt_exert_12.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_exert_12.mp3",
           "notMaking": false
         },
         {
           "id": 4514,
           "english": "Huh dah!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Ce pizda mea?",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/78/Pyro_taunt_dosi_int_07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_dosi_int_07.mp3",
           "notMaking": false
         },
         {
           "id": 4515,
           "english": "Huhfallah!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Hai să ne futem!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f9/Pyro_taunt_int_11.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_int_11.mp3",
           "notMaking": false
         },
         {
           "id": 4516,
           "english": "Ruh dyah!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Hai că-ți fac muie!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6b/Pyro_taunt_int_21.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_int_21.mp3",
           "notMaking": false
         },
         {
           "id": 4517,
           "english": "Huddah hudduh!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Fortnite!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e0/Pyro_taunt_flip_admire_03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_flip_admire_03.mp3",
           "notMaking": false
         },
         {
           "id": 4518,
           "english": "Huppo hoh!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Te ling!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e8/Pyro_taunt_flip_exert_06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_flip_exert_06.mp3",
           "notMaking": false
         },
         {
           "id": 4519,
           "english": "Euduh rah!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Ce pulaaa?",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/37/Pyro_trade_03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_trade_03.mp3",
           "notMaking": false
         },
         {
           "id": 4520,
           "english": "Ohh...ruddah buddoh.",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Uai! Pulă?",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/1d/Pyro_trade_04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_trade_04.mp3",
           "notMaking": false
         },
         {
           "id": 4521,
           "english": "[mumbled scat singing]",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Tung!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/bd/Pyro_taunt_dosi_fun_06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_dosi_fun_06.mp3",
           "notMaking": false
         },
         {
           "id": 4527,
           "english": "Huffah hu-oh!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "sahur!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/bd/Pyro_taunt_thanks_08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_thanks_08.mp3",
           "notMaking": false
         },
         {
           "id": 4528,
           "english": "Huddah hu-oh!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "a ah",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/ad/Pyro_taunt_thanks_07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_thanks_07.mp3",
           "notMaking": false
         },
         {
           "id": 4529,
           "english": "Huh-nah! Huh-naaah...",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "a a",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/0e/Pyro_trade_01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_trade_01.mp3",
           "notMaking": false
         }
       ],
@@ -17414,7 +17414,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/40/Taunt_scorchers_solo1.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4539,
@@ -17423,7 +17423,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f2/Taunt_scorchers_solo2.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Burstchester": [],
@@ -17435,7 +17435,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/f/f0/Pyro_taunt_cong_fun_05.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4564,
@@ -17444,7 +17444,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/ed/Pyro_taunt_cong_fun_09.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4565,
@@ -17453,7 +17453,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/99/Pyro_taunt_cong_fun_10.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4567,
@@ -17462,7 +17462,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e5/Pyro_taunt_cong_fun_12.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4569,
@@ -17471,35 +17471,35 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6e/Pyro_taunt_cong_fun_14.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Fist Bump": [
         {
           "id": 4570,
           "english": "Huddah!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Hai!",
+          "customSaveLocation": "taunts/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/9/9d/Pyro_highfive02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/Pyro_highfive02.mp3",
           "notMaking": false
         },
         {
           "id": 4571,
           "english": "[muffled] Right here!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Aici coaie!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a1/Pyro_taunt_head_int_01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_head_int_01.mp3",
           "notMaking": false
         },
         {
           "id": 4572,
           "english": "[muffled challenging]",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "a a",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e8/Pyro_taunt_head_int_03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_head_int_03.mp3",
           "notMaking": false
         },
         {
@@ -17509,89 +17509,89 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2b/Pyro_taunt_head_int_04.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         }
       ],
       "Flippin' Awesome": [
         {
           "id": 4576,
           "english": "Hellooo! Let's load 'em up!!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Ți-l bag pe cur!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2b/Pyro_taunt_flip_int_07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_flip_int_07.mp3",
           "notMaking": false
         },
         {
           "id": 4582,
           "english": "Woooh!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "a a",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/6/6c/Pyro_taunt_flip_fun_01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_flip_fun_01.mp3",
           "notMaking": false
         },
         {
           "id": 4583,
           "english": "I'm flying!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Explodez! aa",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/8b/Pyro_taunt_flip_fun_04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_flip_fun_04.mp3",
           "notMaking": false
         },
         {
           "id": 4584,
           "english": "Hah da-ra!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "a a",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/ac/Pyro_taunt_flip_fun_05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_flip_fun_05.mp3",
           "notMaking": false
         },
         {
           "id": 4589,
           "english": "Yee haw!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "ooo",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/87/Pyro_taunt_flip_admire_01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_flip_admire_01.mp3",
           "notMaking": false
         },
         {
           "id": 4590,
           "english": "Ha ha ha!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "a a",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/41/Pyro_taunt_flip_admire_02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_flip_admire_02.mp3",
           "notMaking": false
         },
         {
           "id": 4592,
           "english": "Come to me!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Vino să te frec!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d0/Pyro_taunt_flip_admire_05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_flip_admire_05.mp3",
           "notMaking": false
         },
         {
           "id": 4593,
           "english": "Hud hudda hud hah!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Pulăăăăă!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/16/Pyro_taunt_flip_admire_06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_flip_admire_06.mp3",
           "notMaking": false
         },
         {
           "id": 4596,
           "english": "Thank you for the (unintelligible)!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Mersi pentru labă!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/10/Pyro_taunt_thanks_09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_thanks_09.mp3",
           "notMaking": false
         }
       ],
@@ -17599,10 +17599,10 @@
         {
           "id": 4597,
           "english": "Hit me!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Bate cupa!!",
+          "customSaveLocation": "taunts/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/1a/Pyro_highfive01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/Pyro_highfive01.mp3",
           "notMaking": false
         }
       ],
@@ -17611,55 +17611,55 @@
         {
           "id": 4609,
           "english": "Rock, paper, scissors!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "piatră muie coaie!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/0a/Pyro_taunt_rps_int_02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_rps_int_02.mp3",
           "notMaking": false
         },
         {
           "id": 4610,
           "english": "(liltingly) Who wants to throw?",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "pulă la mine!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/7/72/Pyro_taunt_rps_int_04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_rps_int_04.mp3",
           "notMaking": false
         },
         {
           "id": 4611,
           "english": "Anyone want a throw?",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "cine vrea o pulă!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/46/Pyro_taunt_rps_int_05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_rps_int_05.mp3",
           "notMaking": false
         },
         {
           "id": 4612,
           "english": "Betta!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "haide!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d0/Pyro_taunt_rps_int_07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_rps_int_07.mp3",
           "notMaking": false
         },
         {
           "id": 4613,
           "english": "Betta bah!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "ok!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/0a/Pyro_taunt_rps_int_08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_rps_int_08.mp3",
           "notMaking": false
         },
         {
           "id": 4614,
           "english": "Here we go!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "a a",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/1/14/Pyro_taunt_rps_exert_18.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_rps_exert_18.mp3",
           "notMaking": false
         },
         {
@@ -17674,28 +17674,28 @@
         {
           "id": 4616,
           "english": "Two!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "doi!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e8/Pyro_taunt_rps_exert_22.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_rps_exert_22.mp3",
           "notMaking": false
         },
         {
           "id": 4617,
           "english": "Three!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "trei!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/ab/Pyro_taunt_rps_exert_23.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_rps_exert_23.mp3",
           "notMaking": false
         },
         {
           "id": 4619,
           "english": "[crying]",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "ahh",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2b/Pyro_taunt_rps_lose_03.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_rps_lose_03.mp3",
           "notMaking": false
         }
       ],
@@ -17704,64 +17704,64 @@
         {
           "id": 4629,
           "english": "[muffled]Right here!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "aici aa!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/52/Pyro_taunt_int_05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_int_05.mp3",
           "notMaking": false
         },
         {
           "id": 4630,
           "english": "[muffled]Let's headbutt!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "aici! aa",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e7/Pyro_taunt_int_07.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_int_07.mp3",
           "notMaking": false
         },
         {
           "id": 4632,
           "english": "[muffled]A headbutt?",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "vrei?",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a9/Pyro_taunt_int_12.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_int_12.mp3",
           "notMaking": false
         },
         {
           "id": 4633,
           "english": "[muffled]Come on!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "hai!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/a/a2/Pyro_taunt_int_13.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_int_13.mp3",
           "notMaking": false
         },
         {
           "id": 4634,
           "english": "[muffled]Let's do this!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "haide!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/bc/Pyro_taunt_int_15.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_int_15.mp3",
           "notMaking": false
         },
         {
           "id": 4636,
           "english": "[muffled]Let's do this!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "aaa aaa",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/b/b3/Pyro_taunt_int_22.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_int_22.mp3",
           "notMaking": false
         },
         {
           "id": 4637,
           "english": "[muffled](possibly) Come get your skull cracked!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Hai să facem docking!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/58/Pyro_taunt_int_24.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_int_24.mp3",
           "notMaking": false
         },
         {
@@ -17771,7 +17771,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/c/c1/Pyro_taunt_head_pain_03.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4640,
@@ -17780,7 +17780,7 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/27/Pyro_taunt_head_pain_04.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4641,
@@ -17789,15 +17789,15 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/5/5d/Pyro_taunt_head_pain_21.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4642,
           "english": "[intense rocking out]",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "ce labă bunăăă ăă ă",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/2d/Pyro_taunt_head_pain_22.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_head_pain_22.mp3",
           "notMaking": false
         }
       ],
@@ -17805,55 +17805,55 @@
         {
           "id": 4643,
           "english": "[mumbled] Do-si-do!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "ia la pulă!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/04/Pyro_taunt_dosi_int_01.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_dosi_int_01.mp3",
           "notMaking": false
         },
         {
           "id": 4644,
           "english": "[mumbled] Do-si-do!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "hai la pulă !",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/8/85/Pyro_taunt_dosi_int_02.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_dosi_int_02.mp3",
           "notMaking": false
         },
         {
           "id": 4645,
           "english": "[mumbled] Do-si-do time!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "vreau pulă ă",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/35/Pyro_taunt_dosi_int_05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_dosi_int_05.mp3",
           "notMaking": false
         },
         {
           "id": 4647,
           "english": "[excited mumbling]",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "pulă",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d6/Pyro_taunt_dosi_int_13.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_dosi_int_13.mp3",
           "notMaking": false
         },
         {
           "id": 4648,
           "english": "[mumbled] Do-si-do!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Futai!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/3/3c/Pyro_taunt_dosi_int_14.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_dosi_int_14.mp3",
           "notMaking": false
         },
         {
           "id": 4649,
           "english": "[mumbled] Dance time!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Mi-l bag pe aaah!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e8/Pyro_taunt_dosi_int_16.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_dosi_int_16.mp3",
           "notMaking": false
         },
         {
@@ -17863,51 +17863,51 @@
           "customSaveLocation": "",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/2/27/Pyro_taunt_dosi_fun_03.wav",
           "audioElevenLabs": "",
-          "notMaking": false
+          "notMaking": true
         },
         {
           "id": 4652,
           "english": "[mumbled comment]",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "iaaa",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/d/d8/Pyro_taunt_dosi_fun_04.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_dosi_fun_04.mp3",
           "notMaking": false
         },
         {
           "id": 4655,
           "english": "(liltingly) Do-si-do?",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Masturbare?!",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/0/06/Pyro_taunt_dosi_end_05.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_dosi_end_05.mp3",
           "notMaking": false
         },
         {
           "id": 4656,
           "english": "[offended mumbling]",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "aaa a",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/e/e2/Pyro_taunt_dosi_end_06.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_dosi_end_06.mp3",
           "notMaking": false
         },
         {
           "id": 4657,
           "english": "[mumbled compliment]",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Explodez! aaaa",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/48/Pyro_taunt_dosi_end_08.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_dosi_end_08.mp3",
           "notMaking": false
         },
         {
           "id": 4658,
           "english": "[mumbled] Boo!",
-          "romanianTranslation": "",
-          "customSaveLocation": "",
+          "romanianTranslation": "Mă termin! aaa",
+          "customSaveLocation": "taunts/pyro/",
           "audioTF2Wiki": "https://wiki.teamfortress.com/w/images/4/43/Pyro_taunt_dosi_end_09.wav",
-          "audioElevenLabs": "",
+          "audioElevenLabs": "workdir/taunts/pyro/Pyro_taunt_dosi_end_09.mp3",
           "notMaking": false
         }
       ],
